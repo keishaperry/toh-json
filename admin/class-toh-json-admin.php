@@ -203,9 +203,15 @@ class Toh_Json_Admin {
 	public function curl_prod_json(){
 		$target_url = "https://www.tourofhonor.com/BonusData.json";
 		$curl = curl_init( $target_url );
+curl_setopt($ch, CURLOPT_VERBOSE, true);
+
 		curl_setopt( $curl, CURLOPT_RETURNTRANSFER, true );
 		$response = curl_exec( $curl );
 		curl_close( $curl );
+		if (is_null($response)) {
+			echo '<div class="uk-text-danger uk-alert-danger uk-padding-small"><b>Error connecting:</b><p>cUrl error ('.curl_errno($ch).'): '.htmlspecialchars(curl_error($ch)).'</p></div>';
+		}
+
 		return $response;
 	}
 
