@@ -20,7 +20,10 @@
 <!-- UIkit JS -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.25/js/uikit.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.25/js/uikit-icons.min.js"></script>
-
+<?php
+$json = json_decode($this->curl_prod_json());
+var_dump($json);
+?>
 
 <table class="uk-container uk-table uk-table-divider">
     <thead>
