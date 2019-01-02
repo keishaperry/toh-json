@@ -203,7 +203,7 @@ class Toh_Json_Admin {
 	public function curl_prod_json(){
 		$target_url = "https://www.tourofhonor.com/BonusData.json";
 		$curl = curl_init( $target_url );
-curl_setopt($curl, CURLOPT_VERBOSE, true);
+		curl_setopt($curl, CURLOPT_VERBOSE, true);
 
 		curl_setopt( $curl, CURLOPT_RETURNTRANSFER, true );
 		$response = curl_exec( $curl );

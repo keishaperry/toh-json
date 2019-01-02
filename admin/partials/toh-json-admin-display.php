@@ -26,3 +26,5 @@
     <input type="text" name="limit" value="0">
     <?php submit_button( 'Scrape live data' ); ?>
 </form>
+
+<!-- placeholder approval flow UI -->
