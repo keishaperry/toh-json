@@ -111,14 +111,15 @@ class Toh_Json_Admin {
 		$position = 2;
 		add_menu_page($page_title, $menu_title, $capability, $slug, $callback, $icon, $position);
 	}
-	public function settings_content() {
-		$pending_bonuses = $this->get_pending_bonus_list(); 
-		include plugin_dir_path( __FILE__ ) . 'partials/toh-json-admin-display.php';
 
+	public function settings_content() {
+		include plugin_dir_path( __FILE__ ) . 'partials/toh-json-admin-display.php';
 	}
+
 	public function setup_sections() {
 		add_settings_section( 'toh_section', '', array(), 'toh' );
 	}
+
 	public function setup_fields() {
 		$fields = array(
 		);
@@ -127,6 +128,7 @@ class Toh_Json_Admin {
 			register_setting( 'toh', $field['id'] );
 		}
 	}
+
 	public function field_callback( $field ) {
 		$value = get_option( $field['id'] );
 		switch ( $field['type'] ) {
@@ -194,8 +196,6 @@ class Toh_Json_Admin {
 			$i++;
 
 		}
-
-		//echo $scraped_count . " new records scraped and added as pending bonus posts.";
 		wp_redirect( admin_url( 'admin.php?page=toh' ) );
 		return true;
 	}
@@ -203,8 +203,7 @@ class Toh_Json_Admin {
 	public function curl_prod_json(){
 		$target_url = "https://www.tourofhonor.com/BonusData.json";
 		$curl = curl_init( $target_url );
-curl_setopt($curl, CURLOPT_VERBOSE, true);
-
+		curl_setopt($curl, CURLOPT_VERBOSE, true);
 		curl_setopt( $curl, CURLOPT_RETURNTRANSFER, true );
 		$response = curl_exec( $curl );
 		curl_close( $curl );
@@ -213,64 +212,6 @@ curl_setopt($curl, CURLOPT_VERBOSE, true);
 		}
 
 		return $response;
-	}
-
-	public function cache_prod_json(){
-		//but where to put you? transient?
-	}
-
-	public function store_pending_bonus(){
-		//accept one bonus or array of bonuses and store them in the bonus table for approval
-		global $wpdb;
-		$table = $wpdb->prefix . "toh_bonuses";
-		$state = 0;
-		$created_by = "auto-scraper";
-		$data = '{
-			"bonusCode":"AK1",
-			"category":"TOH",
-			"name":"Blue Star Memorial Highway Marker",
-			"value":1,
-			"address":"School Street & Old Sterling Highway \nAnchor Point, AK 99556",
-			"city":"Anchor Point",
-			"state":"AK",
-			"GPS":"59.775657, -151.833042",
-			"Access":"24/7 Unrestricted",
-			"flavor":"The Blue Star Memorial Highways are a tribute to the families of armed forces members that have defended the United States of America, and this particular marker is the oldest in the state.\n\nThe concept dates to 1944 when the New Jersey State Council of Garden Clubs beautified a 5Â½-mile stretch of U.S. 22 from Mountainside to North Plainfield, New Jersey. Approximately 8,000 dogwood trees were planted as a living memorial to the men and women in the Armed Forces from New Jersey. \n\nThe Blue Star, taken from the blue star in the service flag, was chosen to symbolize the memorial because it was used during World War II on flags and homes of families that had a son or daughter in the service.\n\nThese markers can also be spotted in Anchorage, Fairbanks, Juneau, Ketichkan, Tok, and Wasilla in Alaska as well as throughout the rest of the United States.",
-			"madeinamerica":"Nearby, is 50-year-old, biker-friendly Anchor River Inn and Restaurant, famous for serving local and visiting fisherman. https://goo.gl/X16Rd5\n\nAnd a visit to Anchor River State Recreation Area provides scenic camping opportunities.",
-			"imageName":"2018ak1.jpg"
-	}';
-	
-		$wpdb->insert( 
-			$table, 
-			array( 
-				'created_at' => current_time( 'mysql' ), 
-				'created_by' => $created_by, 
-				'bonus_info' =>  json_encode($data), 
-				'state' => $state, 
-			) 
-		);
-		return true;
-	}
-
-	public function approve_pending_bonus(){
-		//approve one bonus or array of bonuses
-		//create the custom post
-		//remove from pending
-		//bump version on last save in loop
-	}
-
-	public function get_pending_bonus_list(){
-		//retrieve pending bonuses from database w/ approval ui
-		//
-		$posts = get_posts( array(
-			'numberposts' => -1,
-			'post_type'   => array('toh_bonus'),
-			'post_status'   => array('pending','draft','auto-draft'),
-			'fields'      => array('ids','title'),
-		) );
-		//var_dump($posts);
-		return $posts;
-		
 	}
 
 	public function create_bonus_post_type() {
@@ -344,6 +285,86 @@ curl_setopt($curl, CURLOPT_VERBOSE, true);
 		}
 
 	}
+	public function get_next_version(){
+		$current_version = $this->get_current_version();
+		$versions = explode(".",$current_version);
+		$versions[2] = $versions[2] + 1;
+		return implode(".",$versions);
+	}
+
+	public function get_current_version(){
+		global $wpdb;
+		$table = $wpdb->prefix . "toh_bonuses";
+			$result = $wpdb->get_row(  "SELECT `version` FROM $table ORDER BY `created_at` DESC LIMIT 1" ) ;
+			return $result->version;		
+	}
+
+	public function create_json_record(){
+		$next_version =$this->get_next_version();
+		$bonuses = array();
+		$bonus_posts =  get_posts( array(
+			'numberposts' => -1,
+			'post_type'   => 'toh_bonus',
+			'post_status' => array('publish'),
+		) );
+		foreach ($bonus_posts as $bonus) {
+			$meta = get_post_meta($bonus->ID);
+			$bonus = array(
+				"bonusCode" => $meta["_toh_bonusCode"][0],
+				"category" => $meta["_toh_category"][0],
+				"name" => $bonus->post_title,
+				"value" => $meta["_toh_value"][0],
+				"address" => $meta["_toh_address"][0],
+				"city" => $meta["_toh_city"][0],
+				"state" => $meta["_toh_state"][0],
+				"GPS" => $meta["_toh_GPS"][0],
+				"Access" => $meta["_toh_Access"][0],
+				"flavor" => $meta["_toh_flavor"][0],
+				"madeinamerica" => $meta["_toh_madeinamerica"][0],
+				"imageName"=> $meta["_toh_imageName"][0]
+			);
+			array_push($bonuses,$bonus);
+		}
+		$insert =  array(
+			"meta" => array(
+				"fileName" => "Tour of Honor Bonus Listing",
+				"version" => $next_version,
+			),
+			"bonuses" => $bonuses,
+		);
+		$this->store_json_record($insert);
+		return wp_redirect( admin_url( 'admin.php?page=toh' ) );
+
+	}
+
+
+	public function store_json_record($data){
+		global $wpdb;
+		$user = get_current_user();
+		$next_version = $this->get_next_version();
+
+
+		$table = $wpdb->prefix . "toh_bonuses";
+		$wpdb->insert( 
+			$table, 
+			array( 
+				'created_at' => current_time( 'mysql' ), 
+				'created_by' => $user, 
+				'json_file' =>  json_encode($data), 
+				'version' =>  $next_version, 
+			) 
+		);
+	}
+
+	public function get_bonus_json_records(){
+		global $wpdb;
+		$table = $wpdb->prefix . "toh_bonuses";
+			$result = $wpdb->get_results(  "SELECT * FROM $table ORDER BY `created_at` DESC LIMIT 25" ) ;
+			return (array)$result;		
+	}
+
+
+
 
 
 

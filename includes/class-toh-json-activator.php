@@ -37,11 +37,9 @@ class Toh_Json_Activator {
 			$sql_create_table = "CREATE TABLE $table (
 			 `id` int(11) NOT NULL auto_increment,
 			 `created_at` timestamp NOT NULL,
-			 `published_at` timestamp,
 			 `created_by`  VARCHAR(255) NOT NULL,
-			 `published_by` int(11),
-			 `bonus_info` longtext NOT NULL, 
-			 `state` int(2) NOT NULL, 
+			 `json_file` longtext NOT NULL, 
+			 `version` VARCHAR(255) NOT NULL, 
 			 PRIMARY KEY (`id`), 
 			 INDEX `TIMESTAMP` (`created_at`)
 		   ) $charset_collate; ";

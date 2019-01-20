@@ -100,4 +100,30 @@ class Toh_Json_Public {
 
 	}
 
+	public function get_bonus_json_version($version){
+		global $wpdb;
+		$table = $wpdb->prefix . "toh_bonuses";
+		$result = $wpdb->get_row(  "SELECT * FROM $table WHERE `version` = '$version' LIMIT 1" ) ;
+		return (array)$result;
+		
+	}
+
+
+
+	public function register_api_hooks(){
+        // Add y/v1/get-all-post-ids route
+        register_rest_route( 'toh/v1', '/bonus-data/', array(
+            'methods' => 'GET',
+            'callback' => [$this, 'get_bonus_data'],
+        ) );
+
+	}
+	public function get_bonus_data($data) {
+		$filter["version"] = $data->get_param("v");
+		$data = $this->get_bonus_json_version($filter["version"]);
+		$file = json_decode($data["json_file"]);
+		return $file;
+	}
+
+
 }

@@ -154,8 +154,8 @@ class Toh_Json {
 
 		$plugin_admin = new Toh_Json_Admin( $this->get_plugin_name(), $this->get_version() );
 
-		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_styles' );
-		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_scripts' );
+		//$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_styles' );
+		//$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_scripts' );
 		$this->loader->add_action( 'init', $plugin_admin, 'create_bonus_post_type' );
 		$this->loader->add_action( 'add_meta_boxes', $plugin_admin, 'add_meta_boxes' );
 		$this->loader->add_action( 'save_post', $plugin_admin, 'save_meta_box_data' );
@@ -163,6 +163,7 @@ class Toh_Json {
 		$this->loader->add_action( 'admin_init', $plugin_admin, 'setup_sections' );
 		$this->loader->add_action( 'admin_init', $plugin_admin, 'setup_fields' );
 		$this->loader->add_action( 'admin_post_trigger_scrape', $plugin_admin, 'trigger_scrape' );
+		$this->loader->add_action( 'admin_post_create_json_record', $plugin_admin, 'create_json_record' );
 
 	}
 
@@ -177,9 +178,9 @@ class Toh_Json {
 
 		$plugin_public = new Toh_Json_Public( $this->get_plugin_name(), $this->get_version() );
 
-		$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_styles' );
-		$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_scripts' );
-
+		//$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_styles' );
+		//$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_scripts' );
+		$this->loader->add_action( 'rest_api_init', $plugin_public, 'register_api_hooks' );
 	}
 
 	/**
