@@ -57,7 +57,7 @@
 <tr>
     <th><?php echo $record->version; ?></th>
     <th><?php echo $record->created_at; ?></th>
-    <th><?php echo get_user_by("id",$record->created_by); ?></th>
+    <th><?php $user = get_user_by("id",$record->created_by);echo $user->first_name; ?></th>
     <th><a href="<?php echo site_url("/wp-json/toh/v1/bonus-data?v=".$record->version);?>">File view</a></th>
     <th><a class="uk-link-reset" title="doesn't work yet..." href="">File download</a></th>
 </tr>
