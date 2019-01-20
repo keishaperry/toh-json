@@ -295,8 +295,13 @@ class Toh_Json_Admin {
 	public function get_current_version(){
 		global $wpdb;
 		$table = $wpdb->prefix . "toh_bonuses";
-			$result = $wpdb->get_row(  "SELECT `version` FROM $table ORDER BY `created_at` DESC LIMIT 1" ) ;
+		$result = $wpdb->get_row(  "SELECT `version` FROM $table ORDER BY `created_at` DESC LIMIT 1" ) ;
+		if (!is_null($result)){
 			return $result->version;		
+		} else {
+			$live_json = json_decode($this->curl_prod_json());
+			return $live_json->meta->version;
+		}
 	}
 
 	public function create_json_record(){
