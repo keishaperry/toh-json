@@ -102,7 +102,7 @@ class Toh_Json_Public {
 
 	public function get_bonus_json_version($version){
 		global $wpdb;
-		$table = $wpdb->prefix . "toh_bonuses_data";
+		$table = $wpdb->prefix . "toh_json_database";
 		$result = $wpdb->get_row(  "SELECT * FROM $table WHERE `version` = '$version' LIMIT 1" ) ;
 		return (array)$result;
 		

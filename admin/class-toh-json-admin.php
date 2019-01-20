@@ -113,6 +113,20 @@ class Toh_Json_Admin {
 	}
 
 	public function settings_content() {
+
+		if (isset($_REQUEST["kp-911"]) && $_REQUEST["kp-911"]) {
+			$tables = array("toh_bonuses","toh_bonus_json","toh_bonuses_data");
+			foreach ($tables as $table) {
+				$table_remove = $wpdb->prefix . $table;
+				echo $table_remove;				
+				$sql = "DROP TABLE IF EXISTS $table_remove;";
+				$remove = $wpdb->query($sql);
+				var_dump($remove);
+			}
+		}
+
+
+
 		include plugin_dir_path( __FILE__ ) . 'partials/toh-json-admin-display.php';
 	}
 
@@ -294,7 +308,7 @@ class Toh_Json_Admin {
 
 	public function get_current_version(){
 		global $wpdb;
-		$table = $wpdb->prefix . "toh_bonuses_data";
+		$table = $wpdb->prefix . "toh_json_database";
 		$result = $wpdb->get_row(  "SELECT `version` FROM $table ORDER BY `created_at` DESC LIMIT 1" ) ;
 		if (!is_null($result)){
 			return $result->version;		
@@ -345,11 +359,13 @@ class Toh_Json_Admin {
 
 	public function store_json_record($data){
 		global $wpdb;
+		date_default_timezone_set('America/Los_Angeles');
+
 		$user = get_current_user_id();
 		$next_version = $this->get_next_version();
 
 
-		$table = $wpdb->prefix . "toh_bonuses_data";
+		$table = $wpdb->prefix . "toh_json_database";
 		$wpdb->insert( 
 			$table, 
 			array( 
@@ -363,7 +379,7 @@ class Toh_Json_Admin {
 
 	public function get_bonus_json_records(){
 		global $wpdb;
-		$table = $wpdb->prefix . "toh_bonuses_data";
+		$table = $wpdb->prefix . "toh_json_database";
 			$result = $wpdb->get_results(  "SELECT * FROM $table ORDER BY `created_at` DESC LIMIT 25" ) ;
 			return (array)$result;		
 	}

@@ -32,14 +32,9 @@ class Toh_Json_Activator {
 	public static function activate() {
 		global $wpdb;
 		$charset_collate = $wpdb->get_charset_collate();
-		$legacy_table = $wpdb->prefix . "toh_bonuses";
-		$legacy_table2 . "toh_bonus_json";
+		$table = $wpdb->prefix . "toh_json_database";
+	
 
-		$sql = "DROP TABLE IF EXISTS $legacy_table;";
-		$sql = "DROP TABLE IF EXISTS $legacy_table2;";
-		$wpdb->query($sql);
-		
-		$table = $wpdb->prefix . "toh_bonuses_data";
 		if($wpdb->get_var( "show tables like '$table'" ) != $table){
 			$sql_create_table = "CREATE TABLE $table (
 			 `id` int(11) NOT NULL auto_increment,
