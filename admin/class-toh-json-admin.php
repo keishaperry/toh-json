@@ -294,7 +294,7 @@ class Toh_Json_Admin {
 
 	public function get_current_version(){
 		global $wpdb;
-		$table = $wpdb->prefix . "toh_bonuses";
+		$table = $wpdb->prefix . "toh_bonuses_data";
 		$result = $wpdb->get_row(  "SELECT `version` FROM $table ORDER BY `created_at` DESC LIMIT 1" ) ;
 		if (!is_null($result)){
 			return $result->version;		
@@ -345,11 +345,11 @@ class Toh_Json_Admin {
 
 	public function store_json_record($data){
 		global $wpdb;
-		$user = get_current_user();
+		$user = get_current_user_id();
 		$next_version = $this->get_next_version();
 
 
-		$table = $wpdb->prefix . "toh_bonuses";
+		$table = $wpdb->prefix . "toh_bonuses_data";
 		$wpdb->insert( 
 			$table, 
 			array( 
@@ -363,7 +363,7 @@ class Toh_Json_Admin {
 
 	public function get_bonus_json_records(){
 		global $wpdb;
-		$table = $wpdb->prefix . "toh_bonuses";
+		$table = $wpdb->prefix . "toh_bonuses_data";
 			$result = $wpdb->get_results(  "SELECT * FROM $table ORDER BY `created_at` DESC LIMIT 25" ) ;
 			return (array)$result;		
 	}
