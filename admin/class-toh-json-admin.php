@@ -159,8 +159,6 @@ class Toh_Json_Admin {
 		}
 	}
 	public function trigger_scrape(){
-		if ( isset ( $_GET['limit'] ) )
-		$limit = (int)$_GET['limit'];
 		$json = json_decode($this->curl_prod_json());
 		$i = 0;
 		$scraped_count = 0;
@@ -178,9 +176,6 @@ class Toh_Json_Admin {
 				//POST w/ this bonusCode exists
 				//todo : update metadata?
 			} else {
-				if ($limit === 0){ 
-					$limit = 5000;
-				} else if ($i <= $limit) {
 					$the_post = array(
 						'post_title'    => wp_strip_all_tags( $bonus->name ),
 						'post_content'  => "",
@@ -203,9 +198,7 @@ class Toh_Json_Admin {
 					);
 					// Insert the post into the database
 					wp_insert_post( $the_post );
-					$scraped_count++; 
-				}
-			
+					$scraped_count++; 			
 			}
 			$i++;
 

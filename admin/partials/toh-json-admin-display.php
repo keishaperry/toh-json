@@ -32,12 +32,12 @@
             <label><input type="checkbox" />Override version?</label>
         </div>
         <div class="uk-margin">
-            <input type="hidden" name="action" value="create_json_record">
             <input type="text" value="<?php echo $next_version; ?>"/>
         </div>
     <?php endif; ?>
     </div>
     <div class="uk-margin uk-margin-top-large">
+            <input type="hidden" name="action" value="create_json_record">
         <button type="submit" id="add-scrape" class="uk-button uk-button-large uk-button-secondary">Generate JSON cache</button>
     </div>
 </form>
@@ -70,7 +70,6 @@
 </table>
 <form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
     <input type="hidden" name="action" value="trigger_scrape">
-    <input type="text" name="limit" value="0">
     <?php submit_button( 'Scrape live data' ); ?>
 </form>
 </div>
