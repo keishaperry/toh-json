@@ -58,7 +58,7 @@ function handleFileSelect(evt) {
 		// Closure to capture the file information.
 		reader.onload = (function (theFile) {
 			return function (e) {
-				try {
+				//try {
 
 					if (ext === "json") {
 						importJsonToMemoryTable(e.target.result);
@@ -69,9 +69,9 @@ function handleFileSelect(evt) {
 					}
 
 
-				} catch (ex) {
-					alert('exeception = ' + ex);
-				}
+				//} catch (ex) {
+					//alert('exeception = ' + ex);
+				//}
 				showSaveMemoryTableButton();
 			}
 		})(f);
@@ -146,7 +146,7 @@ function importKMLToMemoryTable(result) {
 				} else if (z === 3){ //data field
 					var str = data.replace("<![CDATA[", "").replace("]]>", "");
 					var info = str.split("<br>");
-
+					var state = '';
 					var filtered = [];
 					for (a = 0; a < info.length; a++){
 						if (info[a] != null && info[a] != "" ) filtered.push(info[a]);
@@ -279,7 +279,15 @@ function showSaveMemoryTableButton(){
 
 }
 
-
+function download(filename, text) {
+	var element = document.createElement('a');
+	element.setAttribute('href', 'data:json/application;charset=utf-8,' + encodeURIComponent(text));
+	element.setAttribute('download', filename);
+	element.style.display = 'none';
+	document.body.appendChild(element);
+	element.click();
+	document.body.removeChild(element);
+  }
 
 function abbrState(input, to) {
 	if (!input) return '';

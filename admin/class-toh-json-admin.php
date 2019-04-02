@@ -258,7 +258,7 @@ class Toh_Json_Admin {
 						'post_author'   => 1,
 						'post_type'   => 'toh_bonus',
 						'meta_input'   => array(
-							'_toh_bonusCode' => "DOG".sanitize_text_field($bonus->dog_id),
+							'_toh_bonusCode' => "DOGS".sanitize_text_field($bonus->dog_id),
 							'_toh_category' => "War Dogs",
 							'_toh_value' => 1,
 							'_toh_address' => sanitize_text_field($bonus->dog_addr),
@@ -268,6 +268,106 @@ class Toh_Json_Admin {
 							'_toh_Access' => '',
 							'_toh_imageName' => "2019dogs".sanitize_text_field($bonus->dog_id).".jpg",
 							'_toh_flavor' => sanitize_text_field($bonus->dog_desc)."\n".sanitize_text_field($bonus->dog_link),
+							'_toh_madeinamerica' => '',
+						),
+					);
+					array_push($data,$bonus);
+				}
+				break;
+			case 'doughboys':
+				foreach ($result as $bonus){
+					$bonus = array(
+						'post_title'    => wp_strip_all_tags( $bonus->doughboy_name ),
+						'post_content'  => "",
+						'post_status'   => 'pending',
+						'post_author'   => 1,
+						'post_type'   => 'toh_bonus',
+						'meta_input'   => array(
+							'_toh_bonusCode' => "DOUGHBOYS".sanitize_text_field($bonus->doughboy_id),
+							'_toh_category' => "Doughboys",
+							'_toh_value' => 1,
+							'_toh_address' => sanitize_text_field($bonus->doughboy_location),
+							'_toh_city' => sanitize_text_field($bonus->doughboy_city),
+							'_toh_state' => sanitize_text_field($bonus->doughboy_state),
+							'_toh_GPS' => sanitize_text_field($bonus->doughboy_gps),
+							'_toh_Access' => '',
+							'_toh_imageName' => "2019doughboys".sanitize_text_field($bonus->doughboy_id).".jpg",
+							'_toh_flavor' => sanitize_text_field($bonus->doughboy_desc),
+							'_toh_madeinamerica' => '',
+						),
+					);
+					array_push($data,$bonus);
+				}
+				break;
+			case 'goldstars':
+				foreach ($result as $bonus){
+					$bonus = array(
+						'post_title'    => wp_strip_all_tags( $bonus->gs_desc ),
+						'post_content'  => "",
+						'post_status'   => 'pending',
+						'post_author'   => 1,
+						'post_type'   => 'toh_bonus',
+						'meta_input'   => array(
+							'_toh_bonusCode' => "GOLDSTARS".sanitize_text_field($bonus->gs_id),
+							'_toh_category' => "Gold Stars",
+							'_toh_value' => 1,
+							'_toh_address' => sanitize_text_field($bonus->gs_addr),
+							'_toh_city' => sanitize_text_field($bonus->gs_city),
+							'_toh_state' => sanitize_text_field($bonus->gs_state),
+							'_toh_GPS' => sanitize_text_field($bonus->gs_gps),
+							'_toh_Access' => '',
+							'_toh_imageName' => "2019goldstars".sanitize_text_field($bonus->gs_id).".jpg",
+							'_toh_flavor' => sanitize_text_field($bonus->gs_link),
+							'_toh_madeinamerica' => '',
+						),
+					);
+					array_push($data,$bonus);
+				}
+				break;
+			case 'hueys':
+				foreach ($result as $bonus){
+					$bonus = array(
+						'post_title'    => wp_strip_all_tags( $bonus->huey_name ),
+						'post_content'  => "",
+						'post_status'   => 'pending',
+						'post_author'   => 1,
+						'post_type'   => 'toh_bonus',
+						'meta_input'   => array(
+							'_toh_bonusCode' => "HUEYS".sanitize_text_field($bonus->huey_id),
+							'_toh_category' => "Hueys",
+							'_toh_value' => 1,
+							'_toh_address' => sanitize_text_field($bonus->huey_addr),
+							'_toh_city' => sanitize_text_field($bonus->huey_city),
+							'_toh_state' => sanitize_text_field($bonus->huey_state),
+							'_toh_GPS' => sanitize_text_field($bonus->huey_gps),
+							'_toh_Access' => '',
+							'_toh_imageName' => "2019hueys".sanitize_text_field($bonus->huey_id).".jpg",
+							'_toh_flavor' => sanitize_text_field($bonus->huey_desc)."\n".sanitize_text_field($bonus->huey_link),
+							'_toh_madeinamerica' => '',
+						),
+					);
+					array_push($data,$bonus);
+				}
+				break;
+			case 'parks':
+				foreach ($result as $bonus){
+					$bonus = array(
+						'post_title'    => wp_strip_all_tags( $bonus->park_name ),
+						'post_content'  => "",
+						'post_status'   => 'pending',
+						'post_author'   => 1,
+						'post_type'   => 'toh_bonus',
+						'meta_input'   => array(
+							'_toh_bonusCode' => "PARKS".sanitize_text_field($bonus->park_id),
+							'_toh_category' => "Parks",
+							'_toh_value' => 1,
+							'_toh_address' => '',
+							'_toh_city' => sanitize_text_field($bonus->park_city),
+							'_toh_state' => sanitize_text_field($bonus->park_state),
+							'_toh_GPS' => sanitize_text_field($bonus->park_gps),
+							'_toh_Access' => '',
+							'_toh_imageName' => "2019parks".sanitize_text_field($bonus->park_id).".jpg",
+							'_toh_flavor' => sanitize_text_field($bonus->park_type)."\n".sanitize_text_field($bonus->park_link),
 							'_toh_madeinamerica' => '',
 						),
 					);
@@ -390,7 +490,10 @@ class Toh_Json_Admin {
 		$bonus_posts =  get_posts( array(
 			'numberposts' => -1,
 			'post_type'   => 'toh_bonus',
-			'post_status' => array('publish'),
+			'post_status' => array('publish','pending'),
+			'meta_key' => '_toh_state',
+            'orderby' => 'meta_value',
+            'order' => 'ASC'
 		) );
 		foreach ($bonus_posts as $bonus) {
 			$meta = get_post_meta($bonus->ID);
@@ -398,7 +501,7 @@ class Toh_Json_Admin {
 				"bonusCode" => $meta["_toh_bonusCode"][0],
 				"category" => $meta["_toh_category"][0],
 				"name" => $bonus->post_title,
-				"value" => $meta["_toh_value"][0],
+				"value" => (int)$meta["_toh_value"][0],
 				"address" => $meta["_toh_address"][0],
 				"city" => $meta["_toh_city"][0],
 				"state" => $meta["_toh_state"][0],
@@ -448,6 +551,45 @@ class Toh_Json_Admin {
 		$table = $wpdb->prefix . "toh_json_database";
 			$result = $wpdb->get_results(  "SELECT * FROM $table ORDER BY `created_at` DESC LIMIT 25" ) ;
 			return (array)$result;		
+	}
+
+
+
+	function custom_toh_bonus_cols($columns) {
+		$columns['bonusCode'] = 'Bonus Code';
+		$columns['toh_state'] = 'State';
+		return $columns;
+	}
+	function custom_toh_bonus_col_content( $column_name ) {
+		if ( 'bonusCode' === $column_name ){
+			global $post;
+			
+			$meta = get_post_meta($post->ID, '_toh_bonusCode', true);
+			echo $meta;
+		} else if ('toh_state' === $column_name){
+			global $post;
+			
+			$meta = get_post_meta($post->ID, '_toh_state', true);
+			echo $meta;
+		}
+		
+	}
+	function sortable_toh_bonus_col( $columns ) {
+		//$columns['bonusCode'] = 'toh_bonusCode'; 
+		$columns['toh_state'] = 'toh_state'; 
+		return $columns;
+	}
+	function manage_toh_bonus_pre_get_posts( $query ) {
+
+	   if ( $query->is_main_query() && ( $orderby = $query->get( 'orderby' ) ) ) {
+		  switch( $orderby ) {
+			
+			 case 'toh_state':
+				$query->set( 'meta_key', '_toh_state' ); 
+				$query->set( 'orderby', 'meta_value' );
+				break;
+		  }
+	   }
 	}
 
 

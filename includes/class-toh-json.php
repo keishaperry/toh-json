@@ -166,6 +166,11 @@ class Toh_Json {
 		$this->loader->add_action( 'admin_post_create_json_record', $plugin_admin, 'create_json_record' );
 		$this->loader->add_action( 'admin_post_trigger_scrape_db', $plugin_admin, 'trigger_scrape_db' );
 
+		$this->loader->add_filter( 'manage_edit-toh_bonus_columns', $plugin_admin, 'custom_toh_bonus_cols');
+		$this->loader->add_filter( 'manage_toh_bonus_posts_custom_column', $plugin_admin, 'custom_toh_bonus_col_content' );
+		$this->loader->add_filter( 'manage_edit-toh_bonus_sortable_columns', $plugin_admin, 'sortable_toh_bonus_col' );
+		$this->loader->add_filter( 'pre_get_posts-toh_bonus_sortable_columns', $plugin_admin, 'manage_toh_bonus_pre_get_posts', 1 );
+
 	}
 
 	/**

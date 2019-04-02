@@ -135,9 +135,27 @@
     <form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
         <input type="hidden" name="action" value="trigger_scrape_db">
         <input type="hidden" name="db_tablename" value="dogs">
-        <button type="submit" class="uk-button uk-button-default uk-button-large">Import Dogs DB</button>
+        <button type="submit" class="uk-button uk-button-default uk-button-large">Import War Dogs DB</button>
     </form>
-    <button class="uk-button uk-button-primary uk-button-large">Large button</button>
-    <button class="uk-button uk-button-secondary uk-button-large">Large button</button>
+    <form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
+        <input type="hidden" name="action" value="trigger_scrape_db">
+        <input type="hidden" name="db_tablename" value="doughboys">
+        <button type="submit" class="uk-button uk-button-default uk-button-large">Import Doughboys DB</button>
+    </form>
+    <form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
+        <input type="hidden" name="action" value="trigger_scrape_db">
+        <input type="hidden" name="db_tablename" value="goldstars">
+        <button type="submit" class="uk-button uk-button-default uk-button-large">Import Gold Stars DB</button>
+    </form>
+    <form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
+        <input type="hidden" name="action" value="trigger_scrape_db">
+        <input type="hidden" name="db_tablename" value="hueys">
+        <button type="submit" class="uk-button uk-button-default uk-button-large">Import Hueys DB</button>
+    </form>
+    <form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
+        <input type="hidden" name="action" value="trigger_scrape_db">
+        <input type="hidden" name="db_tablename" value="parks">
+        <button type="submit" class="uk-button uk-button-default uk-button-large">Import Parks DB</button>
+    </form>
 </p>
 </div>
