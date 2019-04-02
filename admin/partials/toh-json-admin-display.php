@@ -18,9 +18,65 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.25/css/uikit.min.css" />
 
 <!-- UIkit JS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.25/js/uikit.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.25/js/uikit-icons.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.25/js/uikit.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.25/js/uikit-icons.min.js"></script> -->
 
+<div class="uk-container-expand">
+
+
+    <div class="js-upload uk-placeholder uk-text-center uk-padding-large uk-margin-large">
+        <span uk-icon="icon: cloud-upload"></span>
+        <span class="uk-text-middle">Import KML & JSON data into temp store by dropping a file here or</span>
+        <div uk-form-custom>
+            <input id="TOHfiles" type="file" name="files[]" multiple>
+            <span class="uk-link">selecting one</span>
+        </div>
+    </div>
+    <div id="genJsonKML" class=" uk-margin-large-bottom uk-width-1-1 ">
+                <form class="uk-width-1-1 uk-flex" >
+                    <input name="test" val="test value" type="hidden" />
+                    <textarea id="memoryJson" name="json" class="uk-hidden"></textarea>
+                    <button id="genJson" type="button" class="uk-hidden uk-margin-auto uk-primary uk-button-large uk-width-1-3 special-btn"
+                        style="">STORE TEMP JSON</button>
+                </form>
+            </div>
+    <div>
+                <table id="memoryTable" class="uk-table uk-table-divider uk-table-hover uk-table-responsive">
+                    <thead>
+                        <tr>
+                            <th class="">sCode</th>
+                            <th class="">sCategory</th>
+                            <th class="">sName</th>
+                            <th class="">sAddress</th>
+                            <th class="">sCity</th>
+                            <th class="">sState</th>
+                            <th class="">sGPS</th>
+                            <th class="">sAccess</th>
+                            <th class="">sFlavor</th>
+                            <th class="">sMadeInAmerica</th>
+                            <th class="">sImageName</th>
+                            <th class="">sTrophyGroup</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr id="rowStub" class="uk-hidden">
+                            <td data-key="bonusCode"></td>
+                            <td data-key="category"></td>
+                            <td data-key="name"></td>
+                            <td data-key="address"></td>
+                            <td data-key="city"></td>
+                            <td data-key="state"></td>
+                            <td data-key="GPS"></td>
+                            <td data-key="Access"></td>
+                            <td data-key="flavor"></td>
+                            <td data-key="madeinamerica"></td>
+                            <td data-key="imageName"></td>
+                            <td data-key="sTrophyGroup"></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+</div>
 <div class="uk-container uk-padding-large">
 <form id="scrapeBuilderForm" class="uk-width-1-1 uk-grid uk-grid-large" uk-grid uk-height-match action="<?php echo admin_url( 'admin-post.php' ); ?>">
     <div class="uk-margin">
@@ -68,8 +124,20 @@
     </tbody>
     
 </table>
+
+
+
 <form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
     <input type="hidden" name="action" value="trigger_scrape">
     <?php submit_button( 'Scrape live data' ); ?>
 </form>
+<p uk-margin>
+    <form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
+        <input type="hidden" name="action" value="trigger_scrape_db">
+        <input type="hidden" name="db_tablename" value="dogs">
+        <button type="submit" class="uk-button uk-button-default uk-button-large">Import Dogs DB</button>
+    </form>
+    <button class="uk-button uk-button-primary uk-button-large">Large button</button>
+    <button class="uk-button uk-button-secondary uk-button-large">Large button</button>
+</p>
 </div>

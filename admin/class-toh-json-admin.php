@@ -97,6 +97,8 @@ class Toh_Json_Admin {
 		 * class.
 		 */
 
+		wp_enqueue_script( 'uikit', 'https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.25/js/uikit.min.js', array( 'jquery' ), '3.0.0-rc.25', false );
+		wp_enqueue_script( 'uikit-icons', 'https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.25/js/uikit-icons.min.js', array( 'jquery' ), '3.0.0-rc.25', false );
 		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/toh-json-admin.js', array( 'jquery' ), $this->version, false );
 
 	}
@@ -185,7 +187,7 @@ class Toh_Json_Admin {
 						'meta_input'   => array(
 							'_toh_bonusCode' => sanitize_text_field($bonus->bonusCode),
 							'_toh_category' => sanitize_text_field($bonus->category),
-							'_toh_value' => sanitize_text_field($bonus->value),
+							'_toh_value' => 1,
 							'_toh_address' => sanitize_text_field($bonus->address),
 							'_toh_city' => sanitize_text_field($bonus->city),
 							'_toh_state' => sanitize_text_field($bonus->state),
@@ -206,9 +208,80 @@ class Toh_Json_Admin {
 		wp_redirect( admin_url( 'admin.php?page=toh' ) );
 		return true;
 	}
+	public function trigger_scrape_db(){
+		$db_tablename = $_REQUEST["db_tablename"];
+
+		global $wpdb;
+		$table = $db_tablename;
+			$result = $wpdb->get_results(  "SELECT * FROM $table" ) ;
+			$data = $this->map_db_import($db_tablename,$result);
+			$import = $this->run_db_import_to_post($data);	
+		wp_redirect( admin_url( 'admin.php?page=toh' ) );
+		return true;
+	}
+
+	public function run_db_import_to_post($data){
+		foreach ($data as $item){
+			$bonus = (object) $item;
+
+			$ids = get_posts( array(
+				'numberposts' => 1,
+				'post_type'   => array('toh_bonus'),
+				'post_status'   => array( 'publish','pending','draft','auto-draft','future','private','inherit'),
+				'fields'      => 'ids',
+				'meta_key' => '_toh_bonusCode',
+				'meta_value' => sanitize_text_field($bonus->meta_input['_toh_bonusCode']),
+				'meta_compare' => '==', 
+			) );
+			if (is_array($ids) && count($ids) > 0){
+				//POST w/ this bonusCode exists
+				//todo : update metadata?
+				echo "bonus already exists!"; exit;
+			} else {
+					$the_post = $item;
+					// Insert the post into the database
+					wp_insert_post( $the_post );
+			}
+			$i++;
+
+		}
+	}
+	public function map_db_import($db_tablename,$result){
+		$data = array();
+		switch($db_tablename){
+			case 'dogs':
+				foreach ($result as $bonus){
+					$bonus = array(
+						'post_title'    => wp_strip_all_tags( $bonus->dog_name ),
+						'post_content'  => "",
+						'post_status'   => 'pending',
+						'post_author'   => 1,
+						'post_type'   => 'toh_bonus',
+						'meta_input'   => array(
+							'_toh_bonusCode' => "DOG".sanitize_text_field($bonus->dog_id),
+							'_toh_category' => "War Dogs",
+							'_toh_value' => 1,
+							'_toh_address' => sanitize_text_field($bonus->dog_addr),
+							'_toh_city' => sanitize_text_field($bonus->dog_city),
+							'_toh_state' => sanitize_text_field($bonus->dog_state),
+							'_toh_GPS' => sanitize_text_field($bonus->dog_gps),
+							'_toh_Access' => '',
+							'_toh_imageName' => "2019dogs".sanitize_text_field($bonus->dog_id).".jpg",
+							'_toh_flavor' => sanitize_text_field($bonus->dog_desc)."\n".sanitize_text_field($bonus->dog_link),
+							'_toh_madeinamerica' => '',
+						),
+					);
+					array_push($data,$bonus);
+				}
+				break;
+			default:
+				$data = false;
+		}
+		return $data;
+	}
 
 	public function curl_prod_json(){
-		$target_url = "https://www.tourofhonor.com/BonusData.json";
+		$target_url = "http://localhost/toh/bonusData.json";
 		$curl = curl_init( $target_url );
 		curl_setopt($curl, CURLOPT_VERBOSE, true);
 		curl_setopt( $curl, CURLOPT_RETURNTRANSFER, true );
@@ -364,7 +437,7 @@ class Toh_Json_Admin {
 			array( 
 				'created_at' => current_time( 'mysql' ), 
 				'created_by' => $user, 
-				'json_file' =>  json_encode($data), 
+				'json_file' =>  json_encode($data,JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_LINE_TERMINATORS| JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT ), 
 				'version' =>  $next_version, 
 			) 
 		);
