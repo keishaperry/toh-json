@@ -80,3 +80,50 @@ function run_toh_json() {
 
 }
 run_toh_json();
+
+/* $updaters = get_posts( array(
+	'numberposts' => -1,
+	'post_type'   => 'toh_bonus',
+	'post_status' => array('publish','pending'),
+	'order' => 'ASC',
+	'orderby' => 'meta_field',
+	'meta_key' => '_toh_category',
+	'meta_value' => 'Gold Star Families'
+) );
+echo count($updaters);
+foreach ($updaters as $bonus) {
+	$meta = get_post_meta($bonus->ID,'_toh_category',true);
+
+		update_post_meta($bonus->ID,'_toh_category', "Gold Star Family" ,$meta);
+		echo $bonus->ID;
+
+} */
+/* $updaters = get_posts( array(
+	'numberposts' => -1,
+	'post_type'   => 'toh_bonus',
+	'post_status' => array('publish','pending'),
+	'meta_key' => '_toh_category',
+	'meta_value' => 'Hueys',
+	'meta_compare' => '=', //
+	'orderby' => 'meta_value',
+	'order' => 'ASC'
+) );
+echo count($updaters);
+foreach ($updaters as $bonus) {
+	$meta = get_post_meta($bonus->ID,'_toh_category',true);
+	update_post_meta($bonus->ID,'_toh_category',"AH and UH Helicopters" ,$meta);
+	echo "<li>".$meta."</li>";
+}
+ */
+/* global $wpdb;
+$bonuses = array();
+$table = $wpdb->prefix . "postmeta";
+$cats = $wpdb->get_results(  "SELECT DISTINCT `meta_value` FROM $table WHERE `meta_key`= '_toh_category' ORDER BY $table.`meta_value` ASC" ) ;
+var_dump($cats); */
+/* $result = $wpdb->get_results(  "SELECT DISTINCT `meta_value` FROM $table WHERE `meta_key`= '_toh_state' " ) ;
+if (!is_null($result)){
+	//var_dump($result);
+	foreach ($result as $state){
+		echo $state->meta_value;
+	}
+}	 */

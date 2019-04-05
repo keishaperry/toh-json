@@ -485,9 +485,39 @@ class Toh_Json_Admin {
 	}
 
 	public function create_json_record(){
+		global $wpdb;
 		$next_version =$this->get_next_version();
 		$bonuses = array();
-		$bonus_posts =  get_posts( array(
+		$table = $wpdb->prefix . "postmeta";
+		//loop each state alphabetically -- grab all meta values from db query?
+		$result = $wpdb->get_results(  "SELECT DISTINCT `meta_value` FROM $table WHERE `meta_key`= '_toh_state' ORDER BY $table.`meta_value` ASC" ) ;
+		$cats = $wpdb->get_results(  "SELECT DISTINCT `meta_value` FROM $table WHERE `meta_key`= '_toh_category' ORDER BY $table.`meta_value` ASC" ) ;
+		if (!is_null($result)){
+			foreach ($result as $state){
+				//grab TOH cat for state, add
+				//echo "<h1>".$state->meta_value."</h1>";
+				//echo "<li>TOH</li>";
+				foreach ( $this->get_certain_bonues('TOH',$state->meta_value) as $bonus){
+					array_push($bonuses, $bonus);
+				}
+				
+				//grab foreach other cats alphabetically, add
+				foreach ($cats as $cat){
+					if ($cat->meta_value != "TOH") {
+						foreach ( $this->get_certain_bonues($cat->meta_value,$state->meta_value) as $bonus){
+							array_push($bonuses, $bonus);
+						}
+						//echo "<li>".$cat->meta_value."</li>";
+					}
+
+				}
+				
+			}
+		}	
+
+
+
+		/* $bonus_posts =  get_posts( array(
 			'numberposts' => -1,
 			'post_type'   => 'toh_bonus',
 			'post_status' => array('publish','pending'),
@@ -512,7 +542,7 @@ class Toh_Json_Admin {
 				"imageName"=> $meta["_toh_imageName"][0]
 			);
 			array_push($bonuses,$bonus);
-		}
+		} */
 		$insert =  array(
 			"meta" => array(
 				"fileName" => "Tour of Honor Bonus Listing",
@@ -525,6 +555,49 @@ class Toh_Json_Admin {
 
 	}
 
+	public function get_certain_bonues($category,$state){
+		$bonuses = array();
+		$bonus_posts =  get_posts( array(
+			'numberposts' => -1,
+			'post_type'   => 'toh_bonus',
+			'post_status' => array('publish','pending'),
+			//'meta_key' => '_toh_category',
+			//'meta_value' => $category,
+			'meta_query' => array( // (array) - Custom field parameters (available with Version 3.1).
+				'relation' => 'AND', // (string) - Possible values are 'AND', 'OR'. The logical relationship between each inner meta_query array when there is more than one. Do not use with a single inner meta_query array.
+				 array(
+					 'key' => '_toh_category', // (string) - Custom field key.
+					 'value' => $category, // (string/array) - Custom field value (Note: Array support is limited to a compare value of 'IN', 'NOT IN', 'BETWEEN', or 'NOT BETWEEN') Using WP < 3.9? Check out this page for details: http://codex.wordpress.org/Class_Reference/WP_Query#Custom_Field_Parameters
+					 'type' => 'CHAR', // (string) - Custom field type. Possible values are 'NUMERIC', 'BINARY', 'CHAR', 'DATE', 'DATETIME', 'DECIMAL', 'SIGNED', 'TIME', 'UNSIGNED'. Default value is 'CHAR'. The 'type' DATE works with the 'compare' value BETWEEN only if the date is stored at the format YYYYMMDD and tested with this format.
+					 'compare' => '=', // (string) - Operator to test. Possible values are '=', '!=', '>', '>=', '<', '<=', 'LIKE', 'NOT LIKE', 'IN', 'NOT IN', 'BETWEEN', 'NOT BETWEEN', 'EXISTS' (only in WP >= 3.5), and 'NOT EXISTS' (also only in WP >= 3.5). Default value is '='.
+				 ),
+				 array(
+					 'key' => '_toh_state',
+					 'value' => $state,
+					 'compare' => '=',
+				 )
+			),
+		) );
+		foreach ($bonus_posts as $bonus) {
+			$meta = get_post_meta($bonus->ID);
+			$bonus = array(
+				"bonusCode" => $meta["_toh_bonusCode"][0],
+				"category" => $meta["_toh_category"][0],
+				"name" => $bonus->post_title,
+				"value" => (int)$meta["_toh_value"][0],
+				"address" => $meta["_toh_address"][0],
+				"city" => $meta["_toh_city"][0],
+				"state" => $meta["_toh_state"][0],
+				"GPS" => $meta["_toh_GPS"][0],
+				"Access" => $meta["_toh_Access"][0],
+				"flavor" => $meta["_toh_flavor"][0],
+				"madeinamerica" => $meta["_toh_madeinamerica"][0],
+				"imageName"=> $meta["_toh_imageName"][0]
+			);
+			array_push($bonuses,$bonus);
+		} 
+		return $bonuses;
+	}
 
 	public function store_json_record($data){
 		global $wpdb;
@@ -557,6 +630,7 @@ class Toh_Json_Admin {
 
 	function custom_toh_bonus_cols($columns) {
 		$columns['bonusCode'] = 'Bonus Code';
+		$columns['toh_city'] = 'City';
 		$columns['toh_state'] = 'State';
 		return $columns;
 	}
@@ -565,6 +639,11 @@ class Toh_Json_Admin {
 			global $post;
 			
 			$meta = get_post_meta($post->ID, '_toh_bonusCode', true);
+			echo $meta;
+		} else if ('toh_city' === $column_name){
+			global $post;
+			
+			$meta = get_post_meta($post->ID, '_toh_city', true);
 			echo $meta;
 		} else if ('toh_state' === $column_name){
 			global $post;
@@ -585,8 +664,15 @@ class Toh_Json_Admin {
 		  switch( $orderby ) {
 			
 			 case 'toh_state':
-				$query->set( 'meta_key', '_toh_state' ); 
+/* 				$query->set( 'meta_key', '_toh_state' ); 
 				$query->set( 'orderby', 'meta_value' );
+				$query->set( 'order', 'ASC' ); */
+				$query->set('meta_key', '_toh_state');
+				$query->set('orderby', array(
+					'meta_value' => 'ASC',
+					'post_date'      => 'ASC',
+				));
+
 				break;
 		  }
 	   }
