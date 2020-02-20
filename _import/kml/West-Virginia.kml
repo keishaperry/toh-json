@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>West Virginia sponsored by Jason Wright</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>WV1 - Ansted
+</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/urimkpb962hdprj133c67jn758/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr2jYPwTF4ctoWvFTukr6EZYCvPQXr9jW9QqbuhLex-vz1_fXuRMhrQPzUwfVF9JBz67F5KL5EGyVK8aGbHolaEWUhsPJo7GkjkJZNLJWKJ7m0UVAtv8-1I3Axxr7LevSf2YZQE6rcTDweUOiB4R4SGgwGEE0PbutCgrtkl8ipjpres86gQhE2Y6OC2mGT-bFeehGWhqq5Ggqm_V1Y8-7p8yN27rSNy8AJDZRs5C2EDV31w8e8hT_TcwwcEl77JbeEgQm25jUTnHn1MIK3fDFsi39Skug?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Main St. and Cemetery St.<br>Ansted, West Virginia<br>GPS: 38.136102, -81.099524<br>Access: 24/7<br><br>What a nice place to pause and reflect. The inscription reads: “By these engravings we remember all those who made the supreme sacrifice in the wars of our nation and lest we not forget all those who remain missing in action or prisoner of war forever shall we hold dear their courage and spirit.”<br><br>A few steps from this site is the Cemetery and the grave of the mother of General Thomas J. “Stonewall” Jackson.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/urimkpb962hdprj133c67jn758/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr2jYPwTF4ctoWvFTukr6EZYCvPQXr9jW9QqbuhLex-vz1_fXuRMhrQPzUwfVF9JBz67F5KL5EGyVK8aGbHolaEWUhsPJo7GkjkJZNLJWKJ7m0UVAtv8-1I3Axxr7LevSf2YZQE6rcTDweUOiB4R4SGgwGEE0PbutCgrtkl8ipjpres86gQhE2Y6OC2mGT-bFeehGWhqq5Ggqm_V1Y8-7p8yN27rSNy8AJDZRs5C2EDV31w8e8hT_TcwwcEl77JbeEgQm25jUTnHn1MIK3fDFsi39Skug?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.099524,38.136102,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WV2 - Chester
+</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/f0v784104sa1hur1s81k2otgis/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp1O8DA3ji804dX50BTlXixRb93YZYg-ehERFCanB1jCgL2RWpf2G1GkGBbu0fe30kieoy6kde3HdHR95Lk0BL7YlazV5-p27g5GAwgGuMENr3kwvaIDSVwtodQuYbjVRhhsUHJUEGYLjrB9VUYEexSquEji-2nFYrto6MwQq0Hifxw5gmSz6Wa4XTRHTUAZatZszjYu_s0UL7Y0Oz_igZwsUskZsrEqoQ3bw043Up_BgON4LGGNI2pEfHXAyQE1tztW1ryTvmtcUEYVRssSoP10XlFIQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Park<br>Across from American Legion at 402 Carolina Ave.<br>Chester, West Virginia<br>GPS: 40.612381, -80.564085<br>Access: 24/7<br><br>The Ohio Valley Veterans Memorial was dedicated on July 4, 2006, featuring a 1/8 scale B-52 along with murals of war memories and a waterfall.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/f0v784104sa1hur1s81k2otgis/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp1O8DA3ji804dX50BTlXixRb93YZYg-ehERFCanB1jCgL2RWpf2G1GkGBbu0fe30kieoy6kde3HdHR95Lk0BL7YlazV5-p27g5GAwgGuMENr3kwvaIDSVwtodQuYbjVRhhsUHJUEGYLjrB9VUYEexSquEji-2nFYrto6MwQq0Hifxw5gmSz6Wa4XTRHTUAZatZszjYu_s0UL7Y0Oz_igZwsUskZsrEqoQ3bw043Up_BgON4LGGNI2pEfHXAyQE1tztW1ryTvmtcUEYVRssSoP10XlFIQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.564085,40.612381,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WV3 - Huntington
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/kibceodvkscas84e4jprad7nh4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqDTNEkhKQ4lBkZVDyfUCYkJw09z5GqcW09cLstnQ_sH_Uwya9Lfg62YLFihYlfSBYOcHWQvVn-DaZ2pHHK4l2oaM3FxcxveJWbST4ymd0e5obZgnYs35tUL0_87GX-psCNqUquBg0Dv1QcrHVewM2exGsueoXlA3WY0Px3_mcrzBYzLHkxWLhFdy6R1ErFwZ760VDa0SF9vpcYW7iSIZE4ev6sdvKcKoDm0EDFbYL2OTCcgxQivbOgINq68ce706U67w4U4QkHjwziNqDhwumTmfllrg?session=0&fife" height="200" width="auto" /><br><br>WWI Monument Arch<br>Memorial Park Dr. & 11th Ave.<br>Huntington, West Virginia<br>GPS: 38.406390, -82.462922<br>Access: 24/7<br><br>The Memorial Arch was built between 1924 and 1929 by the Cabell County War Memorial Association as a memorial to the dead and to those who served the county in World War I. It is built of gray Indiana limestone on a gray granite base. The four-story high arch features a Classical Revival style with bas-relief carvings. The structure was rededicated in 1980. It is the only triumphal style arch in West Virginia.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/kibceodvkscas84e4jprad7nh4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqDTNEkhKQ4lBkZVDyfUCYkJw09z5GqcW09cLstnQ_sH_Uwya9Lfg62YLFihYlfSBYOcHWQvVn-DaZ2pHHK4l2oaM3FxcxveJWbST4ymd0e5obZgnYs35tUL0_87GX-psCNqUquBg0Dv1QcrHVewM2exGsueoXlA3WY0Px3_mcrzBYzLHkxWLhFdy6R1ErFwZ760VDa0SF9vpcYW7iSIZE4ev6sdvKcKoDm0EDFbYL2OTCcgxQivbOgINq68ce706U67w4U4QkHjwziNqDhwumTmfllrg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -82.462922,38.40639,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WV4 - Martinsburg
+</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/4lhmintq66sh53qp2mj4bt1jd0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALolY7BCggCt23UkUaRm281QBjYh_FH-LoXGK1yr5wZcbEPZ4v9W0EvJJpja9pBIWznIXUqTZDeIOGFju8WDlGfAPtQnrVX-5synBvrgS456lNWDQdsuC2LDWUiAAuDPTtW_CEsg6wMnHDWmFcwpuGB5s7-_BTuZh7nToqU-6Cg4FnW8p0ZzYjC4XeM2adaCbkJc_ZQUYJ6lB4V019agWGl-0WVQ1Z7uh6J4PICupDkAkKeYMEEGalC45xMTdussqSs7-ndGdgY1Y98LuNtEFrBM9B2Qqw?session=0&fife" height="200" width="auto" /><br><br>War Memorial Park<br>500 N Tennessee Ave.<br>Martinsburg, West Virginia <br>GPS: 39.467290, -77.979689 <br>Access: 24/7. Parking is behind the memorial. Two photos required.<br><br>War Memorial Park is the gem stone of Berkeley County’s 16 public parks. The center of the park is dedicated to honoring Berkeley County war veterans. There are three granite monuments arranged in a circle, one for WWI, one for WWII and one for Korea Vietnam Afghanistan & Iraq Veterans, with the central stone inscribed, “Dedicate to those who paid the ultimate sacrifice for their country”.<br><br>Nearby is the Avenue of Flags Monument, erected in 1978 in the center of Martinsburg on King Street, along with several other markers within two blocks.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/4lhmintq66sh53qp2mj4bt1jd0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALolY7BCggCt23UkUaRm281QBjYh_FH-LoXGK1yr5wZcbEPZ4v9W0EvJJpja9pBIWznIXUqTZDeIOGFju8WDlGfAPtQnrVX-5synBvrgS456lNWDQdsuC2LDWUiAAuDPTtW_CEsg6wMnHDWmFcwpuGB5s7-_BTuZh7nToqU-6Cg4FnW8p0ZzYjC4XeM2adaCbkJc_ZQUYJ6lB4V019agWGl-0WVQ1Z7uh6J4PICupDkAkKeYMEEGalC45xMTdussqSs7-ndGdgY1Y98LuNtEFrBM9B2Qqw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -77.979689,39.46729,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WV5 - Parkersburg
+</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/4knfnk5mveel7a2gorvbc4ji54/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpNAyFb0MbF6fQIqqOYkN7R72mrYSekfID3u1GPl_qM26HtLmEMU07jpkh1CquxkgBaATrO7UhNLy8dTHEA3EuqX7hrO7iydqRr4VPKBE7_YTGpOHTrGgX3LTvl5AqW0XOKeqvzZ1t0jO7AKt-_mTe9qmZ6kQnJXQ4YeOsw0AlJPjwS1pXJem8XUeyZ-6wNJ_0fFfVj3e65dvAmVHQAY24ey2i0zb0TP2vbL7yoiXexSoROMW-3GLhWRo0hEHjdNMDxJNP0oaix7EiNSs_Um4zwFnw1RQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>2098 Park Ave. <br>Parkersburg, West Virginia <br>GPS: 39.272328, -81.530177<br>Access: 24/7<br><br>The central stone in this collection of memorials, reads, “Dedicated to the men and women of Wood County who served in the armed forces during World War II, and forever honoring those who gave their lives in sacrifice for a better world.” <br><br>There are a variety of memorials here, dedicated to local veterans, including a newly dedicated fallen soldier memorial honoring 30-year-old Parkersburg native and Navy Seal Chief Petty Officer (Expeditionary Warfare Specialist/Freefall Parachutist/Diver) NICHOLAS H. NULL, who died August 6, 2011 serving during Operation Enduring Freedom. It also honors the other 29 service members who died with him on a mission in Wardak Province, Afghanistan when their CH-47 Chinook helicopter was shot down by Taliban militants. Null was survived by his wife and two young sons.<br><br>Also in the area is the Veterans Museum of Mid-Ohio Valley. http://www.veteransmuseumofmidohiovalley.com<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/4knfnk5mveel7a2gorvbc4ji54/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpNAyFb0MbF6fQIqqOYkN7R72mrYSekfID3u1GPl_qM26HtLmEMU07jpkh1CquxkgBaATrO7UhNLy8dTHEA3EuqX7hrO7iydqRr4VPKBE7_YTGpOHTrGgX3LTvl5AqW0XOKeqvzZ1t0jO7AKt-_mTe9qmZ6kQnJXQ4YeOsw0AlJPjwS1pXJem8XUeyZ-6wNJ_0fFfVj3e65dvAmVHQAY24ey2i0zb0TP2vbL7yoiXexSoROMW-3GLhWRo0hEHjdNMDxJNP0oaix7EiNSs_Um4zwFnw1RQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.530177,39.272328,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WV6 - Princeton 
+</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/qi8e1h43em9rcqqmvqn8j9p3ps/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr_fxh7Lvs1EzjLAJ2Y7zz3Ku4q1TSc8oGLIdXZ2XAdyZ9mnyOvbsAxCdhNBQK5oMNfV7od2jyMaJ76Ocf7MPZJ2e2n-OY9dbcQlIUPZS5m3DYskLBaCQDaW1sgOrNOLTC_d8wehZGFYFN1bfBbzxXQxUdeYlscW8tJMKQZmQbItWRwdjxHkQk4YhZFRs8qacYw64vVTyUOzXpvhgZyb6XQBmjuM934AHg0_lEFSbm8kNQfjicBgZRPAM6V_QnhZI1MpEspjTzNvexxxOOPFg8z0HCPRQ?session=0&fife" height="200" width="auto" /><br><br>Vietnam War Memorial<br>186 Greasy Ridge Rd.<br>Princeton, West Virginia<br>GPS: 37.363263, -81.044534<br>Access: 24/7<br><br>This memorial is at a large highway rest stop. Step inside it to experience the reverent quiet, away from the bustling surroundings. This memorial is operated by the West Virginia Tourism. Riders are encouraged to poker chips this year at this memorial. The memorial will be checked daily for chips and they will be collected throughout the year. At the end of the year, The collected chips will be put in a display inside the building commemorating those riders that visited the memorial in 2020. <br> <br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/qi8e1h43em9rcqqmvqn8j9p3ps/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr_fxh7Lvs1EzjLAJ2Y7zz3Ku4q1TSc8oGLIdXZ2XAdyZ9mnyOvbsAxCdhNBQK5oMNfV7od2jyMaJ76Ocf7MPZJ2e2n-OY9dbcQlIUPZS5m3DYskLBaCQDaW1sgOrNOLTC_d8wehZGFYFN1bfBbzxXQxUdeYlscW8tJMKQZmQbItWRwdjxHkQk4YhZFRs8qacYw64vVTyUOzXpvhgZyb6XQBmjuM934AHg0_lEFSbm8kNQfjicBgZRPAM6V_QnhZI1MpEspjTzNvexxxOOPFg8z0HCPRQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.044534,37.363263,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WV7 - Weston
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/v0q47c9jgb71ij64n5irekgoqg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrEICvjJEwp1JumGdcJHfzAUiHbOcBNHKjuuivD27QNDcDiHp6IsHOkrTsBug0m90_R0i0H7bm5-H5snGr4i_OhI34F8K_a0xojJ3gwjjedo7Cu3dFPbU0nDBeWbP0OMrIK8SwwOP0aIOmEWVYTTZ8CyHKaOmjkzIGQkL7-GbhPbjObH-DO-KzP6d60jXa0h8Q1EWuxHf8F0FPFqJK5pQHx5WLX11ozuJbYrxS34npue3pY4-Wrw2h2fuhTJNRVZw1-jX-O-d9xaIGXWypSgB9lVsgMRQ?session=0&fife" height="200" width="auto" /><br><br>Mountaineer Military Museum<br>345 Center Ave.<br>Weston, West Virginia<br>GPS: 39.039994, -80.464052<br>Access: 24/7 for scoring photo<br><br>Childhood friends were drafted into their country’s service and only one made it home. Local resident Ron McVaney made a graveside promise, “I’ll never let anyone forget you guys.” Mr. McVaney had collected hundreds of pieces of memorabilia over the last thirty-five years, and upon retiring, told his wife Barbara (in photo above)that the time had come to share their memorabilia with the public, and the Mountaineer Military Museum became a reality.<br><br>The Museum just recently added 2,100 sq. feet and created more than 18 exhibits, featuring personal and historical items from the Korean, Vietnam, and Civil War. They also created a reflection room, a place where we can go and honor those who have fallen before us. They promise that if you stop in, you won’t be disappointed.<br><br>There are several monuments located in front of the building and the purple heart monument is the monument to be scored.<br><br>Entry to the museum is 10AM-4PM Saturdays, or by appointment by calling 304-472-3943. Free admission, donations encouraged.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/v0q47c9jgb71ij64n5irekgoqg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrEICvjJEwp1JumGdcJHfzAUiHbOcBNHKjuuivD27QNDcDiHp6IsHOkrTsBug0m90_R0i0H7bm5-H5snGr4i_OhI34F8K_a0xojJ3gwjjedo7Cu3dFPbU0nDBeWbP0OMrIK8SwwOP0aIOmEWVYTTZ8CyHKaOmjkzIGQkL7-GbhPbjObH-DO-KzP6d60jXa0h8Q1EWuxHf8F0FPFqJK5pQHx5WLX11ozuJbYrxS34npue3pY4-Wrw2h2fuhTJNRVZw1-jX-O-d9xaIGXWypSgB9lVsgMRQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.464052,39.039994,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

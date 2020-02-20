@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Alabama</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>AL1 - Andalusia</name>
+      <description><![CDATA[<img src="https://doc-04-7g-mymaps.googleusercontent.com/untrusted/hostedimage/e5ede5qnrjpvapj2edclbhnepo/ckv1b9h6mb5uug9ne997qnnsdk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/13731513054221741211/1AF2TALo3BhkqlCXzb9JXxXC200WWylDawl9NXEUeJ_-YHleZud4CMZxvAsGDPY8v8LgKRmQuLxiP6B47gUlkdR-eRsQ6N6r3A6-dvB-maCLwCtKzWau0W5qHWIuGGEKZN7vbsKA_lETb0VtxbHngQPXu-GzemTW-fDOyJ1-e20ymbcO0GzG8ndVgUPlLM6jbgUG7Qsh_cK9WHlzJ1ZbRnxR4P5pSPLbOFRYuHfrGugT0BSrYJmxgamgo7vsyjzEqUfzbFLWQU0m5WiIE82TbmbJL2pPdClzaVQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>120 6th Ave.<br>Andalusia, Alabama<br>GPS: 31.30984, -86.47634<br>Access: 24/7, parking in adjacent lot, ADA-accessible.<br><br>Dedicated in 2004, this 42-ft tall stainless steel obelisk sits atop a black granite pedestal engraved with the names of local servicemen who lost their lives in WWI, WWII, Korea, Vietnam, and subsequent wars. The five branches of the military are represented by a 5-pointed star surrounding brick pavers honoring Covington County veterans. A flag circle serves as backdrop to complete the memorial.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-7g-mymaps.googleusercontent.com/untrusted/hostedimage/e5ede5qnrjpvapj2edclbhnepo/ckv1b9h6mb5uug9ne997qnnsdk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/13731513054221741211/1AF2TALo3BhkqlCXzb9JXxXC200WWylDawl9NXEUeJ_-YHleZud4CMZxvAsGDPY8v8LgKRmQuLxiP6B47gUlkdR-eRsQ6N6r3A6-dvB-maCLwCtKzWau0W5qHWIuGGEKZN7vbsKA_lETb0VtxbHngQPXu-GzemTW-fDOyJ1-e20ymbcO0GzG8ndVgUPlLM6jbgUG7Qsh_cK9WHlzJ1ZbRnxR4P5pSPLbOFRYuHfrGugT0BSrYJmxgamgo7vsyjzEqUfzbFLWQU0m5WiIE82TbmbJL2pPdClzaVQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -86.47634,31.30984,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AL2 - Gadsden</name>
+      <description><![CDATA[<img src="https://doc-04-7g-mymaps.googleusercontent.com/untrusted/hostedimage/e5ede5qnrjpvapj2edclbhnepo/qdosm1850obsceppgnh9j2ocag/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/13731513054221741211/1AF2TALos3kTnazrOvITXXywzzFuE0GWQSCjsoBVxxQKqXRDVPFgPhW0U8fmW01CzPXiZCs9asz1nrm5qyo9xkTyec0V4Pe1g6JSaJRoD6R4E9gCbUcU2JOd789YWTrzpdLw8dHzDq1vr4M5F1qPhQIhpO3UhZdFCHUYL0_kOIg30lMrGSegDMXzYAdOhOdZhaQsLUQONT4kPh-c3dckKrtfLrk2jX1VtXO8fAN3Y6BBzRXdSiVWN39OVbur92upw7C53ZfHpDtvlgEGppukLm2T5ojRwFkuvAQ?session=0&fife" height="200" width="auto" /><br><br>Ola Lee Mize Patriots Park<br>Across from 1311 Noccalula Rd.<br>Gadsden, Alabama<br>GPS: 34.036519, -86.023858<br>Access: 24/7, unrestricted<br><br>On November 6th, 2013, Etowah County veterans gathered to dedicate the Ola Lee Mize Patriots Park and Museum at Noccalula Falls Park. The park and some monuments have been there for years but the museum is new. A circular building with eight windows, the museum houses exhibits commemorating the service careers of the area's veterans. While plans for the museum have been around for about 15 years, it was only recently that the project came together. <br><br>The museum and park is named for Ola Lee Mize, an Etowah County resident who won the Congressional Medal of Honor for actions in 1953 during the Korean War. His military career extended through the Vietnam War and he retired from the Army in 1981. At age 82, Mr. Mize still lives in Etowah County<br><br>The park houses several monuments to all services and is a work in progress. Donations are coming in for the museum and arrangements are being made to acquire an M-60 tank to go along with the large brass screw off a WWII LST.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-7g-mymaps.googleusercontent.com/untrusted/hostedimage/e5ede5qnrjpvapj2edclbhnepo/qdosm1850obsceppgnh9j2ocag/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/13731513054221741211/1AF2TALos3kTnazrOvITXXywzzFuE0GWQSCjsoBVxxQKqXRDVPFgPhW0U8fmW01CzPXiZCs9asz1nrm5qyo9xkTyec0V4Pe1g6JSaJRoD6R4E9gCbUcU2JOd789YWTrzpdLw8dHzDq1vr4M5F1qPhQIhpO3UhZdFCHUYL0_kOIg30lMrGSegDMXzYAdOhOdZhaQsLUQONT4kPh-c3dckKrtfLrk2jX1VtXO8fAN3Y6BBzRXdSiVWN39OVbur92upw7C53ZfHpDtvlgEGppukLm2T5ojRwFkuvAQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -86.02378,34.03668,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AL3 - Leeds</name>
+      <description><![CDATA[<img src="https://doc-14-7g-mymaps.googleusercontent.com/untrusted/hostedimage/e5ede5qnrjpvapj2edclbhnepo/t28li66c3qe4krm09s7inudgug/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/13731513054221741211/1AF2TALrpSakDCS1vOmZrG6Z61HGKKuTK_TW1hDbV_TGX14WDkNSJjb8XwD6TCq9FRAacPXWDG2POzTbzmgnOLu1YL4yEAgBp6y7RLgDcmUn1vYtToPl3a9LYlcfP7rbZKws6mGysPwT6ngISNFTe6scoO7Uh9L8mfmCPk7rsPRu9J6ABh9SQx5ui7Nm55Spw4I35AvsvJnHDLeEd6oPyfb1vFtBZhZx7vPcOHdA5n-H77sHNLoYqHpAWdSXIXerMPuUYXOXXIcJTxoJHTrLw5yjK7hUfKXiuGQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>1159 Montevallo Rd. SW<br>Leeds, Alabama<br>GPS: 33.539783, -86.559700<br>Access: 24/7 unrestricted<br><br>A tribute to local and state soldiers involved in the Gulf War, Vietnam, Korea, both world wars, the Civil War, and the Alamo is located in Leeds Memorial Park. The tribute also remembers POW's, MIA's, and three local Medal of Honor recipients.<br><br>Made in America: If you haven't been to the Barber Vintage Motorsports Museum, it's a must-see and only 4 miles to the west. Considered to be the largest motorcycle museum in the world, you might want to spend some time here. https://www.barbermuseum.org<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-7g-mymaps.googleusercontent.com/untrusted/hostedimage/e5ede5qnrjpvapj2edclbhnepo/t28li66c3qe4krm09s7inudgug/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/13731513054221741211/1AF2TALrpSakDCS1vOmZrG6Z61HGKKuTK_TW1hDbV_TGX14WDkNSJjb8XwD6TCq9FRAacPXWDG2POzTbzmgnOLu1YL4yEAgBp6y7RLgDcmUn1vYtToPl3a9LYlcfP7rbZKws6mGysPwT6ngISNFTe6scoO7Uh9L8mfmCPk7rsPRu9J6ABh9SQx5ui7Nm55Spw4I35AvsvJnHDLeEd6oPyfb1vFtBZhZx7vPcOHdA5n-H77sHNLoYqHpAWdSXIXerMPuUYXOXXIcJTxoJHTrLw5yjK7hUfKXiuGQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -86.5597,33.539783,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AL4 - Mobile</name>
+      <description><![CDATA[<img src="https://doc-0g-7g-mymaps.googleusercontent.com/untrusted/hostedimage/e5ede5qnrjpvapj2edclbhnepo/las87o1ds1tb5seckdelm9u3qk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/13731513054221741211/1AF2TALpv2PI0drZOSjZpDogam2d4UodfXOsp0UAlgqnLAPbwAJAMrskRaHLHgmv1h6aJT5yhXo5ZKij-55pehSJJhIMhadqv3-DJus6E5tiAcoNT7Rb59pGoVV9lyHrLTVQ0bZdAVyQogxOeiUe21vwMcf_WQ7b7nmFUudgqvKMPw1nWZ-JAxr2iC5sfbotjEbIjWt0cP-ROxBBxImTvCx4o0llVu6ju2L9Ka7gK8N_n73Ec5o-LAOfs9hPO4b2Km0vL6e2eangxz1cgEWWkuqsv5J0eg7tXRQ?session=0&fife" height="200" width="auto" /><br><br>Battleship Memorial Park<br>2703 Battleship Parkway<br>Mobile, Alabama<br>GPS: 30.686856, -88.015867<br>Access for photo: 24/7<br><br>The park is a unique military attraction and an unforgettable adventure with a number of exhibits and memorials on the grounds. An Air Force F4 Phantom marks the entrance which is open every day except Christmas. We strongly advise to pay the $15 entry fee ($2 AAA and senior discounts) to see tanks, artillery pieces, aircraft, a submarine, and the stately South Dakota-class battleship, the USS Alabama. For anyone with an interest in military history, allow ample time to take in the sights.<br><br>Hours of operation are 8AM-6PM (April through September), 8AM-5PM (October through March). The last ticket is sold one hour prior to closing. https://www.ussalabama.com<br><br>Made in America: Fort Blakely Park is the site of the siege of Fort Blakely, the last battle of the Civil War. At the time, General Robert E. Lee had already surrendered the Confederacy to Union Forces. Without knowledge of the war’s end though, over 16,000 Union troops emerged from siege trenches and rifle pits to attack 4,000 Confederates along a three mile front. The battlefield has been undisturbed for over 148 years and still looks much like it did the day of the battle.<br><br>The park is also a nature preserve and has several secluded wilderness campsites if you’d like to stay the night. The park is open from 9AM to dusk, seven days a week. https://www.blakeleypark.com/About-Us<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-7g-mymaps.googleusercontent.com/untrusted/hostedimage/e5ede5qnrjpvapj2edclbhnepo/las87o1ds1tb5seckdelm9u3qk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/13731513054221741211/1AF2TALpv2PI0drZOSjZpDogam2d4UodfXOsp0UAlgqnLAPbwAJAMrskRaHLHgmv1h6aJT5yhXo5ZKij-55pehSJJhIMhadqv3-DJus6E5tiAcoNT7Rb59pGoVV9lyHrLTVQ0bZdAVyQogxOeiUe21vwMcf_WQ7b7nmFUudgqvKMPw1nWZ-JAxr2iC5sfbotjEbIjWt0cP-ROxBBxImTvCx4o0llVu6ju2L9Ka7gK8N_n73Ec5o-LAOfs9hPO4b2Km0vL6e2eangxz1cgEWWkuqsv5J0eg7tXRQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -88.01607,30.687,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AL5 - Priceville</name>
+      <description><![CDATA[<img src="https://doc-0g-7g-mymaps.googleusercontent.com/untrusted/hostedimage/e5ede5qnrjpvapj2edclbhnepo/9o8pbfbfualjitqg6mdpu6okc0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/13731513054221741211/1AF2TALo27WffA9zfOxzN7iQwHbzTKWMRKvrDO6v9Iv4R-aTkL34YtGhJzewyd7RHsGq3AVPWVYXNHgsWpotmwNRtnZAI-5GEHCsmeXTqzJEMOcU5Utq0b7xueysLLCL0VEEF4uJzOa1Xhv8iTwPI5nTPU0ypDp2LFdqWvGALxgQTFc2t36lv2MT3qULpuGUb8TXjAia2z00xkIIjuFoP57Ce18iZ1dXxx8GGw2JywB3q8UYbhLRetzvKOoarkkGiSgPJq7_Qnz5RZjiLZYwmMjLCbX_YaLdd7g?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>600 Alabama Hwy 67 S<br>Priceville, Alabama<br>GPS: 34.523224, -86.890330<br>Access: 24/7<br><br>The park is a work in progress and although the parking lot is paved, there might be gravel patches on the road as you pull off the highway. <br><br>The Town of Priceville is the home for the new Morgan County Veterans Memorial. The one-acre memorial park honors Morgan County residents killed in action with the fallen soldier’s monument. It also features a POW/MIA memorial, memorials for each service, and military equipment representing different branches of the armed forces.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met. ]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-7g-mymaps.googleusercontent.com/untrusted/hostedimage/e5ede5qnrjpvapj2edclbhnepo/9o8pbfbfualjitqg6mdpu6okc0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/13731513054221741211/1AF2TALo27WffA9zfOxzN7iQwHbzTKWMRKvrDO6v9Iv4R-aTkL34YtGhJzewyd7RHsGq3AVPWVYXNHgsWpotmwNRtnZAI-5GEHCsmeXTqzJEMOcU5Utq0b7xueysLLCL0VEEF4uJzOa1Xhv8iTwPI5nTPU0ypDp2LFdqWvGALxgQTFc2t36lv2MT3qULpuGUb8TXjAia2z00xkIIjuFoP57Ce18iZ1dXxx8GGw2JywB3q8UYbhLRetzvKOoarkkGiSgPJq7_Qnz5RZjiLZYwmMjLCbX_YaLdd7g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -86.89033,34.523224,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AL6 - Talladega</name>
+      <description><![CDATA[<img src="https://doc-04-7g-mymaps.googleusercontent.com/untrusted/hostedimage/e5ede5qnrjpvapj2edclbhnepo/q1697mj5a6rrksagcu67od0uj8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/13731513054221741211/1AF2TALoLIqWIxJKrgPhVVDARG8WbCvHxyIeNp4BUOehwSj6WBVIAuQvN2EJC3VnyAY1Ra6PnLtRcaJ5AMsDIL9-egdD0lo-J5TtLBd3mWlgmYi802ZXNs5cQuVP495U8oOvKIiVjuW8PKBCe7w1ew_hSFlMmO5yTeeamK70VDh81qFx_nip_sxNs8dGmS0Wf8T8RJEVmrjwSJz7HXZWwk9fjuI5xVSxEoxT2msibYIHPdweJIDZMjLRCw8k-dcWl_x2ea1DRR2CT46MJ1TpxE9nPWKA_-Msxiw?session=0&fife" height="200" width="auto" /><br><br>USS Talladega Marker<br>1 Court Sq.<br>Talladega, Alabama<br>GPS: 33.435133, -86.103133<br>Access: 24/7<br><br>USS Talladega (APA/LPA-208) was a Haskell-class attack transport ship of the United States Navy. She was named for the city of Talladega and Talladega County, Alabama.<br><br>Talladega was laid down under Maritime Commission contract (MCV hull 556) at Richmond, California, on 3 June 1944 by the Permanente Metals Corporation; launched on 17 August 1944, sponsored by Miss Marie Tomerlin; and commissioned on 31 October 1944, with Captain Edward H. McMenemy in command.<br><br>The Talladega arrived off Iwo Jima on the morning of February 19th, 1944 "D-day." The four Marines pictured in Joe Rosenthal's famous flag-raising photograph debarked from USS Talladega to climb Mt. Suribachi on Iwo Jima: Ira Hayes, Franklin Sousley, Harlon Block, and Mike Strank. After landing her troops, she remained off the beaches embarking combat casualties for six days before heading back toward Saipan.<br><br>Talladega received two battle stars for World War II, two for Korea, and three for Vietnam.<br><br>Made in America: Across the courthouse square, to the east, you'll find the Hall of Heroes, a new museum raised in honor of local veterans, where "It's Veterans Day here every day."  https://www.talladegaheroes.org<br><br>And if you're a racing fan, no trip through the area would be complete without visiting NASCAR's "biggest and baddest" track, the Talladega Superspeedway. https://www.talladegasuperspeedway.com<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-7g-mymaps.googleusercontent.com/untrusted/hostedimage/e5ede5qnrjpvapj2edclbhnepo/q1697mj5a6rrksagcu67od0uj8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/13731513054221741211/1AF2TALoLIqWIxJKrgPhVVDARG8WbCvHxyIeNp4BUOehwSj6WBVIAuQvN2EJC3VnyAY1Ra6PnLtRcaJ5AMsDIL9-egdD0lo-J5TtLBd3mWlgmYi802ZXNs5cQuVP495U8oOvKIiVjuW8PKBCe7w1ew_hSFlMmO5yTeeamK70VDh81qFx_nip_sxNs8dGmS0Wf8T8RJEVmrjwSJz7HXZWwk9fjuI5xVSxEoxT2msibYIHPdweJIDZMjLRCw8k-dcWl_x2ea1DRR2CT46MJ1TpxE9nPWKA_-Msxiw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -86.103133,33.435133,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AL7 - Tallassee</name>
+      <description><![CDATA[<img src="https://doc-0k-7g-mymaps.googleusercontent.com/untrusted/hostedimage/e5ede5qnrjpvapj2edclbhnepo/kfkhqtt2cccc0866phqrf8tag0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/13731513054221741211/1AF2TALpEKQe8tOv5n0e79rU7vJi5O0MN6fVPUQxrHkMM5_JVwU5ZChzwSEZLszJVzBoln6fD5CNLDEicWKzmtUxs6AXo-d9Fh3RcBsxcuBAuH0s7-WdTVLHCaJvgmxDjc6cg3f_jsDH8kNQCay1kA_NFGWvNuE6WBO5xO34A_i_JE14ib-TYM-vX8BuYwfCT79sDgqdNEG6SkTFoeu_zPcAyXtRRvRGGDCx-GuIPe_TFC8shrc2gQt3m1IRuhUxS62dvuVTpjzoLQYhN2QD0vTNgwz6q5WY5iQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>3 Freeman Ave.<br>Tallassee, Alabama<br>GPS: 32.53373, -85.884488<br>Access: 24/7<br><br>This memorial honors individuals from Tallassee who served during the periods of World War I through Desert Storm.<br><br>The plaza consists of three upright panels listing the names of those who served or died. The middle panel includes a list of abbreviations used to indicate those who received the Purple Heart, Bronze Star, Silver Star, and the Congressional Medal of Honor. It also shows those who were Killed in Action and those who were Prisoners of War. The emblems of the branches of service are displayed and seven flags frame the memorial. The memorial is a work in progress as plans are to include non-wartime veterans.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-7g-mymaps.googleusercontent.com/untrusted/hostedimage/e5ede5qnrjpvapj2edclbhnepo/kfkhqtt2cccc0866phqrf8tag0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/13731513054221741211/1AF2TALpEKQe8tOv5n0e79rU7vJi5O0MN6fVPUQxrHkMM5_JVwU5ZChzwSEZLszJVzBoln6fD5CNLDEicWKzmtUxs6AXo-d9Fh3RcBsxcuBAuH0s7-WdTVLHCaJvgmxDjc6cg3f_jsDH8kNQCay1kA_NFGWvNuE6WBO5xO34A_i_JE14ib-TYM-vX8BuYwfCT79sDgqdNEG6SkTFoeu_zPcAyXtRRvRGGDCx-GuIPe_TFC8shrc2gQt3m1IRuhUxS62dvuVTpjzoLQYhN2QD0vTNgwz6q5WY5iQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -85.884488,32.53373,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

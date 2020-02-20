@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Hawaii sponsored by Tour of Honor</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>HI1 - Haleiwa</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/kqbgrlhr6nmgeh649n1ndahdu8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqQLCDG_UQjLKnwCVOd9Z-7hq1QDjzcsuCGBLTaSajU8fsz95JuzFjgPF0d119-sRY0vOhTrbtBxKpQ7NbpDltB7DOmZ1xIgf9R5RSDzTGprn6xyPPXd2iCk_mAVMx-W2dJdP711abqUj_v3To3p2mVhpWGzAvFmd1MXynARFDwSE_vtvLZrw2hT_LJtNepHQuajixqkTj36gXx2ACcHvNFjzqkXpW4Iu5QDDzfT1OlMmw5zfYq6QBcphBYqTeAA-tBeMH20M9QtqARXiCbpzVUlU1w1Q?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>62-449 Kamehameha Hwy.<br>Haleiwa, Hawaii<br>GPS: 21.598054, -158.103263<br>Access: 24/7<br><br>The striking white obelisk, at Haleiwa Beach Park, pays homage to area veterans who gave their all in World War II, the Korean conflict and the Vietnam War. Of the memorial’s 16 names of soldiers who died in World War II, 14 were of Japanese ancestry, pointing out the diversity of the American military at that time.<br><br>Made in America: The shrimp trucks of North Shore, including “Killer Shrimp” in nearby Wianae. Here’s a nice list of others: https://goo.gl/c8X8Hd<br><br>Be sure to get the authentic shave ice at Matsumoto’s General Store, est. 1951. http://matsumotoshaveice.com<br><br>Dole Pineapple Plantation is also nearby. For some reason, the Dole Whip is especially popular with bikers. http://www.dole-plantation.com<br><br>Take along a swimsuit for the tame waters in front of any beach resort hotel (all beaches in Hawaii are public). As with other remote parking lots on the islands, lock up valuables or take them with you.<br><br>You may want to refer to this handcrafted list of Oahu dining establishments by rider Michael Bowe-Rahming of Converse, Texas, former resident of Honolulu. https://bit.ly/38F5h7O<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/kqbgrlhr6nmgeh649n1ndahdu8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqQLCDG_UQjLKnwCVOd9Z-7hq1QDjzcsuCGBLTaSajU8fsz95JuzFjgPF0d119-sRY0vOhTrbtBxKpQ7NbpDltB7DOmZ1xIgf9R5RSDzTGprn6xyPPXd2iCk_mAVMx-W2dJdP711abqUj_v3To3p2mVhpWGzAvFmd1MXynARFDwSE_vtvLZrw2hT_LJtNepHQuajixqkTj36gXx2ACcHvNFjzqkXpW4Iu5QDDzfT1OlMmw5zfYq6QBcphBYqTeAA-tBeMH20M9QtqARXiCbpzVUlU1w1Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -158.103263,21.598054,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HI2 - Honolulu</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/tal79qo733amen9jftlla0id6g/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALroIpJUrIOm6pU0EPfdJy0H5Zq1ATfkFIeQM0A5nOSqZZ1VcLK_nKo6r30uu_PfZ0H9Cp2UmLY3H0b5V6DqJNG79rjTBaiFVjdLZzzi3GNo1AlrTvqEX7tgvUs_P6KiEz0ItFCUhK1Q0zFv-x01nIijfKpafqDUN5N8bQxz1Ie_W_NfisSfiQ4nqXNZBcNjq5Vx-eqvZFCgA9mk7BVj_KjhqZNTHf_-k1ypXeAw5mEJ6DgsCNNTVU30A-vgU1otJHgltZ75IcwrEXFg59qfeNs-Co6zbA?session=0&fife" height="200" width="auto" /><br><br>Veterans Obelisk<br>Ke’ehi Lagoon Memorial Park \n 2685 N Nimitz Hwy.<br>Honolulu, Hawaii<br>GPS: 21.333164, -157.894809<br>Access: Park closes at 10pm daily. Two photos required.<br><br>Ke’ehi Lagoon Memorial Park was founded in 1959 with sacrifice, dedication and foresight by veterans for the community, and has been serving the needs of Oahu since. Originally a Disabled American Veterans Park. The park is 11 acres, with a beautifully landscaped open area holding several private gazebos for smaller private gatherings and additional buildings for larger parties. Please be mindful and respectful of any events occurring during your visit.<br><br>The Obelisk was constructed in 1965 and continues to serve as the envisioned living memorial dedicated to honoring all veterans with a special remembrance of those who made the ultimate sacrifice in the defense of our Nation. <br><br>Made in Hawaii: You may want to refer to this handcrafted list of Oahu dining establishments by rider Michael Bowe-Rahming of Converse, Texas, former resident of Honolulu. https://bit.ly/38F5h7O<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/tal79qo733amen9jftlla0id6g/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALroIpJUrIOm6pU0EPfdJy0H5Zq1ATfkFIeQM0A5nOSqZZ1VcLK_nKo6r30uu_PfZ0H9Cp2UmLY3H0b5V6DqJNG79rjTBaiFVjdLZzzi3GNo1AlrTvqEX7tgvUs_P6KiEz0ItFCUhK1Q0zFv-x01nIijfKpafqDUN5N8bQxz1Ie_W_NfisSfiQ4nqXNZBcNjq5Vx-eqvZFCgA9mk7BVj_KjhqZNTHf_-k1ypXeAw5mEJ6DgsCNNTVU30A-vgU1otJHgltZ75IcwrEXFg59qfeNs-Co6zbA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -157.894809,21.333164,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HI3 - Honolulu</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/dc6jos21do2h799d6kgsurd62k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoE7hoXAu4at_0XB5xtQiiqkuNLn_6YKAvEK2TUTCiG5z9mlY-Fo1TY2GebJppcZ1Gr6ubhQy-cyT5ZQP3k49bmzZCljgqt7qwL_qYFCsFbcNvLxkh8YH0J1PnCikwuifnv0rg-Qt9LS0zj7paE1q0IhaG97GGbVdP3f7Hj5bvue-68rW0rfPusLutlR5Jn8N1kHoXRQEyPr7k9OutlICFXZmXsdOMbcMmlIbbvDAta1d8UfgZdEIBwmwB1y1sYKVESGPoF3DsuaWx6bpnweCjet2dmhw?session=0&fife" height="200" width="auto" /><br><br>Punchbowl Cemetery<br>2199 Puowaina Dr.<br>Honolulu, Hawaii<br>GPS: 21.311724, -157.845006<br>Access: 24/7<br><br>This ancient warrior cemetery, located in a volcanic crater overlooking Honolulu, was once the site of secret royal burials and where offenders of polynesian taboos were sacrificed. It is now the resting place of some 33,230 U.S. military veterans, many in unmarked graves dated December 7, 1941.<br><br>The Honolulu Memorial is built high on a wall of the crater and overlooks the cemetery, consisting of several elements. A wide staircase extends from the floor of the crater to the “Court of Honor.” Flanked on both sides of the staircase are ten “Courts of the Missing” that include over 28,000 etched names of soldiers MIA from World War II, the Korean Conflict and the Vietnam War. At the base of the staircase is the following inscription: “IN THESE GARDENS ARE RECORDED THE NAMES OF AMERICANS WHO GAVE THEIR LIVES IN SERVICE TO THEIR COUNTRY AND WHOSE EARTHLY RESTING PLACE IS KNOWN ONLY TO GOD.”<br><br>From the Court of Honor rises Columbia, a 30’ tall female figure, symbolizing the figurehead on the bow of a naval vessel. Beneath her is the inscription, “THE SOLEMN PRIDE THAT MUST BE YOURS TO HAVE LAID SO COSTLY A SACRIFICE UPON THE ALTAR OF FREEDOM.” Those were the words of Abraham Lincoln told to a mother of five sons lost in the Civil War.<br><br>Directly behind Columbia is a nondenominational chapel, open to the public at all times. On both sides of the chapel are 12 stunning map panels, representing ten of the major Pacific Theatre battles during World War II, plus one for the Korean Conflict and another for the Vietnam War. Each panel measures approximately 4’ wide and 10’ tall and is made of tile mosaics and crushed glass. Alongside the panels are etched marble history lessons. Brigadier General Jerome Hagen (USMC-Ret.), who teaches military history at the nearby Hawaii Pacific University, brings students here for lectures.<br><br>If all that isn’t enough, take a walk up a nearby path to an overlook of Pearl Harbor, Honolulu, Waikiki and Diamond Head. The path is lined with dozens of plaques, each one dedicated to different branches of service, war engagements and fighting groups.<br><br>Made in Hawaii: You may want to refer to this handcrafted list of Oahu dining establishments by rider Michael Bowe-Rahming of Converse, Texas, former resident of Honolulu. https://bit.ly/38F5h7O<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/dc6jos21do2h799d6kgsurd62k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoE7hoXAu4at_0XB5xtQiiqkuNLn_6YKAvEK2TUTCiG5z9mlY-Fo1TY2GebJppcZ1Gr6ubhQy-cyT5ZQP3k49bmzZCljgqt7qwL_qYFCsFbcNvLxkh8YH0J1PnCikwuifnv0rg-Qt9LS0zj7paE1q0IhaG97GGbVdP3f7Hj5bvue-68rW0rfPusLutlR5Jn8N1kHoXRQEyPr7k9OutlICFXZmXsdOMbcMmlIbbvDAta1d8UfgZdEIBwmwB1y1sYKVESGPoF3DsuaWx6bpnweCjet2dmhw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -157.845006,21.311724,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HI4 - Kailua</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ag4rpoii09tmfovsc3ssdpme08/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALodGHfhAVsCJcH4l2C0epBihnl2Fs1s_iZrGykw-Vj9kXfh4YhwN422iR0LvbJAFJPzMtdGTyGTutK-qC6na5cuiI0CPEKgHGCjRStGrqe6YvWD7ncFomF4xcPB_4oDkLct-Sj95nUTTRx5gBi-jyZEc7yGXjuJKw91BqRyZMMf--u6M8OVENSzEeyu25cHojHIToVvEU0nN1WwZtolWxrqzz4YzR3VCfSEubdh5omtjNkIYdiIwJtp5GDTGDaWZrn501Ihd4LM1xnWg_NNB3lrVbbBhA?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>1194 Auloa Rd.<br>Kailua, Hawaii <br>GPS: 21.374562, -157.780672<br>Access: 24/7. Park behind the memorial for photo.<br><br>The memorial is identified as a large boulder at the corner of this intersection, slightly elevated off the main road. The display of the American and MIA/POW flags are also good indicators of the location. Bike parking is recommended adjacent to the memorial and is NOT advised directly in front of the memorial due to traffic. <br><br>The memorial commemorates the residents of Winward, Oahu who gave their lives during World War II. The memorial was dedicated on 28 March, 1946 by Mr. Earl M. Finch of Hattiesburg, Mississippi. <br><br>After the bombing of Pearl Harbor, over 1,000 Nisei (American children of Japanese parents) of the Hawaiian National Guard were sent to the US mainland where they became the 100th Infantry Battalion. In early 1943, they were sent to train at Camp Shelby in Hattiesburg, along with members of the 442nd Infantry Regiment, also made up of Nisei soldiers. The soldiers weren’t welcome at the local USO canteen and were generally mistrusted by the local population. Mr. Finch was sympathetic to their plight and started inviting them to his house, and organized the Aloha Canteen, the only USO canteen for Japanese-American soldiers. He would also write letters to Nisei soldiers deployed in Europe, and would visit the families of Nisei soldiers killed in combat. After the war, he relocated to Honolulu, Hawaii.<br><br>In addition to the memorial, are tiles dedicated to the ones who made the ultimate sacrifice for our freedom during Iraq and Afghanistan wars (2004-2012).<br><br>Made in Hawaii: You may want to refer to this handcrafted list of Oahu dining establishments by rider Michael Bowe-Rahming of Converse, Texas, former resident of Honolulu. https://bit.ly/38F5h7O<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ag4rpoii09tmfovsc3ssdpme08/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALodGHfhAVsCJcH4l2C0epBihnl2Fs1s_iZrGykw-Vj9kXfh4YhwN422iR0LvbJAFJPzMtdGTyGTutK-qC6na5cuiI0CPEKgHGCjRStGrqe6YvWD7ncFomF4xcPB_4oDkLct-Sj95nUTTRx5gBi-jyZEc7yGXjuJKw91BqRyZMMf--u6M8OVENSzEeyu25cHojHIToVvEU0nN1WwZtolWxrqzz4YzR3VCfSEubdh5omtjNkIYdiIwJtp5GDTGDaWZrn501Ihd4LM1xnWg_NNB3lrVbbBhA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -157.780672,21.374562,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HI5 - Kaneohe</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/6g6406acbeelc9f4hasvhdh348/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrC7vxnNX7c-9DGllx971PW__zZUt9oMJxCpl-oQUUQUxnX_KyoTE72ATr8YQ0kqGSFHJLRpRrSUdYDSQ2R8tFez0tk3-aW1H2eDISJvE2ieAEy1un9bTb7NNdEY7e6Xlra8lLMtqXN3sVuzBckh104hQrNR0JIix5m2aAC3Cczy4swKEcLLWns9P49r3g54KfsFI_Hx0DvQ1v425qkWiuywHzoVcFG6L7E3idI7MGsQkPPndb--D4ZFYYtWXKJvDlWQRpzlQ6u2ea2M5TFvaW8C0o_yQ?session=0&fife" height="200" width="auto" /><br><br>Iwo Jima Memorial<br>Marine Corps Base Hawaii \n Terminus of Hwy. H3<br>Kaneohe, Hawaii<br>GPS: 21.436256, -157.757380<br>Access: Base rules and attitude may change on a daily basis and restrict access to this site. Some leeway will be given for verification (there’s parking next to the guard shack that has a view of the memorial).<br><br>This Marines memorial is at the entrance to the Marine Corps Base-Hawaii (MCBH) and has stunning views of the bay and mountains to the west. It is a replica of the Joe Rosenthal-inspired memorial in Newington, Connecticut, and is slightly different from the memorials in Arlington, Virginia and Harlingen, Texas. <br><br>Contrary to popular belief, the flag raising on Mt. Suribachi didn’t signal victory over the Japanese that day, but was an important rallying symbol that brought the hard-fought victory 31 days later.<br><br>The memorial holds a special place in Hawaiians’ hearts since Oahu is one of three places that Marines trained for the taking of Mt. Suribachi on Iwo Jima. The other two places were the islands of Maui and Guam.<br><br>Made in Hawaii: You may want to refer to this handcrafted list of Oahu dining establishments by rider Michael Bowe-Rahming of Converse, Texas, former resident of Honolulu. https://bit.ly/38F5h7O<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/6g6406acbeelc9f4hasvhdh348/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrC7vxnNX7c-9DGllx971PW__zZUt9oMJxCpl-oQUUQUxnX_KyoTE72ATr8YQ0kqGSFHJLRpRrSUdYDSQ2R8tFez0tk3-aW1H2eDISJvE2ieAEy1un9bTb7NNdEY7e6Xlra8lLMtqXN3sVuzBckh104hQrNR0JIix5m2aAC3Cczy4swKEcLLWns9P49r3g54KfsFI_Hx0DvQ1v425qkWiuywHzoVcFG6L7E3idI7MGsQkPPndb--D4ZFYYtWXKJvDlWQRpzlQ6u2ea2M5TFvaW8C0o_yQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -157.75738,21.436256,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HI6 - Pearl Harbor</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/qq57djo1v9u7oag90qettc02gg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrtOHTM2y4dPg3EX6aAJpf9uMgmWLHXQK1XknMpSpjVktMkZKpkmVOeFr7lWHzE-WuoLpFPs4nZZvS_RaZqzdCvbUHopSXsbG_S-5Xcs5S7EfNdf-OytIvR3UQrRhu2l7ZdWxmzEFWXGVKe685STLDqFm0THIvoQApCORsDtoFi3M0FnTvE_IunvI52JS8ZTWLJfdpn2VGJ37QZCNdOjsbGPhzvl3P7xt5vipux4RNjkB0akT5WE5-h9FMwMocIy8S8CCj-9wvM1tJW0ZqQ2KKgnncVIQ?session=0&fife" height="200" width="auto" /><br><br>USS Arizona Memorial<br>1 Arizona Memorial Place<br>Pearl Harbor, Hawaii<br>GPS: 21.3648,-157.9499<br>Access: 7A-5PM. Two photos required. Order free tickets ahead of time at https://www.nps.gov/valr/<br><br>On December 7, 1941, during a surprise attack by the Imperial Japanese Navy, four of the eight largest U.S. naval battleships were sunk in Pearl Harbor. The other four suffered major damage. Eight other naval vessels were sunk or badly damaged. 188 aircraft were destroyed at nearby airfields. 2,402 people died, 1,247 were wounded.<br><br>Two of the battleships, one being the USS Arizona, still lie on the bottom along with the 1,177 bodies of sailors caught below deck that day.<br><br>In spite of all that’s been written about Pearl Harbor, nothing comes close to a visit in person to this world-renowned memorial and Hawaii’s largest tourist attraction. Anyone with the slightest interest in military history should make a trip here at least once.<br><br>Pick up your ticket and then board the Navy tender that ferries visitors to the monument straddling the USS Arizona. Once there, visitors are free to walk about, take in the exhibits, smell the still-leaking fuel after 65 years, and talk with the docents. One elderly docent claims, “It’s the best job I’ve ever had and I don’t get paid for it.”<br><br>One story is about what happened when a Pearl Harbor survivor passed away. The family is given the option of a military ceremony on the memorial complete with 21-gun salute. If the honoree was cremated, a team of two Navy divers hold the urn aloft for a last chance for the family to see it, then dove down to place it into the ship’s hold, a permanent resting place alongside his comrades. Ask the docents about the baby’s ashes interred on the nearby USS Utah. Or about the outdated anti-aircraft guns that caused so many civilian casualties. So many stories....<br><br>Get there early because the tours fill up fast. Also includes an excellent video program on the events leading up to December 7 and how the surprise attack shook America to it’s core. An auditory tour is available, narrated by Ernest Borgnine. Removal of hats is advised on the memorial site.<br><br>Made in America: One can spend hours in the gift shop itself, or visit the many outdoor exhibits around the nearby USS Bowfin Submarine Museum. http://www.bowfin.org/museum<br><br>Nearby is a memorial with 52 plaques honoring the downed submarines from World War II, and the names of each of the submariners. <br><br>Outdoor exhibits include examples of torpedoes used in the war, including steam-driven, electric, harpoon and missile-torpedos.<br><br>Made in Hawaii: You may want to refer to this handcrafted list of Oahu dining establishments by rider Michael Bowe-Rahming of Converse, Texas, former resident of Honolulu. https://bit.ly/38F5h7O<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/qq57djo1v9u7oag90qettc02gg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrtOHTM2y4dPg3EX6aAJpf9uMgmWLHXQK1XknMpSpjVktMkZKpkmVOeFr7lWHzE-WuoLpFPs4nZZvS_RaZqzdCvbUHopSXsbG_S-5Xcs5S7EfNdf-OytIvR3UQrRhu2l7ZdWxmzEFWXGVKe685STLDqFm0THIvoQApCORsDtoFi3M0FnTvE_IunvI52JS8ZTWLJfdpn2VGJ37QZCNdOjsbGPhzvl3P7xt5vipux4RNjkB0akT5WE5-h9FMwMocIy8S8CCj-9wvM1tJW0ZqQ2KKgnncVIQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -157.9499,21.3648,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HI7 - Waikiki</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9c8eaev1pf3oha5lsmiku5el50/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrvXGALlSYYzjyzLrfJV20Ois_vTxDlp_2vYPIx_Rza122QrgR1nNP_R_5w8-FUVzcu5_Hcmi9-7qhShBX93MkbUG7JjNFOgFBE9R10GovaPNDWVBWd4m9wvPU9Sdg6ES8TanHxaD6ns6hYxMEtGUvChK6_OINXg3pMRmqIEhFsp2slWfQlOW5U-sq83ioWMkfIz9GKQA37oyPBa8fY8ALYFvwVHygE6hQxD7QZZ1f2V1lgJqUwJkMM3Pdt0GrFKIhiUlnE_iFFQhIx8QokjWUCFYUwOg?session=0&fife" height="200" width="auto" /><br><br>War Memorial Natatorium<br>2815 Kalakaua Ave.<br>Honolulu, Hawaii<br>GPS: 21.264526, -157.822081<br>Access: 24/7, be mindful of pedestrians<br><br>In the shadow of Diamond Head, the Waikiki Natatorium War Memorial was built as an ocean water public swimming pool and a living memorial dedicated to “the men and women who served during the Great War (World War I).” The Natatorium swimming venue has been closed to the public since 1979. Presently, there are potential scenarios being studied by the City and County of Honolulu., and the pool remains closed to swimming. For now.<br><br>Approximately 125 feet in front of the War Memorial is the Roll of Honor Stone dedicated to service members of U.S and Great Britain military services.<br><br>Made in Hawaii: You may want to refer to this handcrafted list of Oahu dining establishments by rider Michael Bowe-Rahming of Converse, Texas, former resident of Honolulu. https://bit.ly/38F5h7O<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9c8eaev1pf3oha5lsmiku5el50/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrvXGALlSYYzjyzLrfJV20Ois_vTxDlp_2vYPIx_Rza122QrgR1nNP_R_5w8-FUVzcu5_Hcmi9-7qhShBX93MkbUG7JjNFOgFBE9R10GovaPNDWVBWd4m9wvPU9Sdg6ES8TanHxaD6ns6hYxMEtGUvChK6_OINXg3pMRmqIEhFsp2slWfQlOW5U-sq83ioWMkfIz9GKQA37oyPBa8fY8ALYFvwVHygE6hQxD7QZZ1f2V1lgJqUwJkMM3Pdt0GrFKIhiUlnE_iFFQhIx8QokjWUCFYUwOg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -157.822081,21.264526,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

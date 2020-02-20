@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Oregon sponsored by Jerry Jones</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>OR1 - Clatskanie 
+</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/m6v8es726csb0v91jmng8gcp2o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrNMKstVTP7m5iYK9kTSxncWU1KCKB-rFn3HBc8D82K9mrG1DQRbHAs_TAiXt-QeuN8Zjdh2aWDRISU9ux9JwIkpj1iEIe7xARObTjBbbi0BwvHze-aGK5KuMBH6d9HMg2D5pHEtz_D8ZCoRC9C81XEresD_vpAOrOuu7KQxnnW2glcgUxcdGt48zbH9YivcD0pDxACG-T4rPWjDrUVXeNNiQ-yd3HSWsXfuJJ6-ycsEUrLD6b-5JL8zMTo9YzGrkfY_M8HTTCZfp-jKGa_w2gaTfRZeQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Conyers St. & Lillich St. <br>Clatskanie, Oregon<br>GPS: 46.105122, -123.201263<br>Access: 24/7<br><br>“Dedicated for All Veterans for Service To Our Country.” Names of two dozen local heroes who gave their lives in the service of their country are engraved on the World War II plaques. All but two were killed in action. The memorial wall underneath is inscribed with the names of veterans from the community who faithfully served. Memorial flags proudly fly in honor to all veterans.<br><br>Made in America: Clatskanie has been described as a “Norman Rockwell” picturesque small city nestled in green hills and valleys on the coastal range in northwest Oregon. Clatskanie also has over 70 miles of wonderful calm water in the Clatskanie River and adjacent sloughs for kayaking. So if you need a break from riding, you can start a new adventure here. The city park has a walking trail and is a jewel in the center of the city. Clatskanie sponsors a wonderful 4th of July Heritage Days celebration that dates back over 100 years.<br><br>Food is plentiful so grab a bit and sit in the park or along the river and enjoy the small town atmosphere. <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/m6v8es726csb0v91jmng8gcp2o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrNMKstVTP7m5iYK9kTSxncWU1KCKB-rFn3HBc8D82K9mrG1DQRbHAs_TAiXt-QeuN8Zjdh2aWDRISU9ux9JwIkpj1iEIe7xARObTjBbbi0BwvHze-aGK5KuMBH6d9HMg2D5pHEtz_D8ZCoRC9C81XEresD_vpAOrOuu7KQxnnW2glcgUxcdGt48zbH9YivcD0pDxACG-T4rPWjDrUVXeNNiQ-yd3HSWsXfuJJ6-ycsEUrLD6b-5JL8zMTo9YzGrkfY_M8HTTCZfp-jKGa_w2gaTfRZeQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -123.201263,46.105122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OR2 - Coos Bay
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/crqk49jlfdv7uge4kd254b16ao/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALohePTUM-2k08dhTojfqcmhDCyVX1RZdI5aiXXE_rqxCaXcq98B2WZ_q9QDjZCf2PuTlcnzmzn4uMuR6bs8iQa2GFNRdifdt9i79nrV2kaA2TBCwMWCOg0FfpYOl8Y50RqJMDLKMpgBR67x5qzFQXgoePWow-lv3P6oajZZRYy43dL67AeV8MNt_-Ho-YQS8_1WdXQaqlmGG2-xLiTi8mSdY2R4XwMp9EYHX4LeSq1c05uvgXD55AsR2oKnIh44inYXbaska8hII4u3BSagMhHwM0vTBQ?session=0&fife" height="200" width="auto" /><br><br>Firefighters Memorial<br>411 Central Ave.<br>Coos Bay, Oregon<br>GPS: 43.367942, -124.216540<br>Access: 24/7<br><br>On November 25, 2002, Captain Randy Carpenter, Firefighter Jeff Common and Firefighter Chuck Hanners made the ultimate sacrifice while fighting a fire at the Farwest Truck and Auto Parts Store at nearby 340 S 2nd St. They will always be remembered for living their lives with honor, courage, and a strong sense of duty to their family, friends and community. <br><br>The memorial was designed by Coos Bay Firefighters to honor the memory of their lost Brothers, and is dedicated to the sacrifices of ALL firefighters who have given their lives in the line of duty. The eleven trees surrounding the Memorial represent each of the eleven children who lost their fathers that day. <br><br>Made in America: Coos Bay is in the middle of the Oregon Sand Dunes and you have lots of opportunities to spend some time riding the Dunes. Not recommended for those big touring bikes but they DO have lots of rental buggies in the area for your enjoyment. As you leave Coos Bay you can enjoy Highway 101 running along the Pacific Ocean all the way north to Neah Bay, Washington, or south to San Diego, California. Many miles of smiles! <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/crqk49jlfdv7uge4kd254b16ao/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALohePTUM-2k08dhTojfqcmhDCyVX1RZdI5aiXXE_rqxCaXcq98B2WZ_q9QDjZCf2PuTlcnzmzn4uMuR6bs8iQa2GFNRdifdt9i79nrV2kaA2TBCwMWCOg0FfpYOl8Y50RqJMDLKMpgBR67x5qzFQXgoePWow-lv3P6oajZZRYy43dL67AeV8MNt_-Ho-YQS8_1WdXQaqlmGG2-xLiTi8mSdY2R4XwMp9EYHX4LeSq1c05uvgXD55AsR2oKnIh44inYXbaska8hII4u3BSagMhHwM0vTBQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -124.21654,43.367942,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OR3 - Estacada
+</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/tfghsgdu5rftbd4d9k3dg9vaoc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqqUdKQzISDObP7hYz-Ac1hQWRg5eePg6_0u4KZzrDYHj4QIoyywIOhXeYgWKd9x4HuCzVa6WSM-RKV2X4QuFCRZIRBQakXu9R9mFy_5wftg6tvPPwaNAFC1fa0PUzQvN97yjudPg7h9B88H1m0jLghQBONnz6Wmj4M41CnodkmmByNwk7AUTWq57YLEis66XhgIvUNc3sUXPGd4nfC6S3eGcYT3Q9-eKX4tp4hGrdZ8oElOtl7tr-yAG3cyH_pj8cz4t4wzetLb3_ho3KuPc4oRPSwyw?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Park<br>307 SW 2nd Ave.<br>Estacada, Oregon<br>GPS: 45.288904, -122.337337<br>Access: 24/7<br><br>The Spirit of America Eagle captures the center of Memorial Park in its tribute to all branches of Estacada veterans. The park was dedicated in 2014 in an effort led by the Estacada Area Support Our Troops Foundation.<br><br>Made in America: Estacada takes you from the busy rush of big cities back to the quiet delights of small town America. Stop to enjoy the river or the birds along the way while visiting Bagby Hot Springs just one hour up the road. Individual tubs, including whiskey barrels, allow you that full relaxation from your long and hot (or maybe wet) ride to get here. Clothing optional. Find out more at  http://bit.ly/30t2SKP<br><br>For a decent burger, give Lew’s Drive-In a try, a minute away from the memorial at 262 Broadway St. <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/tfghsgdu5rftbd4d9k3dg9vaoc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqqUdKQzISDObP7hYz-Ac1hQWRg5eePg6_0u4KZzrDYHj4QIoyywIOhXeYgWKd9x4HuCzVa6WSM-RKV2X4QuFCRZIRBQakXu9R9mFy_5wftg6tvPPwaNAFC1fa0PUzQvN97yjudPg7h9B88H1m0jLghQBONnz6Wmj4M41CnodkmmByNwk7AUTWq57YLEis66XhgIvUNc3sUXPGd4nfC6S3eGcYT3Q9-eKX4tp4hGrdZ8oElOtl7tr-yAG3cyH_pj8cz4t4wzetLb3_ho3KuPc4oRPSwyw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.337343,45.288858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OR4 - Gold Beach
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ipf8spvb49d89lktgf99ffj1qg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrzL16l1VZJQN4FRF7lU2McmIzIuGfKaR8CsBwrVaL8yL_fngPNEvpqNx9nGyhvCoy2BYbjUZSak3JhpuxhdHF8WSfvWAzGVl0QepY9j5qZnQGEZeRCeb487pRY3Mr5OwNQY8nK9nRhkS3RNIZF6gtewSGP2LYCdBGLfXERCGL1KgaysbA9oZdDkWUmh-nf9reuY11cTM_41ywVKS3rwLWZRd185llH62S8OOPUhaM-sccsPx6gmyY9F3oOHAywXrjMl5v_5vWV7J9vtXHMFjZo-8pGyw?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>94080 Shirley Ln.<br>Gold Beach, Oregon<br>GPS: 42.397850, -124.422663<br>Access: 24/7<br><br>A new memorial plaza dedicated to the Men and Women of Curry County who served in the armed forces., that also honors the local police and fire departments of Curry County. It is a work in progress and continues to grow.<br><br>Made in America: Gold Beach is a unique Oregon Coast town with endless, uncrowded beaches and views. If you need to get off the bike for a little exercise you have the wild Rogue River-Siskiyou National Forest for your hiking and wildlife viewing pleasures. The beach allows for seal and whale viewing, while in the mountains be ready for elk or bear, so watch your step. You’ll also find the largest Myrtlewood tree in Oregon in this area (myrtlewood is a thing here, making a nice souvenir). <br><br>If hiking isn’t for you but food is, you’re in luck because Gold Beach has many local seafood places like the Chowder House http://bit.ly/38aVJRR Ice cream and local wine and brewing shops abound.<br><br>After visiting Gold Beach you are just a short distance from California. Going north or south or east, you can bet that your next miles will be scenic. <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ipf8spvb49d89lktgf99ffj1qg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrzL16l1VZJQN4FRF7lU2McmIzIuGfKaR8CsBwrVaL8yL_fngPNEvpqNx9nGyhvCoy2BYbjUZSak3JhpuxhdHF8WSfvWAzGVl0QepY9j5qZnQGEZeRCeb487pRY3Mr5OwNQY8nK9nRhkS3RNIZF6gtewSGP2LYCdBGLfXERCGL1KgaysbA9oZdDkWUmh-nf9reuY11cTM_41ywVKS3rwLWZRd185llH62S8OOPUhaM-sccsPx6gmyY9F3oOHAywXrjMl5v_5vWV7J9vtXHMFjZo-8pGyw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -124.422663,42.39785,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OR5 - Grande Ronde
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2g4i2bfce3ubk6tq0gu0j5eqfg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqZGouBihQQpzTSgdqSisfjeOH-8L-Ra_Etm_f1fbdNyCz5CRN8JywbCu5HvqwbSfUnxH0AP5S0TIyD-OQZ2jq3uiegsorYisMYoRJPFx2HVgE2pnnXb8wtLF6DZPvfq-zeLGjhcoxZzAnNaOkBqA5bX4Ximb_Oprr3-ZB4y8npcNfA8lxueLEReyRpc7NnOZVTqNEWBBUuO0XyOehnG80us6kHJbGHHLkr2Bq8_4MGP7nvrB1tkwjLvHCPwCcW0f_6Y-PHIGQHKRwZxguUUWg3kt_j9A?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Confederated Tribes of the Grand Ronde \n 9615 Grand Ronde Rd<br>Grande Ronde, Oregon<br>GPS: 45.074535, -123.614864<br>Access: 24/7, unrestricted<br><br>The West Valley Veterans Memorial features a man and woman dressed in traditional native clothing reaching to the sky. Surrounding them are four black granite pillars, representing four branches of the armed services, which feature the names of Tribal and community veterans from Grand Ronde, Willamina and Sheridan.<br><br>This memorial is a living memorial and during the years on Memorial Day new names are added as appropriate. During the Memorial Day 2019 service a total of ten new names were added for dedicated service by tribal and nontribal residences of the greater Grande Ronde area.<br><br>Made in America: The Memorial is surrounded by Tribal Service Offices of the Grande Ronde Confederated Tribles. Just a short distance down the road in the town of Grande Ronde is the Chachalu Museum which is free and offers a celebration of the survival of the Confederated Tribes of the Grande Ronde.<br><br>No matter what road you took to get here the ride to the next TOH site will be great. Highway 18 or 22 to the ocean give you great opportunities to use the side of those tires instead of just the middle from those super slabs. Beware, animals like this area and often use the highways as well. <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2g4i2bfce3ubk6tq0gu0j5eqfg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqZGouBihQQpzTSgdqSisfjeOH-8L-Ra_Etm_f1fbdNyCz5CRN8JywbCu5HvqwbSfUnxH0AP5S0TIyD-OQZ2jq3uiegsorYisMYoRJPFx2HVgE2pnnXb8wtLF6DZPvfq-zeLGjhcoxZzAnNaOkBqA5bX4Ximb_Oprr3-ZB4y8npcNfA8lxueLEReyRpc7NnOZVTqNEWBBUuO0XyOehnG80us6kHJbGHHLkr2Bq8_4MGP7nvrB1tkwjLvHCPwCcW0f_6Y-PHIGQHKRwZxguUUWg3kt_j9A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -123.614864,45.074535,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OR6 - Hermiston
+</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/e2tll2s2com2ngqca2q5bqeuus/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrMzHWlA_lnMATBIqwzISTxnaqIenNKHj6BWh3jcvbyP3ItgDyWIerJG1Jc0olCA9jfdyBhj5dvEIp5P0Z89PxDSL3jzg2p08KuMONd5YO05sKJRypcfLPQw8JArRhNM-ZF9YuOfmMGQLPkSdNu4t2x64hEgIDsmT7hx7dwX8Dm8LpxHC4n9o4uIPMRr5Il_qLGtjumEh_3Pk0iqt5mkrf2eVuhynbGsvO3rU2HvZ1wQigf6nTmE7Pf8tR5XHd33qozEbY3Z_elA6osdToUT15dnE4H9A?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>McKenzie Park \n Next to 215 W Orchard Ave.<br>Hermiston, Oregon<br>GPS: 45.839229, -119.291774<br>Access: 24/7<br><br>Here, you’ll find a memorial plaque in boulder, along with a stone wall listing all KIA’s from the area.<br><br>Made in America: Hermiston has long been a stopover for travelers. Lewis and Clark passed this area on their way down the Columbia to the Pacific Ocean, so as you travel you are in good company. Hat Rock State Park was written about in the journals of Lewis and Clark so if you want to spend a relaxing time this can be a great place and is only a couple miles out of town. Railroading has always been a part of this area and the “Maxwell Siding Railroad Display” in Hermiston recalls those former great rail days. <br><br>Riders visiting in August may find themselves in town during the Farm-City Pro Rodeo. Before you leave town make sure to see which side of the Columbia may have your closest TOH site in Washington.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/e2tll2s2com2ngqca2q5bqeuus/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrMzHWlA_lnMATBIqwzISTxnaqIenNKHj6BWh3jcvbyP3ItgDyWIerJG1Jc0olCA9jfdyBhj5dvEIp5P0Z89PxDSL3jzg2p08KuMONd5YO05sKJRypcfLPQw8JArRhNM-ZF9YuOfmMGQLPkSdNu4t2x64hEgIDsmT7hx7dwX8Dm8LpxHC4n9o4uIPMRr5Il_qLGtjumEh_3Pk0iqt5mkrf2eVuhynbGsvO3rU2HvZ1wQigf6nTmE7Pf8tR5XHd33qozEbY3Z_elA6osdToUT15dnE4H9A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -119.291774,45.839229,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OR7 - The Dalles
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gokvvsrq63p7r6ivjnq6al2uh0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqZwuLUdIucq7drJ0pmtaYK5HMZS6wQ0_K91nkAE5D0e2pbk_BFiCyTfoaLOlNNsbk0CzZBsVG5sdjDgzp8lFXZVfQK-FxXNp16YKal8bMPS_Qfgf7uE1tqrT4yAJGRm4i5XmsSX4SyF_gdVJczfSwhR32cXUllHFQdQdmAFjYZkQlPbpEA5x4lF8dzuQT-fWPoueeNNZslNECbr8oBk7wYFE7OXJZyRNKaquy_HPpvIo-QVfQiUxFpu-lrfaIqz9Xuo02tBHFrBIEOyNjFcTL0FjU8WA?session=0&fife" height="200" width="auto" /><br><br>Vietnam Veterans Memorial<br>Sorosis Park \n West/East Scenic Dr.<br>The Dalles, Oregon<br>GPS: 45.592379, -121.192531<br>Access: 24/7<br><br>This Vietnam Veterans Memorial honors all veterans who served, consisting of a large two-sided stone wall with numerous plagues and a soldier proudly calling all to read his special words of: “When you go home: Tell them for us and say: For your tomorrow, We gave our today”. The memorial is topped with an Eagle and a great view of the mighty Columbia River. Welcome home, Soldier/Sailor/Airman/Marine!<br><br>Made in America: The Dallas is located on the Columbia River and the view from this memorial often offers a view of wind surfers from around the world, on the river. The wind funneled through the gorge creates excellent surfing opportunities’ and conditions. So if you need a break from riding, you might head on down to the river’s edge to Celilio Paddle Co. for a surf board to rent. The area is the eastern gateway to the Columbia Gorge National Scenic Area, with plenty of opportunities for hiking, biking, fishing and paddling to your heart’s content. <br><br>Before you leave town, make sure to check for a TOH site that may be close by in Washington.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gokvvsrq63p7r6ivjnq6al2uh0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqZwuLUdIucq7drJ0pmtaYK5HMZS6wQ0_K91nkAE5D0e2pbk_BFiCyTfoaLOlNNsbk0CzZBsVG5sdjDgzp8lFXZVfQK-FxXNp16YKal8bMPS_Qfgf7uE1tqrT4yAJGRm4i5XmsSX4SyF_gdVJczfSwhR32cXUllHFQdQdmAFjYZkQlPbpEA5x4lF8dzuQT-fWPoueeNNZslNECbr8oBk7wYFE7OXJZyRNKaquy_HPpvIo-QVfQiUxFpu-lrfaIqz9Xuo02tBHFrBIEOyNjFcTL0FjU8WA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -121.192531,45.592379,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Iowa</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>IA1 - Cedar Falls</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/avc4m0nu95rhlf2ip9etihh0ng/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqrm7Q2sFWN2UEwfETX5dYjL8HBVPaU0ud1Emk9xaH9lnkRpPAOSl8MM0ClBfJiOHIQJPXAR2Je3r8J9oO7MKU-NsPmP8tQCIsKcvnzu2U6jgoLl3JbRYSdZkr3JcUJTruyyqrGADNPEnq3p0PQ71iOLYs8GbdGHPbCUUkRfwCVc_XOZz-HglzblRPoTR5ZF_oO8Hyj1eL9QHNrUAya29gnZzwyhDyxAKmEbQuJrPgRNLi5M4OMSG158yeGdMdymyqxktgJ4cfZyN8PMfGM1MgpVaozIQ?session=0&fife" height="200" width="auto" /><br><br>Black Hawk County Freedom Rock®<br>Bluff & E 14th Sts. <br>Cedar Falls, Iowa<br>GPS: 42.525819, -92.443195<br>Access: 24/7<br><br>The front side of this Freedom Rock is a little boy with his hand over his heart, a Marine saluting, and a Korean War Veteran saluting.<br><br>The south side of the rock features Taylor Morris Navy EOD from Cedar Falls, Iowa who was injured in Afghanistan. He sustained injuries to all four limbs, entailing loss of both legs, left arm from the bicep down, and his right hand.<br><br>On the west side, is a picture of the Sullivan Brothers from nearby Waterloo. The five Sullivan brothers were World War II sailors serving together on the USS Juneau and killed in action when it sunk in November, 1942.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/avc4m0nu95rhlf2ip9etihh0ng/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqrm7Q2sFWN2UEwfETX5dYjL8HBVPaU0ud1Emk9xaH9lnkRpPAOSl8MM0ClBfJiOHIQJPXAR2Je3r8J9oO7MKU-NsPmP8tQCIsKcvnzu2U6jgoLl3JbRYSdZkr3JcUJTruyyqrGADNPEnq3p0PQ71iOLYs8GbdGHPbCUUkRfwCVc_XOZz-HglzblRPoTR5ZF_oO8Hyj1eL9QHNrUAya29gnZzwyhDyxAKmEbQuJrPgRNLi5M4OMSG158yeGdMdymyqxktgJ4cfZyN8PMfGM1MgpVaozIQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -92.443195,42.525819,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IA2 - Belleview</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/up53h5qj77f9o64fgaqseqtfs0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrhTi8Es0VNuR1gvRHNLMkBV-ae_0vDu8zCfhmB1h-uXnUNox6mcXYWhuPkIYMew74N0oK8K_wjveX5lIMi--nyWbtMxgtBZTpV9uUi8v15gR0qCL1BKHbLm0OFof0gV4g9lrcoUkMNC79mp805foW3Vte2bHR8Yut5nFSeQMgL-npgNh1iGSFxoIkaOhLkvuKmokJHVHAQEn0s_dh2grZjPiOvsxVaN2QfDuF3t80tsOiwTy4HQrFPMyf6SLSd5Uwsg0uMKlaHYwpDjLZbOqLfma4drw?session=0&fife" height="200" width="auto" /><br><br>Jackson County Freedom Rock®<br>203 N. Riverview Dr.<br>Belleview, Iowa<br>GPS: 42.260000,-90.423236<br>Access: 24/7<br><br>The front side depicts a Civil War era soldiers boarding the riverboat the “Henderson”, which actually happened in Bellevue. There’s an old photo depicting just that, a very cool piece of history to reflect on as it would have happened very near where the rock sits!<br><br>On the backside of the rock is a somber scene which depicts a military caisson with flag draped coffin and each branch of the military represented.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/up53h5qj77f9o64fgaqseqtfs0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrhTi8Es0VNuR1gvRHNLMkBV-ae_0vDu8zCfhmB1h-uXnUNox6mcXYWhuPkIYMew74N0oK8K_wjveX5lIMi--nyWbtMxgtBZTpV9uUi8v15gR0qCL1BKHbLm0OFof0gV4g9lrcoUkMNC79mp805foW3Vte2bHR8Yut5nFSeQMgL-npgNh1iGSFxoIkaOhLkvuKmokJHVHAQEn0s_dh2grZjPiOvsxVaN2QfDuF3t80tsOiwTy4HQrFPMyf6SLSd5Uwsg0uMKlaHYwpDjLZbOqLfma4drw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -90.423236,42.26,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IA3 - George</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/mst589pvrumbkqitv1s2vc9tck/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrEbdN3EUs1YsKP0Oy_O_KzL5-ZLZN3NSnmFpwCzqTMddsXLXv0XALXUH3UdGCIapYyB13Iqq1jlrWItDKif-SWxOioREhoZWrILKaZhJ_K8OqTDUXt3hyuOeurRmw7jl_BrYI6Gaibd-CfWqZ44xBfdhSl391ckjGzBA-01BDdYWfD_iKlfFcumXTMzlxb2hb9MK_hobiI_bybLFlw4NboM1xnvMAJUXUvMSOosJbz-bgT6JfgEI7zbXFWw63i-pafnuQvCBtGpKeczsdvrjrN2dVY6Q?session=0&fife" height="200" width="auto" /><br><br>Lyon County Freedom Rock®<br>198 E Dakota Ave.<br>George, Iowa<br>GPS: 43.345980, -96.001742<br>Access: 24/7<br><br>The road-facing side features a nighttime scene circa World War I, featuring Jack Sauter. On the main side are five branches marching in a parade because the 4th of July is a point of pride in George. The people of George are very welcoming so if you need directions or a good place to eat, just ask.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/mst589pvrumbkqitv1s2vc9tck/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrEbdN3EUs1YsKP0Oy_O_KzL5-ZLZN3NSnmFpwCzqTMddsXLXv0XALXUH3UdGCIapYyB13Iqq1jlrWItDKif-SWxOioREhoZWrILKaZhJ_K8OqTDUXt3hyuOeurRmw7jl_BrYI6Gaibd-CfWqZ44xBfdhSl391ckjGzBA-01BDdYWfD_iKlfFcumXTMzlxb2hb9MK_hobiI_bybLFlw4NboM1xnvMAJUXUvMSOosJbz-bgT6JfgEI7zbXFWw63i-pafnuQvCBtGpKeczsdvrjrN2dVY6Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -96.001742,43.34598,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IA4 - Grandview</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2uk2pb4jpjgvvsfihqjoes2nk4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp5b_UQ73V22aaONgJEGJhBfrOIk6UyqY7Q1qSKtMaiRG5rN_EdQ240M3buG3_eoLvcG9pcXY-brR2wmiOfvNUYO-leFc16BvojSQJjOz0JVsGvefLAV5r7qTms1a1CxyRZ3nVe9habPvQ9hbjAL91ddgkXzG5F66oK74g7k7vMRcedAIx5kspYH04yoLTsiM0MYW6pgHDtcsSNZcDr_uoo_5mpB-ptR4WTDFTzd6JMmYWxnHg8elWoTNpqgLsMfRPBgjaHYzGZuSa9XauZ5EL_KV1o3w?session=0&fife" height="200" width="auto" /><br><br>Louisa County Freedom Rock® <br>Old US Hwy 61 & Route 252 <br>Grandview, Iowa<br>GPS: 41.277052, -91.196223<br>Access: 24/7<br><br>On April 12, 1862, James Andrews and a band of Union Civil War spies stole "The General", a locomotive in Big Shanty (today called Kennesaw). Andrews and his raiders were attempting to use The General to travel to Chattanooga, Tennessee, in an attempt to damage the Western & Atlantic Railroad linking Atlanta with that city.<br><br>After a day-long chase, the spies were stopped just before reaching Chattanooga. Those who were caught, including Andrews and Sgt. John Scott, were hanged. Other raiders, including Sgt. Wilson Brown, escaped from Confederate prison or were exchanged as Prisoners of War. These men were among the first to be awarded the Medal of Honor.<br><br>Corporal William H. H. Reddick (1840–1903), was exchanged with other prisoners and later promoted to 2nd lieutenant. He is one of the soldiers who took part in Andrews Raid and not only received a Medal of Honor but is buried in Louisa County, Iowa.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2uk2pb4jpjgvvsfihqjoes2nk4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp5b_UQ73V22aaONgJEGJhBfrOIk6UyqY7Q1qSKtMaiRG5rN_EdQ240M3buG3_eoLvcG9pcXY-brR2wmiOfvNUYO-leFc16BvojSQJjOz0JVsGvefLAV5r7qTms1a1CxyRZ3nVe9habPvQ9hbjAL91ddgkXzG5F66oK74g7k7vMRcedAIx5kspYH04yoLTsiM0MYW6pgHDtcsSNZcDr_uoo_5mpB-ptR4WTDFTzd6JMmYWxnHg8elWoTNpqgLsMfRPBgjaHYzGZuSa9XauZ5EL_KV1o3w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -91.196223,41.277052,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IA5 - Lewis</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/kh5ehc64pgr6o7umr0nvqilnq4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp4YqEbcRPtFDvHKXfJ2cu-A0HW2WV3qLlZukDutGiCf767OrD6Lbg2T6DvmlKs1BnebiR0m_GXlq6jMRxWn1j1ZugqUWmtH5cVEedEdhb_EYOJbT00PvyZdkla0QkaFVKv8H23TO2UmBxhwHDdUsS_2uz-wnNntLY89lF2cbLmM8tR7eF2QuqkUeYdYgqWAUdoijs_Rxm30rh1LsYJiPgGg0SVOAT2lpwtqznaKGlTtLnu5vgzId7cfiPX-LsyHjN7AUZbk3BXNdagW2r6xZLBXTiVFA?session=0&fife" height="200" width="auto" /><br><br>Cass County Freedom Rock<br>Market and Nebraska Sts.<br>Lewis, Iowa<br>GPS: 41.306666, -95.088560<br>Access: 24/7<br><br>This Freedom Rock shows the Reverend Hitchcock's House, which was a vital stop on the Underground Railroad. As a bonus, the house still stands just to the west of here and has been restored.<br><br>You can go visit it and get a feel for the path along the river and basement hideouts the runaway slaves used. Another interesting piece of history tied to Cass Township is that Major Belle Reynolds (the only woman to be officially given rank in the Union army during the Civil War) got her start as a teacher here before marrying and joining her husband in the war...eventually earning an officers commission as a Major after the Battle of Shiloh.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/kh5ehc64pgr6o7umr0nvqilnq4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp4YqEbcRPtFDvHKXfJ2cu-A0HW2WV3qLlZukDutGiCf767OrD6Lbg2T6DvmlKs1BnebiR0m_GXlq6jMRxWn1j1ZugqUWmtH5cVEedEdhb_EYOJbT00PvyZdkla0QkaFVKv8H23TO2UmBxhwHDdUsS_2uz-wnNntLY89lF2cbLmM8tR7eF2QuqkUeYdYgqWAUdoijs_Rxm30rh1LsYJiPgGg0SVOAT2lpwtqznaKGlTtLnu5vgzId7cfiPX-LsyHjN7AUZbk3BXNdagW2r6xZLBXTiVFA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -95.0886252,41.3066199,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IA6 - Murray</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2dr3b0ms2jb1s6sa0ujs3elkjg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrgu98QCVWizN_uwtXHsFP19Rib-UZsBkGIsOnrUMQ7DaBBwf1C0AJNSWZSPrWN-ssqV9SFN3NfUdRbZCPBw7rKFlLg3w3SSyf80QQ9sNB890BMKkioa6DI2L8atuJVdMsML42CEY4Dkfnhuq_kRDTF-BBzE_3AgMNrCJMjgUycjzQleuHI9HDEw8Trq8WQvN1kMWaxaNle7_1iKCZFTdovEmMKPAxdqnek_PibPHDBTr_ve17xCKOhAdFlIHaprqZtpXFl1BEoBmRFPG--lvJASQbwhQ?session=0&fife" height="200" width="auto" /><br><br>Clark County Freedom Rock®<br>Murray Cemetery \n Hwy 34 & 135th Ave. <br>Murray, Iowa<br>GPS: 41.028046, -93.946943<br>Access: 24/7<br><br>This Freedom Rock honors our Killed in Action heroes. The front has a Gold Star family member clutching the folded American flag. The backside is dedicated to those who were KIA from around Clarke County, Maxton Daniel, Raymond Harris, Herschel Oehlert, George Horton, and Bert Keeler.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2dr3b0ms2jb1s6sa0ujs3elkjg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrgu98QCVWizN_uwtXHsFP19Rib-UZsBkGIsOnrUMQ7DaBBwf1C0AJNSWZSPrWN-ssqV9SFN3NfUdRbZCPBw7rKFlLg3w3SSyf80QQ9sNB890BMKkioa6DI2L8atuJVdMsML42CEY4Dkfnhuq_kRDTF-BBzE_3AgMNrCJMjgUycjzQleuHI9HDEw8Trq8WQvN1kMWaxaNle7_1iKCZFTdovEmMKPAxdqnek_PibPHDBTr_ve17xCKOhAdFlIHaprqZtpXFl1BEoBmRFPG--lvJASQbwhQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -93.946943,41.028046,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IA7 - Sac City</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/rv2teqpi24oddc6nn1t788d1o4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqyBHowWHzeO7CCryrUtrWd7NzsjkJ-XlBDMNrWN6MHs4J1ubYWxZDs2ryjGe9C_siS8Ls03_zHZiQtwstJGQIi9HLkn_prRzk636O3HNnJa6EU8m-2N6y4lkGnE3J1TBv_gsH66vG_MVEfTmrgt715YtBAkUt-F8MGODDkH7TIhHoKsdwS6hwqSTx7uKCBlE933UqHDDZAHGmEBVrSsnrUnzLI8x4l3oMugwMSoDeEW7ECltIbQSmgDF7XUGwS6j6Hls0egOUuK7xrGJh_jGf4OK7akw?session=0&fife" height="200" width="auto" /><br><br>Sac County Freedom Rock®<br>301 Main St.<br>Sac City, Iowa<br>GPS: 42.421639, -94.986660<br>Access: 24/7<br><br>The town wanted to involve local Veterans stories here, while saying thank you to all Veterans. The road-facing side portrays a medic, tunnel rat, and soldiers silhouette. The west side of the rock says thank you to our women in service. The back side shows a soldier from Sac County being rescued by a couple Navajo Code Talkers and a P-38 surveillance plane. All with relation to Sac County Veterans. The POW/MIA on the east side of the rock is for those who'll never be forgotten.<br><br>On the top of the rock are ashes from two different Veterans, mixed into the paint in the stars, making this the final resting place them.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/rv2teqpi24oddc6nn1t788d1o4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqyBHowWHzeO7CCryrUtrWd7NzsjkJ-XlBDMNrWN6MHs4J1ubYWxZDs2ryjGe9C_siS8Ls03_zHZiQtwstJGQIi9HLkn_prRzk636O3HNnJa6EU8m-2N6y4lkGnE3J1TBv_gsH66vG_MVEfTmrgt715YtBAkUt-F8MGODDkH7TIhHoKsdwS6hwqSTx7uKCBlE933UqHDDZAHGmEBVrSsnrUnzLI8x4l3oMugwMSoDeEW7ECltIbQSmgDF7XUGwS6j6Hls0egOUuK7xrGJh_jGf4OK7akw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -94.982766,42.421858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

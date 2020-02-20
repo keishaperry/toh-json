@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Illinois</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>IL1 - Anna</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/rcvrqomti61rh80u18podhjlfs/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrCOUC2svOLmbg-Vp2ZUOGInQrSjQD_6r7oooTE95if7XKn-cOAzWRY7t9m0G8CVyNC-pv8nfCCgrxCcW6Eu_s211bR4X1mKDJ1ATTRN23GNOrk9HlSbrPM2SaX5-3_khFsHOqFDq0FHiz-IlDDKN2EDeMl80g5U6b0IGUCFQoiWF-Dd8p5v-wVKjXN4JjJ5XotZAd77kjDWzNdk7ezRG4YuTsNieomBIWeizMe9vGeM8k-SQH3b69UKLiQRjnmvzivRFt5A-J3-VVxnyPXbRjWuL5hhg?session=0&fife" height="200" width="auto" /><br><br>King Neptune Grave Marker<br>EB IL-146, ¾ mile east of the I-57 / IL-146 interchange <br> Anna, Illinois<br>GPS: 37.445717, -89.131647<br>Access: 24/7<br><br>A memorial for a pig? Really? When the pig earns $19,000,000 (nearly $200 million in today's money) for the war effort and gets buried with full military honors….absolutely!<br><br>King Neptune was raised by a farmers daughter as a 4H project and donated in 1942 to be served at a fundraising pig roast until a local navy recruiter came up with another idea. Neptune was a hereford swine, a breed characterized as mostly red with a white face, similar to that of the Hereford breed of cattle.<br><br>Navy recruiter Don Lingle, of Anna, Illinois, decided to auction the pig to raise war bonds. Lingle and an auctioneer traveled throughout southern Illinois auctioning Neptune for bonds going to the battleship USS Illinois which was under construction.<br><br>Eventually, all parts of the pig were auctioned; even his squeal was auctioned for $25 on at least one occasion. After each auction, King Neptune was returned to be auctioned again later. High demand for appearances by Neptune led them to travel the rest of Illinois raising funds. The mostly red, with white features, pig was often displayed covered with a blue Navy blanket and wearing a gold crown and silver earrings.<br><br>In 1943, Illinois Gov. Dwight Green purchased King Neptune for $1 million on behalf of the state of Illinois. At the same auction, one of Neptune's bristles was sold for $500. Most of the 700-lb. hog's appearances were sponsored by local Elks clubs and King Neptune was a life member of chapters in Marion, Freeport, and Harrisburg.<br><br>In 1946, King Neptune died of pneumonia on a farm near his birthplace, two days prior to his 8th birthday.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/rcvrqomti61rh80u18podhjlfs/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrCOUC2svOLmbg-Vp2ZUOGInQrSjQD_6r7oooTE95if7XKn-cOAzWRY7t9m0G8CVyNC-pv8nfCCgrxCcW6Eu_s211bR4X1mKDJ1ATTRN23GNOrk9HlSbrPM2SaX5-3_khFsHOqFDq0FHiz-IlDDKN2EDeMl80g5U6b0IGUCFQoiWF-Dd8p5v-wVKjXN4JjJ5XotZAd77kjDWzNdk7ezRG4YuTsNieomBIWeizMe9vGeM8k-SQH3b69UKLiQRjnmvzivRFt5A-J3-VVxnyPXbRjWuL5hhg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.131647,37.445717,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IL2 - Fairfield</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jbvh2ehi4bgilg5ohu9spalvf8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo2U6mjZz9zBwO-o6YHwDNKwvM_JgquLpgQC6fe-_xwLkyN1gsE4sveiCAzxQzTIM3LmKT7RtmrPC4yOr7cENgwMZ1QE7w6ak6SV89Q1XLcZH_rrg9i0PfDtEezYriRwqPTtfSOeRhzosjsKjkh7_aRR8E0nB_p3XPvKPDCKSKGa-knj5O3_s9QckBpMcsPFq5nDV2w1e7MsDBItYOzQYNpWUHWF-KK8aHoAKixQ9ZUFTuXmMaElxPSrrvUtt4R0xMNGB7aXSCu6KbnXmUPtZqG2lVR6g?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Maple Hill Cemetery \n E. Main St. <br>Fairfield, Illinois<br>GPS: 38.380163, -88.349209<br>Access: 24/7<br><br>The solemn Fairfield Veterans Memorial is not unlike a local national cemetery, with a white cross for each local veteran who was lost at war. <br><br>Made in America: Fairfield is most famous for being the hometown of the "friendly" people and the Shelton Brothers Gang, notorious bootleggers controlling criminal activities throughout Southern Illinois. <br><br>During the first half of the 20th century, gang leaders Carl, Earl and Bernie Shelton made Fairfield a household name. Based on testimony of Charlie Birger himself, the Shelton Brothers were convicted for a 1925 unsolved mail carrier robbery of $15,000 and sentenced to 25 years. They were released just a few years later. <br><br>After serving their time, the Shelton brothers built a new criminal empire. Based out of East St. Louis, one of the most prosperous cities of its day, they controlled all vice from Peoria and southward.<br><br>They met their demise at the hands of the Chicago mob and an insider, Charles "Blackie" Harris. Blackie’s most notable victim was Carl Shelton, the leader, when he was ambushed several miles southeast of Fairfield, shot from his Jeep. Bernie Shelton was killed at his Peoria roadhouse. Earl Shelton moved to Jacksonville, Florida where he became a successful land speculator.<br><br>Dining suggestion: The popular Flat Iron Cooking Company whips up some good home-made food at 1411 W Main St. <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jbvh2ehi4bgilg5ohu9spalvf8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo2U6mjZz9zBwO-o6YHwDNKwvM_JgquLpgQC6fe-_xwLkyN1gsE4sveiCAzxQzTIM3LmKT7RtmrPC4yOr7cENgwMZ1QE7w6ak6SV89Q1XLcZH_rrg9i0PfDtEezYriRwqPTtfSOeRhzosjsKjkh7_aRR8E0nB_p3XPvKPDCKSKGa-knj5O3_s9QckBpMcsPFq5nDV2w1e7MsDBItYOzQYNpWUHWF-KK8aHoAKixQ9ZUFTuXmMaElxPSrrvUtt4R0xMNGB7aXSCu6KbnXmUPtZqG2lVR6g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -88.349301,38.380219,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IL3 - Loves Park</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/voqc4m3qfu08a9casr8od3lsh4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqMnP7v7CHhZ5hwZQfAcfkX6L4o0BfxywFmWSEYXpBjxDbFW80KbSjCqVF77ovsypb__6LGqmHNLIJ6-FxQI9T09zAGmaK2AftVwPf8YBOltbaJNqdPwkJ8mKnd93sEXJHmviq1EFaeVQZ4keddVXRgVMGZ5zsKhZMYpnfRuCjFAMwaaTx5YdtNckXXo-Lgh9AIr7tCPc9kM-cYSFPgKcFElDEz5FGFnOoCyvHwJUqLGZsRDZeCtL3qZUR8JtdGYqCO8wWq-pbz5j5K6igGrg_SDwShIA?session=0&fife" height="200" width="auto" /><br><br>Field of Honor Veterans Memorial<br>Nr. 100 Heart Blvd.<br>Loves Park, Illinois<br>GPS: 42.314884, -89.046802<br>Access: 24/7<br><br>This is a triple memorial opportunity and one of the state sponsor’s favorites. Located in the Arthur W. Anderson Peace Park, the Field of Honor was conceived as a memorial to honor veterans who served in the five wars of the 20th century. Five vertical columns and eight cast bronze life-sized statues are set before a series of 40 American flags. A small column honors civilian contributions to the war efforts.<br><br>Also at this site are a Gold Star Mothers Monument and a Korean War Memorial. <br><br>Made in America: If you jump on Riverside Drive near the memorial and head east about three miles, you will find a number of good places to eat, including Buddy’s Burgers, Pho Square Vietnamese, and GreenFire Gastropub.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/voqc4m3qfu08a9casr8od3lsh4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqMnP7v7CHhZ5hwZQfAcfkX6L4o0BfxywFmWSEYXpBjxDbFW80KbSjCqVF77ovsypb__6LGqmHNLIJ6-FxQI9T09zAGmaK2AftVwPf8YBOltbaJNqdPwkJ8mKnd93sEXJHmviq1EFaeVQZ4keddVXRgVMGZ5zsKhZMYpnfRuCjFAMwaaTx5YdtNckXXo-Lgh9AIr7tCPc9kM-cYSFPgKcFElDEz5FGFnOoCyvHwJUqLGZsRDZeCtL3qZUR8JtdGYqCO8wWq-pbz5j5K6igGrg_SDwShIA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.046855,42.31495,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IL4 - Marseilles</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/5ld1sb73ut1q674nfdk20s095o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrQ7fsl0_psV6GSOwHCHp3lNDD6vWxMikQcwk9Q96q3irZBY7AolNFRlWMkO_S9LEztwDWHvB8UnnBMK2W0e4f2OK_SHsX4a2PvVQFRpw732VuWxcxxvbh21LXxXjDo-bScYbQ2kwgr1hWNs7lV2bWDYT6x0Ua2lneKh_P-mjlcYDx7af68eLDq-QsbdIyyA8VzFG5rTmM1CLszKlLohOcSVHEhKr9pxPDCh8NhVq98_Dekukj7ShkkKF6qWdrrbIdqxO59ZyjFKJAhbhtZaUgDszCP8g?session=0&fife" height="200" width="auto" /><br><br>Middle East Conflicts Wall<br>229 Main St.<br>Marseilles, Illinois<br>GPS: 41.324749, -88.711659<br>Access: 24/7<br><br>This memorial is dedicated to the servicemen and women who have lost their lives in worldwide conflicts since 1979, including still-ongoing conflicts.The names on the wall represent fallen heroes from such diverse locations as Panama, Lebanon, the Balkans, Grenada, Somalia, Haiti, USS Cole, USS Stark, terrorist attacks in Italy, Greece, Scotland, and the current conflicts in the Middle East.<br><br>The wall was made possible by donations from the motorcycling community and every year, on the third Saturday in June, the Illinois Motorcycle Freedom Run brings tens of thousands of people here, paying respect to fallen heroes.<br><br>Made in America: Across the river, in Illini State Park, 250 oak trees make up the Illinois Fallen Soldiers Tree Memorial, dedicated to those who paid the ultimate price in Iraq and Afghanistan.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/5ld1sb73ut1q674nfdk20s095o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrQ7fsl0_psV6GSOwHCHp3lNDD6vWxMikQcwk9Q96q3irZBY7AolNFRlWMkO_S9LEztwDWHvB8UnnBMK2W0e4f2OK_SHsX4a2PvVQFRpw732VuWxcxxvbh21LXxXjDo-bScYbQ2kwgr1hWNs7lV2bWDYT6x0Ua2lneKh_P-mjlcYDx7af68eLDq-QsbdIyyA8VzFG5rTmM1CLszKlLohOcSVHEhKr9pxPDCh8NhVq98_Dekukj7ShkkKF6qWdrrbIdqxO59ZyjFKJAhbhtZaUgDszCP8g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -88.711659,41.324749,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IL5 - Silvis</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/o7a9gs0bvbko9gdtugrne09vlc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo6pR2A1Hs79PveT4SM9G_sLtLvjxW-fSsu_P7JxJ4mdrf0Glt_AUl5KT1XAYwB769Bz0sejje9ud9DvV7HVxx_yDazbMxlUHtjCLlUhyRpl8qbVJnmTeCAHkrWLhlWyF8T5wPqf88WkUkVTKktv32hdI1IiMYmOxLYQnHG9CbAVC40espQXGcB6wQJlewMgk2XLSyYF17DgcUETGQkEY_7JF3OBU4-gZlb3-vN_pkfbdgfojrJ-Xs6_-0Px9N3ErjN9YtTwEmPhvtxyS8r0suxQuIYAg?session=0&fife" height="200" width="auto" /><br><br>Hero Street USA<br>2nd St. & 1st Ave.<br>Silvis, Illinois<br>GPS: 41.514374, -90.424161<br>Access: 24/7<br><br>It has been documented by the DOD, that as of the present day, there have been over 100 young men and women from Second Street who gave service to the United States Military Forces. No other street of comparable size has had as many men and women render service to the Armed Forces of the United States of America than the 1-1/2 block long street in Silvis, Illinois. <br><br>Made in America: 12 minutes to the west is the Rock Island Arsenal which contains the Army’s 2nd oldest museum, with exhibits of more than 1200 military small arms displayed. The arsenal is on Rock Island, an active military installation. As of this writing, non-military personnel must enter the Moline gate and obtain a Visitor Pass. Motorcyclists must observe military installation requirements listed on the website http://bit.ly/36HQYz1. Visit with respect, knowing it’s a privilege to be here. Near the main entrance is a National Cemetery, also worthy of your time. <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/o7a9gs0bvbko9gdtugrne09vlc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo6pR2A1Hs79PveT4SM9G_sLtLvjxW-fSsu_P7JxJ4mdrf0Glt_AUl5KT1XAYwB769Bz0sejje9ud9DvV7HVxx_yDazbMxlUHtjCLlUhyRpl8qbVJnmTeCAHkrWLhlWyF8T5wPqf88WkUkVTKktv32hdI1IiMYmOxLYQnHG9CbAVC40espQXGcB6wQJlewMgk2XLSyYF17DgcUETGQkEY_7JF3OBU4-gZlb3-vN_pkfbdgfojrJ-Xs6_-0Px9N3ErjN9YtTwEmPhvtxyS8r0suxQuIYAg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -90.424161,41.514374,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IL6 - Springfield</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/a08r50du8epe97gc8gr2pofl28/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp01g5YIPpTvp7oRuQdCcN8tCPtbN6d8Q9TQoSxMyAPqe8qoXxZU-9R4ZiX0jE_-q3wMJlk94eqF2GuucIc78PMlce1tRXhrYkUyK09togOv7TCR-ZMHit-taXnA_5jQ25r5ci_WgkQed6LEq4dKpOKFtvc9KNDJB2lBSRNQpaXtH2Bgx3bBm_wzmQsC0gOD6muKPBXjaUaGLBeL2H8hY_35yBrbd6vZslUieYVSLXZzojV2gxdV1wq2G9f82qF2DGsl3BwIU06tRJRf8UXd7Bz-At2jg?session=0&fife" height="200" width="auto" /><br><br>Vietnam Veterans Memorial<br>Oak Ridge Cemetery \n 1441 Monument Ave.<br>Springfield, Illinois<br>GPS: 39.819775, -89.662476<br>Access: 7AM-8PM<br><br>The Illinois Vietnam Veterans Memorial, dedicated in 1988, honors the almost 3,000 Illinoisans killed or listed as missing in action during the Vietnam War. The center of the Memorial is an eternal flame supported by five vertical gray granite walls, each representing a branch of the armed services. Radiating from the vertical walls are five polished black granite horizontal walls, enclosed by a low circular wall forming five courtyards. The names of the dead and missing in action are carved into the black granite.<br><br>The “Vietnam Veterans Vigil and Memorial Service” is held on the first full weekend in May, with a Memorial Day observance later in the month. A “Christmas Remembrance” is observed on the first Saturday in December.<br><br>Also here is the Illinois World War II Memorial honoring the 987,000 Illinois men and women who served in World War II and the 22,000 who gave their lives. Its focal point is a white 22-ton concrete world globe flanked on two sides by black granite walls. Stainless steel buttons on the globe identify major battles, and quotations from military leaders and Presidents Franklin D. Roosevelt and Harry S. Truman are engraved on the walls. <br><br>The Illinois Purple Heart Memorial honors recipients of the Purple Heart killed or wounded from all wars the United States has participated in. The center of the Memorial includes an eight-foot piece of black granite with an engraving of a Purple Heart on it. The other side of the stone features a quote from William Shakespeare’s Henry V, “We few, we happy few, we band of brothers; For he to-day that sheds his blood with me shall be my brother.” Two smaller black granite stones to the left and right of the centerpiece of the Memorial feature the engravings of four soldiers. <br><br>The Korean War State Memorial honors 1,748 Illinoisans killed during the 1950-1953 Korean War. It consists of a twelve-foot-tall bronze bell, with a diameter of twelve feet, mounted on a granite base. At the circumference of the bell are four niches, each with a larger-than-life figure representing a branch of the armed services. Inscribed on the base are the names of Illinoisans killed in Korea. A carillon system in the Memorial plays brief musical programs at regular intervals.<br><br>The massive cemetery is also home to Lincoln’s Tomb.<br><br>Made in America: While in the area, there are plenty of other Lincoln-related sites to visit. Keep an eye out for “Looking for Lincoln” signs!<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/a08r50du8epe97gc8gr2pofl28/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp01g5YIPpTvp7oRuQdCcN8tCPtbN6d8Q9TQoSxMyAPqe8qoXxZU-9R4ZiX0jE_-q3wMJlk94eqF2GuucIc78PMlce1tRXhrYkUyK09togOv7TCR-ZMHit-taXnA_5jQ25r5ci_WgkQed6LEq4dKpOKFtvc9KNDJB2lBSRNQpaXtH2Bgx3bBm_wzmQsC0gOD6muKPBXjaUaGLBeL2H8hY_35yBrbd6vZslUieYVSLXZzojV2gxdV1wq2G9f82qF2DGsl3BwIU06tRJRf8UXd7Bz-At2jg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.662476,39.819775,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IL7 - Winnetka</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/s1qt56lgjbtrmg9q9rgd6v1cj8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoTC1_F6FDxdoTjptIKBafTI8XFRmtC92PCOoi59BjDGj-pl5PcjMO-mJGPHu1153pkBfcxxl8rYY8w0vevGktyHSwUjunsbm8BD9njpnBFltIqXJDnMaN349Om9-ubqbA7N3Gv-PGzcz7-QSamgnBaJ9nyyxfqeb0IIj0eIcvJVtYEy4xMtw63F5D3hUF-olv7pE3ao10eRS9wpM2N1l-k2eZyE-BFx-NlYRSQQlSUmhUqqqQ_D31TRrHslIcCIPwzS5cDpGDvkb0HmX2Lz4TEtxTdwA?session=0&fife" height="200" width="auto" /><br><br>Cenotaph Memorial<br>501 Maple St.<br>Winnetka, Illinois<br>GPS: 42.105183, -87.729456<br>Access: 24/7<br><br>The Cenotaph Memorial is an imposing sight to behold. It’s made of marble on the Village Green, surrounded by a marble exhedra (Google it) and a large flagpole. A cenotaph is an "empty tomb" erected in honor of a person or group of persons whose remains are elsewhere. Although dedicated in 1927 as a monument to honor those who died in World War One, plaques listing the names of those who died in other wars, from the Civil War to the War in Iraq have been added. <br><br>The monument also features a narrative frieze telling the story of soldiers in World War One, and an inscription by Dinsmore Ely, a Winnetka resident who died in the war. He wrote this comment in a letter to his family, shortly before he died: "It is an investment not a loss when a man dies for his country."<br><br>We suggest getting off the bike to walk around the cenotaph and see the intricate narrative carved in to the sides. <br><br>Made in America: Talk about contrast. From small farm towns to a very wealthy suburb on Lake Michigan, you’ll see it all in Illinois. Side roads might include a short blast south on Sheridan Rd. to see the Bahai Temple just as you enter Evanston. It’s an absolutely stunning structure. There are also plenty of small parks along the lake where you can cool off in the shade and enjoy the lake breezes. <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/s1qt56lgjbtrmg9q9rgd6v1cj8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoTC1_F6FDxdoTjptIKBafTI8XFRmtC92PCOoi59BjDGj-pl5PcjMO-mJGPHu1153pkBfcxxl8rYY8w0vevGktyHSwUjunsbm8BD9njpnBFltIqXJDnMaN349Om9-ubqbA7N3Gv-PGzcz7-QSamgnBaJ9nyyxfqeb0IIj0eIcvJVtYEy4xMtw63F5D3hUF-olv7pE3ao10eRS9wpM2N1l-k2eZyE-BFx-NlYRSQQlSUmhUqqqQ_D31TRrHslIcCIPwzS5cDpGDvkb0HmX2Lz4TEtxTdwA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -87.729456,42.105183,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

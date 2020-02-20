@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kentucky</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>KY1 - Argillite</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/s46n2anog88ec879l58pafq7no/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo-t6qrSQ6cdZfPNR3AKFSBZA4lwVKYE4FZaCTQiT31GrULdec2YSgohTCJbAWXCxcWPUOr6H7r2_9TqG--lr0R2wYfH0D_P7opGtq2HP7MiP3_Qjh5c0_OOIqstmFcJudYY0s7NEpqOJzvx_URd4JK-GXLE4GyCFGjFeuYGZC7CY_pJsTFsXPTWsGoztxqdVT6_5zC6fE3yfg3e5EqfdEwJVruVFsI0PdLZj8CS27W3fVrwkOSmWKvCphD0eA08yn9xYaDE2CWSptPmh06iIGSXHx-PQ?session=0&fife" height="200" width="auto" /><br><br>Korean War Soldiers Memorial<br>Kentucky Veterans Cemetery NE \n 100 Veterans Memorial Dr.<br>Argillite, Kentucky<br>GPS: 38.384180, -82.819014<br>Access: Dawn to dusk<br><br>This Memorial depicts two local veterans and Congressional Medal of Honor recipients, Pfc. Ernie West on the top of the wall, who still lives in nearby Wurtland, and Worthington resident Cpl. John Collier, posthumously awarded the CMOH.<br><br>West’s citation reads:<br>“Pfc. West distinguished himself by conspicuous gallantry above and beyond the call of duty in action against the enemy. He voluntarily accompanied a contingent to locate and destroy a reported enemy outpost. Nearing the objective, the patrol was ambushed and suffered numerous casualties. Observing his wounded leader lying in an exposed position, Pfc. West ordered the troops to withdraw, then braved intense fire to reach and assist him. While attempting evacuation, he was attacked by 3 hostile soldiers employing grenades and small-arms fire. Quickly shifting his body to shelter the officer, he killed the assailants with his rifle, then carried the helpless man to safety. He was critically wounded and lost an eye in this action. but courageously returned through withering fire and bursting shells to assist the wounded. While evacuating 2 comrades, he closed with and killed 3 more of the foe. Pfc. West’s indomitable spirit, consummate valor, and intrepid actions inspired all who observed him, reflect the highest credit on himself, and uphold the honored traditions of the military service.”<br><br>Collier’s citation reads:<br>“On September 19, 1950, near Chindong-ni, Korea, Cpl. John Collier, Company C, distinguished himself by conspicuous gallantry and intrepidity above and beyond the call of duty in action. While engaged in an assault on a strategic ridge strongly defended by a fanatical enemy, the leading elements of his company encountered intense automatic weapons and grenade fire. Cpl. Collier and three comrades volunteered and moved forward to neutralize an enemy machine gun position which was hampering the company’s advance, but they were twice repulsed. On the third attempt, Cpl. Collier, despite heavy enemy fire and grenade barrages, moved to an exposed position ahead of his comrades, assaulted and destroyed the machine gun nest, killing at least four enemy soldiers. <br><br>“As he returned down the rocky, fire-swept hill and joined his squad, an enemy grenade landed in their midst. Shouting a warning to his comrades, he, selflessly and unhesitatingly, threw himself upon the grenade and smothered its explosion with his body. This intrepid action saved his comrades from certain death or injury. Cpl. Collier’s supreme, personal bravery, consummate gallantry, and noble self-sacrifice, reflect untold glory upon himself and uphold the honored traditions of the military service.”<br><br>Made in America: It’s a short ride west to Greenbo Lake State Resort Park, 965 Lodge Road in Greenup, to have lunch at the Angler’s Cove Restaurant. Then, with a happy belly, pick one of the three amazing motorcycling routes that the park recommends. 28, 62 miles or 102 miles long around the park. http://bit.ly/3a2O1Lu<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/s46n2anog88ec879l58pafq7no/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo-t6qrSQ6cdZfPNR3AKFSBZA4lwVKYE4FZaCTQiT31GrULdec2YSgohTCJbAWXCxcWPUOr6H7r2_9TqG--lr0R2wYfH0D_P7opGtq2HP7MiP3_Qjh5c0_OOIqstmFcJudYY0s7NEpqOJzvx_URd4JK-GXLE4GyCFGjFeuYGZC7CY_pJsTFsXPTWsGoztxqdVT6_5zC6fE3yfg3e5EqfdEwJVruVFsI0PdLZj8CS27W3fVrwkOSmWKvCphD0eA08yn9xYaDE2CWSptPmh06iIGSXHx-PQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -82.819014,38.38418,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KY2 - Bowling Green</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/vn7cpbop3pd3qgsmao1sbrkpgk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoU92tQPdgYAFY-9gAr2iF3h5Tgl0-1-4f5gl0Pik1pAgr3QZ0qfqIc1jYliFTK6vuQgXCHo0HxQsaFIy9LR6x5cgdyIKCrCi5ktBFl_L7A27XecMMxXEadjXPDfdLEoygZYgL_F5DMPFpRopA7Pgu1QS-i_xpGVgF6aeD1ZRJaBO9GSH9Dhb0jSq_wRyYMdJdjBxsHVg49fDZ8suboGjilyjiEmU5XMF2yjzB6Msvi7PaGxeS5R5JlTBXI5g43SFGdT9QPbqYCrrzCLm4SPv8IBPrwmw?session=0&fife" height="200" width="auto" /><br><br>Armed Services Memorial Courtyard<br>429 E. 10th St. <br>Bowling Green, Kentucky<br>GPS: 36.992769, -86.442904<br>Access: 24/7. Not well lit at night.<br><br>The Warren County Courthouse features a shaded courtyard with memorial stones and pavers to honor those that served. In the center is this impressive statue paying tribute to all branches of the military.<br><br>Made in America: Not only home to Fruit of the Loom underwear, the town is best known for the Bowling Green Chevrolet Assembly Plant, where Corvettes have been produced since 1981. If you have the time, the National Chevrolet Museum is worth a visit, and if you visit during the summer, you may see Rock n Ride Motorcycle Rally organizer Lynne Carey working there. http://www.corvettemuseum.org<br><br>Be sure to visit the famous Riley’s Bakery, where they’ve been serving made-from-scratch sweets like brownies, cream horns, Hungarian coffee cake and tea cookies, for over 70 years. Enjoy old-fashioned sandwiches on butter bread with chicken, tuna, ham & egg salad, olive nut cream cheese or pimento cheese. For hours and directions, visit their Facebook page at http://bit.ly/36MdEy7<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/vn7cpbop3pd3qgsmao1sbrkpgk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoU92tQPdgYAFY-9gAr2iF3h5Tgl0-1-4f5gl0Pik1pAgr3QZ0qfqIc1jYliFTK6vuQgXCHo0HxQsaFIy9LR6x5cgdyIKCrCi5ktBFl_L7A27XecMMxXEadjXPDfdLEoygZYgL_F5DMPFpRopA7Pgu1QS-i_xpGVgF6aeD1ZRJaBO9GSH9Dhb0jSq_wRyYMdJdjBxsHVg49fDZ8suboGjilyjiEmU5XMF2yjzB6Msvi7PaGxeS5R5JlTBXI5g43SFGdT9QPbqYCrrzCLm4SPv8IBPrwmw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -86.442904,36.992769,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KY3 - Frankfort</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ala1t8mj7ofmfs3r668vdbtugs/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpjtXdk7Nrn4fpsWhbKZ3TgcXQBhkqYs68XF3HBEcEJjLStRUuZ2AnCBXSUDd37aAPl0IWqWvFXA4MfaKRLyGkTTnpKaj4qKFmDT-UhbzQ0XJG1Pp159D7bCBDpfcIYVEGkpgCvtqOhR6G-KOsr8qcTF2L6jigE6oeUyQBGcStocg2A05sDOXLmv5gU7szKTqyZu0ofd1P6APINrv4s94kYJ5WP1X2LbZS8oEWJwf12Jjye8qs3369MQ7udqQSyzaaKPA9I8JMKBrzEFhTo5sVhXiDBSw?session=0&fife" height="200" width="auto" /><br><br>Kentucky National Guard<br>100 Minuteman Pkwy.<br>Frankfort, Kentucky<br>GPS: 38.188392, -84.894270<br>Access: 24/7<br><br>On Memorial Day of 2015, the KYNG Memorial was dedicated. Nearly ten years in the making and $1.5 million from private donations and corporate grants, the memorial honors more than 230 Guardsmen who have given their lives in the line of duty since 1912, in defense of the nation overseas and here at home. <br><br>It is a large stone map of Kentucky with names of the 230 Guardsmen etched on it, and is located at the entrance to the Boone National Guard Training Center.<br><br>Made in America: If you’re hungry, head to Staxx BBQ at 11 Carson Place. It’s a family-owned counter-serve joint with nostalgic BBQ dinners and sandwiches, plus beer and a drive-thru. https://www.staxxbbq.com <br><br>Also, in downtown Frankfort, take the time to visit the Kentucky Military History Museum, http://bit.ly/35GXDYM<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ala1t8mj7ofmfs3r668vdbtugs/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpjtXdk7Nrn4fpsWhbKZ3TgcXQBhkqYs68XF3HBEcEJjLStRUuZ2AnCBXSUDd37aAPl0IWqWvFXA4MfaKRLyGkTTnpKaj4qKFmDT-UhbzQ0XJG1Pp159D7bCBDpfcIYVEGkpgCvtqOhR6G-KOsr8qcTF2L6jigE6oeUyQBGcStocg2A05sDOXLmv5gU7szKTqyZu0ofd1P6APINrv4s94kYJ5WP1X2LbZS8oEWJwf12Jjye8qs3369MQ7udqQSyzaaKPA9I8JMKBrzEFhTo5sVhXiDBSw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.89427,38.188392,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KY4 - Louisville</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/uvem5s59trrk5t2fi3h1s8ln2k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALood236OYK0GJMKdVAEbQDW5bqwLTfJcs-pBMMGrCGHV50FTYtLYWvDoiWzTroQMJhrbOLmmZMKiyHHvU1MOU7V8g1d4pRRHFb87RhO3wwz9K-rmcJnmVk33jcNUep0B5ecIAEm7Gy3F6aYgb9HMfo6JIzU6LKEdph8VNjar6v7NYV7ELaVhISjfs-wJ12ei8dp07B6HqjoyNgHvE4QgWNPsBmPsOqsFDl1S3hqOIeIMBszRvJ-AfTmhrmruaLOuLdMO4oLyx9l0xA4oaXsTAZdzwvOwQ?session=0&fife" height="200" width="auto" /><br><br>Patriots Peace Memorial<br>3742 River Rd.<br>Louisville, Kentucky<br>GPS: 38.288611, -85.682778<br>Access: Dawn to dusk. Park at the Golf Academy and walk in, less than 1/8th mile.<br><br>Honoring members of the Armed Forces who have lost their lives in the line of duty under conditions other than hostile action, this memorial is dedicated to those who have STOOD THE WATCH and will be remembered for their honorable service to our country. Each year on Memorial Day, Patriots enshrined within the walls of the Patriots Peace Memorial are remembered, and grieving families of sons or daughters are comforted.<br><br>As a name is added, a concrete brick is removed and replaced with a personalized glass plate identifying each Patriot and signifying the loss. This void in an otherwise solid wall becomes a portal of light transforming the interior by day and radiating outward at night through each name, as a daily reminder to celebrate the joy of freedom safe guarded by these brave men and women.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/uvem5s59trrk5t2fi3h1s8ln2k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALood236OYK0GJMKdVAEbQDW5bqwLTfJcs-pBMMGrCGHV50FTYtLYWvDoiWzTroQMJhrbOLmmZMKiyHHvU1MOU7V8g1d4pRRHFb87RhO3wwz9K-rmcJnmVk33jcNUep0B5ecIAEm7Gy3F6aYgb9HMfo6JIzU6LKEdph8VNjar6v7NYV7ELaVhISjfs-wJ12ei8dp07B6HqjoyNgHvE4QgWNPsBmPsOqsFDl1S3hqOIeIMBszRvJ-AfTmhrmruaLOuLdMO4oLyx9l0xA4oaXsTAZdzwvOwQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -85.682778,38.288611,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KY5 - Owensboro</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ons99ngtcmpie7gh6v3l6rqkn8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALohCaw3gAxv86cFBIQInyU7Z8WrcUanZg5x7NfhoncoT_hdYIYwlZ-rlq0ud62vqWB14oqur9D0ZK9dJK39Ae9ZutQihh3GkZV6fOmJMXcDGC04F80EA96uS-6BgWreT4UqkFQYA7bUkmsSCw9aVYvoP_SFCn7mQWi7yLwsnqLFXQKuVNxOsUtP7uBKFRAwBO_SsMJovOebe87Ely2Rcl0T46XUHcezrzeDYzmMPsy5K-xaS1lXcOusSEesf75QGPpDh0vV-9aiVQlu60TKC_SvgNXa_w?session=0&fife" height="200" width="auto" /><br><br>“The Fireboys Team” Firefighters Memorial<br>512 W 9th St.<br>Owensboro, Kentucky<br>GPS: 37.767135, -87.115813<br>Access: 24/7. Don’t park in driveways for obvious reasons.<br><br>This statue was donated to the Owensboro Fire Department, in honor of those that serve and served, including those that lost their life.<br><br>Made in America: Take a ride to the Bluegrass Hall of Fame, dedicated to celebrating and preserving the international history of bluegrass music. Well worth the $12 entrance fee! https://www.bluegrasshall.org <br><br>In the mood for some “groovy” pizza? Stop by the Mellow Mushroom, part of a popular chain of restaurants that claims to have the best pizza in Owensboro. http://bit.ly/2QMTCOr<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met. ]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ons99ngtcmpie7gh6v3l6rqkn8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALohCaw3gAxv86cFBIQInyU7Z8WrcUanZg5x7NfhoncoT_hdYIYwlZ-rlq0ud62vqWB14oqur9D0ZK9dJK39Ae9ZutQihh3GkZV6fOmJMXcDGC04F80EA96uS-6BgWreT4UqkFQYA7bUkmsSCw9aVYvoP_SFCn7mQWi7yLwsnqLFXQKuVNxOsUtP7uBKFRAwBO_SsMJovOebe87Ely2Rcl0T46XUHcezrzeDYzmMPsy5K-xaS1lXcOusSEesf75QGPpDh0vV-9aiVQlu60TKC_SvgNXa_w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -87.115813,37.767135,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KY6 - Wendover</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/67hdlckgdio28g8973ca4v4rs0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALryM3-eE9LC_MQBeRNpYCNdmNGi06CCedx31iTEzaeuK6j-QTMRocIzWeNzFZnamejGXAqfuIWdYC6TAEhVpDHOf8V-1YfP3qEjjJsCnv6u17fwVUOTpAlg6N8O9BeNyHOXa7fFfv9NouwvVUwiK_2cVao8R2b9CsPSYbxwld_LGVNHk1F4RbSymIbAC_ATdV4bedzhiSXPLTRXa1E2EhrerXlIMgGzAbAAGXVjENl_G3uIG05EnvVrdkofwMIcfjWnJPAlA83i7uA4McIyVRlQi82CKw?session=0&fife" height="200" width="auto" /><br><br>Miners Memorial<br>Wendover-Hurricane Creek Rd. between Camp Creek Rd. and Sage Dr. <br>Wendover, Kentucky<br>GPS: 37.128336, -83.3478883<br>Access: Daylight hours only. Gravel present so use caution on the twisty road.<br><br>The Hurricane Creek Miners Memorial is dedicated to the 38 men who perished, and a lone survivor of the Finely Mine explosion in 1970. It is one of the largest, most detailed coalminers memorials in the US. It consists of a walkway with 38 wooden gates, each with a hanging coal miner hat honoring those that died here, a bronze statue of a coal miner, and two walls that consist of the names and information about the thirty-eight coal miners. While there was one survivor, he was recognized as well with a plaque placed on his statue. <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/67hdlckgdio28g8973ca4v4rs0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALryM3-eE9LC_MQBeRNpYCNdmNGi06CCedx31iTEzaeuK6j-QTMRocIzWeNzFZnamejGXAqfuIWdYC6TAEhVpDHOf8V-1YfP3qEjjJsCnv6u17fwVUOTpAlg6N8O9BeNyHOXa7fFfv9NouwvVUwiK_2cVao8R2b9CsPSYbxwld_LGVNHk1F4RbSymIbAC_ATdV4bedzhiSXPLTRXa1E2EhrerXlIMgGzAbAAGXVjENl_G3uIG05EnvVrdkofwMIcfjWnJPAlA83i7uA4McIyVRlQi82CKw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.3478883,37.128336,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KY7 - West Liberty</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/rdo04t256n3dv95g9q1677t90s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoE8mOgDudgPXvYGk90C3y1xBIT22I8Ha7SZl3g0xU4Af0Z_m3eIHeNgPCIiGZC9iwITV7vkgVbw4t3YJ6vbqG715ICY9-aecxijxXwG_4EHNgfQFzSw9V19A_gPEIngSKeGEcpuzeJfwKeR-LrUT3D4y8Zg2GqM91U1g3lmV9esSwywgNL5-NTLE7VS5CBDMbsH_YT60Tqfe6LfdXrRVqs9ImX2kYG88ruzEgYQzYsYeL_vCZag3_QZBoQhMsQb_KgUx8ALxGS6g74I89BO_jv4_LRvw?session=0&fife" height="200" width="auto" /><br><br>Women’s Military Monument<br>Tredway Memorial Park \n Nickell St. & Glenn Ave.<br>West Liberty, Kentucky<br>GPS: 37.920042, -83.249922<br>Access: 24/7<br><br>Too often, women’s service in the military seems invisible, but not in Morgan County. The bronze statue of three service members honors women of the past, present and future of the military. A woman with a 1940s haircut, skirt and clipboard represents the clerical jobs in the early days of women’s full enlistment in the military. A kneeling woman in combat fatigues, sunglasses, helmet and carrying a rifle faces east. A commanding officer with regalia and ribbons salutes while facing the American flag in the park. They evoke the enormous sacrifices women have made, and are presently making, in military service, said Stephen Tirone, a Marine and artist who created the sculpture. <br><br>Made in America: If you want to cool off with an ice cream or milk shake, stop by the West Liberty icon Freezer Fresh Dairy, just a couple blocks NW of here. They also serve fried chicken, burgers, dogs and grilled cheese. http://bit.ly/380FxCM<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/rdo04t256n3dv95g9q1677t90s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoE8mOgDudgPXvYGk90C3y1xBIT22I8Ha7SZl3g0xU4Af0Z_m3eIHeNgPCIiGZC9iwITV7vkgVbw4t3YJ6vbqG715ICY9-aecxijxXwG_4EHNgfQFzSw9V19A_gPEIngSKeGEcpuzeJfwKeR-LrUT3D4y8Zg2GqM91U1g3lmV9esSwywgNL5-NTLE7VS5CBDMbsH_YT60Tqfe6LfdXrRVqs9ImX2kYG88ruzEgYQzYsYeL_vCZag3_QZBoQhMsQb_KgUx8ALxGS6g74I89BO_jv4_LRvw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.249922,37.920042,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

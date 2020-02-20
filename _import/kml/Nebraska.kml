@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Nebraska sponsored by Ken & Linda Schleman]]></name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>NE1 - Arapahoe
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/nqf4am8fm5dd9ec8ttpvejekas/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpCc1lYd2QuTea6B-2YUGRaVOfYvF_CF3UIWFrtze2cb1NumB_fsrqiEMeVFINgomnN8vKP3HHgXa8rVcgpNdA-8X1c6oNGAttG2K77DfVnhq4IliQ9eNnFGOrtG8y-z8b-9143o0etbwGLEPYpyvks67YCN-HHh2nIS61N-krKPDL5NLrK_-ymFdX1ZSf1km3sT37isGsMkCAvKXNQdBNzAI9ZU2mXi21TEhbg_b_YniEdAnKwBHrNfKqSlklN6e22XYLqf0NLKLwdX-ubCUR3tFEvRQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Freedom Wall<br>Nebraska Ave. & Locust St.<br>Arapahoe, Nebraska<br>GPS: 40.303556 -99.897384 <br>Access: 24/7. Illuminated at night.<br><br>This beautiful brick wall was created to honor and recognize all veterans that have served in the United States Armed Forces. <br><br>On the front side of the expansive brick wall are the words “Freedom is not free; it comes with a price” which is highlighted by the raised images of an American Flag and a bald eagle.  On the back side of the monument, engraved on over 550 individual bricks, are the names, date and war of every veteran honored from Arapahoe and the surrounding area. The earliest veterans honored served in the Revolutionary, Mexican and Civil Wars.<br><br>Located in the heart of the downtown district of Arapahoe on U.S. Highway 283, construction on the Veterans Freedom Wall was completed in April of 2006 by Larson Brothers of Axtell, NE. <br>The Veterans Freedom Wall is free, open to the public year-round and is lighted for evening viewing as well.<br><br>Made in America: Good eats in town would be the Cunningham’s Feed Bakery Grill and Bar. Service is good, food is good, drinks are good, a great place to go. https://bit.ly/2NVXH0C<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/nqf4am8fm5dd9ec8ttpvejekas/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpCc1lYd2QuTea6B-2YUGRaVOfYvF_CF3UIWFrtze2cb1NumB_fsrqiEMeVFINgomnN8vKP3HHgXa8rVcgpNdA-8X1c6oNGAttG2K77DfVnhq4IliQ9eNnFGOrtG8y-z8b-9143o0etbwGLEPYpyvks67YCN-HHh2nIS61N-krKPDL5NLrK_-ymFdX1ZSf1km3sT37isGsMkCAvKXNQdBNzAI9ZU2mXi21TEhbg_b_YniEdAnKwBHrNfKqSlklN6e22XYLqf0NLKLwdX-ubCUR3tFEvRQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.897384,40.303556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NE2 - Ashland</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/445p3977qia5d8h7bb677jirok/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpKvBsOQ_WWtasTyQuf0QGfD-tKC3cnpvPZ8-GYTb9WTMDuX3SbeExiaCjFgqNNCpBjWZHxDpLaUK-fBKzG8wQ_lBlzyBQf7iOgeaUbwu5MX9idN8ivoahlQ__iTFk6ujmJ9FBXdiCRHkkVs_q5cgN-vF7bpxoYKPhn4uZCF9lx0Ea3XWLGFDkgQYSs7zOHkAl3VC2w9Aq4J38WPOTgyjjDnqROQYWXrj1eUsER63v2u_6GmvL0LELKFVch7QA4yLG5B9zCIKGi7RSDNIUclPYzEkxZpw?session=0&fife" height="200" width="auto" /><br><br>Strategic Air Command Museum<br>28210 West Park Hwy.<br>Ashland, Nebraska<br>GPS: 41.017720, -96.319731<br>Access: 24/7 for scoring photo.<br><br>A monument to those that make America the most powerful nation in the world, the Strategic Air Command (SAC), at it’s peak, was a global force utilizing long and short range bombers as well as nuclear intercontinental ballistic missiles (ICBM) to aid in the deterrence of aggression against the United States and Allies. SAC began during World War II as a way to coordinate the heavy bombing and reconnaissance of targets in Germany. The Air Force became an independent branch of the military in 1947 and SAC continued to grow flying various missions during the Korean War, Vietnam and Desert Storm. <br><br>The Strategic Air Command Museum began in 1959 at a hangar at Offut Air Base to commemorate the contributions of the personnel of SAC. On May 16, 1998 the museum moved to it’s current location offering a 300,000 square foot building displaying various aircraft that contributed to the mission of SAC over the years. There are also some ICBM’s on display in front of the museum. <br><br>Museum hours are 9AM-5PM, $12 admission with discounts for seniors and military veterans. Entry not required for scoring photo at entrance. But well worth seeing anyway.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/445p3977qia5d8h7bb677jirok/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpKvBsOQ_WWtasTyQuf0QGfD-tKC3cnpvPZ8-GYTb9WTMDuX3SbeExiaCjFgqNNCpBjWZHxDpLaUK-fBKzG8wQ_lBlzyBQf7iOgeaUbwu5MX9idN8ivoahlQ__iTFk6ujmJ9FBXdiCRHkkVs_q5cgN-vF7bpxoYKPhn4uZCF9lx0Ea3XWLGFDkgQYSs7zOHkAl3VC2w9Aq4J38WPOTgyjjDnqROQYWXrj1eUsER63v2u_6GmvL0LELKFVch7QA4yLG5B9zCIKGi7RSDNIUclPYzEkxZpw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -96.319731,41.01772,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NE3 - Columbus</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0e7896o0boh4hjforecb3aq46g/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpKlR_cZeVYgrWbBGOmZkZXVc4h0ukk7rDj_yPZRW1ZoeQ_RthRD0Ht-1xCGulGPf2F-VYTn4XAcEpn713UjiGqYxSdi4ghdcMTGLJ_sNwRFQRJ2HLXvVhLFJPAfJ86aJLVO6Su1z1MZF7a6EyaO_vJ3UDyTOV1cbplowknreTEbnV9B2D_aUiTA-vAfaPzWMglSEVAi29ODrD8_2vrGmA1035HzU46WmE02xKEUkdheLZBBscUkSXWAmTOp7tiuLdzTUs7b0YiIUCFjV92jNtp_v2zGw?session=0&fife" height="200" width="auto" /><br><br>West Pawnee Park<br>3377 Pawnee Park Dr.<br>Columbus, Nebraska<br>GPS: 41.41880,-97.36877<br>Access: 5AM-Midnight<br><br>Andrew Jackson Higgins (1886-1952) was born here in Columbus, and his experience with the shallow rivers in the area gave him a vision for a shallow-draft boat that changed the course of history. Founder and President of Higgins Industries in New Orleans, Higgins rose to international prominence during World War II for his design and mass production of “Higgins Boats.”<br><br>These craft gave the military the ability to transport men and equipment safely to beaches during amphibious landings in the war. General Dwight Eisenhower called Higgins “the man who won the war for us…if Higgins had not designed and built those LCVPs (Landing Craft, Vehicle, Personnel), we never could have landed over an open beach. The whole strategy of the war would have been different.” Higgins Industries produced 20,094 boats during WWII.<br><br>The memorial includes a full-size replica of the famous Higgins Boat. Running from the boat are sculptures by internationally renowned artist Fred Hoppe, depicting a soldier from each of the three wars in which Higgins Boats served (World War II, the Korean, and Vietnam War). Around the boat are sand samples from landing beaches across the globe where Higgins Boats carried soldiers ashore. Brass stars hold these sand samples from D-Day beaches and are embedded in the concrete surrounding the “Higgins Boat”. This memorial is the only known location in the world to allow visitors to walk on sand from D-Day landings of WWII, Korea and Vietnam.<br><br>After 9/11, the Memorial was expanded to honor those who lost their lives on that fateful day and those who continue the fight against terrorism.<br><br>This incredible memorial stands as a tribute to a Columbus native son who changed history…to veterans of all eras who have served and sacrificed…to the ongoing fight against the evil of terrorism…and to the power of engaged young people who impacted their community.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0e7896o0boh4hjforecb3aq46g/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpKlR_cZeVYgrWbBGOmZkZXVc4h0ukk7rDj_yPZRW1ZoeQ_RthRD0Ht-1xCGulGPf2F-VYTn4XAcEpn713UjiGqYxSdi4ghdcMTGLJ_sNwRFQRJ2HLXvVhLFJPAfJ86aJLVO6Su1z1MZF7a6EyaO_vJ3UDyTOV1cbplowknreTEbnV9B2D_aUiTA-vAfaPzWMglSEVAi29ODrD8_2vrGmA1035HzU46WmE02xKEUkdheLZBBscUkSXWAmTOp7tiuLdzTUs7b0YiIUCFjV92jNtp_v2zGw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.36877,41.4188,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NE4 - Falls City</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/i7gju9g8jo7bm33do7gug1fueg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpM44I-_ge1WyFHqKKorZOSqDH3Whd0w30Ws_zBnx2GPVf1jGJCDaafmHm0RfjrcuV0EMvdeZWmNLWbUlMXY0xVGluNvvQRyMem03pWZALiEwTwA5Z3cyZDFwjnZqKC-sykrgtKWgOW_VFjfQPPxSZ4KKCR40ec9kHhDG_xg7CsafNYhhR4jIJvqLfVC-O1Wbv32rx9SursUpfP7kW1cgPYUpPk-w9OG6n2gn-Tc2z_T0dAsYPS383oHwCc-l35nI_xrg0xuxVz6EitereY4_CZYxwYpw?session=0&fife" height="200" width="auto" /><br><br>War Memorials<br>Harlan & E 17th Sts.<br>Falls City, Nebraska<br>GPS: 40.061935, -95.602065<br>Access: 24/7<br><br>This monument is one of simplicity and an air of deep respect, despite the busy corner of town.<br>Located on the County Courthouse grounds, are three granite monuments, one for WWII, one for the Korean War, and one for the Vietnam and Iraq Wars. The title reads “IN ENTERNAL GRATUTUDE THAT WE MAY FOREVER BE FREE.” <br><br>Also in the area: There is a Military Park at 7th and Harlan that has a ship’s anchor, a tank, a Howitzer and a B-17 bomber prop and is paved with Memorial bricks. <br><br>Try the One Stop Café at 2103 Stone St. that serves a great breakfast. It is cash-only. <br><br>Or try Mutt & Jeff Drive-In at 2802 Old Hwy 73, where you can flash your lights for “The Best ‘Kwiki’ in Town!”<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/i7gju9g8jo7bm33do7gug1fueg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpM44I-_ge1WyFHqKKorZOSqDH3Whd0w30Ws_zBnx2GPVf1jGJCDaafmHm0RfjrcuV0EMvdeZWmNLWbUlMXY0xVGluNvvQRyMem03pWZALiEwTwA5Z3cyZDFwjnZqKC-sykrgtKWgOW_VFjfQPPxSZ4KKCR40ec9kHhDG_xg7CsafNYhhR4jIJvqLfVC-O1Wbv32rx9SursUpfP7kW1cgPYUpPk-w9OG6n2gn-Tc2z_T0dAsYPS383oHwCc-l35nI_xrg0xuxVz6EitereY4_CZYxwYpw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -95.602065,40.061935,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NE5 - Gering</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/u8riovm30kg7587fbp0rffias8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp5XlcTD09-TU0CEp2DyPxf0DLkH12tqNRYaeOrdHb3FukzEL0a22P28_MFtze63oXXcmKqTUx3rHhRoWacde3dn6YvxEKe_ZxIGiFghbMviEUlSaIpNiQ-18W5ZuTrh49juWmfWEHl6CyzeG2WDR59PBWfwayXQ-TSmLKDKUlc3ocz4UhyH4cgUJtV7MZnBycjU8fe5WisXWwd2ZD9KaZB7jJK-diTGxl2xqqg3w8PwBeatFFUjzJLPCMlt3rnVN6zIQzaE8lYUpEzXXzjBCOycji3IQ?session=0&fife" height="200" width="auto" /><br><br>Afghanistan-Iraq Memorial<br>1825 10th St.<br>Gering, Nebraska<br>GPS: 41.826831, -103.661339<br>Access: 24/7<br><br>Thia memorial stands in memory of Western Nebraska men that were killed in action in Iraq and Afghanistan.<br><br>Made in America: Scotts Bluff National Monument is three miles west and was an important landmark on the Oregon and Mormon Trail. Well worth the visit. <br><br>Or head east to the town of Alliance where the peculiar Carhenge is on display. It’s three miles north of Alliance on Hwy 87.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/u8riovm30kg7587fbp0rffias8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp5XlcTD09-TU0CEp2DyPxf0DLkH12tqNRYaeOrdHb3FukzEL0a22P28_MFtze63oXXcmKqTUx3rHhRoWacde3dn6YvxEKe_ZxIGiFghbMviEUlSaIpNiQ-18W5ZuTrh49juWmfWEHl6CyzeG2WDR59PBWfwayXQ-TSmLKDKUlc3ocz4UhyH4cgUJtV7MZnBycjU8fe5WisXWwd2ZD9KaZB7jJK-diTGxl2xqqg3w8PwBeatFFUjzJLPCMlt3rnVN6zIQzaE8lYUpEzXXzjBCOycji3IQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -103.661339,41.826831,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NE6 - Niobrara</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/upbfor9jrtpmm1mab5jr9h0vi8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq0NnYxab26G-IO0VoIeFkgrGX8w4wvrIAk6l6bNtifYxjiR0T9-hKnQldkVT8IbQlhu7FAny2RQzTXJ0q2PyALD984chv8gs7W3iA9EBzVzyMIxsWcad9rhLsfMvL0eacmaewkuopA_dwraKG06QyW1c7_uIWH3MLpJa7bkjuklGsgkh0AyIoDPU6ZlDANakQF5i11Vl7JK6_bBnFgPJ4dp0BJcqNmTei3mahS0wvGc6eGj45mma4Jh3iXzTdDNjoDpQrvJUGd2NqtarZczz1qs1Wyfw?session=0&fife" height="200" width="auto" /><br><br>Sage Brothers Memorial<br>25410 Park Ave.<br>Niobrara, Nebraska<br>GPS: 42.750281, -98.031886<br>Access: 24/7<br><br>On the night of June 2, 1969, while on maneuvers in the South China Sea off the coast of Vietnam, the Australian aircraft carrier Melbourne was in collision with the destroyer USS Frank E. Evans. The impact cut the Evans in two, the bow section sinking almost immediately. <br><br>Seventy-four American seamen were lost, including three brothers from Niobrara, Nebraska; Gary, Gregory, and Kelly Sage. The brothers, 22, 21, and 19 years of age respectively, were the sons of Mr. and Mrs. Ernest Sage, and had been stationed together aboard the Evans at their own request. <br><br>This tragedy was perhaps the greatest single loss suffered by any Nebraska family of the many who have contributed their sons to the service of the Nation. The Sage brothers were only three of the 74 soldiers that perished. Despite repeated efforts by survivors and their supporters, the 74 sailors have not been listed on the Vietnam Veterans Memorial in Washington D.C. as casualties of the war.<br><br>On Memorial Day of 2016, the townspeople of Niobrara intended to help right that wrong. On that Monday, a pair of black granite monuments, listing all 74 victims of the naval tragedy was unveiled. The ‘Lost 74” twin stones flank the state historical marker shown above, that memorializes the sacrifice of three brothers and their family from this tiny town. <br><br>Made in America: Located on Hwy 12, The Outlaw Trail Scenic Byway is a nice ride. For breakfast or lunch, try the biker-friendly Country Café. http://www.eatcountrycafe.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/upbfor9jrtpmm1mab5jr9h0vi8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq0NnYxab26G-IO0VoIeFkgrGX8w4wvrIAk6l6bNtifYxjiR0T9-hKnQldkVT8IbQlhu7FAny2RQzTXJ0q2PyALD984chv8gs7W3iA9EBzVzyMIxsWcad9rhLsfMvL0eacmaewkuopA_dwraKG06QyW1c7_uIWH3MLpJa7bkjuklGsgkh0AyIoDPU6ZlDANakQF5i11Vl7JK6_bBnFgPJ4dp0BJcqNmTei3mahS0wvGc6eGj45mma4Jh3iXzTdDNjoDpQrvJUGd2NqtarZczz1qs1Wyfw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -98.031886,42.750281,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NE7 - North Platte</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/bhu7ka67osk90hdqre1gjb36ks/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp5gWkIqJtYdccKYtsxUYIYq06_hQ_naObbBNOF_5AcWTmTodNtWYbRjZVDvVc1T2vmEoIh1GMJULKdrTxqgy6Iivt0T2iDHvegOXmI6lR4PJmxnW1m8WESgbEHsl9kmKh7SY949f6yjdJakPgQJojyWuvPnl-2G_7mPqldJ4Cum0WGcJE77ySa8Gc4BxGoS6hEVUnwLB6dGHeWbEf9YTuYTyCSYI-Wz4aLGTP0FE8o67AoDNLMmzr7SQLQHQSsCd2kiEsCCdrfxerbaxIIKmyevLAseA?session=0&fife" height="200" width="auto" /><br><br>The Canteen Lady<br>Iron Horse Park \n 2811 S Jeffers St.<br>North Platte, Nebraska<br>GPS: 41.108025, -100.762806<br>Access: 24/7. Make sure you get the correct photo!<br><br>On the east side of the expansive 20th Century Veterans Memorial is the statue depicting Rae Wilson Sleight, the driving force behind the creation and delivery of the canteen services and comfort to the more than 6,000,000 men and women headed for combat or headed home. The North Platte Canteen greeted every troop train from December 25, 1941 to April 1, 1946, with smiles, coffee, cigarettes and sandwiches, during the troops’ 13-minute stop here.<br><br>The history of the canteen can be traced back to December 17, 1941. Just ten days after the attack on Pearl Harbor, men of the 134th Infantry Regiment of the Nebraska Army National Guard were on their way from Camp Joseph T. Robinson near Little Rock, Arkansas to an unknown destination. Rumor had it that the train would arrive at 11, but by noon it hadn’t shown up. After another false alarm, the train finally rolled in around 4:30. By this time, at least five hundred relatives and friends of local servicemen showed up at the depot. They brought baskets of fruit, cartons of cigarettes, Christmas gifts and fruit cakes.<br><br>The train arrived and the crowd cheered, but the soldiers weren’t members of the 134th. The crowd gave the soldiers the gifts and food that was originally meant for their own sons and wished them off.<br><br>The reason the trains were stopping in North Platte was because the town was a designated tender point for steam trains. Stopping the train allowed for the train crews to relubricate the wheels, top off the water levels in the tanks, and other maintenance of the locomotive. This practice continued until the Union Pacific Railroad switched to diesel locomotives.<br><br>Of the group of people that were originally at the depot on December 17, twenty-six-year-old Rae Wilson, a drugstore sales girl, witnessed the hospitality. Her brother was to be on the troop train as a company commander. As she walked away from the train that evening, she had an idea to meet all the trains that went through North Platte and give the soldiers the same type of sendoff. The next day she suggested that the meeting of soldiers become a permanent occurrence and wrote a letter to the local newspaper:<br><br>Editor, The Daily Bulletin:<br>I don’t know just how many people went to meet the trains when the troops went thru our city Wednesday, but those who didn’t should have.<br><br>To see the spirits and the high morale among those soldiers should certainly put some of us on our feet and make us realize we are really at war. We should help keep this soldiers morale at its highest peak. We can do our part.<br><br>During World War I the army and navy mothers, or should I say the war mothers, had canteens at our own depot. Why can’t we, the people of North Platte and other towns surrounding our community, start a fund and open a Canteen now? I would be more than willing to give my time without charge and run this canteen.<br><br>We who met this troop train which arrived about 5 o’clock were expecting Nebraska boys. Naturally we had candy, cigarettes, etc., but we very willingly gave these things to the Kansas boys.<br><br>Smiles, tears and laughter followed. Appreciation showed on over 300 faces. An officer told me it was the first time anyone had met their train and that North Platte had helped the boys keep up their spirits.<br><br>I say give back of our sons and other mothers’ sons 100 per cent. Let’s do something and do it in a hurry! We can help this way when we can’t help any other way.<br>-Rae Wilson<br><br>And so it began....<br><br>Made in America: North Platte has many attractions including Buffalo Bill State Historical Park, the Union Pacific Railroad’s Golden Spike Tower and Visitor Center, and the Cody Park Railroad Museum.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/bhu7ka67osk90hdqre1gjb36ks/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp5gWkIqJtYdccKYtsxUYIYq06_hQ_naObbBNOF_5AcWTmTodNtWYbRjZVDvVc1T2vmEoIh1GMJULKdrTxqgy6Iivt0T2iDHvegOXmI6lR4PJmxnW1m8WESgbEHsl9kmKh7SY949f6yjdJakPgQJojyWuvPnl-2G_7mPqldJ4Cum0WGcJE77ySa8Gc4BxGoS6hEVUnwLB6dGHeWbEf9YTuYTyCSYI-Wz4aLGTP0FE8o67AoDNLMmzr7SQLQHQSsCd2kiEsCCdrfxerbaxIIKmyevLAseA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -100.762806,41.108025,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

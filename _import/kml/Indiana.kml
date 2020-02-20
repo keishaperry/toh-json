@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Indiana</name>
+    <Style id="icon-1502-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>IN1 - Kokomo</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pf5bi99a8k5iqgkfbo62jsktko/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqom4YGRkdmIsC7C3CbHesutLM1hN25cmZzVOWnv1s-WOP124vIllzpMxaJN61904SOfFHxtvcLQBp_EQrhCcgub8WDP3LHqcC_S7m1kCMKZkQFl9T8gpRD97fIZur_yFetQqyUC1fcH2TNLfKhgiBJlU1m6WiPtEIbQvlIbVCc-00zoqsuAEqAYCJ3vfvmzz6DbxyWalAoUoyp9MqSrWGEePd4mxrT-RP1aKyITAWNbFTVoyEQoDJaeysfg9ACC56g4YCl5G8Ci9lc9fc9whjCBGinVw?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>548 S Goyer Rd.<br>Kokomo, Indiana<br>GPS: 40.48122, -86.09734<br>Access: 24/7<br><br>Howard County knows how to honor their Veterans. It’s one of the first counties in the Country to fly a POW/MIA Flag at every one of its schools. State sponsor Thomas Southwood warns that riders may be moved to tears by the new Blue and Gold Star Family area and it will be a visit that you’ll never forget.<br><br>Another statue in the Park is made of bronze with a pedestal of black granite bricks. His pose is kneeling, but he is not resting. His eyes are focused forward, the direction he seems to be moving. His weapon is resting on his leg, and his closed hand is not in a fist.<br><br>The plaque below the statue reads:<br>"We're Finally O.K.<br>We went there when we were young.<br>But died before our work was done.<br>With friends we tried to rid the land.<br>Of tyranny and oppression to let freedom stand.<br>But our time was up so we passed the baton.<br>To those behind us to carry on.<br>Now through these years of untold pain.<br>We know we did not die in vain.<br>So they put our names upon the Wall.<br>In honor and memory of those who gave all.<br>And though we are not here today.<br>We want you to know we're finally O.K.“<br>- Steve Ehrlich, Vietnam Era Veteran<br><br>Made in America: In the nearby town of Peru, is one of THE BEST Air Museums you’ll find. You can tour the inside and out of most of our military aircraft. Admission $6, with discounts for veterans and seniors. http://bit.ly/37UqSZE.<br><br>Just a few seconds away is another museum dedicated to the Huey. Here you can see multiple of these birds on display with three of them still operational. They currently don’t charge admission, but donations are greatly appreciated. Find out more at http://bit.ly/30dfe9F<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pf5bi99a8k5iqgkfbo62jsktko/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqom4YGRkdmIsC7C3CbHesutLM1hN25cmZzVOWnv1s-WOP124vIllzpMxaJN61904SOfFHxtvcLQBp_EQrhCcgub8WDP3LHqcC_S7m1kCMKZkQFl9T8gpRD97fIZur_yFetQqyUC1fcH2TNLfKhgiBJlU1m6WiPtEIbQvlIbVCc-00zoqsuAEqAYCJ3vfvmzz6DbxyWalAoUoyp9MqSrWGEePd4mxrT-RP1aKyITAWNbFTVoyEQoDJaeysfg9ACC56g4YCl5G8Ci9lc9fc9whjCBGinVw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -86.09734,40.48122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IN2 - Lafayette</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/eugcfl6et77pogp8s7s57otlqo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqNKarbjpXasq1uLOzlZrJEHOsvMxxMippUWirxdYAUqK9N8KE5eIccNWfvLmJVxt24zBSc6Hfy9hYvWf-1RmLOifH23R6yi1sVcq8WFBBFvun2_73Ti4gXMMcjShFcdUyNrfWPi5GlX09Daeh2wZU4xcA9qTqQKvzDsH_P4nRtk0b63Mqkyk-R1MF69bDxDmbvdX72EHW3w2VtaQNeEwjI-V6AsTMBzaDqm-vMJLBJyzH3RxAYO1PX-Bc_5M0H6JxO1VxSxpm8IZQaNgO08Bbw_kdPzQ?session=0&fife" height="200" width="auto" /><br><br>Blue Star Tribute<br>Behind Rush Pavilion \n 1915 Scott St.<br>Lafayette, Indiana<br>GPS: 40.415104, -86.870888<br>Access: 24/7. Parking is west of site, with a short walk of 1/4 mile. ADA accessible.<br> <br>Created by artist, Saundra Whiddon, to honor the courage and sacrifice of all parents who from infancy held and nurtured the soldier and now, for the sake of others, must let him go. In the final goodbye, the parents exhibit purpose and unspeakable selflessness.<br><br>Full of symbolism, the infant is portrayed as vulnerable and yet secure in the hands of his parents. He is swaddled in the American Flag. The hand of his father lifts him up with determination and purpose; using his strength to hold the head of the infant securely for the entire journey. <br><br>The mother’s hand, by contrast, forms a nurturing pose as she reluctantly and slowly lifts her child toward the heavens. The infant is simultaneously emitting a cry of victory and of separation with which the artist hopes to show the ambivalence even the bravest soldier feels when called to war. He clutches the American flag against his chest with one hand clinging to those things that are familiar. With the other hand, he raises his flag toward the Creator showing the courage that soldiers exhibit when they dare to reach higher than others.<br><br>Appropriately, a Gold Star Family Monument is nearby.<br> <br>Made in America: If you’re hungry, stop by and enjoy Indiana's “First and Oldest” drive-In, since 1929. http://bit.ly/39X3XyB The food is wonderful and can get busy, especially when college is in session. If you’re adventurous, try the state sponsor’s favorite burger from the menu, the Duanne Purvis All-American. He says you won’t be disappointed. Plus, they carry the famous Triple XXX cane sugar root beer.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/eugcfl6et77pogp8s7s57otlqo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqNKarbjpXasq1uLOzlZrJEHOsvMxxMippUWirxdYAUqK9N8KE5eIccNWfvLmJVxt24zBSc6Hfy9hYvWf-1RmLOifH23R6yi1sVcq8WFBBFvun2_73Ti4gXMMcjShFcdUyNrfWPi5GlX09Daeh2wZU4xcA9qTqQKvzDsH_P4nRtk0b63Mqkyk-R1MF69bDxDmbvdX72EHW3w2VtaQNeEwjI-V6AsTMBzaDqm-vMJLBJyzH3RxAYO1PX-Bc_5M0H6JxO1VxSxpm8IZQaNgO08Bbw_kdPzQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -86.870888,40.415104,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IN3 - Lawrenceburg</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/chmhcimo45n1sms90lntbuqo0o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrvTqzXR5XGH1UEFA6yXnfHP0jONO5Dp5MK83YNwb_3wySkMmdKfoUGt18Hj0Aon4grxf06G77lFp9sd3cuFxdBPySvTJuq1z5FHD8LNC1Oz-axsFLEhT0mXu80lwRsI5jmKEgeKGvBS8fk49m1SgAeyU_J2mXS6vyAn2xR9v1anuwoIx1J4DicvBmiwX4X65b5USYq6S9DYgktzs4H9oBUkzzQDuOi_aSbIAujlx4NOqZ9BcE2YHoKSH8W71Hhu847Auavyprszl30RXfFmhk92_Gydg?session=0&fife" height="200" width="auto" /><br><br>War Memorial To The Common Man<br>2 Walnut St.<br>Lawrenceburg, Indiana <br>GPS: 39.091889, -84.846437<br>Access: 24/7. Two photos required.<br><br>In Honor of the brave men and women who have served in the Armed Forces and who continue to protect us today, a town clock and a bell tower, and a Memorial To The Common Man was erected on the levee overlooking the Ohio River. <br><br>There are two parts of this memorial. The first part are three statues paying tribute to the First Responders. Another pays tribute to the Veterans of Vietnam. Take a picture of your flag with the statues paying tribute to the First Responders.<br><br>Made in America: Enjoy lunch at the RiverWatch Restaurant next door to the memorial. A floating Key West themed restaurant with a menu filled with tasty burgers and state sponsor favorite, the Captain's Wheel Pretzel. http://riverwatchinc.com/<br><br>After lunch, ride down scenic State Road 56 to State Road 156 then back on to State Road 56 all along the Ohio River. Head North on US 421 to the old Jefferson Proving Grounds, near Madison. There at the Proving Grounds you can ride around and explore the old retired Army Base.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/chmhcimo45n1sms90lntbuqo0o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrvTqzXR5XGH1UEFA6yXnfHP0jONO5Dp5MK83YNwb_3wySkMmdKfoUGt18Hj0Aon4grxf06G77lFp9sd3cuFxdBPySvTJuq1z5FHD8LNC1Oz-axsFLEhT0mXu80lwRsI5jmKEgeKGvBS8fk49m1SgAeyU_J2mXS6vyAn2xR9v1anuwoIx1J4DicvBmiwX4X65b5USYq6S9DYgktzs4H9oBUkzzQDuOi_aSbIAujlx4NOqZ9BcE2YHoKSH8W71Hhu847Auavyprszl30RXfFmhk92_Gydg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.846437,39.091889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IN4 - Magnet</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/d23ju0jsh1rm2sfd2h8s15ffbo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoHrlI-rnugGPtvLJlUARU--b_-34VGWvZc34fR5j7NrMtXgHV8gmT3WQxxEFVfzYQs02wRiw8UVJDdcFrcsQhztz0gjA6U-s17z_0_3yUGy0xYUMm-RuhDUPr9D5Zw1ysb4pH8PNf5mXb9_9re5dLBb76PqcxNXeyZEwo-x-zUnAnD8b8xdPoWiliCOo6oKemUbxXVhybd7_aBZGvrA-qtRLUdHZbElcLs1rTxdhvTGOHVAKF8Hz5wOiLldcs4LH8KfPwImEjDgApzBFepB1hgaXONMw?session=0&fife" height="200" width="auto" /><br><br>Civil War Gravesite<br>17484 Parks Rd.<br>Magnet, Indiana<br>GPS: 38.0950004, -86.4588353<br>Access: 24/7<br><br>On August 21, 1865, the steam-driven stern wheeler USS Argosy, was caught in a storm near here, blown aground and her boilers exploded. Ten fatalities occurred among the soldiers returning home from war service. Here they are buried.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/d23ju0jsh1rm2sfd2h8s15ffbo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoHrlI-rnugGPtvLJlUARU--b_-34VGWvZc34fR5j7NrMtXgHV8gmT3WQxxEFVfzYQs02wRiw8UVJDdcFrcsQhztz0gjA6U-s17z_0_3yUGy0xYUMm-RuhDUPr9D5Zw1ysb4pH8PNf5mXb9_9re5dLBb76PqcxNXeyZEwo-x-zUnAnD8b8xdPoWiliCOo6oKemUbxXVhybd7_aBZGvrA-qtRLUdHZbElcLs1rTxdhvTGOHVAKF8Hz5wOiLldcs4LH8KfPwImEjDgApzBFepB1hgaXONMw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -86.45266,38.09222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IN5 - Michigan City</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pmlprue7jqusodvekpticf1bc4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoDom6ta6z9jXZzPj2G34ELDM8eow_Yl7Kps9cw8af1_X8PP2B3oY-q_BS7k8jCj_7PrYBXgjywik4mJV1t53CDIhFjSQEbCHTwCx1DPWy1rEj3G69FjxhIOhPbI8c2dSuGOnSVBqkssgy1I6hJCmw4z0wdkpBXjLpao6eRXlppGw2BBsyPNV8atBGRq_Yes4zVjwB61YU2jWS74L1AwUtCuilzPqmnYm060r-h3gVQY7iOsrewJ7SX7yCLpef5bpJCIzwymhWMD9q_5ji3tSS-pF2JCA?session=0&fife" height="200" width="auto" /><br><br>The Three Rescuers<br>1 Washington St<br>Michigan City, Indiana<br>GPS: 41.722916, -86.90502<br>Access: 24/7<br><br>This is a police and firefighter memorial dedicated to those who gave their lives in the line of duty. You will see a Policeman, a Fireman and a little girl holding a kitten.<br><br>Made in America: Across the street, is the Naval Armory and on the front door steps of the Michigan City Old Lighthouse Museum. http://bit.ly/35K4eSr worth the stop to visit Indiana's oldest lighthouse.<br><br>And a nearby park has many different War Memorials and Veteran's Memorials that are worth the visit. The World War I Memorial also has a Doughboy. There is also a memorial for Private First Class Daniel D. Bruce, a young Marine who was posthumously awarded the Medal of Honor.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pmlprue7jqusodvekpticf1bc4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoDom6ta6z9jXZzPj2G34ELDM8eow_Yl7Kps9cw8af1_X8PP2B3oY-q_BS7k8jCj_7PrYBXgjywik4mJV1t53CDIhFjSQEbCHTwCx1DPWy1rEj3G69FjxhIOhPbI8c2dSuGOnSVBqkssgy1I6hJCmw4z0wdkpBXjLpao6eRXlppGw2BBsyPNV8atBGRq_Yes4zVjwB61YU2jWS74L1AwUtCuilzPqmnYm060r-h3gVQY7iOsrewJ7SX7yCLpef5bpJCIzwymhWMD9q_5ji3tSS-pF2JCA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -86.90502,41.722916,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IN6 - Mount Vernon</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/v3vvch9vlbq54nuul11dcs4v1g/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoFUXl-bR0nEEGYVNSr296YlrRPZQzJBpsltPxzSMGQ4b8d5x5FOqbzDpXz-rKvQ_O_57Et_JX3_aS3s9CxHDmtVL5aDH-tAmOnWOCJNOwZG06XGysZ0_exr-uu7Wwn8dd9BhmbsTnCFgoOtiXr0BlLrjABmKGg3OEuOo77ZUmyL6gtPTIZi4F5q4frTtH6y2KzqUjAKw2105D3FeWF03XDFMeT9vf4bcDPF8RvjbJmwU51XGAMaNibhcTErMy8djFcomPuqPTcDeTHw_3EciRKeAB26w?session=0&fife" height="200" width="auto" /><br><br>Soldiers and Sailors Memorial<br>300 Main St.<br>Mount Vernon, Indiana<br>GPS: 37.931749, -87.895160<br>Access: 24/7<br><br>In 2008, this memorial was rededicated to all Veterans who served our country in all wars. Five beautiful statues make up part of this memorial. At the memorial you will also find an American Revolutionary War Honor Roll. History buffs might recognize the name of a good friend of Daniel Boone, Andrew McFadden.<br><br>Made in America: Take time to look around at the Historical District of Mount Vernon, this court house is one of Indiana's most beautiful.<br><br>South of the courthouse is a World War Memorial Coliseum built in the mid-1920's. Three entry doors signify the branches of military service at the time: Army, Navy, and Marine Corps. During the disastrous Ohio River Flood of 1937, the Coliseum served as a hospital and dormitory for citizens displaced by the flood waters.<br><br>Pack a lunch and enjoy a relaxing picnic along the Ohio River in the nearby park.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/v3vvch9vlbq54nuul11dcs4v1g/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoFUXl-bR0nEEGYVNSr296YlrRPZQzJBpsltPxzSMGQ4b8d5x5FOqbzDpXz-rKvQ_O_57Et_JX3_aS3s9CxHDmtVL5aDH-tAmOnWOCJNOwZG06XGysZ0_exr-uu7Wwn8dd9BhmbsTnCFgoOtiXr0BlLrjABmKGg3OEuOo77ZUmyL6gtPTIZi4F5q4frTtH6y2KzqUjAKw2105D3FeWF03XDFMeT9vf4bcDPF8RvjbJmwU51XGAMaNibhcTErMy8djFcomPuqPTcDeTHw_3EciRKeAB26w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -87.895318,37.931717,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IN7 - Spencer</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/h3fnqmml2d6ujcesvq1ckt06o0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrrC9yrO__SAqxY6QVUuGLr69xgYV3SCuQmI3OtJw-tr6CCRNr7TF02MBbFXHx1sW6aEfnoiyPhPQr1F1SUSlkM4CtaHLAqSwmwPiqpzS6Ak9QM4FYM7O8KTj7qL6eCkcisrNKvnzpmjkLslMrUiCT_31onqL_mu7t_SV77PGlaK8rl3BgIJZc-vzXOjPWXY-g9Ws1rVOz-KQpG4SFyhphqnRM0W39Ffgr_XGxf7_5w3hno_vLINecHmHdratHrUDMy2FT7qfpOgzT6OVSSQAkN4tjbXw?session=0&fife" height="200" width="auto" /><br><br>Soldiers Memorial Pavilion<br>Riverside Cemetery \n 498 W Jefferson St.<br>Spencer, Indiana<br>GPS: 39.282533 -86.767083<br>Access: Dawn to dusk. Follow the one way drive-way to the left for easy parking on lower part of the hill. Cemetery workers are helpful and friendly.<br><br>Dedicated to all who served. The pavilion was designed by E.M. Viquesney of American Doughboy fame. It houses a copy of the artist's "Spirit of America", a.k.a. "The American's Creed" plaque. A monument bears Viquesney's name and reference to his service in the Spanish-American War. It is now the site of special observances, such as Memorial Day and Veterans Day. <br><br>Made in America: While here, take time to look around at some of the unique family plots. One of them is the final resting place of E. M. (Dick) Viquesney, sculptor of the famous Doughboy Statues. Also just a few blocks away you find one of his iconic sculptures.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/h3fnqmml2d6ujcesvq1ckt06o0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrrC9yrO__SAqxY6QVUuGLr69xgYV3SCuQmI3OtJw-tr6CCRNr7TF02MBbFXHx1sW6aEfnoiyPhPQr1F1SUSlkM4CtaHLAqSwmwPiqpzS6Ak9QM4FYM7O8KTj7qL6eCkcisrNKvnzpmjkLslMrUiCT_31onqL_mu7t_SV77PGlaK8rl3BgIJZc-vzXOjPWXY-g9Ws1rVOz-KQpG4SFyhphqnRM0W39Ffgr_XGxf7_5w3hno_vLINecHmHdratHrUDMy2FT7qfpOgzT6OVSSQAkN4tjbXw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -86.767083,39.282533,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

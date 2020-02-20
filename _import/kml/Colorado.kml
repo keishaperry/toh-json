@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Colorado</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>CO1 - Avondale</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/f2t59q49948cld197ml6boer90/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpf6XGFCiy7wYYyZSdchQxcn2q_CCQJ8_rZ4QVYJeVz44hgBems165nc2Gs3CzHWpVDQ4FcjMMzwWLyosxPo8Vj2PKCMZwrZcwHYgEouZ6uVjv1hg033_1EfZ1jfJhG9TrQDaj7p_YRUAnBWdwPxuc8nNwsav0XHN8m1YXJYzZ0JLSUDF4utrFyPXvhirifXV9e-MVYuj7gc3BFi5iF5OX6oi-8Xjr4hoENVd_pBAopBqijzg-C3mWq_MIZu1mcLU83MHBljfuGt2Hdbukq1aG8FQRlXw?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Avondale Elementary School Park \n North Ln. and Avondale Blvd.<br>Avondale, Colorado<br>GPS: 38.237675, -104.349699<br>Access: 24/7<br><br>Nine men with ties to eastern Pueblo County lost their lives in Viet Nam. Per capita, no other town in the United States lost so many men. The memorial was dedicated on June 15, 2013 and is a tribute to all veterans. The monument was created from an 8-ton boulder and includes a black granite slab engraved with the silhouette of an eagle whose spread wings protect a soldier helping a wounded comrade.<br><br>Made in America: Pueblo, Colorado is the "Home of Heroes," the hometown of four Congressional Medal of Honor recipients: William J. Crawford, Army, WWII; Carl L. Sitter, Marines, Korea; Raymond G. "Jerry" Murphy, Marines, Korea; and Drew D. Dix, Army, Vietnam. Visit Heroes Plaza at the Pueblo Convention Center. Follow the Walk of Valor across Veteran’s Bridge, continue along the River Walk to the Center for American Values and see the Portraits of Valor Exhibit. Look for Medal of Honor recipients from *your* home state. http://www.americanvaluescenter.org<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/f2t59q49948cld197ml6boer90/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpf6XGFCiy7wYYyZSdchQxcn2q_CCQJ8_rZ4QVYJeVz44hgBems165nc2Gs3CzHWpVDQ4FcjMMzwWLyosxPo8Vj2PKCMZwrZcwHYgEouZ6uVjv1hg033_1EfZ1jfJhG9TrQDaj7p_YRUAnBWdwPxuc8nNwsav0XHN8m1YXJYzZ0JLSUDF4utrFyPXvhirifXV9e-MVYuj7gc3BFi5iF5OX6oi-8Xjr4hoENVd_pBAopBqijzg-C3mWq_MIZu1mcLU83MHBljfuGt2Hdbukq1aG8FQRlXw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -104.3494444,38.2375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CO2 - Collbran</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/441hok04domgr5p06pnurjju1o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqu2iIE5ns4ddBcJA7mxmD0Zt13bwhR1FDcb3-UHP1HEACXzBFv-Ch4FuEwtwXmP4G0jx7CTxpzrWmP6yy9F1Bsl1gwowXEBhZ-72h_6z0zmjRmmbp6e9ByI7-ltNgxWesF2oEDF9AC_CCpQkf-PCX72HVxD7okdSHFat_3xT0z1OFWh3u8PYMJ_igs5fcQwMaHLfg6jDM77KhV3p-R4PFuj6FySMnbQ8CA4tmz4TzXWSzdc0-FuqRkxNmPwKb9146ekhJGlK6alKFZVE-WMePd1JWDMQ?session=0&fife" height="200" width="auto" /><br><br>American Service Women's Memorial Park<br>High and Main Sts.<br>Collbran, Colorado<br>GPS: 39.238599, -107.960891<br>Access: 24/7<br><br>The American Service Women's Memorial Park was the first monument built in honor of American Service Women in the United States. The monument was completed in 1976 and honors the memory of Florence K. Selchert, a World War II Veteran who served in the US Army from 08/06/1943 to 01/13/1946. Dick Cummins (deceased) led the American Legion Project to erect the memorial. The Women’s Army Corp Veteran’s Association, Mile High Chapter 76, donated funds for the effort.<br><br>Made in America: Take the De Beque Cut-off road (road 45 ½) south from I-70 at De Beque and enjoy a great example of Colorado high desert en-route to Collbran or approach the town from the west or south along the Grand Mesa Scenic Byway. Either route provides some of the best and most diverse scenery Colorado has to offer.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/441hok04domgr5p06pnurjju1o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqu2iIE5ns4ddBcJA7mxmD0Zt13bwhR1FDcb3-UHP1HEACXzBFv-Ch4FuEwtwXmP4G0jx7CTxpzrWmP6yy9F1Bsl1gwowXEBhZ-72h_6z0zmjRmmbp6e9ByI7-ltNgxWesF2oEDF9AC_CCpQkf-PCX72HVxD7okdSHFat_3xT0z1OFWh3u8PYMJ_igs5fcQwMaHLfg6jDM77KhV3p-R4PFuj6FySMnbQ8CA4tmz4TzXWSzdc0-FuqRkxNmPwKb9146ekhJGlK6alKFZVE-WMePd1JWDMQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -107.960891,39.238599,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CO3 - Cotapaxi</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/81h7s5567b0d5uso18ur38q0ug/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrztHfaBUXpH3lEPS94QiJVqaibaGzSn684oT4k7yMRmpP4d199u0BbnvKX2MJClKzz0OLLs8cDPbUsfBot8QDxyCQdlWpUGI3l6rFUuNDXStAyJKUFvhQpkhkmdaLRNwTqRlkH8mV86kU68BEFrOlApvDK3PbrRElUENcvLSjttkQHdJlFCzNp4B5wGgQVntYPyXZJDvvpWpkVym9tlfeZSIarNck14Ke0I0Cqqm-ud0zb4-xjbRmEnkyBRxyBcDsZhADeC56SX8AZqI3TvHzKTu0OEA?session=0&fife" height="200" width="auto" /><br><br>Veterans Rock<br>Cotopaxi Elementary School \n 345 Co Rd 12<br>Cotopaxi, Colorado<br>GPS: 38.376297, -105.690243<br>Access: 24/7. Caution: The driveway in front of the school is chip sealed and loose gravel exists. This is near a school bus zone, so try to avoid drop-off and pick-up hours.<br><br>Dedicated November 11, 2019 Cotapaxi’s Veterans Rock demonstrates small town America’s dedication and tenacity for building memorials when resources are limited.<br><br>After visiting a Freedom Rock in Menlo, Iowa, Cotapaxi teacher Debra Krizmanich, was inspired by Bubba Sorenson’s work. A three-woman Veterans Rock Committee was formed. Committee members included Krismanich, Joe Hartsell a former school secretary, and Nicole Richards a current school employee. <br><br>The group reached out to Veterans organizations and residents from several counties in the region for assistance with funds and materials for the rock. Local granite from a quarry in Texas Creek was set in place at the school. Saguache artist and rancher Wade Collins carved and painted the inspirational stone.<br><br>Made in America: The café located in the Cotopaxi Store and gas station at the junction of Hwy 12 and Hwy 50 serves great food. People are known to travel miles for their brownies. The café is quaint and unassuming just like their staff. Enjoy!<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/81h7s5567b0d5uso18ur38q0ug/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrztHfaBUXpH3lEPS94QiJVqaibaGzSn684oT4k7yMRmpP4d199u0BbnvKX2MJClKzz0OLLs8cDPbUsfBot8QDxyCQdlWpUGI3l6rFUuNDXStAyJKUFvhQpkhkmdaLRNwTqRlkH8mV86kU68BEFrOlApvDK3PbrRElUENcvLSjttkQHdJlFCzNp4B5wGgQVntYPyXZJDvvpWpkVym9tlfeZSIarNck14Ke0I0Cqqm-ud0zb4-xjbRmEnkyBRxyBcDsZhADeC56SX8AZqI3TvHzKTu0OEA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -105.690243,38.376297,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CO4 - Fruita</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/tlj6f2dfe8gj15gbomj1t305r8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqHlKBv8UTRTiX0OU6QJc6eVy6PlBTdlrsNNU1b2niZBgzTaQkEnvHbge94i8tpy9W0oNRk1eStzyfnoCdqxb9jXwmkn8UualpOI_apBhioNxTZdTUFkLu6jOeBANYm_sXXDFvYjk2KBBl9NcTFkqM_DUeN5Iv2dssqxtOboIQE_kRG2Ao_1lxHTCX0jErhLsOaNp8e0ndhRVvyNz2fbAWqfxBtpI_HKRmfgHw6pL7THb9X2qlVSQD9JM6VLH1c-5WEVp35RVdSG8uOrSZ5UlY2kNATGw?session=0&fife" height="200" width="auto" /><br><br>Vietnam Veterans Memorial<br>340 Hwy. 340<br>Fruita, Colorado<br>GPS: 39.152912,-108.736096<br>Access: 24/7<br><br>The names of all those from the Western Slope who were lost in the Vietnam conflict are listed here and it is especially poignant for the people of Fruita and nearby Grand Junction because of two of their native sons.<br><br>From Jim Doody, Founder of the Memorial:<br>“This is the story of two young Grand Junction men who had a dream. Tom Doody and Marshall Davis. They met when they were Freshmen at Central High School in 1963. There they became best of friends. They joined the Civil Air Patrol. At Walker Field they learned to parachute and fly fixed wing aircraft. They both reached the rank of Captain. Upon graduating in 1967 they started formulating a plan to service the Aspen and Vail Ski Resorts. A very innovative idea for two 18 year old boys.<br><br>“They decided to attend Rangely College (now known as Colorado Northwestern Community College) where they could earn their commercial license by the end of their sophomore year. After they had obtained their licenses they decided that their business would be better served if they also could fly helicopters. Joining the U.S. Army they could also take advantage of the G.I. Bill. This would put all the pieces together and make their dream come true. Tommy is sent to Ft. Wolters for Primary Helicopter School. Marshall joins the Engineering Corp.<br><br>“In 1970, both men are sent to Vietnam. After flying over 225 combat missions Tom is ordered to ferry troops into Laos. The invasion was called Operation Lam Son 719. On Feb. 8th 1971, his helicopter is shot down and explodes on impact. Several days later a rescue team arrives and finds the remains of 3 American crew members. One man is missing. So our family waited and prayed that he had made it out alive. Tom received the Purple Heart, Air Medal w/ 10 oak leaf clusters, Distinguished Flying Cross, Bronze Star, Army Commendation Medal, and several others.<br><br>“Upon request from my Mother, Marshall escorted my brothers’ remains back to Grand Jct. for a military burial. On March 25th 1971 he was laid to rest. While the 21 Gun Salute was taking place, the first Civil Air Patrol plane (a Piper Cub) that Tom had flown passed over our heads. Marshall returned to the war. The last time I saw him was a year later on Feb. 8th 1972. He brought my Mom flowers and visited with her for an hour. Marshall married and had 3 children. He flew helicopters for several companies in the Southwest. Later he moved his family to Pendleton, Oregon where he flew Ambulance. On Dec. 3rd 1986 Marshall died in a helicopter accident when he encountered severe weather.”<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/tlj6f2dfe8gj15gbomj1t305r8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqHlKBv8UTRTiX0OU6QJc6eVy6PlBTdlrsNNU1b2niZBgzTaQkEnvHbge94i8tpy9W0oNRk1eStzyfnoCdqxb9jXwmkn8UualpOI_apBhioNxTZdTUFkLu6jOeBANYm_sXXDFvYjk2KBBl9NcTFkqM_DUeN5Iv2dssqxtOboIQE_kRG2Ao_1lxHTCX0jErhLsOaNp8e0ndhRVvyNz2fbAWqfxBtpI_HKRmfgHw6pL7THb9X2qlVSQD9JM6VLH1c-5WEVp35RVdSG8uOrSZ5UlY2kNATGw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -108.736096,39.152912,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CO5 - Garden City</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0lpotegvij0l30kjdq82qjibok/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqw_13BrLJSLCJOBRYhj-QRIwNWS_0foNSPB27MHXUKxkst2aR4CFeWXOG_oA4rH8biPh5AQLNBYtI6WQufhUmkbGMhhLkuixolBE3DNg2dRdGJZeAektUXd9YBSR5use0ye4Iiom-I_2G9q0ARbCZmG6RLeFj7mSG89qTZduEYBpL-X_GDyFDUhrxLtdT7Oii7I4j94LrUYoH-I-WOSjiPr8kdGuGsGjpH3hKB73f12PbMrh1RVcqR9Db1AosCDTysXylGGndSe2iBpqSLBQeJQPdPEg?session=0&fife" height="200" width="auto" /><br><br>PTSD Memorial<br>2714 7th Ave.<br>Garden City, Colorado<br>GPS: 40.393525, -104.689787<br>Access: 24/7 <br><br>Dedicated November 1, 2019 the Garden City memorial is another fine example of small-town America tenacity. Envisioned by Garden City employees, TOH rider Abby Spaedt and Stephen Lewchuck, the memorial was two years in the making. <br><br>Loveland artist and sculpture, Daniel B. Glanz, worked with Spaedt and Lewchuck to create the bronze for the Garden City memorial, depicting a service dog at a bench nuzzling a man suffering from PTSD.<br><br>The dedication plaque reads: <br>“The town of Garden City honors veterans, active members of the United States Armed Forces, and first responders who are struggling or who have lost the battle with post traumatic stress disorder. If you are still fighting you are not alone. You stood up when our country and communities needed you and for that we are forever grateful.”<br><br>Nice going, Abby, for your dedication to this project!<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0lpotegvij0l30kjdq82qjibok/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqw_13BrLJSLCJOBRYhj-QRIwNWS_0foNSPB27MHXUKxkst2aR4CFeWXOG_oA4rH8biPh5AQLNBYtI6WQufhUmkbGMhhLkuixolBE3DNg2dRdGJZeAektUXd9YBSR5use0ye4Iiom-I_2G9q0ARbCZmG6RLeFj7mSG89qTZduEYBpL-X_GDyFDUhrxLtdT7Oii7I4j94LrUYoH-I-WOSjiPr8kdGuGsGjpH3hKB73f12PbMrh1RVcqR9Db1AosCDTysXylGGndSe2iBpqSLBQeJQPdPEg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -104.689787,40.393525,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CO6 - Ignacio</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ceai5a2k03vrbutdjl20hp6qm0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo2k8qqB-m1lHnZBtWf0a8Gw4-9sCc53yc04rkf0mCwn8mOz1R7KxMTuOsSlOjqB_alZ7QRRNARk2DGM7s9CKOT7F9PutDjfYnfK6FUq9lgSrFfhw6eXtXk-8dDFZ398GS0znAaMWpOrRvIqG3HfP5wcY5OEY7xsYxsKB_7W7RMBLtN8lLUMTSPaChkm1zPBFm46YOXy7nt4314CEshbs50cJJXrrQWnCU7kQXGMb12Dabp1rXNPn6va-wUwWDNbE4oLSUxXpi3CzIIQOmbRBGg3iURDQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Park<br>Weeminuche Ave. and Capote Dr.<br>Ignacio, Colorado<br>GPS: 37.131227, -107.635428<br>Access: 24/7<br><br>The Southern Ute Veterans Memorial honors veterans from the Southern Ute Indian Tribe. The primary memorial lists veterans from World War I, World War II, Korea, Vietnam, and the Persian Gulf. An eagle in flight is shown on the shiny black marble on the reverse side.<br><br>On the north side of the full-block park area is a memorial to WWI veterans. WWII veterans are honored with the memorial on the west side of the park. Korean War veterans are honored on the south side.<br><br>Vietnam veterans are honored on another memorial to the east, inscribed: “In 1997, the Vietnam Veterans Memorial Traveling Wall stood on this ground. We, the Southern Ute people, honor the brave soldiers who gave their lives, for a people so far away in a time we will never forget.”<br><br>Made in America: The Southern Ute Cultural Center and Museum is one block to the north. It is a fairly new museum where you can experience the unique history of the Ute people through their eyes and gain an insight into the defining stages of Ute history.<br><br>Another block to the north is the Sky Ute Casino Resort with gaming, dining, entertainment, and a hotel.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ceai5a2k03vrbutdjl20hp6qm0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo2k8qqB-m1lHnZBtWf0a8Gw4-9sCc53yc04rkf0mCwn8mOz1R7KxMTuOsSlOjqB_alZ7QRRNARk2DGM7s9CKOT7F9PutDjfYnfK6FUq9lgSrFfhw6eXtXk-8dDFZ398GS0znAaMWpOrRvIqG3HfP5wcY5OEY7xsYxsKB_7W7RMBLtN8lLUMTSPaChkm1zPBFm46YOXy7nt4314CEshbs50cJJXrrQWnCU7kQXGMb12Dabp1rXNPn6va-wUwWDNbE4oLSUxXpi3CzIIQOmbRBGg3iURDQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -107.635428,37.131227,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CO7 - Rifle</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ihdkp236i0vkoeg5m2330gml80/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrD6UhuJt0xHy0iU0s99aTZj9x0k0J6R5HAq4nHmzazmsZzH10XMVbpccPMSsL3Y6FY-dtxXzzF2DECfwr5OUKsZ1f759sVdmqsiUr6HCY4rzrHA4d8Q7g0AEBQrKxHiz0X-fxP2zavsHJYB-UQwhHDXAW-Bd0LLBSQLwybeq3Khe6E3Mh5x5ScFkq_Y7Fv6MZjAFlJ59yQcXTlEIuRps8lK-sz4_Dh1jViQkjcWooSIulixoxjn548hfsLYoBQt6dY3k5yDNQJaeJh_C3W9K52TdJyVg?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Deerfield Park \n CO-13 and E 30th St.<br>Rifle, Colorado<br>GPS: 39.556779, -107.773740<br>Access: 24/7<br><br>The memorial includes stone pillars engraved with approximately 3000 names of men and women from the area who served in the military from the Civil War to the present. Medallions for each branch of service are embedded at the base of the flag poles near two 105 MM Howitzer’s. Overlooking the scene on the rise of a low slope, is a wonderful statue, entitled "Let Freedom Ring.”<br><br>Made in America: Rifle Falls State Park, 5775 Hwy 325, is the home of Colorado’s only 80 foot triple water fall. The trails up to the falls are an easy walk. Explore the small caves behind the falls and walk to the top of the falls for a fantastic view.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ihdkp236i0vkoeg5m2330gml80/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrD6UhuJt0xHy0iU0s99aTZj9x0k0J6R5HAq4nHmzazmsZzH10XMVbpccPMSsL3Y6FY-dtxXzzF2DECfwr5OUKsZ1f759sVdmqsiUr6HCY4rzrHA4d8Q7g0AEBQrKxHiz0X-fxP2zavsHJYB-UQwhHDXAW-Bd0LLBSQLwybeq3Khe6E3Mh5x5ScFkq_Y7Fv6MZjAFlJ59yQcXTlEIuRps8lK-sz4_Dh1jViQkjcWooSIulixoxjn548hfsLYoBQt6dY3k5yDNQJaeJh_C3W9K52TdJyVg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -107.77374,39.556779,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

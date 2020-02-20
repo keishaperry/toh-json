@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Utah sponsored by Tour of Honor</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>UT1 - Brigham City</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ac5brbdod120mk7b8si8i54hr4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqOIBFCL94LP0au6uQkavYKP6d9PitZZB-T7XX7eCBc09iyNSiax-SgCzhB69RkivyEyTjD-rGedjQYvDVU5IhkspLaH_uRSt-EH-TAFQjMNAqQU-UJkVBy_kcLGOof59VxMkPw9x8dttN9LFJle33BLCDWP7UBiC7Vde9RsvHgWM_LFSqIrM7jqjWjssMvfc7WFFPzPJJr3Pyb7JMUES1J-1lzVaMxFAAqls_99H9IRbbCGh7cbmLjdDo605ld8EzpYCCLd7LN5uSw3FLIDV7pUwdnqA?session=0&fife" height="200" width="auto" /><br><br>G.I. Statue<br>1 S Main St.<br>Brigham City, Utah<br>GPS: 41.510177,-112.015439<br>Access: 24/7<br><br>The memorial includes an excellently sculpted statue of a soldier that could depict someone serving in the Army or Marines from any conflict from WWII through Vietnam to the 1980s. A bronze plaque entitled “Freedom Is Not Free” is prominently featured among other bronze plaques. Worth the visit just for the statue.<br><br>Made in America: Maddox Ranch House Restaurant has excellent “home-made” food in nearby Perry. https://bit.ly/2Glbslq<br><br>Some great motorcycle roads: Logan Canyon (https://bit.ly/38L8hjj), Bear Lake (https://bit.ly/2GpXpuM), Monte Cristo Mountains (https://bit.ly/3aGlSKk).<br><br>Golden Spike National Historic Site for the train buffs! https://bit.ly/2Gkmibk<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ac5brbdod120mk7b8si8i54hr4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqOIBFCL94LP0au6uQkavYKP6d9PitZZB-T7XX7eCBc09iyNSiax-SgCzhB69RkivyEyTjD-rGedjQYvDVU5IhkspLaH_uRSt-EH-TAFQjMNAqQU-UJkVBy_kcLGOof59VxMkPw9x8dttN9LFJle33BLCDWP7UBiC7Vde9RsvHgWM_LFSqIrM7jqjWjssMvfc7WFFPzPJJr3Pyb7JMUES1J-1lzVaMxFAAqls_99H9IRbbCGh7cbmLjdDo605ld8EzpYCCLd7LN5uSw3FLIDV7pUwdnqA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -112.015439,41.510177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UT2 - Duchesne</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/6qlnb0q4cin0dhu9cv1298ujno/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrbZqNUNZBa5yrk-G4v8x6dfqT56k--bX6xXnPf1I2M9KSOZX2LeL1H_Uvb-EbHuGcqmL7JbSRwlu_A8iwjK2yHiUncklaACfliXKz2kbA8yYcgptc6sNufcFCC8cXpXzVXvaAJakViOWR5do3H4lcms1fbRXnUYHwKVX2xuGrdK0km5ZxCg_aYyb1-0CiU2phcBj27zDEwvFH95Lu7WXk-OS5WZofgoZN7Cl45OHExSm0v7iXUDM_ArG7zCVLJHmmw-iiIK6KdW8Ark3D0WHkcQjJrzw?session=0&fife" height="200" width="auto" /><br><br>Navy WAVE Memorial<br>W E River Rd.<br>Duchesne, Utah<br>GPS: 40.163327, -110.394330<br>Access: 24/7<br><br>Part of a multi-war veterans memorial dedicated in 2014, this officer in the WAVES memorializes the all-women’s division of the U.S. Navy that was formed in World War II.<br><br>WAVES of the Navy Song<br>WAVES of the Navy,<br>There’s a ship sailing down the bay.<br>And she won’t slip into port again<br>Until that Victory Day.<br><br>Carry on for that gallant ship<br>And for every hero brave<br>Who will find ashore, his man-sized chore<br>Was done by a Navy WAVE.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/6qlnb0q4cin0dhu9cv1298ujno/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrbZqNUNZBa5yrk-G4v8x6dfqT56k--bX6xXnPf1I2M9KSOZX2LeL1H_Uvb-EbHuGcqmL7JbSRwlu_A8iwjK2yHiUncklaACfliXKz2kbA8yYcgptc6sNufcFCC8cXpXzVXvaAJakViOWR5do3H4lcms1fbRXnUYHwKVX2xuGrdK0km5ZxCg_aYyb1-0CiU2phcBj27zDEwvFH95Lu7WXk-OS5WZofgoZN7Cl45OHExSm0v7iXUDM_ArG7zCVLJHmmw-iiIK6KdW8Ark3D0WHkcQjJrzw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -110.39433,40.163327,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UT3 - Grantsville</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/6s2icn9kjdc2v1r5ppj7l8527c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALotC7lglRhmw1HUKwOSqIeWqSD3RSg6fPR9OGApGzq2GNe72vNMSWTCjZ_C9YGRVcIwLLsOn21mNUFxd5Bx2YasODIJ29Ru_deEcr7mFiVKDg3tQWsQwtOoLI-mdAc9T02Wut__2TSI8p4Z0ym8E4Eob-k_cS9UFx5--fNe_G-N2wbTEJHY_6DafEHTzEzfByGIkR7LVO938XwQ75ihViiBQ2yXOgbUZqyC0vDuz11miGBQ964oJXgiKzZu3Jmlhxn0eh32Zv9dVN_3NxsPitYSQJVQCA?session=0&fife" height="200" width="auto" /><br><br>Firefighters Memorial<br>2930 W SR 112, next to the Utah Motorsports Campus<br>Grantsville, Utah<br>GPS: 40.573980, -112.378483<br>Access: 24/7<br><br>The memorial is part of the new Utah Museum of Fire Service History honoring all Utah firefighters. The 37,000 square foot museum contains many displays of firefighting memorabilia and more than 40 restored pieces of working apparatus. Firetrucks include a 1922 LeFrance chain driven rig, a Model A, a Model T and other rare pieces. All restoration is done on-site. The outdoor portion and memorial is available at any time, but the indoor portion and gift shop has limited hours on Fridays and Saturdays 11AM-3PM.<br><br>If you give two days notice, they said they’ll open the museum outside of their normal hours for TOH participants (please don’t abuse this privilege). (435) 830-6556.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/6s2icn9kjdc2v1r5ppj7l8527c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALotC7lglRhmw1HUKwOSqIeWqSD3RSg6fPR9OGApGzq2GNe72vNMSWTCjZ_C9YGRVcIwLLsOn21mNUFxd5Bx2YasODIJ29Ru_deEcr7mFiVKDg3tQWsQwtOoLI-mdAc9T02Wut__2TSI8p4Z0ym8E4Eob-k_cS9UFx5--fNe_G-N2wbTEJHY_6DafEHTzEzfByGIkR7LVO938XwQ75ihViiBQ2yXOgbUZqyC0vDuz11miGBQ964oJXgiKzZu3Jmlhxn0eh32Zv9dVN_3NxsPitYSQJVQCA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -112.378483,40.57398,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UT4 - Midway</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/j8avsl5i2b6kcm99fjlita327g/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqQo3UI1RrY995voX7XJias6X-PjQxkbBMoYnvqni0MhvdF2Emm3zrT6XAiQLudA-yv5BKJGJSdALxb1_9HxCPzGl9Ii7GrvO8s-u_GZpwNsSomOFUVZogxPmvJa3zxMu--mjIjW9Ed0zX0r1qKZ5Sux6OfVeXBuh4dAxhfMk3mnmAYo9iET8Ah4SQ5KIHHQ4pbAGvxe_F2UV1a8tj1SjCYwNfQD7Yo9XfVjDqK7AO5_jr7ImRVli6XnXIR5TmpLV311vD3Y4UxExwRncbqfD6OAopZww?session=0&fife" height="200" width="auto" /><br><br>Battle Cross at Veterans Memorial<br>Memorial Hill \n N River Rd., .5 mile north of E Main St.<br>Midway, Utah <br>GPS: 40.516617, -111.462030<br>Access: 24/7, restricted, see below.<br><br>This site is in a state of flux and details will emerge as riders visit. As of this writing, the site is only accessible by walking to the top of the hill. A photo of the entrance gate at the bottom is allowed. GPS: 40.517941, -111.462524<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/j8avsl5i2b6kcm99fjlita327g/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqQo3UI1RrY995voX7XJias6X-PjQxkbBMoYnvqni0MhvdF2Emm3zrT6XAiQLudA-yv5BKJGJSdALxb1_9HxCPzGl9Ii7GrvO8s-u_GZpwNsSomOFUVZogxPmvJa3zxMu--mjIjW9Ed0zX0r1qKZ5Sux6OfVeXBuh4dAxhfMk3mnmAYo9iET8Ah4SQ5KIHHQ4pbAGvxe_F2UV1a8tj1SjCYwNfQD7Yo9XfVjDqK7AO5_jr7ImRVli6XnXIR5TmpLV311vD3Y4UxExwRncbqfD6OAopZww?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -111.46203,40.516617,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UT5 - Moab</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/8f43lb4dv76pb3imdn69q3v5h4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpvDBCtZWi_tvgXvMIocKPB87skjPyrgE73xaui9-HxqV_asoxUD9_8UI05lc8xbUWZWJH1c-9et2UnOx1diM7Lx6hBgp-NLF5iDoEAhFdyG0cLW2NjTwlRPwbj44OiRfqaFSMGk_D8lOYxKwK-YPrhaSSaMBwZYGy8fmX0xKlEj1Ivgv9iUze2NQ8j2u7x_3TMAh9_Q7Ls8ga8w6cSADhZj2WuguIhPo0AppDAGhFz-G90BzG3eRzO4ZL0WDjESARYR3YeYNq-x5a8Xt5wlGSzN4C9PA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>125 E Center St.<br>Moab, Utah <br>GPS: 38.573441,-109.548629<br>Access: 24/7<br><br>A simple memorial in a fantastic setting!<br><br>Made in America: A couple of dining choices: Moab Diner and Ice Cream Shoppe https://www.moabdiner.com. And El Charro Loco (mexican and southwestern food) at 812 S Main St.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/8f43lb4dv76pb3imdn69q3v5h4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpvDBCtZWi_tvgXvMIocKPB87skjPyrgE73xaui9-HxqV_asoxUD9_8UI05lc8xbUWZWJH1c-9et2UnOx1diM7Lx6hBgp-NLF5iDoEAhFdyG0cLW2NjTwlRPwbj44OiRfqaFSMGk_D8lOYxKwK-YPrhaSSaMBwZYGy8fmX0xKlEj1Ivgv9iUze2NQ8j2u7x_3TMAh9_Q7Ls8ga8w6cSADhZj2WuguIhPo0AppDAGhFz-G90BzG3eRzO4ZL0WDjESARYR3YeYNq-x5a8Xt5wlGSzN4C9PA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -109.548629,38.573441,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UT6 - Richfield</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/tsdumvr4isvafg1n0sgnv68a68/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrPzCam6sBiqZ41uYV54k7rmLxRAVVqv9qDrYF0ik0c1cYwHcbt-M_7nZUjoeqhHJTf4RYkWaocSKWyRVhVQggS42B4zWKYo1f8S89Omn7sPuGgJ8GvrQb2ZpcNu68CRrAh7_eaiwBjxSJHvH5wcdzf1gAeYlIHqI5ED-M3ubxefEmhP6FykNOpQrpfY3is4Irgd6Irv5KP4OPk6jmRABy1Mn7Lw6UX39OYMonlCGQpG9YavtlMj7PWhSDKy8smAgT7WSchCj_Wvufz9-y3GD3BFalAXA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Richfield City Cemetery \n Nr. 780 N Main St.<br>Richfield, Utah<br>GPS: 38.778364, -112.086517<br>Access: 24/7<br><br>A nice-looking work in progress. Military flags are flown on all patriotic holidays.<br><br>Made in America: Motorcycle roads! Highway 89 from US-6 (Spanish Fork/Price Canyon) to the southern border of the state is a great rural ride. <br><br>Highways 12 and 24 offer tremendous scenery and typically light traffic as they meander through a number of national and state parks. The “Hogs Back” road off of highway 12 is enough to stop your heart, especially on a motorcycle, but you’re missing a lot if you don’t take it. https://bit.ly/2RO1f6u<br><br>I-70 between I-15 to the west and state highway 10 to the east offers great scenery and wonderful gradual curves.<br><br>Fishlake National Forest: Any highway within the forest will be great traveling with lots of scenery to enjoy. https://bit.ly/2Gock96<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/tsdumvr4isvafg1n0sgnv68a68/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrPzCam6sBiqZ41uYV54k7rmLxRAVVqv9qDrYF0ik0c1cYwHcbt-M_7nZUjoeqhHJTf4RYkWaocSKWyRVhVQggS42B4zWKYo1f8S89Omn7sPuGgJ8GvrQb2ZpcNu68CRrAh7_eaiwBjxSJHvH5wcdzf1gAeYlIHqI5ED-M3ubxefEmhP6FykNOpQrpfY3is4Irgd6Irv5KP4OPk6jmRABy1Mn7Lw6UX39OYMonlCGQpG9YavtlMj7PWhSDKy8smAgT7WSchCj_Wvufz9-y3GD3BFalAXA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -112.086517,38.778364,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UT7 - Washington City</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/5ss7soshakosuukp2c87b6g26k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpRX5qW1hFyA62AyiWy17A7iYljeKNmBKqhb_7-smHB8sKj2b2Oix0EuiM6sb5DM0GdplfzG3ye7coPfuvnX4-gnQYZemF33EDfxYYBS6IU3w90ILz2q9nzOL45t9kPLa7Byp7h8xtmhEFwJSkULe5nJGp4Q1mfHzb50fWKdJwSfCTfXT1EEd334XWX-k2Y9TsWnzCSe6zNjSWF5MUpToDczvKOZ0GRiyXqWZVlUM-S4THNb7HWFt8Kw6r7azHhEVQZ52yclztzxylDpL_FH2tLH_HyXA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Veterans Park \n 111 N 100 E<br>Washington City, Utah<br>GPS: 37.131432, -113.508530<br>Access: 24/7<br><br>This is somber memorial to the fallen, reverently depicted by a bronze statue of a wounded combat soldier at the burial site of a comrade, hand on the fallen soldier’s helmet atop an M-16, tears running down the soldier’s cheeks. One would be hard-pressed not to feel the vicarious or real loss felt by so many service members.<br><br>Made in America: A must-visit when in the neighborhood is Zion National Park https://bit.ly/36tIYAs.<br><br>Snow Canyon State Park, enter from Santa Clara just north of St. George. https://bit.ly/37vQXhK<br><br>And another great Utah motorcycle road: Mojave Desert/Joshua Tree Road https://bit.ly/3aJSCCD.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/5ss7soshakosuukp2c87b6g26k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpRX5qW1hFyA62AyiWy17A7iYljeKNmBKqhb_7-smHB8sKj2b2Oix0EuiM6sb5DM0GdplfzG3ye7coPfuvnX4-gnQYZemF33EDfxYYBS6IU3w90ILz2q9nzOL45t9kPLa7Byp7h8xtmhEFwJSkULe5nJGp4Q1mfHzb50fWKdJwSfCTfXT1EEd334XWX-k2Y9TsWnzCSe6zNjSWF5MUpToDczvKOZ0GRiyXqWZVlUM-S4THNb7HWFt8Kw6r7azHhEVQZ52yclztzxylDpL_FH2tLH_HyXA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -113.50853,37.131432,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

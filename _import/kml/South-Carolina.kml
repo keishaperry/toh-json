@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>South Carolina sponsored by Ron Van Sickle</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>SC1 - Florence
+</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/se3n6of0qoh74jbmtdguttdn8s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoNYaZGgWI3AHmmrFpNtj7pnSfeFqqFenvUvla3YtGmp2Fe0zs9Ny3VICkjyTAlHm8uD28zDtpvPjbzK3V4RPYmnkEpPiTfgeKip_F4-8iam98CS7G0e4YOBHoc5rwgulRWIq-kFZAWTa1GoFwn2DV4yJTJY5SahUglfScnw45aC2vP7-_A0NK3C1Jkjb3eTvN3TVCuuQqZNXi_pnwuWi6kWNgQgDqJ3RxjyFGiddsb7xB5gqKCqhiGBcn-JXNaGxtm7_Tr2e0pgWf_Kl5YFuy7mLyTyA?session=0&fife" height="200" width="auto" /><br><br>“Home Safe” Monument<br>Florence Veterans Park \n 842 Woody Jones Blvd. \n Parking lot 5 of the Florence Center<br>Florence, South Carolina <br>GPS: 34.184351, -79.834111<br>Access: 7AM-7PM, 50 yard walk from parking lot. Two photos required.<br><br>The park features monuments and memorials to the wars of the 20th century, including World War I, World War II, the Korean War, the Vietnam War and the first Persian Gulf War, as well as an amphitheater surrounded by commemorative flags. In addition, the park has continued its growth by adding a monument to each branch of the armed services.<br><br>Made in America: Tubb’s Fish and Shrimp Co. has southern-style seafood plates and southern-style hospitality, plus beer & wine, served in down-to-earth digs with a covered patio where you can watch your bike. Locally owned and operated and within four miles of Florence Veterans Park.  http://bit.ly/3asWXKd. Check out the menu, there’s something for everyone!<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/se3n6of0qoh74jbmtdguttdn8s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoNYaZGgWI3AHmmrFpNtj7pnSfeFqqFenvUvla3YtGmp2Fe0zs9Ny3VICkjyTAlHm8uD28zDtpvPjbzK3V4RPYmnkEpPiTfgeKip_F4-8iam98CS7G0e4YOBHoc5rwgulRWIq-kFZAWTa1GoFwn2DV4yJTJY5SahUglfScnw45aC2vP7-_A0NK3C1Jkjb3eTvN3TVCuuQqZNXi_pnwuWi6kWNgQgDqJ3RxjyFGiddsb7xB5gqKCqhiGBcn-JXNaGxtm7_Tr2e0pgWf_Kl5YFuy7mLyTyA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.834111,34.184351,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SC2 - Johnston
+</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/us771550tgd1dedbf6jfbhs2kk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoBFcjuliEO9eU4ATfdNvOTD-aIji1TnqOV2sFKaHEqqLKme_-j8m0O6jff2X0_f4BQ08z_t5camGxMyEXBJxRXR7szZOuQo1Jusa82typrO7KToSLWAmCl2s7M-ChCVDvhJRUFJT0D-KxtGvRv_1xSlGHjqHzr0yIJFdvdb81IATWIAdmxM4Gug6P3B63VfqPzPSiYdoHn76cHlEMIgn-FiMsRqtIkwmF8qQyYiW85EGRaSpvnvFjZHQJgCP1T1UE4iCNaJnDXiGsgQgsqPta5_ny9ig?session=0&fife" height="200" width="auto" /><br><br>Commander of the Alamo Monument<br>Hwy. 121 and Rocky Creek Rd.<br>Johnston, South Carolina <br>GPS: 33.915199, -81.813617<br>Access: 24/7, unrestricted<br><br>This memorial stands near the birthplace and boyhood home of Col. William “Buck” Travis, defender and commander of the Alamo. In February, 1836, James Bowie, in charge of the Alamo volunteers but in failing health, relinquished his command to Col. Travis. Then, with increasing assaults from Santa Anna, Travis wrote his famed “Victory or Death” letter to seek help, addressed “To the people of Texas and all Americans in the world….If this call is neglected, I am determined to sustain myself as long as possible and die like a soldier who never forgets what is due to his own honor and that of his country.” <br><br>Travis was KIA on March 6, 1836 and his remains were burned along with the other Alamo defenders. Col. Johnson was the first person killed at the Alamo but was remembered as the military mind that organized the settlers to defend the Alamo. Take time to read the full letter at the memorial site.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/us771550tgd1dedbf6jfbhs2kk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoBFcjuliEO9eU4ATfdNvOTD-aIji1TnqOV2sFKaHEqqLKme_-j8m0O6jff2X0_f4BQ08z_t5camGxMyEXBJxRXR7szZOuQo1Jusa82typrO7KToSLWAmCl2s7M-ChCVDvhJRUFJT0D-KxtGvRv_1xSlGHjqHzr0yIJFdvdb81IATWIAdmxM4Gug6P3B63VfqPzPSiYdoHn76cHlEMIgn-FiMsRqtIkwmF8qQyYiW85EGRaSpvnvFjZHQJgCP1T1UE4iCNaJnDXiGsgQgsqPta5_ny9ig?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.813617,33.915199,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SC3 - Mount Pleasant
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/5d94khti52fk6jk3plebvao7fc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp4CljlozipeZ5BFBJRN1LeWWDooq8IhOij8gf1tLEqP5_-BFTFpyDsRlp-XDZURi7Gz9n8ZxwxmfmMOWYZ8QQnN9Cl8Zgdhsw-cjTtFjy6U77ApLOAptxQrmd9qDXg8ERamgBBjrXZE1ueGxe7OD8GzlCBHlosSB6wC6JuKKcmjFs4Bt2VWcxRNKfbng2IQC9bSYuVFQQ7o8-ZC3izsjRk07O7qKWVB37DsxYJxFjZdQG8bv4JBHSv3YENa7dy34eGGKe81jCdZE1Z50zFxpBTCAyTpw?session=0&fife" height="200" width="auto" /><br><br>USS Lewis and Clark (SSBN-644) Memorial<br>85 Patriots Point Rd.<br>Mount Pleasant, South Carolina<br>GPS: 32.793999, -79.904377<br>Access: 24/7<br><br>Lewis and Clark’s sail and fairwater planes and top of her rudder are on display, part of a memorial to the officers and men of the U.S. Navy Submarine Service who served during the Cold War. The landscaping represent the actual size of an SSBN underway on the surface with a grassy bow wave and block hull representing the freeboard.<br><br>Made in America: The Patriots Point Naval and Maritime Museum is home of the aircraft carrier USS Yorktown, destroyer USS Laffey, and the submarine USS Clamagore. Riders might consider taking a day off to absorb all the PPNMM has to offer. http://www.patriotspoint.org<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/5d94khti52fk6jk3plebvao7fc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp4CljlozipeZ5BFBJRN1LeWWDooq8IhOij8gf1tLEqP5_-BFTFpyDsRlp-XDZURi7Gz9n8ZxwxmfmMOWYZ8QQnN9Cl8Zgdhsw-cjTtFjy6U77ApLOAptxQrmd9qDXg8ERamgBBjrXZE1ueGxe7OD8GzlCBHlosSB6wC6JuKKcmjFs4Bt2VWcxRNKfbng2IQC9bSYuVFQQ7o8-ZC3izsjRk07O7qKWVB37DsxYJxFjZdQG8bv4JBHSv3YENa7dy34eGGKe81jCdZE1Z50zFxpBTCAyTpw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.904377,32.793999,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SC4 - Ridgeland 
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/dn9233m9ojfl5pubhsa1l3jqj8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq9pu3nNzOxoUCpiRGsh6kZpxfriedf9nUb6KIhf5b-ejiT_3TrXLzSiEJFCKXdnsShcp7GcZMZ_N2Tv04Kz5A-Q-7KltDCv4z0iQVFFs_C1E8xkpnigsIYBwfz5ruWMXmn3vcwyvKBzY8fMjet4HfexSwf4WGeUOhdGKLbHPdjEdsRwDeqmVgOLvwwxuixservLyZUUtRV2sAzY7p-E9ISGyjMg2ussdltVNlLjS3fqjCDVozgX9gL-Jyp79U5yiBSMORmSCDT4ISlDWugIuvOkL68sw?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Park<br>Russell St. and 3rd Ave.<br>Ridgeland, South Carolina<br>GPS: 32.484621, -80.984426<br>Access: 24/7<br><br>Located across the street from the Town Hall, this is a stunning park honoring our nation’s veterans. While Ridgeland is just a small town in Southern South Carolina, this park rivals anything you might find in a much larger city. The park has monuments representing each branch of the armed forces, as well as benches and walkways.<br><br>Made in America: More fine BBQ can be had at The Bar-B-Q Grill, 8084 E Main St.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/dn9233m9ojfl5pubhsa1l3jqj8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq9pu3nNzOxoUCpiRGsh6kZpxfriedf9nUb6KIhf5b-ejiT_3TrXLzSiEJFCKXdnsShcp7GcZMZ_N2Tv04Kz5A-Q-7KltDCv4z0iQVFFs_C1E8xkpnigsIYBwfz5ruWMXmn3vcwyvKBzY8fMjet4HfexSwf4WGeUOhdGKLbHPdjEdsRwDeqmVgOLvwwxuixservLyZUUtRV2sAzY7p-E9ISGyjMg2ussdltVNlLjS3fqjCDVozgX9gL-Jyp79U5yiBSMORmSCDT4ISlDWugIuvOkL68sw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.984426,32.484621,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SC5 - Ridgeway
+</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/hmqsblgo17daceneklp4vs1988/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALohJx0ZmSIaecr1j9wcitiUJQTyUtBdr-Gjtj8OLx1f9GEtQL2ST2NmlIFuqUm0RjQVs7-aD169zJ4gywl0imtrRm_xmg3WJoPCIOb3BPRfNvO_3Vw9VZnXZJZbe2t5ffYKUKb3MBD9W7oR4uBR5n9GKzkUdI6SWj5LKJVrFIKftUK7osYWjDkuetyzc_6tO3NZjH7mEOf-DHzzZPy1eB7fIk1InEVkRYdGscuGpxpS3vAKWD_IrB7BrAD2ZIF_viqAjpxx0c7Cwlz50xxUzyTzWRgK6A?session=0&fife" height="200" width="auto" /><br><br>World’s Smallest Police Station<br>160 S Palmer St.<br>Ridgeway, South Carolina<br>GPS: 34.306574, -80.959903<br>Access: 24/7, unrestricted<br><br>This small town, population 295, in central South Carolina, evidently doesn’t need a large police force. Before it was the police station it was the town well. The well was covered up in 1940, and the police station was built. This little hut, approximately 10’ wide by 19’ deep, is about the size of a home bathroom and was last used for service in 1990. It is truly unique to look at. Just beside it is the new police station. It’s twice as large as its predecessor, but still very small. In fact, it could be the 2nd smallest police station. <br><br>Made in America: Next to the old police station is the Olde Town Hall, now a Brew Pub and restaurant with excellent food. http://www.oldetownhall.com<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/hmqsblgo17daceneklp4vs1988/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALohJx0ZmSIaecr1j9wcitiUJQTyUtBdr-Gjtj8OLx1f9GEtQL2ST2NmlIFuqUm0RjQVs7-aD169zJ4gywl0imtrRm_xmg3WJoPCIOb3BPRfNvO_3Vw9VZnXZJZbe2t5ffYKUKb3MBD9W7oR4uBR5n9GKzkUdI6SWj5LKJVrFIKftUK7osYWjDkuetyzc_6tO3NZjH7mEOf-DHzzZPy1eB7fIk1InEVkRYdGscuGpxpS3vAKWD_IrB7BrAD2ZIF_viqAjpxx0c7Cwlz50xxUzyTzWRgK6A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.959903,34.306574,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SC6 - Walhalla 
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pps8dba093csu0hqnsj4ethb9o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpdHqOYmx8AufLild0GPCVSdMz9corPfaM-2f6iar47qzsvoFTGmm4_3JZQ5mvpHhHAUMW4C-2IUy5mOtcHSL6fsuZChBNshDgUcNWnAdgO3hWZlcyV6zweAajhj56nAooqsb52ORQMfLIo9dQJ4EKeCW4SNlWDMqJMZSw3VApvxPvc-j-lYTcpwyZ6IibrdjtGL5OmJ4rhNys_PP34f8l6EW6x60y0p8o4xwbGjx--ck_J-FNhdIkAypF2twI-hdqiGM7gsy07oL76L9izMLeuuwiTQA?session=0&fife" height="200" width="auto" /><br><br>Agent Orange Memorial <br>205 West Main St.<br>Walhalla, South Carolina <br>GPS: 34.765227, -83.067492 <br>Access: 27/7. Two photos required.<br><br>As Chief Petty Officer Frank Davis lay dying in his ICU hospital bed, he was forbidden to have live flowers. His daughter purchased for him a silver plastic rose, to which he said “I’d rather have this silver rose than all of the Purple Hearts in the Pentagon.” He died shortly afterwards of the cancer that was directly linked to his exposure to Agent Orange in Vietnam more than 20 years earlier. Agent Orange, a chemical defoliant, was a weapon of war deployed by American Forces during the Vietnam War. Over 22 and 1/2 million gallons were sprayed. By most accounts, and since the end of the war, over 300,000 of our veteran service personnel have been affected by AO Dioxins, with more deaths than the 58,000-plus who lost their lives during the war. <br><br>The Department of Veterans Affairs recognizes over 40 cancers and sicknesses, including Diabetes II, as Agent Orange related and being “service connected.” Yet most of the Vietnam-Theatre veterans are unaware of this information. The Order of the Silver Rose hopes to see every Vietnam Veteran exposed to AO Dioxins given the honors and recognition they deserve. And, until the day arrives that our own Government decides to honor these victims, The Order of the Silver Rose will continue to offer their Silver Rose Award to all eligible Vietnam Veterans and their surviving families.<br><br>Those whose deaths are linked to their Agent Orange (and the other dioxin-rich defoliants) exposure from their service in Vietnam are ineligible for the Purple Heart. This saddens and angers many families and service members who directly link their combat service exposure to their (pending) death. Mary Elizabeth Marchand channeled her energies after the death of her father (Chief Frank Davis) into creating the non-profit organization the Order of the Silver Rose. <br><br>The Order of the Silver Rose has many purposes; first, to honor the nation’s “chemically-wounded” warriors and to educate the public regarding the extent and the dangers of exposures. Secondly, it wants to spread the word to those who were exposed to Agent Orange that simple lab tests done on a regular basis can detect many illnesses linked to the chemical exposure. Early detection helps to extend life or even cure the disease in question. And lastly, it helps to find resources that veterans and families may be eligible for through the VA.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pps8dba093csu0hqnsj4ethb9o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpdHqOYmx8AufLild0GPCVSdMz9corPfaM-2f6iar47qzsvoFTGmm4_3JZQ5mvpHhHAUMW4C-2IUy5mOtcHSL6fsuZChBNshDgUcNWnAdgO3hWZlcyV6zweAajhj56nAooqsb52ORQMfLIo9dQJ4EKeCW4SNlWDMqJMZSw3VApvxPvc-j-lYTcpwyZ6IibrdjtGL5OmJ4rhNys_PP34f8l6EW6x60y0p8o4xwbGjx--ck_J-FNhdIkAypF2twI-hdqiGM7gsy07oL76L9izMLeuuwiTQA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.067492,34.765227,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SC7 - Walterboro</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gaa7qpofjjpkap5oon31a3mkjo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpoJDAw1bLXkzLz1MeDPOYyeJk85SlM7Iwt9pgrzRTX_XVxypWgGyFXYYEXr8-xI1jSlvQHxA7SUOEEX5Pg6Yvw0BwWke0DbL1RYfVtE4nF8VnOMizGKpRD5rbbbAA54mUNblxpuJWgZ3EX4UzB0bD6NwOj3E8c-29swmi0mimaXZ5Y6IzDBtwrsQsYX1cbtsS4IOZagCMO-_WrXALWqFqq9UDq4UGnTa5pGDNnBvGL18jpmLjPDxC2E6D7vk1hrLEaC25OWO-iB0fIrJnfYiHRn1CjVg?session=0&fife" height="200" width="auto" /><br><br>Tuskegee Airmen Memorial<br>627 Aviation Way<br>Walterboro, South Carolina<br>GPS: 32.916558, -80.637685<br>Access: 24/7<br><br>The Tuskegee Airmen, of the famed 332nd Fighter Group, although named for their origins at Alabama’s Tuskegee Institute, actually completed final training in Walterboro, South Carolina at Walterboro Army Airfield, where the regional airport now sits. Flying advanced fighter planes from 1943-1945, the statistics on the Tuskegee Airmen and theit missions are impressive, making these airmen one of the most respected squadrons of World War II. <br><br>The 1,000 Tuskegee Airmen pilots flew a total of 1,578 missions and never lost an aircraft over enemy territory. Sixty-six of those men died in action and thirty-two of them were taken as prisoners of war. Their planes, usually P-47 Thunderbolts or P-51 Mustangs, had red tail markings distinctive to the Tuskegee Airmen. Today, Walterboro honors the Airmen with a monument on the grounds of the Lowcountry Regional Airport.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gaa7qpofjjpkap5oon31a3mkjo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpoJDAw1bLXkzLz1MeDPOYyeJk85SlM7Iwt9pgrzRTX_XVxypWgGyFXYYEXr8-xI1jSlvQHxA7SUOEEX5Pg6Yvw0BwWke0DbL1RYfVtE4nF8VnOMizGKpRD5rbbbAA54mUNblxpuJWgZ3EX4UzB0bD6NwOj3E8c-29swmi0mimaXZ5Y6IzDBtwrsQsYX1cbtsS4IOZagCMO-_WrXALWqFqq9UDq4UGnTa5pGDNnBvGL18jpmLjPDxC2E6D7vk1hrLEaC25OWO-iB0fIrJnfYiHRn1CjVg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.637685,32.916558,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

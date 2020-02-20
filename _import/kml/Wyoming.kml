@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Wyoming sponsored by Jerry Jones</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>WY1 - Burns
+</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/bfu64nsm4p078s714ufk5abd2g/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq8UvavYJ-_ripbz7_jiGCV9vmEhjf58WzsZh2PPW2ZmIPZJhNvHmldGv0sjWzmecnFKxY-Tqz569LjuM5XCIVT_UMnJdzwsPDFYl123cFIZEjwF1Tj57CBR7b1k8_PCsWBybnQbRpyFio12TfjtDayfjWM8lurNRm8cBUzOiVdULxk008JXb16GFh5zXnYlebJoWqikUDF3KXvEfu_3UrFLU50oUhhnPVyjYEPnrO_Et07PNq3o-huDKZ8v-xppc3dNjVEDc3TBE0e0vyGjPOTWcHwTA?session=0&fife" height="200" width="auto" /><br><br>Liberty Park<br>315 S Main St.<br>Burns, Wyoming<br>GPS: 41.18879, -104.35883<br>Access: 24/7<br><br>A 9/11 Memorial I-beam and tribute to Veterans and First Responders in a beautiful setting. The park was dedicated in 2018.<br><br>Made in America: With a population of just 301 residents, Burns is small town America and proudly supports our heroes. The Antelope Truck Stop on I-80 is your only chance for fuel or food before reaching Cheyenne, a short 26 miles west of here.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/bfu64nsm4p078s714ufk5abd2g/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq8UvavYJ-_ripbz7_jiGCV9vmEhjf58WzsZh2PPW2ZmIPZJhNvHmldGv0sjWzmecnFKxY-Tqz569LjuM5XCIVT_UMnJdzwsPDFYl123cFIZEjwF1Tj57CBR7b1k8_PCsWBybnQbRpyFio12TfjtDayfjWM8lurNRm8cBUzOiVdULxk008JXb16GFh5zXnYlebJoWqikUDF3KXvEfu_3UrFLU50oUhhnPVyjYEPnrO_Et07PNq3o-huDKZ8v-xppc3dNjVEDc3TBE0e0vyGjPOTWcHwTA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -104.35883,41.18879,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WY2 - Evanston
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lrhdkomf5363hqfh5i1j2nedoo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp89Q4JIWvPL9zXUgI5Yqw-72tHY_la2W2ZM1Nv5qkO5AhnNdi_NJw-3PgVICmv1pnPDm0gw6njTPCX4oLLvb8b4bYezBAg-Co8TuFSYCi5fRj4Yzx17hkcTFx9XtKHnsY1jU3_fig8CpwyVe_PYJpNeC7TGtvH2v2i5M_rpN3_Ms0ZHWbU9KcFNTXAO5eSMCN5zvDYqy6wf3iA5F_ValLFamkSdE0LBeorqeV1-Xy2jrvxjJkTL481l4fMAqP5yNaCWTCIOGFNzaD4Ax7TVRDRSgwlvA?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>225 9th St.<br>Evanston, Wyoming<br>GPS: 41.266593, -110.965132<br>Access: 24/7<br><br>Kneeling Soldier and Battlefield Cross on granite base. “The Fallen Comrade, All Gave Some – Some Gave All”<br><br>Made in America: Evanston is, was and will always be a railroad town. It began in 1868 when the Union Pacific Railroad approached from the east. The city offers a great 3.5 mile walking tour of historic railroad sites or you can ride them much quicker if you want. <br><br>Evanston also has a river walk in the downtown area. The Historic Old Post Office is just around the corner from the TOH site and there’s a Doughboy Memorial in front of the Courthouse. <br><br>The Mirror Lake Scenic Byway, Highway 150, is 80 miles of unforgettable beauty in the Uinta Mountains just south of town.<br><br>Make sure to check nearby TOH sites in Colorado and Utah before leaving town as something may be closer than the next site in Wyoming.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lrhdkomf5363hqfh5i1j2nedoo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp89Q4JIWvPL9zXUgI5Yqw-72tHY_la2W2ZM1Nv5qkO5AhnNdi_NJw-3PgVICmv1pnPDm0gw6njTPCX4oLLvb8b4bYezBAg-Co8TuFSYCi5fRj4Yzx17hkcTFx9XtKHnsY1jU3_fig8CpwyVe_PYJpNeC7TGtvH2v2i5M_rpN3_Ms0ZHWbU9KcFNTXAO5eSMCN5zvDYqy6wf3iA5F_ValLFamkSdE0LBeorqeV1-Xy2jrvxjJkTL481l4fMAqP5yNaCWTCIOGFNzaD4Ax7TVRDRSgwlvA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -110.965132,41.266593,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WY3 - Lander
+</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/aqbt2bkhpgfauct3vugkh9utqk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoVWhDoHnud-dMjASJx-tl9fe5_IIO2GouxwdXPmGpToYYR-MtmEFAsfJFJYWmk6MQ4lzF44DzrFTkrwaUWNJWio2tlg5WrySX9h5-X9mCx-_w789oBW4hB1TaPSKmgSS9pixUEqoRDmxBiuFxmSCBB5FdQloQ22JaETZQVbbldE9B-i9HVEGeLhQ3IYRsNSGSwx27mIndjRLvDnH8zJ7vKbehWgBc8WK-BpIbGD3tBq1cBd-_V_B7122r2BuNY_jMHpGAgSaRoBevRw4pN0ubQnDrcdw?session=0&fife" height="200" width="auto" /><br><br> <br>450 N. 2nd St.<br>Landers Wyoming<br>GPS: 42.836237, -108.727353<br>Access: 24/7<br><br>Soldier at Battle Cross, surrounded by columns containing names of veterans who served from Fremont County. The statue honors all veterans, but especially our fallen heroes.<br><br>Made in America: Lander came into being in 1884 before Wyoming was a state. It has grown into a central hub for Fremont County and all the wonderful recreation associated with the area. Hiking, boating, fishing, hunting and anything associated with the out doors is available here. <br><br>Of course, food for TOH riders is always important and you will find plenty of excellent places all around the city. The Museum of the American West (http://bit.ly/36Ys6TK) and Fremont County Pioneer Museum, (inspirock.com) are all close to this stop and will help you gain a better understanding of your current surroundings and history of the west. <br><br>Beautiful scenic roads await your departure to the next TOH site but be careful because animals reign supreme in this part of the country and freely use the same roads you will be on.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/aqbt2bkhpgfauct3vugkh9utqk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoVWhDoHnud-dMjASJx-tl9fe5_IIO2GouxwdXPmGpToYYR-MtmEFAsfJFJYWmk6MQ4lzF44DzrFTkrwaUWNJWio2tlg5WrySX9h5-X9mCx-_w789oBW4hB1TaPSKmgSS9pixUEqoRDmxBiuFxmSCBB5FdQloQ22JaETZQVbbldE9B-i9HVEGeLhQ3IYRsNSGSwx27mIndjRLvDnH8zJ7vKbehWgBc8WK-BpIbGD3tBq1cBd-_V_B7122r2BuNY_jMHpGAgSaRoBevRw4pN0ubQnDrcdw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -108.727353,42.836237,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WY4 - Lovell
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/vuihglnhckbeeje6p376nlon9o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo7vmqLXMsqufSNLk5UfYpPNtVn98iKHCbrxzIX9NjSELVu22aiATDaS0k8_ln5tudMyWQbwqz-q-mHscQQ3p5zZrX0CUi8vm3zb4ca2JOG3USgxselpiDsHT4KtFyyvxhWDGBAqhRdw8i5OxqIiNOKh08Z62cxXmxfmmqMiyKJJOrd3gN9pcnqJcJ7c8NNGJX8foGO4Kfp_HocIni1IcyJ9IRs8q8eHnn7Mk1y642IRUtoml_n9jYSJ8snHG-gRkHpev7gRxr2zidaF3zbmJXA3NYp6Q?session=0&fife" height="200" width="auto" /><br><br>Veterans Park<br>138 E Main St.<br>Lovell, Wyoming<br>GPS: 44.837282, -108.390591<br>Access: 24/7<br><br>Lovell’s beautiful park was dedicated in 2002 by Apollo 13 Commander, Captain James Lovell. Every branch of the Armed Forces is recognized, and every war for the last two centuries is acknowledged. The remarkable mural on the park’s east side immortalizes forces on the land, in the air, and at sea. A large medallion dedicated to those who serve their nation, is at the South side of the park. Take your time to visit each part of the park and the great honor to all Veterans shown here.<br><br>Made in America: Lovell is the western gateway to the Big Horn Mountains and the Big Horn Canyon National Recreation Area. The town was built in 1925 and gained fame for it’s great family atmosphere and weather. Lovell is a busy place for outdoor events all year long, from horse back riding to motorcycle riding in the beautiful surrounding mountains. The Brandin’ Iron (http://bit.ly/2TumyMP) and Burger Barn (http://bit.ly/2TuOxMh) restaurants are just down the street and portions are made for hungry ranch hands and bikers.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/vuihglnhckbeeje6p376nlon9o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo7vmqLXMsqufSNLk5UfYpPNtVn98iKHCbrxzIX9NjSELVu22aiATDaS0k8_ln5tudMyWQbwqz-q-mHscQQ3p5zZrX0CUi8vm3zb4ca2JOG3USgxselpiDsHT4KtFyyvxhWDGBAqhRdw8i5OxqIiNOKh08Z62cxXmxfmmqMiyKJJOrd3gN9pcnqJcJ7c8NNGJX8foGO4Kfp_HocIni1IcyJ9IRs8q8eHnn7Mk1y642IRUtoml_n9jYSJ8snHG-gRkHpev7gRxr2zidaF3zbmJXA3NYp6Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -108.390591,44.837282,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WY5 - Pinedale
+</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/r97e59al0bf1l8nem6hpf9ogdg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpCrqgyXg6l6W039dEofMhu2oZh4pldc9-GSLS8d2bNv8EIaSeYOuwKGrQ-aeyZaDGd-uugV5xpgDcZ3DjF02GOQMYYrnN-yagnjJvR320HWLxBKfM7imNrUpVr4e20Jx3ePWRC3wxNtXtvLBQ9j9uFzAWBltIzafNgexHQdR2DH0Y7QKthUCEhmT-dExqkPvevk2S2wu-RcDWoCGl7xvA83CHT-u0Qhe4P_u2gZchWbk93dwQSLjXIrOYToZ-ROE0j1E-VZF9qFO1pcEfU295rP_bBiw?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Monument<br>American Legion Park \n 105 N Madison Ave.<br>Pinedale, Wyoming<br>GPS: 42.868437, -109.869551<br>Access: Dusk-dawn <br><br>The impressive Veterans Memorial Monument is 68,000 pounds of glossy, black granite, engraved with the names of those who served and surrounding a central column that is topped with a bronze sculpture of two soaring eagles with the inscription “Honor, Service, Pride.” Members of Fremont Peak VFW Post 4801 conducted extensive research with veterans’ names going back several generations to the Spanish American War and they continue to honor those men and women every day at American Legion Park.<br><br>Made in America: Pinedale is a mountain town on the Centennial Scenic Byway at the base of the majestic Wind River Mountain Range. Wildlife outnumber residents ten-fold and animals are commonly seen any day of the year. There are resident moose found in town parks, and mule deer cautiously make their way across streets and driveways. Mountain lions and bobcats have been spotted sunning on rocks, and gray wolves and elk herds can be seen loping alongside fences near wilderness areas. <br><br>If you want to experience life of a mountain man in the 1800s, visit the Museum of the Mountain Man (http://bit.ly/2TxqkF4) before heading out of town. Remember as you leave town all the wildlife you saw in town, even more will be waiting for you on the roads out to your next stop. So be alert.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/r97e59al0bf1l8nem6hpf9ogdg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpCrqgyXg6l6W039dEofMhu2oZh4pldc9-GSLS8d2bNv8EIaSeYOuwKGrQ-aeyZaDGd-uugV5xpgDcZ3DjF02GOQMYYrnN-yagnjJvR320HWLxBKfM7imNrUpVr4e20Jx3ePWRC3wxNtXtvLBQ9j9uFzAWBltIzafNgexHQdR2DH0Y7QKthUCEhmT-dExqkPvevk2S2wu-RcDWoCGl7xvA83CHT-u0Qhe4P_u2gZchWbk93dwQSLjXIrOYToZ-ROE0j1E-VZF9qFO1pcEfU295rP_bBiw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -109.869551,42.868437,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WY6 - Sundance
+</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ec7ss52mmeo1us71aj2pe79u34/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpQ_A7IobuuBr_RSRPSH5_dBfFk8WW5kHuFgny5QvHSZhIq313wPu9Pv_cjOV3mIv-tUjLkxlPZUIb4pBc6Rq9onIksbb2vBQELglka43-34GsVXZIgAu3IXw0ewzFSFLLKf0HRCwf0I8Xm3QUw3jKB8JnB3QdklGgffEaF7ggP4CryMEaJ-e92-c2pTntT9vG3oEjrCJXtzhAUWV61ku2rVNIei4i9_G9zpYGeuKKcu1LrAw7pjjS42li-wRLL4D0jgHI7ddvwVMc5knjriIKiL1a0_Q?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>N 3rd and E Main St. <br>Sundance, Wyoming <br>GPS: 44.405669, -104.379517<br>Access: 24/7<br><br>The Crook County War Memorial honors local area WWI, WWII, Korea and Vietnam Veterans. The small twon came together when everyone said they couldn’t do enough to honor all the Veterans from Crook County who served their country in wartime.<br><br>Made in America: Sundance is nestled in the valley of the Bearlodge Mountains on the western edge of the Black Hills. This is and has been a western town since being established in 1875 and it’s most famous person is the Sundance Kid (Harry Longabaugh). He got his name from Sundance as this was the starting place of his criminal activity. He stole a gun, horse and saddle from a local rancher and then got to spend some quality time in the city jail. You can visit the free city museum in the county court house which still has the jail cell “The Kid” stayed in. <br><br>Sundance is still a wide open frontier town with beautiful skies to enjoy and breathtaking mountains. It’s just a short distance to Devils Tower which is really a must see if your in the area. For the Harley riders, it’s time to get your local shirt or poker chip while in town at the Sundance Harley shop at 220 E Main St. <br><br>Before you get back on your motor to leave town, take a minute to go across the street to the Bearlodge Bakery. This small town bakery is a place you know you need to stop. If not there, then down the street to the Dog Pound Grill and Ice Cream, where “All Strays Welcome.” http://bit.ly/2Rhy0bG <br><br>Enjoy the ride as you leave town but remember the wildlife in this part of the country way out number us humans.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ec7ss52mmeo1us71aj2pe79u34/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpQ_A7IobuuBr_RSRPSH5_dBfFk8WW5kHuFgny5QvHSZhIq313wPu9Pv_cjOV3mIv-tUjLkxlPZUIb4pBc6Rq9onIksbb2vBQELglka43-34GsVXZIgAu3IXw0ewzFSFLLKf0HRCwf0I8Xm3QUw3jKB8JnB3QdklGgffEaF7ggP4CryMEaJ-e92-c2pTntT9vG3oEjrCJXtzhAUWV61ku2rVNIei4i9_G9zpYGeuKKcu1LrAw7pjjS42li-wRLL4D0jgHI7ddvwVMc5knjriIKiL1a0_Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -104.379517,44.405669,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WY7 - Thermopolis
+</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/joj9ajmnt4e98k089o5i5fiecg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr9KLf8dUwidpIAJdOWPG0eo3SfqpjdQYuPbCOc4c4Oq8L8j-dGfCtEnMHfGdynmN8YD0gViVwa4tOfGS1wp8wGLSHh_4o4eiYLGjndiV22JLntOVCUwIjHtL51-SfPFcTDlxcDIRfujEMhu2KefhxQvDQjKYEz36HC_1TSzL67Z43DWvVSD2LQnmqMFkb_-uxeLrE6ZMt4q9DC1VvClGLXrUlgvfc7MJ9_GZvRlencztCdKTAW5FhBJhC3tg6IdJWcvTz7ieYslZvYmdPG1l15eq_OAA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>700 Broadway St.<br>Thermopolis, Wyoming<br>GPS: 43.646339, -108.213871<br>Access: 24/7<br><br>This Veterans Memorial features a nicely-restored M2 105mm Howitzer and guards standing by. In front of the Hot Springs Museum.<br><br>Made in America: Thermopolis is in a hot springs area, so consider taking time to relax those weary muscles and enjoy a soak in one of the excellent hot springs in and around town. Of course hot springs are also what attracted dinosaurs to the area and a wonderful museum is available just down the street. They are still uncovering new finds all the time from those that stayed in the hot springs too long. Dinosaurs, not people.<br><br>Thermopolis is a town of over 3000 residents, which is large for Wyoming so take a break for food or motel for the night. It’s a long ways to the next TOH stop so plan accordingly. Hot Springs Museum at the memorial is free to veterans so come enjoy.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/joj9ajmnt4e98k089o5i5fiecg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr9KLf8dUwidpIAJdOWPG0eo3SfqpjdQYuPbCOc4c4Oq8L8j-dGfCtEnMHfGdynmN8YD0gViVwa4tOfGS1wp8wGLSHh_4o4eiYLGjndiV22JLntOVCUwIjHtL51-SfPFcTDlxcDIRfujEMhu2KefhxQvDQjKYEz36HC_1TSzL67Z43DWvVSD2LQnmqMFkb_-uxeLrE6ZMt4q9DC1VvClGLXrUlgvfc7MJ9_GZvRlencztCdKTAW5FhBJhC3tg6IdJWcvTz7ieYslZvYmdPG1l15eq_OAA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -108.213871,43.646339,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Oklahoma</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>OK1 - Cheyenne
+</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lr72vlnplbedbjaged39dkhle0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqMuCRNuXWi0St4isZTP8YCDNF5j0zpVXXpLd0ZgDvy2ZUiRv8cqmj8OU3yB6FzZtXgKAX-iQU0CciKhhYm4IIdKM6xYVybhMg8HvaFi_hLvBGMwT3l1yrVCG5-ZRkwSMXcNGzB8Yd8bv9LsRr2z5waHZZSv0XfFx0OPBUCtVXqvktcw8Ch5qiqWmAMDTS1DLlK-SIutSQKbZGB_ijnAHbCJBoPPug6jgGIYBY4bgHmfSpFomJFG92NqrOzykObZVAMi5ltiC5nif3CV6yICz0aUGxUoA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>500 E Broadway<br>Cheyenne, Oklahoma<br>GPS: 35.613590, -99.671540<br>Access: 24/7<br><br>This memorial was erected to pay respect to all the brave veterans who serve this country. On each side of the central stone are two short grey walls etched with the names of hundreds of local citizens who have sacrificed their lives in the line of duty. A flower wreath can sometimes be seen honoring those named here.<br><br>Made in America: The town of Cheyenne is perhaps most well-known for being the location of the Battle of Washita River. On the dawn of November 1868, Lieutenant Colonel George Armstrong Custer led the 7th U.S. Cavalry in a surprise attack against Peace Chief Black Kettle and the sleeping camp of the Cheyenne tribe. More information can be learned about this event by traveling two miles west of here and visiting the Washita Battlefield National Historic Site. https://www.nps.gov/waba<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lr72vlnplbedbjaged39dkhle0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqMuCRNuXWi0St4isZTP8YCDNF5j0zpVXXpLd0ZgDvy2ZUiRv8cqmj8OU3yB6FzZtXgKAX-iQU0CciKhhYm4IIdKM6xYVybhMg8HvaFi_hLvBGMwT3l1yrVCG5-ZRkwSMXcNGzB8Yd8bv9LsRr2z5waHZZSv0XfFx0OPBUCtVXqvktcw8Ch5qiqWmAMDTS1DLlK-SIutSQKbZGB_ijnAHbCJBoPPug6jgGIYBY4bgHmfSpFomJFG92NqrOzykObZVAMi5ltiC5nif3CV6yICz0aUGxUoA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.67154,35.61359,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OK2 - Grove 
+</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/q2n4dpa88mi3hkf8qejj2isgn8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALofQXNxKxIiK9Pm3zOrJ1bDSYdqfis3SGTPRoY5W_rlbqdouz6ROYRUcI7ZJ7CJ2HwbpkVXFitqabXdLMvArUtqL1s8orljzGfuO5YCmGA1Xe3ueQ-a5l0jIwa-_7AngFIfkjbzIFkIA0ltcMm84W62lgZeGHx6T8s0dMMApaJXVbdbR5C9MbHzeU3l8-yaACFw8DBUe8xVqfiMQ_Yo9t2nlpJYCZln0k_Xzo8q6pGsCg66z90kqywN7Lp2DlsPUIdo3Ai00kftZZfjbbicZ8r9-tFmPw?session=0&fife" height="200" width="auto" /><br><br>Veterans Honor Walk<br>S Broadway & W 3rd Sts.<br>Grove, Oklahoma<br>GPS: 36.593080, -94.771670<br>Access: 24/7<br><br>Inscription: “Veterans Honor Walk, honoring all veterans who served our country.” On the backside of the memorial is a heartfelt dedication alongside an image of the western hemisphere and the renowned Iwo Jima Memorial in Virginia. The “walk” is covered with bricks of local veterans past and present.<br><br>Made in America: In the late 1930s, a dam was built across Grand River and “The Tulsa World predicted a bright future because of [Grove]’s strategic position east of the river, with Elk River to the north and Honey Creek to the south”. Construction jobs brought with it an influx of workers, new businesses came to the area, and the town was forced to expand in order to contain the vast number of residents now calling Grove home. Unlike many other Oklahoma locales, the population of Grove has been steadily growing ever since.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/q2n4dpa88mi3hkf8qejj2isgn8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALofQXNxKxIiK9Pm3zOrJ1bDSYdqfis3SGTPRoY5W_rlbqdouz6ROYRUcI7ZJ7CJ2HwbpkVXFitqabXdLMvArUtqL1s8orljzGfuO5YCmGA1Xe3ueQ-a5l0jIwa-_7AngFIfkjbzIFkIA0ltcMm84W62lgZeGHx6T8s0dMMApaJXVbdbR5C9MbHzeU3l8-yaACFw8DBUe8xVqfiMQ_Yo9t2nlpJYCZln0k_Xzo8q6pGsCg66z90kqywN7Lp2DlsPUIdo3Ai00kftZZfjbbicZ8r9-tFmPw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -94.77167,36.59308,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OK3 - Leedey 
+</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/r20plmuduh79h2ar5mdlf2j92c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALojfNinjWia_oySiJrN2R0iimIhI2q0KS8CEhY1FkCHPU1dYHxGxcOwVZm1n3d5R3HZv1rlTfLJTyug7i9Hspj1kqBP8XLauWnMlmihpoVDh2sdN7wk9hGj_kGPlvL4ELcI99YF3x2u5_IsltKzQLUJC0zmUADHrlNGO0WHTRLC6TwzBt4-bgSw464G7z3kHiLOsnqQDVGFxA52mWQzp6mGqvbpsKCOnljsaFVONF1Kfoum_VvEm8NbiuV6ntXJkKHIubd99lRVFCorsPdMFffV0TXYLg?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>W 2nd St. betw. Hobson Ave. and N Main St.<br>Leedey, Oklahoma<br>GPS: 35.871909, -99.348096<br>Access: 24/7<br><br>Just as not all heros are larger-than-life, this quiet memorial is located in the shadow of a water-tower, hidden between a playground and basketball court. Though it may not be as well-known as Leedey’s Tornado Monument, it’s still remarkable how it pays respect to all the brave men and women who have served, no matter how humble their beginnings. <br><br>Made in America: In 1892, Leedey came into existence as a proper town when the Cheyenne-Arapaho Reservation was opened for non-Native American settlement. Though there was a minor oil boom in the 1930s which caused the population to peak at 650, there was a decline shortly after and the town currently has approximately 450 residents. This quiet community has kept to themselves for the most part, staying out the limelight and relishing the fact that they are a small town with a modest history.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/r20plmuduh79h2ar5mdlf2j92c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALojfNinjWia_oySiJrN2R0iimIhI2q0KS8CEhY1FkCHPU1dYHxGxcOwVZm1n3d5R3HZv1rlTfLJTyug7i9Hspj1kqBP8XLauWnMlmihpoVDh2sdN7wk9hGj_kGPlvL4ELcI99YF3x2u5_IsltKzQLUJC0zmUADHrlNGO0WHTRLC6TwzBt4-bgSw464G7z3kHiLOsnqQDVGFxA52mWQzp6mGqvbpsKCOnljsaFVONF1Kfoum_VvEm8NbiuV6ntXJkKHIubd99lRVFCorsPdMFffV0TXYLg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.348096,35.871909,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OK4 - Oklahoma City 
+</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7otkvsp22ks1j6ak1qqvb12trk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpY970EEPXKXr9y85qHZ_2qAKXZdA11EkyfeEG-oTnJJnb1J1W-3lg16Gru5_cg8lsO09Wca43M-i4GfXYdXikU2f6FSUdx4vgajRdRB3yWpGU9RdGvIuAm-_E068HceBf7DW1rgHf-fwbPYFs-IF6BaezsSRJddG81w_l_VxxljdHV7rAxJ-1FgCt4_S5XFoxfsusYBqhQSSFuxQ6bVKMflpDEnA10CaO9RNSOop6gddwdNYCQNngtJ9jzldNX1B8PnDuqkcoztguiHooJP1cNo6qjug?session=0&fife" height="200" width="auto" /><br><br>Firefighters Memorial<br>2716 NE 50th St.<br>Oklahoma City, Oklahoma<br>GPS: 35.521800, -97.464660 <br>Access: 24/7<br><br>The property of the Fallen and Living Firefighters Memorial is separated into two distinct areas: the museum and the memorial. The Firefighters Museum contains a vast array of historical artifacts, from 18th century equipment used by firefighters back in the day to a life-size replica of an old firehouse. Inside the building is also an Oklahoma Rescue Memorial, thanking all the first responders who risked their lives helping people escape from the Alfred P. Murrah Federal Building during the events of the Oklahoma City bombing on April 19, 1995. The museum is open 9AM-4:30PM Monday-Saturday and 1PM-4:30PM on Sundays. <br><br>The memorial is located on the other half of the property. The first thing you’ll notice is the tall sculpture depicting two firefighters struggling on the unstable frame of an iron building. While one fighter lays on the roof, desperately trying to pull his comrade to safety, the other dangles precariously off the edge, glancing over his shoulder at the ground below. A glass flame sits atop the Wall of Valor, inscribed with the names of “all Oklahoma firefighters who [have] served their communities for more than 20 years or retired through disability.” <br><br>Bonus stop: 35.473304, -97.516737 This year marks the 25th Anniversary of the bombing of the Murrah Building in downtown Oklahoma City. The Oklahoma City National Memorial Museum occupies the west end of the former Journal Record Building. There is a self-guided tour telling the story of the bombing of the Alfred P. Murrah Federal Building. On the east side of the Memorial, an American Elm known as the Survivor Tree, bears witness to the violence of that day and withstood the full force of the attack. Years later, it continues to stand as a living symbol of resilience.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7otkvsp22ks1j6ak1qqvb12trk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpY970EEPXKXr9y85qHZ_2qAKXZdA11EkyfeEG-oTnJJnb1J1W-3lg16Gru5_cg8lsO09Wca43M-i4GfXYdXikU2f6FSUdx4vgajRdRB3yWpGU9RdGvIuAm-_E068HceBf7DW1rgHf-fwbPYFs-IF6BaezsSRJddG81w_l_VxxljdHV7rAxJ-1FgCt4_S5XFoxfsusYBqhQSSFuxQ6bVKMflpDEnA10CaO9RNSOop6gddwdNYCQNngtJ9jzldNX1B8PnDuqkcoztguiHooJP1cNo6qjug?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.46466,35.5218,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OK5 - Seminole
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/96r16jo741bpmi0e62g9m4bds4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqirGp_F5eNu00wl1LrbZZsvGUmU08Nx-RZflS9NaaTpGtEJKb-F3znqWv1B2cBS-hXLqLLXMqn82APwraCm_WoIRK5NpZSSGWzCTtszaV1RdJG8KO9mtxfCvzcsPZJmIpMzV7sGegHqfFWJSo0mZjffd-2ZUMuIi9yQfRX85Dyi8pVBJRvHHnuOBvNVK2cp0vxcwsoott2r__jZX8lixcqitq--Absr9KhACUo4wi9rEUNM-ObeF8eL94oVA6pn11gvVH4yJ--nd2ScpK7bfMqOgp1Hw?session=0&fife" height="200" width="auto" /><br><br>Seminole Nation Cemetery & Veterans Memorial<br>N side of OK-59, 1.2m W of US377<br>Seminole, Oklahoma<br>GPS: 35.188918, -96.697193<br>Access: 24/7<br><br>The Seminole Nation of Oklahoma Cemetery and Veterans Memorial sits on a 20-acre lot located just off Highway 59, obvious by the two large stone walls that are separated by seven plaques, each displaying traditional symbols of war. One wall is embellished with the name of the memorial and an emblem paying respect to the Seminole Nation Code Talkers. <br><br>What exactly is the Seminole Nation of Oklahoma? They’re a tribe of federally recognized Native Americans who were removed from their homes in Florida and relocated to reservations in Oklahoma. In 1898, the Curtis Act was passed and, as a result, the tribe was granted permission to run their own government. Their jurisdiction covered such a large area that they founded their very own county, appropriately called Seminole County which included the notable cities of Seminole and Wewoka.<br><br>Although the city of Seminole was built on traditional Native American cultures, it’s had its fair share of outside influence, perhaps the most renowned being the oil boom of 1926, when high-producing oil wells were discovered within the city. Seminole transformed from a meager town of only 850 residents to one with over 25,000 in a span of just a few years. This eruption in population declined to around 11,000 by the time 1930 rolled around and has been on a slow decline ever since.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/96r16jo741bpmi0e62g9m4bds4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqirGp_F5eNu00wl1LrbZZsvGUmU08Nx-RZflS9NaaTpGtEJKb-F3znqWv1B2cBS-hXLqLLXMqn82APwraCm_WoIRK5NpZSSGWzCTtszaV1RdJG8KO9mtxfCvzcsPZJmIpMzV7sGegHqfFWJSo0mZjffd-2ZUMuIi9yQfRX85Dyi8pVBJRvHHnuOBvNVK2cp0vxcwsoott2r__jZX8lixcqitq--Absr9KhACUo4wi9rEUNM-ObeF8eL94oVA6pn11gvVH4yJ--nd2ScpK7bfMqOgp1Hw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -96.697193,35.188918,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OK6 - Tvshka Homma (aka Tuskahoma)</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/3bnmj5inrpelgsujp660adqbk8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoDYJRPdSvnexbCnLLOVEOEv5oBJlVS0AlP-uhXXdvXkjc5ZOSE_BSYxnPqtHF8O5JNG-8Ye71yU7TCamFlqYvy19Tp8r-wxNGe7-73D1cdew2Jf3EUnnFbqiKmvdK-ox5uPN_xKAorodAkaxMhxoxcOCeUorA4qB4cF9Set5UwFsLoRrxjnyG-IG4iSsH8qZIdd21wQC_F1Veak5P_PxRS2VOd9kqHGD9uEpwbJuddJlxeMteHtQBJchLtWVmrq-cY9SdxHP_F_INjlr_0K6iRGC8-2g?session=0&fife" height="200" width="auto" /><br><br>Choctaw War Memorial<br>10 Council House Rd.<br>Tuskahoma, Oklahoma<br>GPS: 34.640732, -95.279057<br>Access: Dawn-dusk. For trophy and Iron Butt rides, photos must be taken during daylight hours.<br><br>The Choctaw War Memorial sits on approximately one acre of land. The path to each station meanders in a snake-like pattern with a memorial for each conflict in bends of the path. The Choctaw Code Talker memorial is the first station you come to and honors the “original Code Talkers” of WWI and WWII. The subsequent stations are for WWI, WWII, Korean, Vietnam, and Gulf Wars. It is definitely worth spending more than just a few minutes here. <br><br>When the United States entered the war in 1917, Native Americans were among the soldiers. Even though they weren’t allowed to become U.S. citizens until 1924, they felt a deep patriotic duty to volunteer and serve their country.<br><br>The United States has experienced a war in every generation since Independence, and Choctaw warriors have always fought alongside American Soldiers, thus fulfilling a prophecy by Pushmataha, a Choctaw chief who died in 1827, that the Choctaw “War Cry” would be heard in many foreign lands.<br><br>Tvshka Homma (between Clayton and Talihina) is the home of the Choctaw Capitol Building that was completed in 1884. The Capitol was in use from 1884 until 1907, when the Choctaw Nation was abolished and Oklahoma became a state. After statehood, the building fell into disuse and disrepair. During recent decades, however, it has achieved new life as the Choctaw Capitol Museum of the successfully reconstituted Choctaw Nation. The Choctaw Nation holds its annual Labor Day festival here, attracting nationally-known country-western singers and bands, and in excess of 25,000 attendees. <br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/3bnmj5inrpelgsujp660adqbk8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoDYJRPdSvnexbCnLLOVEOEv5oBJlVS0AlP-uhXXdvXkjc5ZOSE_BSYxnPqtHF8O5JNG-8Ye71yU7TCamFlqYvy19Tp8r-wxNGe7-73D1cdew2Jf3EUnnFbqiKmvdK-ox5uPN_xKAorodAkaxMhxoxcOCeUorA4qB4cF9Set5UwFsLoRrxjnyG-IG4iSsH8qZIdd21wQC_F1Veak5P_PxRS2VOd9kqHGD9uEpwbJuddJlxeMteHtQBJchLtWVmrq-cY9SdxHP_F_INjlr_0K6iRGC8-2g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -95.279057,34.640732,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OK7 - Walters
+</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/io7kka0sac6njuu654909qamso/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr7p1bkBa-Ln7H_8q71TJ5XRwV12a_NFLhwyibpKt2BUCkfRWvSonuKotnPaSFeisouICx6LkkWMV2qywcvlIObPwbb_1UYAUx50nwX6cizXHGgd4DTPO7W8Ync3bdyyLawxevnMNUYCkFBJyGYOpJUUG8Sk4Y2vEPidsudDR1TlOrM6vfDnE8cpnbF_XuddR8zJu6w7fgOccOx84tp3UcgBAk3OFBlpOmoZzmk2gXD1XJXcGHpVAwA2JSwcFyt8Hd-neh8gAsLOBB-mnTx4qHSJ-Cvcw?session=0&fife" height="200" width="auto" /><br><br>Law Enforcement Memorial<br>301 N Broadway St.<br>Walters, Oklahoma<br>GPS: 34.360490, -98.308830<br>Access: 24/7<br><br>While this memorial acknowledges all the brave men and women who laid down their lives to protect and serve this country, it pays additional respect to a handful of LEOs, including Jody Latimer (age 23, car crash responding to disturbance), Bill Dyer (age 45, accidental gunshot), Jefferson Davis Graham (age 63, murdered by gunshot), and Nikky Joe Green (age 35, murdered with own gun). RIP. We suggest that you leave a small token of your respect to these American heroes.<br><br>Made in America: Long before explorers came to the Americas, the territory now known as Walters was populated by Native Americans from various tribes, including but not limited to the Choctaw, Chickasaw, and Comanche. In 1803, the territory was sold to President Thomas Jefferson as part of the Louisiana Purchase. When the Indian Removal Act was passed in 1830, the region was divided to include specified portions of land for Native American relocation.<br><br>In 1901, the territory once again shifted boundaries as the land was redistributed. Officials decided to make this region -- which had been utilized for Native American reservations up until this point -- available for homesteaders. The tribes living in the area were none too happy about this and went so far as to hire lawyers to help them come up with a legal defense. Ultimately, the land was sectioned off in pieces and random numbers were assigned to any interested party. This event came to be known as the Kiowa-Comanche-Apache Opening.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/io7kka0sac6njuu654909qamso/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr7p1bkBa-Ln7H_8q71TJ5XRwV12a_NFLhwyibpKt2BUCkfRWvSonuKotnPaSFeisouICx6LkkWMV2qywcvlIObPwbb_1UYAUx50nwX6cizXHGgd4DTPO7W8Ync3bdyyLawxevnMNUYCkFBJyGYOpJUUG8Sk4Y2vEPidsudDR1TlOrM6vfDnE8cpnbF_XuddR8zJu6w7fgOccOx84tp3UcgBAk3OFBlpOmoZzmk2gXD1XJXcGHpVAwA2JSwcFyt8Hd-neh8gAsLOBB-mnTx4qHSJ-Cvcw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -98.30883,34.36049,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

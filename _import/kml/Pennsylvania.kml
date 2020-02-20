@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pennsylvania sponsored by Joe Yarzebinski</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>PA1 - Bristol
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/n7mhii57asoqq2s3ign9h2nsgk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrVqI19ANY0pKpNi5npHFqwiXTXvl5McCLuo034SvF6asWQ09RMTbPr-tl5cn0AZ20TBMR7tDv7fJ2t5ldTQbFi2O8S1kjxt8UU56t-HeMdGh5yZu8mNfB7cIJ0AD-hwRjlXJVeOhPnKl2WDuVHZ3tQTGufuFOmZlbTeiw19YO2IYM3RblQTmcG1qa8SQQym7sfVH_AfKJfD03ZIA0N4Yysq0zcFz5Nsl2hrWtGPvJaW_A-5q6eeEqTIhsN5RY6bDsDHUdup-ZCHPK4D1y99TgQH6Fyxw?session=0&fife" height="200" width="auto" /><br><br>War Dog Memorial<br>2501 Bath Rd.<br>Bristol, Pennsylvania<br>GPS: 40.123613, -74.867408<br>Access: 24/7. Please obey the posted signage and do not park in the roadway. There is parking between the memorial and the municipal building.<br><br>Over the course of our nation’s military history, tens of thousands of War Dogs served from WWI through Afghanistan and continue to serve on missions around the globe. America’s War Dogs have a long and legendary history for bravery and courage on thousands of unnamed foreign fields of battle, saving countless American lives. Some military analysts estimate as many as ten thousand U.S. and allied lives were saved during the Vietnam War alone. The casualty rates in all other wars were significantly reduced by thousands as a result of deploying these four-legged soldiers.<br><br>The war dogs performed specialty duties as Scout, Sentry, Tracker, Mine & Booby Trap, Tunnel, Water Patrol, Coast Guard, Search & Rescue, and Explosive Detection. War Dogs were not mascots, they were highly trained and proficient four-legged Soldiers, Marines, Airmen and Sailors with names like Prince, Tiger, and Lucky, to name a few. They worked for food, water, and the love and companionship of their handlers. In return, they never gave up on the battlefield and were considered heroes.<br><br>Of the approximately four-thousand War Dogs that served in the Armed Forces during the Vietnam War, all were classified as equipment and termed expendable. Roughly two-hundred and fifty were re-assigned to another military installation. The several thousand that survived were either given to the South Vietnamese Army or euthanized, by order of government, in a haste to withdraw from the country. <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/n7mhii57asoqq2s3ign9h2nsgk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrVqI19ANY0pKpNi5npHFqwiXTXvl5McCLuo034SvF6asWQ09RMTbPr-tl5cn0AZ20TBMR7tDv7fJ2t5ldTQbFi2O8S1kjxt8UU56t-HeMdGh5yZu8mNfB7cIJ0AD-hwRjlXJVeOhPnKl2WDuVHZ3tQTGufuFOmZlbTeiw19YO2IYM3RblQTmcG1qa8SQQym7sfVH_AfKJfD03ZIA0N4Yysq0zcFz5Nsl2hrWtGPvJaW_A-5q6eeEqTIhsN5RY6bDsDHUdup-ZCHPK4D1y99TgQH6Fyxw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.867408,40.123613,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PA2 - Erie
+</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/bir23l575gdgc59o1iq9c4k5t4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr98e_O5GFvBACUjAMQgpbVncZVh7mvWQPnNryfGwex8dzAhsNY0ODn9N1z2wgJT2zdfRNqUMmKg3Vs3-Mv4XMVBttADEgbBRDkVPC0S80ttlz5nWafxPmNR0jw_5n5DVeUVH5ukBOlnA2QV_Y0Hq5hgcMswROGbIy4OVWUA3BX951JkdP_r5WcByML9BkHmUmDEz1bR87YSwGNUd_CK4NxTYKQssP8J2QO6cJ9hE9TaktKxG4SY4VUaeLGRfBcPJRC7Cv_PVTq635-8qYj9RbMnOP_QA?session=0&fife" height="200" width="auto" /><br><br>Memorial For Unknown Soldiers and Sailors<br>Gridley Circle inside the Lakeside Cemetery \n 1718 East Lake Rd.<br>Erie, Pennsylvania<br>GPS: 42.148578, -80.051863<br>Access: Dawn-dusk<br><br>This memorial is on the bluff at the shore of Lake Erie, at the end of the road, in the area known as Gridley Circle. The most famous veteran buried in the Lakeside Cemetery is Captain Charles Vernon Gridley, who commanded the USS Olympia during the Spanish-American War. There’s also aJohn P. Vincent Gridley there, a US Marine who was killed aboard the USS Missouri during the Spanish-American War.<br><br>The Memorial for Unknown Soldiers and Sailors honors those who gave their lives for their country and are buried in unknown graves. The monument gives the viewer pause to contemplate those veterans and their families. The vista of Lake Erie in the background provides the spectacular scenery in which to lose yourself momentarily and contemplate on those veterans and their sacrifices for your freedoms. Shade trees and benches are nearby if you’d like to spend some time.<br><br>Around the monument are other grave markers and Spanish cannons. A plaque explains that the cannons were used in the Battle for Manila Bay, 1898.<br><br>Made In America: Twenty minutes to the west, roughly seven miles on Sixth Street, riders can enter Presque Isle State Park, a 3,200-acre sandy peninsula that arches into Lake Erie. It offers a beautiful coastline ride for motorcyclists along with many recreational activities for all tourists, including birdwatching of migratory birds. <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/bir23l575gdgc59o1iq9c4k5t4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr98e_O5GFvBACUjAMQgpbVncZVh7mvWQPnNryfGwex8dzAhsNY0ODn9N1z2wgJT2zdfRNqUMmKg3Vs3-Mv4XMVBttADEgbBRDkVPC0S80ttlz5nWafxPmNR0jw_5n5DVeUVH5ukBOlnA2QV_Y0Hq5hgcMswROGbIy4OVWUA3BX951JkdP_r5WcByML9BkHmUmDEz1bR87YSwGNUd_CK4NxTYKQssP8J2QO6cJ9hE9TaktKxG4SY4VUaeLGRfBcPJRC7Cv_PVTq635-8qYj9RbMnOP_QA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.051863,42.148578,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PA3 - Renovo
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/015d7bgbgpnd6f7i5lu608g0nc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALojZ2fgY0C4l9AakadfE1-wDx1zOqJWBrqmEhik5RlPWQAiDM7px9ktLHVHa7VuInMx1Pt1pBrJ7k-_Q3G4hCBN-gijtXoOWn37cr981I-NJQ0gvAoJOHr4mV-UjMOaDasiRal5IZ074Pd_YtfEfKuY3M5lOkeWlKUkN4iUuU7-e6rVdUOUSDcfHSyrv1VQTIZD8gUSwYbeDoN6AMde1i4m2Wbs2egoz2PTUgNszgTXLax6U5JCWx5IHdVfsXo4Y5eSiz_Uw3C8qdk0DYxr9T_-uB5QBw?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>16th Street Park \n 1233 Susquehanna Ave.<br>Renovo, Pennsylvania<br>GPS: 41.328436, -77.742644<br>Access: 24/7<br><br>The beautiful Renovo War Memorial is built in honor of those veterans from the area who gave their lives defending our freedoms, as well as to those who served honorably.<br><br>Less than 4,500 residents lived in Renovo around the time of the war, yet you’ll find in excess of 420 names inscribed on the Honor Roll walls. There are two smaller special monuments there as well: one for a veteran killed at Pearl Harbor; and one for a B-24 bomber crew.<br><br>The original War Memorial was designed and developed in the late-1950s and early-1960s. In the early 1980s, PennDOT had plans to replace the Memorial Bridge, but said plans did not include saving the memorial. Having the memorial accessible only by steep steps was not acceptable, so local leaders found another site and a “tank retriever” was used to pull the Sherman Tank to it. The eagles that sit atop the memorial were once part of the original Memorial Bridge.<br><br>Made in America: There are many roads into and out of Renovo that won’t disappoint riders. Explore the Sproul State Forest to the west, Rte 120 to the east, Rte. 144 to the north. But best of all is Route 144 leading south. From the river up the side of the mountain, across the ridge and down the other side of the mountain this highway offers enough turns per mile through the remote forested wilderness area, known as the Pennsylvania Wilds, that you’ll be tempted to run it several times.<br><br>There are a few restaurants in Renovo, each with its own advertised specialty and reason for stopping: The Green Lantern Restaurant (comfort food, quick bite, great cocktails http://bit.ly/375r6x8), Socky’s (late-night food, comfort food, small plates http://bit.ly/38drbic), and Lisa’s (comfort food, quick bite, quiet http://bit.ly/2RvgbGa).<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/015d7bgbgpnd6f7i5lu608g0nc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALojZ2fgY0C4l9AakadfE1-wDx1zOqJWBrqmEhik5RlPWQAiDM7px9ktLHVHa7VuInMx1Pt1pBrJ7k-_Q3G4hCBN-gijtXoOWn37cr981I-NJQ0gvAoJOHr4mV-UjMOaDasiRal5IZ074Pd_YtfEfKuY3M5lOkeWlKUkN4iUuU7-e6rVdUOUSDcfHSyrv1VQTIZD8gUSwYbeDoN6AMde1i4m2Wbs2egoz2PTUgNszgTXLax6U5JCWx5IHdVfsXo4Y5eSiz_Uw3C8qdk0DYxr9T_-uB5QBw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -77.742644,41.328436,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PA4 - Sewickley
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lvbd4s9vote0g624lgqgkl7m6o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrKuUHKOBdAcsRiuhkVS-GeKUdedBnlZF6AW5zMiYFpptJURYzyKcYSgFV7YcmbYPyrAf8HkVV36JplsOb1Iaqje3Z62IVRJ-ytfIODdCrKjS0uGRPA-8Gm9ChOZVRu0Aue8M09-wF9LPbDsZv6u0wSToqskCZNQt2QGurmxnlGItSRTPJQA_1dDJnBSmBHrP7_O7f6pL2gweWNOKfPndcA7x_4TrKZpAOwzRG-0un2ZIMtl6FdyVntkn9YyzQzEe7BMBIqo4Vpj44kc56sB90h9vQL5w?session=0&fife" height="200" width="auto" /><br><br>Tuskegee Airmen Memorial<br>Sewickley Cemetery \n 501 Hopkins St.<br>Sewickley, Pennsylvania<br>GPS: 40.543240, -80.170600<br>Access: Dawn-dusk<br><br>The Tuskegee Airmen Memorial (TAM) at the Sewickley Cemetery, is the largest outdoor Tuskegee Airmen Memorial in the US. It was dedicated September 15, 2013 on the 150th Anniversary of the Cemetery. It features a concrete, handicapped accessible plaza, four monuments and four granite benches. One monument, in particular, is 10’ tall with a red granite sculpted Red Tail on top, visible from all directions as you approach the memorial. Two “tower” monuments include the names of all the Tuskegee Airmen and one woman from Western PA, representing the largest contingent in the country. Since first originally honoring the TAM in 2014 on the Tour of Honor, one of the Tuskegee Airmen has been interned at the memorial. <br><br>More than 10 years before Rosa Parks made international history on that bus in Montgomery, the Tuskegee Airmen were challenging the same Jim Crow laws. A talented and determined group of African American men were challenging prejudice and bigotry of the worst kind, in the US military and in society. The Tuskegee Airmen went on to become one of the most heralded air squadrons during World War II.<br><br>In 1942, the Tuskegee airmen were piloting second-hand P-40 aircraft. These were slower and more difficult to maneuver than their German counterparts. Complaints were defended before the War Department’s committee, resulting in an eventual change to P-51 Mustangs for the newly organized 332 Fighter Group. The tails of their planes were painted red for identification purposes, earning them the nickname “Red Tails”.<br><br>Their brilliant combat record included over 1,578 missions, 150 Distinguished Flying Crosses and 714 Silver and Gold Cluster Air Medals. Facing racial stereotypes and discrimination at home they persevered in the defeat of the Nazis. The Airmen, who belonged to the 332nd Fighter Group’s 99th, 100th, 301st and 302nd Fighter Squadrons, took part in more than 15,500 sorties in Europe, North Africa and Sicily. The largest contingent of WWII enlistees in the Tuskegee Airmen program came from western Pennsylvania and the Pittsburgh area, in particular. Western PA Tuskegee Airmen number close to 100 with three killed in action and one taken as POW.<br><br>Made In America: Sewickley is a quaint village where you can browse boutiques and retail shops as well as find an excellent restaurant. But if you believe life is short so you should eat dessert first, go for the Ultimate Pastry Shop at 445 Beaver St. Their website lists 50 different cupcakes alone. http://bit.ly/35Z4Aoc<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lvbd4s9vote0g624lgqgkl7m6o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrKuUHKOBdAcsRiuhkVS-GeKUdedBnlZF6AW5zMiYFpptJURYzyKcYSgFV7YcmbYPyrAf8HkVV36JplsOb1Iaqje3Z62IVRJ-ytfIODdCrKjS0uGRPA-8Gm9ChOZVRu0Aue8M09-wF9LPbDsZv6u0wSToqskCZNQt2QGurmxnlGItSRTPJQA_1dDJnBSmBHrP7_O7f6pL2gweWNOKfPndcA7x_4TrKZpAOwzRG-0un2ZIMtl6FdyVntkn9YyzQzEe7BMBIqo4Vpj44kc56sB90h9vQL5w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.1706,40.54324,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PA5 - Stoystown
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pulfjkn5l84a3m6jgn4odfftms/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALruCH4KjDmkGM7b6wAZJhFWDphH-vkZswrsZs6bd6fykj_9OokswUn6nmow_fN868Cq56dHfXLj7gjvVDixv6A_856MydMtw4dr3W8YbLqsaVsgoPjh_Xlr9eYPJhRu4slZ_4jWex4uk9U8DyWmdr9_ODXX__2DGzme2_bfCllnusvz8xp7jLMAOHAJrUcgqB6u2TE7_tX8EbRicbHwUACSApGVwKFlBa13FD7Fhhv3quROg4i4k5ZygptsuwaDr0cTYtHCwnZbRf8V3riivO2N_sjh1Q?session=0&fife" height="200" width="auto" /><br><br>Flight 93 Memorial<br>6424 Lincoln Hwy.<br>Stoystown, Pennsylvania<br>GPS: 40.078905,-78.887150<br>Access: 9AM-5PM daily. Free admission.<br><br>“A common field one day. A field of honor forever.” <br><br>This memorial is making a reappearance on the Tour of Honor, one of the most moving memorials in America. Thank you to Mike Kneebone for including it in the 2003 Iron Butt Rally, for it was the inspiration for TOH.<br><br>It honors the heroic passengers and crew of United Airlines Flight 93 at the September 11, 2001 crash site. As many remember, Flight 93 was hijacked by four al-Qaeda terrorists as part of the September 11, 2001 attacks against America. The other three planes caused catastrophic damage in NYC and the Pentagon, but the passengers and crew of Flight 93 overpowered the hijackers, ending up crashing the plane before it reached its intended target in Washington, DC.<br><br>The newly dedicated memorial replaces the temporary one which was erected within days of the crash. The actual crash site is accessible only to family members of Flight 93 passengers and crew. <br><br>As many have said, “Time stands still here.”<br><br>Made in America: You can also visit the Shanksville Volunteer Fire Department. A steel cross donated by the NYC Fire Department (constructed from World Trade Center scrap) is displayed at the firehouse. http://bit.ly/2RosBQi<br><br>Stop in at Snida’s Corner Store (formerly Ida’s) for subs, ice cream, and other refreshments. 510 Main St.<br><br>Photo by John Bittner.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pulfjkn5l84a3m6jgn4odfftms/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALruCH4KjDmkGM7b6wAZJhFWDphH-vkZswrsZs6bd6fykj_9OokswUn6nmow_fN868Cq56dHfXLj7gjvVDixv6A_856MydMtw4dr3W8YbLqsaVsgoPjh_Xlr9eYPJhRu4slZ_4jWex4uk9U8DyWmdr9_ODXX__2DGzme2_bfCllnusvz8xp7jLMAOHAJrUcgqB6u2TE7_tX8EbRicbHwUACSApGVwKFlBa13FD7Fhhv3quROg4i4k5ZygptsuwaDr0cTYtHCwnZbRf8V3riivO2N_sjh1Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -78.88715,40.078905,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PA6 - Susquehanna
+</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lor8elog5cakbgohnsk3risf0o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqxdJbWdahZ2ysm6cOw7drJbg4TmkfkizLhYov3bjtHXOXGT3twWwwCQDM2NKEorfmExDy-Rx8T3hXhfzNY6qLUdwK93QFCh1OiBvWdEM4UmhVfyBDGDACIio2ItvmAszuguZicruoV2LCSd0QHoH4pj5_gLiYmN9898UZe055hk7LC9BPcPa8LbdjsvWuHJA-xu0cK_V04JE-kqCLkmgjJl88V7DwfErIlTHuQrT3wUbeJ3omi1buLlXXZX741nU1C4L8m6aV_pYJiD2zsq_SPfKU0tQ?session=0&fife" height="200" width="auto" /><br><br>“Lest We Forget” Memorial<br>Erie Blvd. & W Main St.<br>Susquehanna, Pennsylvania<br>GPS: 41.946572, -75.603511<br>Access: 24/7<br><br>The “Lest We Forget” memorial is a two-part memorial commemorating the services of those who made the supreme sacrifice for liberty and humanity. The left side features the Civil War, the Spanish American War, and World War I. On top of the pedestal sits a military gun, now decommissioned and silenced. On the right, a three-panel polished granite marker honors all who have honorably served, and are now serving, to protect our freedom.<br><br>Made in America: Susquehanna is a quaint Victorian town with wide blue-stone sidewalks providing a pleasurable and tranquil walk through town. <br><br>Two suggested "must-see" attractions: From the memorial, head .9 miles west on Erie Boulevard past the Fire Department to where the 3-story Starrucca House sits on Depot Street. The Gothic Revival hotel/railway depot is listed on the National Register of Historic Places and is in the process of being revived to its former glory. Even in its current condition, it gives one pause to remember the good ole days.<br><br>And riding east 1.7 miles from the memorial on Main Street, turn right on Viaduct Street, where you'll see the impressive Starrucca Viaduct. Built in 1848, it remains the world’s largest stone railway viaduct. At a cost of $320,000 (adjusted to $9.5 million in today’s dollars) it was the most expensive railway bridge in the world. Before you go. check it out on Google’s satellite maps at 41.963155, -75.583228. Once you see it on your computer screen you won’t want to miss it in real life.<br><br>Looking for a bite to eat? The Main St. Cafe is right across the street from the memorial. <br><br>Also, American Legion Post 86 has "finger food" on Wednesday evenings, and the Post 86 Lady’s Auxiliary put on a WONDERFUL breakfast on the first Sunday of the month. They say that if you go away hungry it’s your own fault. Post 86 is at 1234 W Main St.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lor8elog5cakbgohnsk3risf0o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqxdJbWdahZ2ysm6cOw7drJbg4TmkfkizLhYov3bjtHXOXGT3twWwwCQDM2NKEorfmExDy-Rx8T3hXhfzNY6qLUdwK93QFCh1OiBvWdEM4UmhVfyBDGDACIio2ItvmAszuguZicruoV2LCSd0QHoH4pj5_gLiYmN9898UZe055hk7LC9BPcPa8LbdjsvWuHJA-xu0cK_V04JE-kqCLkmgjJl88V7DwfErIlTHuQrT3wUbeJ3omi1buLlXXZX741nU1C4L8m6aV_pYJiD2zsq_SPfKU0tQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.603511,41.946572,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PA7 - Wormleysburg
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/o3hjdi78ucr2qf0cndh962ffds/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrFG99Gp0mAyVF9LuZk7BQ-YDOkwAlvr-diBb_3d1L7dc7g_niTEglJf6ybga3TFGLr0RESyRGP5CV9AXXhTpNcDysGZQ0SYP7DUPs2dWzVyCnruEvQK0iIhgdEHPkMQ4PMfPpnvbdFUu3LQAEtNrV14swDKg9niPWe-nNFRGmAL1fu3uCCJ72bRvzGMHopXDHPacGYTYBDwz7RGHYD_PbSy9E6B4YSuu9KvoD3rmUb4inHKy_jHuqijiAJtpLu7zyICnlg5hAOWtATsSrioQJupta1jA?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>American Legion State Headquarters \n 800 N. Front St.<br>Wormleysburg, Pennsylvania<br>GPS: 40.265257, -76.909635<br>Access: 24/7<br><br>The Statue Garden War Memorial contains five major statues commemorating veterans of World War I, World War II, the Korean War, the Vietnam War and the Women of the Armed Forces. If you walk the grounds, you’ll find that there are also plaques and memorials for those who perished in the 2003-2004 War on Terrorism, the September 11, 2001 attacks on the US, and the 34 veterans who died from the 1976 Legionnaires disease outbreak. <br><br>In the courtyard between the buildings is a memorial to those POW-MIAs from all wars and conflicts. At the head of the POW-MIA memorial is a statue of folded, praying hands symbolizing the desire of everyone – peace.<br><br>Made In America: From the Statue Garden, as you look eastward, you can see across the Susquehanna River to Harrisburg, the State Capital. And just downstream on the Susquehanna River is the Three Mile Island Nuclear Reactor, site of the March 28, 1979, partial meltdown of reactor #2. Interestingly, on March 16, 1979, only a dozen days before the incident at TMI, the movie The China Syndome hit the theaters.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/o3hjdi78ucr2qf0cndh962ffds/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrFG99Gp0mAyVF9LuZk7BQ-YDOkwAlvr-diBb_3d1L7dc7g_niTEglJf6ybga3TFGLr0RESyRGP5CV9AXXhTpNcDysGZQ0SYP7DUPs2dWzVyCnruEvQK0iIhgdEHPkMQ4PMfPpnvbdFUu3LQAEtNrV14swDKg9niPWe-nNFRGmAL1fu3uCCJ72bRvzGMHopXDHPacGYTYBDwz7RGHYD_PbSy9E6B4YSuu9KvoD3rmUb4inHKy_jHuqijiAJtpLu7zyICnlg5hAOWtATsSrioQJupta1jA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.909635,40.265257,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

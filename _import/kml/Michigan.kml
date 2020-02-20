@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Michigan sponsored by Michael Richardson</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>MI1 - Cheboygan
+</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/rbqubo9t2vagg714mk5qnat03k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpNyoO9z0lhnbq8Gy7kOb0faJwnmKZoFKm2Hv1PAEPa3lNY9_wZ8lRCINH6VO6eXBVpyhjWT64xBOoKvqMAhXe_aCiwrS3RQPjWNybmuCA3ZGcvTTozC8ZNblygEtNVAUu-dac6LnsBnUl35MIZWiWoHFRilDoV4WuKDGlwWMElmmo4nOpEhtyCFUg6tYtC_yena5F6uJK40eVFk7fLAJHYtDLLg9AXSSfbJQ3m9-eDy87wzMpl8dFls7AkaV5WUcB6Xr9gGVxUTvFuUkuvzvXJHEeV9A?session=0&fife" height="200" width="auto" /><br><br>Vietnam Memorial<br>Veterans Park \n Court St. at Filmore St.<br>Cheboygan, Michigan<br>GPS: 45.639547, -84.487235<br>Access: 24/7<br><br>Kinetic energy simply put, is the energy an object, or idea, has because of its motion. This is evident in Cheboygan at the Veterans Park. What began one hundred years ago with the planting of thirty-one trees as a memorial to honor thirty-one veterans who fought and died in WWI will transcend within three years into a Memorial Park honoring much more. <br><br>Local Vietnam Veterans, along with the support of an entire community, will add to the stunning Vietnam Memorial already in place. They are working actively, and on schedule, with plans for new six-foot wide sidewalks throughout the park, as well as monuments for Gold Star families, Purple Heart recipients, and POW/MIA veterans. Included also is a monument honoring the war dog and his handler. This is a community wholly committed to their veterans.<br><br>Made in America: If your visit here is during the morning hours, park in front of Alice’s Restaurant at 116 S Main St. and grab some down-home hearty grub. If your visit is later in the day, Mulligan’s Restaurant, located at 320 N Main, has a lengthy menu of comfort foods, set in a Sports Bar atmosphere. Or try a quenching brew at the Cheboygan Brewing Company at 101 N Main. There’s always room for ice cream and Cheboygan’s Main St. is replete with choices!<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/rbqubo9t2vagg714mk5qnat03k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpNyoO9z0lhnbq8Gy7kOb0faJwnmKZoFKm2Hv1PAEPa3lNY9_wZ8lRCINH6VO6eXBVpyhjWT64xBOoKvqMAhXe_aCiwrS3RQPjWNybmuCA3ZGcvTTozC8ZNblygEtNVAUu-dac6LnsBnUl35MIZWiWoHFRilDoV4WuKDGlwWMElmmo4nOpEhtyCFUg6tYtC_yena5F6uJK40eVFk7fLAJHYtDLLg9AXSSfbJQ3m9-eDy87wzMpl8dFls7AkaV5WUcB6Xr9gGVxUTvFuUkuvzvXJHEeV9A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.487235,45.639547,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MI2 - Iron River
+</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/a1ditbhvv3c137d8usf53prpdc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALod2ebIYaYcicY1CrEjvfS8RGUCnduUD-WUL1vF-61Vfc5aTNY5uoiFW1aBccmg5zBYdnGUw0qD-hwwAx9UFRrd4xf8BSEaSWcNANK-XwwFVAUuWikQV7aYXN9FI8fuXUqcW9sDx7GWvOfG7IrXpe_uKz9_Xc4PyY8tC85ORze56QjmgHEIqZfJ9PImVRnPAIB422WS-oSCKB754Te4qLwJWroWM8FA01j8svMpoJTYtL00-crObOGE_pQn-6BlmXnxtb-PHj7mf9c-WHXjGchSX-hqGA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>N River Ave. & E Genesee St.<br>Iron River, Michigan<br>GPS: 46.091302, -88.637534<br>Access: 24/7<br><br>As the result of a project begun in 2009 by a group of concerned area veterans, the Veterans Memorial and Honor Roll in Iron River, stands in recognition of the men and women who gave their lives defending the freedoms we each experience today. Maintained by a monthly rotation of volunteers, it continues to shine like a beacon to travelers down the main street of town.<br><br>Five black granite stones, a newly refurbished honor roll, and branch service flags make this visually and emotionally pleasing. Two of these of these stones are unique: the marker to the Cold War and the marker to Nurses of All Wars. The Cold War honors the brave souls who fell in silence and anonymity fighting the common cause of freedom. <br><br>The marker to Nurses of All Wars pays homage to the women whom many a soldier owes their life. The inscription below the marker reads, “They gave a piece of their heart; the wound that never heals.” Author Keith Walker tells the stories of twenty-six such nurses who served in Vietnam, in his book “A Piece of My Heart.”<br><br>Made in America: There are many chain-food stops and a couple of bar & grilles nearby to whet your whistle if you are so inclined.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/a1ditbhvv3c137d8usf53prpdc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALod2ebIYaYcicY1CrEjvfS8RGUCnduUD-WUL1vF-61Vfc5aTNY5uoiFW1aBccmg5zBYdnGUw0qD-hwwAx9UFRrd4xf8BSEaSWcNANK-XwwFVAUuWikQV7aYXN9FI8fuXUqcW9sDx7GWvOfG7IrXpe_uKz9_Xc4PyY8tC85ORze56QjmgHEIqZfJ9PImVRnPAIB422WS-oSCKB754Te4qLwJWroWM8FA01j8svMpoJTYtL00-crObOGE_pQn-6BlmXnxtb-PHj7mf9c-WHXjGchSX-hqGA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -88.637534,46.091302,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MI3 - Ludington</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/magvrtefb7s55kie3oujlac7bk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqmoxb_7_l4MtnAtXnO1ptraKMU51WGPv4vfIEvy73raoG__BNarLr8R5qN0bznL-E4hO4Wr8GdqJ3MBf2H-DxPi2nAcefwSWT4iRYi6HeyCwzwBwoHpEiM3SffRLgcn8YlpwQtj0mxVrPZiV7Rou_Wn6QRdLzqg2cDgPFRERmmEMovRPkSuDxr99OwsovWxxDGasBP39Q3xHMGYHsYXhI0Y9XjPOOIYp_9T4XA4ODujZJp7_rAVJwktBdMnquvwv8QPoEQ8P8CkzMjlOMGnn4u-PAmew?session=0&fife" height="200" width="auto" /><br><br>Ascent of Heroism Monument<br>N Lakeshore Dr. & W Haight St.<br>Ludington, Michigan<br>GPS: 43.959574, -86.459791<br>Access: 24/7. Wheelchair accessible.<br><br>Dedicated in 2017, the Ludington Veterans Mall Monument contains one of only two Ascent of Heroism bronze sculptures in our country, the other being in Altoona, Pennsylvania.<br><br>The sculpture holds renditions of soldiers from the Revolutionary War, the Civil War, WWI, WWII, the Korean War, the Vietnam War, and the Iraq War. The photographs used by sculptor, Paula Slater, for five of the individuals portrayed were taken from photographs given her by the descendants of persons who actually fought and died in those wars.<br><br>The Veterans Mall Monument also includes a bronze bust by Ms. Slater of Medal of Honor Recipient, Navy Corpsman William R. Charette. Charette was a resident of Ludington and served in the Korean Conflict. His citation can be found here: http://bit.ly/3a3C87M<br><br>Made in America: Featuring a one of a kind view of Ludington’s sparkling waterfront, PM Steamers, located at 502 W Loomis St, offers a changing menu showcasing a variety of influences, driven by the bounty of the Great Lakes and local farmers. A friendly and helpful staff make this a refreshing break. pmsteamers.com	<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/magvrtefb7s55kie3oujlac7bk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqmoxb_7_l4MtnAtXnO1ptraKMU51WGPv4vfIEvy73raoG__BNarLr8R5qN0bznL-E4hO4Wr8GdqJ3MBf2H-DxPi2nAcefwSWT4iRYi6HeyCwzwBwoHpEiM3SffRLgcn8YlpwQtj0mxVrPZiV7Rou_Wn6QRdLzqg2cDgPFRERmmEMovRPkSuDxr99OwsovWxxDGasBP39Q3xHMGYHsYXhI0Y9XjPOOIYp_9T4XA4ODujZJp7_rAVJwktBdMnquvwv8QPoEQ8P8CkzMjlOMGnn4u-PAmew?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -86.45964,43.95959,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MI4 - Portage</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7k1vrjptel05ruahvn11rv9qq0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoe3ab8vTA1ZEerNM81Stm_Pr10iV7K96dp1Vzp9953utbTsFWrV_WxN2EBsc2Iqs8Ph0L0NbWJwXeHLyJ5pGZz7wtaauxGV6UbFaFqntblwoepTMHspOG0jodFkIiGX6C5IeTuY91EQlZhRJQBOjctVUvyNlwi_KHLg52rOf-VrGiZSbHnJ57V_mBaElUArs8ZCZHbnLzs65OsvTE7JncwHV-mJTHygJKMNlan9thjbotw7hyjNtAoGUVyGIKh7miLATlIT07haJIDOEUvXNzK5i_ONA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial <br>399 Library Ln.<br>Portage, Michigan<br>GPS: 42.203934, -85.588164<br>Access: 24/7. Wheelchair accessible.<br><br>Veterans Memorial Park, created with the assistance of local veterans organizations, local businesses, and citizen donations provides a beautiful Veterans Memorial for commemorative ceremonies to the residents of Hastings.<br><br>Dedicated on November 11, 2005, the memorial is forty feet in length and consists of five separate stones, seven flagpoles, lighting, and landscaping features. Engraved on stones placed on either side of the V-shaped center stone are various quotes honoring those who served in the United States military which can be viewed along the brick walkways in front of each stone.<br><br>Made in America: Main St. Pub offers unique appetizers and combos, along with many sandwiches and gourmet burgers. A friendly staff and cozy setting make this oasis worth the time. Open every day from lunch-2AM. https://www.mainstpub.com<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7k1vrjptel05ruahvn11rv9qq0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoe3ab8vTA1ZEerNM81Stm_Pr10iV7K96dp1Vzp9953utbTsFWrV_WxN2EBsc2Iqs8Ph0L0NbWJwXeHLyJ5pGZz7wtaauxGV6UbFaFqntblwoepTMHspOG0jodFkIiGX6C5IeTuY91EQlZhRJQBOjctVUvyNlwi_KHLg52rOf-VrGiZSbHnJ57V_mBaElUArs8ZCZHbnLzs65OsvTE7JncwHV-mJTHygJKMNlan9thjbotw7hyjNtAoGUVyGIKh7miLATlIT07haJIDOEUvXNzK5i_ONA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -85.588164,42.203934,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MI5 - Suttons Bay
+</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/nv8eqr1elsodfgvpfmpml2917o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpQ6MFHgcLcwJXRxJ8X3DFWb2GOBP1UwdWXe9hHP6xjyL4u28yzi6jy9cV5EqS2T_cFvBa4Zf2vz-v8X1gFARcvQg5Zrz75xlZ5I3DeZ-05nENYXPRglfU8nUlLnvLS2cAc8anclfrZjuEuivgWAH74OxyQLDjW744JgNqjkK3z0nQNbXSgGw4xd-DxqKrvLk1sWbdaMKPX1E3OjKZTHFhdVQx3RNWBs24H1hfD28zcb0Lrv9K0dPgcfEkdJWD_ROLIRC3Xq3yTl5cO8DX-e8kyS8PzHQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>8527 E Government Center Dr.<br>Suttons Bay Twp., Michigan <br>GPS: 44.994633, -85.686700<br>Access: 24/7. Wheelchair accessible<br><br>Situated in the rolling hills of Michigan wine country, the Leelanau County Veterans Memorial is the result of a simple request: to have something available for folks to visit for reflection, and the result is nothing less than spectacular. Dedicated August 14, 2010 on the 65th anniversary of the end of WWII, the setting includes granite stones inscribed with the names of county residents who have served and died for our freedoms. Encircled with six flags representing the services, this endearing memorial reflects the hearts of all who are serving or who have served our nation.<br><br>Made in America: To the west in Leelanau is Dicks Pour House, a stalwart tavern with hunting and fishing décor plus a full menu of pub grub, pizza, steak and seafood. http://www.dickspourhouse.com <br><br>To the east in Sutton’s Bay is 5-star rated Boones Prime Time Pub, a cozy, cabin-style spot offering hand-cut steaks and other American plates. https://boonesprimetimepub.com<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/nv8eqr1elsodfgvpfmpml2917o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpQ6MFHgcLcwJXRxJ8X3DFWb2GOBP1UwdWXe9hHP6xjyL4u28yzi6jy9cV5EqS2T_cFvBa4Zf2vz-v8X1gFARcvQg5Zrz75xlZ5I3DeZ-05nENYXPRglfU8nUlLnvLS2cAc8anclfrZjuEuivgWAH74OxyQLDjW744JgNqjkK3z0nQNbXSgGw4xd-DxqKrvLk1sWbdaMKPX1E3OjKZTHFhdVQx3RNWBs24H1hfD28zcb0Lrv9K0dPgcfEkdJWD_ROLIRC3Xq3yTl5cO8DX-e8kyS8PzHQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -85.6867,44.994633,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MI6 - Tawas City</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ikqkl2momr0v7k0pkj371gpg9c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo_wbSq8Dw4D6SZqnwfz_bidhjBX4YUQVAU9UqHrHGWs0kekokzmVxqPR0RTDKjFRHl6IA2NFY82_hsXYTlWDzRnqGZ_OL2WNguZNx3901rNUeC8UUesAb5dOtz3SwrC6s7ZXqiRRLp9wBgCCA3CZ9koBLpUs6N1UE8t1uoG345uWXoHDyQpQGmwwWdsLciZt4Sa_RTJgZvH5DW5x2lGpX_InvJZCC_lq7bbo3L3VYz7TUXbbJHj17xPMlJ2t0zedyHX803vBtt2M52-RGIimp8-P5PMQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Recognition Plaza<br>608 W Lake St.<br>Tawas City, Michigan<br>GPS: 44.266082, -83.521011<br>Access: 24/7, wheelchair accessible<br><br>With the Tawas River as a backdrop, the Veterans Recognition Plaza features a central black granite stone surrounded by six black granite benches. This beautiful park also contains a plaque for Medal of Honor recipient Peter C Lemon. Mr. Lemon is the ONLY Canadian-born US Citizen to be presented the Medal of Honor for fighting in the Vietnam War. He is the eighth-youngest living Medal of Honor recipient. His citation can be found here: http://bit.ly/2R8uzUY<br><br>Beyond his heroism (which he defers to three comrades he lost in battle) Mr. Lemon works today as a motivational speaker, is author of the book, “Beyond the Medal,” and is executive producer on the PBS Special, “Medal of Honor.” His book and documentary have been donated to every high school in the United States to inspire American children “to be worthy citizens.”<br><br>Made in America: Shoreline Park is just a few blocks north of the Recognition Plaza and offers a stunning view of Lake Huron and a nice place to regenerate the rider. Several restaurants are along the road, as are several quick fast-food stops.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ikqkl2momr0v7k0pkj371gpg9c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo_wbSq8Dw4D6SZqnwfz_bidhjBX4YUQVAU9UqHrHGWs0kekokzmVxqPR0RTDKjFRHl6IA2NFY82_hsXYTlWDzRnqGZ_OL2WNguZNx3901rNUeC8UUesAb5dOtz3SwrC6s7ZXqiRRLp9wBgCCA3CZ9koBLpUs6N1UE8t1uoG345uWXoHDyQpQGmwwWdsLciZt4Sa_RTJgZvH5DW5x2lGpX_InvJZCC_lq7bbo3L3VYz7TUXbbJHj17xPMlJ2t0zedyHX803vBtt2M52-RGIimp8-P5PMQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.521011,44.266082,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MI7 - Wyandotte 
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/qe69gkcbkovbtnb8tlis9buj28/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrIXBdqJ-MB_W-gDfPFq_gTSXqWudxDkhZTGOQHpcRCPf5YbEL3vehZtiD2FZL4UplsLyogfT3GygIrjolqIxj8kcPbpthRso438LshU-qEmeZG-tTDCCdRIAUKjCSX3K57q6Qj14g4XQ7qOqWQzV7fvIv16iwDi2hsbjioX-ONcCbsHmkIqmEkbMXwtL9J3FIcCJHZv-rCJsX6VTwRA3UyZFC4QZroJPen4GsN2tFj3aY4D5SLPuNgocNAyJq_mANYrB9-1bps3q75ThR0JDTvEtfnoA?session=0&fife" height="200" width="auto" /><br><br>Purple Heart Memorial Garden<br>Superior Blvd. at Biddle Ave.<br>Wyandotte, Michigan<br>GPS: 42.206485, -83.148847<br>Access: 24/7. Parking is available across the street at Tim Horton’s Restaurant.<br><br>The poignant image of a US Soldier caring for his wounded brother in arms is at the heart of this special memorial garden. Wyandotte was the first city in the country to which the National Military Order of the Purple Heart commissioned and donated a monument of this type. Originally dedicated in 1943 as a limestone cast, it was later bronzed with funds raised by residents, local businesses, and veterans groups between 2007 and 2010. <br><br>Natalie Rankine, a licensed architect, received the President’s Plaque for the Purple Heart Memorial Garden, which she designed and raised $250,000 for as a volunteer before being hired by the city. <br><br>As you visit this memorial in Wyandotte, Michigan’s Purple Heart City, one cannot help but feel the pride and reverence the city has for all of its military veterans.<br><br>Made in America: Whiskeys on the Water is a nearby oasis that can easily quench the thirst, fill the stomach, and rejuvenate the spirit. whiskeysonthewater.com<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/qe69gkcbkovbtnb8tlis9buj28/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrIXBdqJ-MB_W-gDfPFq_gTSXqWudxDkhZTGOQHpcRCPf5YbEL3vehZtiD2FZL4UplsLyogfT3GygIrjolqIxj8kcPbpthRso438LshU-qEmeZG-tTDCCdRIAUKjCSX3K57q6Qj14g4XQ7qOqWQzV7fvIv16iwDi2hsbjioX-ONcCbsHmkIqmEkbMXwtL9J3FIcCJHZv-rCJsX6VTwRA3UyZFC4QZroJPen4GsN2tFj3aY4D5SLPuNgocNAyJq_mANYrB9-1bps3q75ThR0JDTvEtfnoA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.148847,42.206485,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

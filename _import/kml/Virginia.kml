@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Virginia sponsored by Chris Comly</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>VA1 - Arlington
+</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/afahdvs46gv4lk8l65dg7qfpps/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq9zEnhD9uG6Otv-hoq0ZrPmXfGoqeX9RKIXFOOB3E3aPFBVRb8MG4hqq5oicguUifc-SKhxKz1fmQkHXkJC4LHM3tpLWgYOSOOB1gaHRUgy_2nlzdHamOLZpC_0LxNfjJ8oJEyhA4MMUxeuJzzxjO5Vimekj27kMdSze2lPPcHaoocj-GwZUf_-Ur-Q0RVYM5ny1j1t_919d0hfpmNmC_2jgbw48q0gErisOiVInLxohT7Xn_jDWGwOe0AIhkBMGDNUyfeidkUBoV0uA7HFYnOXLjIgw?session=0&fife" height="200" width="auto" /><br><br>Marine Corps Memorial<br>Enter at N Marshall Dr. and U.S. Marine Corps War Memorial Access Rd.<br>Arlington, Virginia<br>GPS: 38.890423,-77.069736<br>Access: 6AM-Midnight, two photos required.<br><br>The famous USMC Memorial is adjacent to the Arlington National Cemetery and is in honor of the service and sacrifice of the men and women of the U.S. Marine Corps since 1775 when the branch was known as the Continental Marines. <br><br>The Iwo Jima statue became a symbol of hard-fought World War II battles in the South Pacific and the hard-charging Marines. On February 23, 1945, five days after Marines landed on the island of Iwo Jima, AP photographer Joe Rosenthal snapped the iconic image of five Marines and one Navy Corpsman raising the flag that claimed victory over the tallest point of the island, Mt. Suribachi. <br><br>The conquest of Mt. Suribachi was strategically important in the battle because the enemy had been using the vantage point to advise artillery fire. Victory over the rest of the island wouldn’t come until 31 days later. <br><br>The flag-raising in Rosenthal’s photo was actually the second Stars and Stripes to fly there that day. As the story goes, a flag was raised earlier in the day and upon seeing it, the Secretary of the Navy, who had been witnessing the battle, wanted to have it as a personal souvenir. When the Battalion Commander heard of that, he ordered his operations officer to retrieve the flag for the battalion and put up a replacement. As the lieutenant was leaving, he shouted, “And make it a bigger one!” <br><br>For more information on the memorial, visit their website http://bit.ly/2u1jBsv<br><br>Near the USMC Memorial is Arlington National Cemetery, the nation’s most hallowed burial ground. It was started in 1861 when a Union officer decided that the best place to inter Civil War dead was on the grounds of Confederate Gen. Robert E. Lee’s plantation, just across the Potomac River from Washington, D.C. <br><br>The cemetery contains the grave of President John F. Kennedy, the Tomb of the Unknowns, the USS Maine Memorial, Space Shuttle Challenger Cenotaph, Women in Service Memorial, and many others. More than 300,000 soldiers and their dependents are buried here and every Memorial Day, an American flag is placed at each grave. The cemetery portion is open to the public 365 days a year, 8AM-7PM. A visit here should be on every patriotic American's bucket list. <br><br>For information on the Cemetery visit their website: https://www.arlingtoncemetery.mil/<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/afahdvs46gv4lk8l65dg7qfpps/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq9zEnhD9uG6Otv-hoq0ZrPmXfGoqeX9RKIXFOOB3E3aPFBVRb8MG4hqq5oicguUifc-SKhxKz1fmQkHXkJC4LHM3tpLWgYOSOOB1gaHRUgy_2nlzdHamOLZpC_0LxNfjJ8oJEyhA4MMUxeuJzzxjO5Vimekj27kMdSze2lPPcHaoocj-GwZUf_-Ur-Q0RVYM5ny1j1t_919d0hfpmNmC_2jgbw48q0gErisOiVInLxohT7Xn_jDWGwOe0AIhkBMGDNUyfeidkUBoV0uA7HFYnOXLjIgw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -77.069736,38.890423,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VA2 - Bedford
+</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/tra81v58q9g70tr7r60n8s014s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrag9nQo5yKZQS4GJrJaMOsGGxKEvXklrGmNxAEJRCA24p3gtSB1dZQ_ENdtJIZXuzWSY7OCz4-mmgWj6VDQZ9aqnvsAWuojz9RM4s6OKWaNVjOv-fkdZ1HTClOUIgY5frNZQtLqV2e6RhlYFuK9_Z22nCQvkB8qKWAryu1ZODBIA245s-YOD0Um2GK3Zg6qDRnwTQ-SH0OYNa9FtjHECgLd6MH-0cBx4XGAdTbGF6LVyGaYaKu8j9IPyf212KRTgZ-vTo-KeAKHEGu_PGAc3V14qFXsA?session=0&fife" height="200" width="auto" /><br><br>D-Day Memorial<br>3 Overlord Cir.<br>Bedford, Virginia<br>GPS: 37.330567,-79.535952<br>Access: 10AM-5PM daily. Trophy and IBA runs must include similar photo, otherwise Welcome Center, available 24/7, will suffice for non-Trophy or non-IBA runs.<br><br>Located in the town suffering the highest per capita D-Day losses in the nation, the National D-Day Memorial pays tribute to the Allied Forces participating in the largest land, sea, and air operation in history: the invasion of Normandy, June 6, 1944. The National D-Day Memorial features a lush English Garden, a haunting invasion scene with statuary and a stylized landing craft, and the striking Victory Arch, serving as a powerful permanent tribute to the valor, fidelity, and sacrifice of D-Day service men and women. <br><br>Bedford, with a population of only 3200, was one of 11 Virginia communities who provided a company of soldiers to the 29th Infantry Division in the National Guard. 30 of Bedford’s soldiers landed on Omaha Beach and by the end of the day 19 were dead. <br><br>Admission fees apply, $10 per adult. Buy tickets at the Welcome Center at bottom of hill, or online at https://www.dday.org<br><br>Made in America: For some unforgettable motorcycle roads, an entrance to the Blueridge Parkway is just a few miles up the road and can be used to access from I-64 north of Bedford. If coming west from eastern Virginia, try RT 60 out of SW Richmond to RT 24 and onto RT 460.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/tra81v58q9g70tr7r60n8s014s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrag9nQo5yKZQS4GJrJaMOsGGxKEvXklrGmNxAEJRCA24p3gtSB1dZQ_ENdtJIZXuzWSY7OCz4-mmgWj6VDQZ9aqnvsAWuojz9RM4s6OKWaNVjOv-fkdZ1HTClOUIgY5frNZQtLqV2e6RhlYFuK9_Z22nCQvkB8qKWAryu1ZODBIA245s-YOD0Um2GK3Zg6qDRnwTQ-SH0OYNa9FtjHECgLd6MH-0cBx4XGAdTbGF6LVyGaYaKu8j9IPyf212KRTgZ-vTo-KeAKHEGu_PGAc3V14qFXsA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.535952,37.330567,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VA3 - Chesapeake
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2pvt1a356um5rutm7tehqmpamo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqtLErV8cVYwyNGS_OZWNZKqR6mi3AP45jJtIKrygdGEMRnc3B1k-gXN43UhM0N94JalSoZVpE679N_zJ2Z6emSJ2K77foaQARSEWuMRrmCGBV31MIDYYPAKLgAY9gN4KIN5ASniSF-Xyatu30UsKPLkojJ6QDnnUs36KXdi1qMvWh7k8QZavgadLUK8cvcUMHJI_t41e7y4EMoJeHWFnk9Y0IV2gsd7FxnonAFiykRkHQQI6U_2rFTZHVHuB0aDiIn3ihpMTX4cqg4krbXOtX1kvD8Ng?session=0&fife" height="200" width="auto" /><br><br>Battle of Great Bridge Memorial<br>1775 Historic Way<br>Chesapeake, Virginia<br>GPS: 36.721239, -76.239234<br>Access: 24/7<br><br>The Battle of Great Bridge occurred in the area now known as Chesapeake and is adjacent to the Albemarle & Chesapeake Canal. This battle played a critical role in the struggle for American independence. Four days later, as a direct result of the Patriot victory, the Virginia Convention adopted the first public declaration expressing a spirit of independence.<br><br>Made in America: For a quick meal, check out Big Woody's just outside the entrance to the park. It's a bar with great burgers and discounts for active duty and retired veterans! www.bigwoodys.net<br><br>Today, the Great Bridge Battlefield & Waterways Historic Park marks the site of the Great Bridge battlefield and is complete with an interpretive historic pathway and family picnic area. A brand new visitor center has been built and should be open by April 1. https://goo.gl/8khCw3<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2pvt1a356um5rutm7tehqmpamo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqtLErV8cVYwyNGS_OZWNZKqR6mi3AP45jJtIKrygdGEMRnc3B1k-gXN43UhM0N94JalSoZVpE679N_zJ2Z6emSJ2K77foaQARSEWuMRrmCGBV31MIDYYPAKLgAY9gN4KIN5ASniSF-Xyatu30UsKPLkojJ6QDnnUs36KXdi1qMvWh7k8QZavgadLUK8cvcUMHJI_t41e7y4EMoJeHWFnk9Y0IV2gsd7FxnonAFiykRkHQQI6U_2rFTZHVHuB0aDiIn3ihpMTX4cqg4krbXOtX1kvD8Ng?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.239234,36.721239,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VA4 - Monterey
+</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/o9s6i43hj3a93b3slkqiuarvt4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoE9Z2Omj7kEUbux4U04MIv02GANzbB_63H4ALRZWq68gfzbA7DMDy-RVX6imKPSfaSZ3bzvh1J_D0wk8Q_Zt5sUDBlF2iqw8nTGEON5q9a-spoxeCMwcF3gkeRNUZbTFcofe3P7Sjv12POlsVcTmLIIQ28lsSX9Rgojyv9V5n793ZsHszLWlBF0iiKweNInIk8ilGOfp6af69yurJHdt0tVzk-9Qyq9XDOoTceGgf_-NgkZgRF1XEn3R5uC_01GiTGHpxBnJ0v53awSFWLZxS8d28xsQ?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>165 W Main St.<br>Monterey, Virginia<br>GPS: 38.412721, -79.582209<br>Access: 24/7<br><br>The Highland County War Memorial honors Veterans from all branches of service. The memorial incorporates a “Walk of Honor” where family members have purchased bricks to honor specific veterans.<br><br>Made in America: Highland County is part of the Western Highlands Artisan Trail which offers many recreational opportunities as well as Appalachian cultural experiences. There are many historic downtowns and small settlements where lodging and dining opportunities are available. <br><br>Throughout the region, you will find unique handmade arts and crafts and traditional farm markets as well as the remains of iron mining/smelting sites, former railroad depots, and other historic footprints left behind from the railroad and iron industries of the 19th century. https://goo.gl/r8nXjb<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/o9s6i43hj3a93b3slkqiuarvt4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoE9Z2Omj7kEUbux4U04MIv02GANzbB_63H4ALRZWq68gfzbA7DMDy-RVX6imKPSfaSZ3bzvh1J_D0wk8Q_Zt5sUDBlF2iqw8nTGEON5q9a-spoxeCMwcF3gkeRNUZbTFcofe3P7Sjv12POlsVcTmLIIQ28lsSX9Rgojyv9V5n793ZsHszLWlBF0iiKweNInIk8ilGOfp6af69yurJHdt0tVzk-9Qyq9XDOoTceGgf_-NgkZgRF1XEn3R5uC_01GiTGHpxBnJ0v53awSFWLZxS8d28xsQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.582209,38.412721,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VA5 - Parksley
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/n75q4ubhs6nakorcud43tvi2jg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr_5iubZvts7ZG4CtyBgqD4TF_odlbF4fgrXu8W6f1RYOyWxwprNdyp4azlIUgqaoQpG56hjpnQwP5Gi8JwEhEvZc-9jQwIpBUm3Tc5TndubgTgUU3gWozsCVwTEVkE8NDUOp1Vp3EaKF5BaASZ7kAs7CpRO22hSyG6jfb8w9echpYioz79maXIDYradUyMlNAKgRMo0QRJHdWAE17TDdf_a5DxFQL8MJpQEotgZsWZFlJsazaBqwXFmTyfNpB-lZlBlPNdqbCrfNHgY7dfdE8tH8TCKQ?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>18468 Dunne Ave.<br>Parksley, Virginia<br>GPS: 37.783361, -75.653530<br>Access: 24/7<br><br>The Parksley War Memorial was dedicated in 2017 and honors a local Vietnam War hero, USMC machine gunner Cpl. Jerry C. Burkhead, KIA by small arms fire on February 8, 1968 in the battle of Quang Tri, just south of the DMZ. The memorial also mentions all Accomack County veterans who died in all wars.<br><br>Made in America: For railroad buffs, the memorial is adjacent to the Eastern Shore Railway Museum. https://goo.gl/PPhH8h<br><br>Also, while visiting Delmarva be sure to stop in at the NASA visitor’s center near the Wallops Flight Facility, located approximately 20 miles north of here. https://goo.gl/TDpiuq. If you time your visit right you may even see a rocket launch!<br><br>If you’re looking for a good (no hats, cloth napkin) meal, consider the Little Italy restaurant in Nassawadox, approximately 20 miles south of here.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/n75q4ubhs6nakorcud43tvi2jg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr_5iubZvts7ZG4CtyBgqD4TF_odlbF4fgrXu8W6f1RYOyWxwprNdyp4azlIUgqaoQpG56hjpnQwP5Gi8JwEhEvZc-9jQwIpBUm3Tc5TndubgTgUU3gWozsCVwTEVkE8NDUOp1Vp3EaKF5BaASZ7kAs7CpRO22hSyG6jfb8w9echpYioz79maXIDYradUyMlNAKgRMo0QRJHdWAE17TDdf_a5DxFQL8MJpQEotgZsWZFlJsazaBqwXFmTyfNpB-lZlBlPNdqbCrfNHgY7dfdE8tH8TCKQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.65353,37.783361,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VA6 - Richlands
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lhdrsmag88fioakf13ddufhvg0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo6Rcf6-9smGW5q8IGQjZPNFfT_04-OuJt-Gp9KlXZezmeWrTn0qt-VsBtRhTNVWNW1cQjc6IPiU185lRrropTuLIlcL6Im6Q_fElq1GTnBHr2XRASP1OJzHjxKzzW_g8WHCb_UtbuYGzSc8bna1k2yIwt_XGDSWmHf01ZbUl4N5Z7KOXlFBNzrG-z_xGRcN_2ebG32vbYax35jCr7cP-7ASH4QY33jpyjNLqMvnCY721bM5fUDNZqN-34ozn9gtSCWcHvRQiToq4JiW0eF9kVr0RR6MQ?session=0&fife" height="200" width="auto" /><br><br>Coal Miners Memorial<br>200 Washington Sq.<br>Richlands, Virginia<br>GPS: 37.094859, -81.797386<br>Access: 24/7<br><br>The Coal Miners’ Memorial is a testament to the heritage of southwest Virginia. Created of black granite, the front wall represents the mine. Cascading water covering the entrance is reminiscent of the abundant coal resources and wealth flowing from Mother Earth. Etchings of the history of mining linger on the face of the mine, while the back wall bears the names of almost 1,100 miners from the surrounding counties who died in mine-related accidents. <br><br>Dedicated on May 17, 2003, the memorial stands as a tribute to the men and women who sacrificed all, and those who continue to make sacrifices to earn a living in the mining industry.<br><br>Made in America: For some good riding, the Back of the Dragon is 20 miles away in Tazewell. It features 32 miles and over 300 curves and offers the most spectacular views you can find in the Appalachians! http://bit.ly/2thQ5yF<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lhdrsmag88fioakf13ddufhvg0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo6Rcf6-9smGW5q8IGQjZPNFfT_04-OuJt-Gp9KlXZezmeWrTn0qt-VsBtRhTNVWNW1cQjc6IPiU185lRrropTuLIlcL6Im6Q_fElq1GTnBHr2XRASP1OJzHjxKzzW_g8WHCb_UtbuYGzSc8bna1k2yIwt_XGDSWmHf01ZbUl4N5Z7KOXlFBNzrG-z_xGRcN_2ebG32vbYax35jCr7cP-7ASH4QY33jpyjNLqMvnCY721bM5fUDNZqN-34ozn9gtSCWcHvRQiToq4JiW0eF9kVr0RR6MQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.7973738,37.0948602,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VA7 - Triangle
+</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/n38erg2isqevs1ln46hoieijjg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpqI07CE8g7WunVWFaiWgB1oJz9o2q0Wj3W4jfNX8zWtc49pRpfneqiLjZqhpIkBe0t0017GfAYjjqYbit1EldyZLaCq913accreCjodrLYe0YCjOMmpUHqJV_Ksxm6y6j3GfIJflUqS5-F6-quJumqPP2FeEFVMNKEz0M-vt0xCX8vXkKwyP0xrSaFMC0wEFq3fVKHifv2W1YEEYjs7EbwhnbjCFqe8BXm1207nILt6LqUKBe-7M-BIRU5ctFEuNEswRJ86sXXhYlXJFhZB0Bou9ZFwg?session=0&fife" height="200" width="auto" /><br><br>Marine Corps Museum<br>18900 Jefferson Davis Hwy.<br>Triangle, Virginia<br>GPS: 38.54427,-77.34351<br>Access: 9AM-5PM<br><br>The National Museum of the Marine Corps is a lasting tribute to the U.S. Marine Corps. Located adjacent to Quantico Marine Corps Base, the museum’s 210-foot tilted steel mast and glass atrium is impressive for any age. <br><br>Visitors learn about the history of the Marines by starting in the Leatherneck Gallery with hanging aircraft from the ceiling and tanks in the lobby. Journey into the first interactive exhibit that simulates the intensity of boot camp. Test your rifle skills with a laser-designated target acquisition M-16 at the rifle range. Feel the ground shake as you land on Normandy Beach on D-Day in 1945 or brave the cold elements in the winter battlefield room depicting the Korean War.<br><br>There is a gift shop, as well as the Tun Tavern offering a full lunch menu and the Devil Dog Diner which is a cafeteria-style restaurant that honors Marine mess operations<br><br>The museum is well worth the visit. Free admission.http://bit.ly/38bMMaS<br><br>Made in America: Back on I-95 and within five miles towards DC, are plenty of restaurants and fuel stops.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/n38erg2isqevs1ln46hoieijjg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpqI07CE8g7WunVWFaiWgB1oJz9o2q0Wj3W4jfNX8zWtc49pRpfneqiLjZqhpIkBe0t0017GfAYjjqYbit1EldyZLaCq913accreCjodrLYe0YCjOMmpUHqJV_Ksxm6y6j3GfIJflUqS5-F6-quJumqPP2FeEFVMNKEz0M-vt0xCX8vXkKwyP0xrSaFMC0wEFq3fVKHifv2W1YEEYjs7EbwhnbjCFqe8BXm1207nILt6LqUKBe-7M-BIRU5ctFEuNEswRJ86sXXhYlXJFhZB0Bou9ZFwg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -77.34351,38.54427,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

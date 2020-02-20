@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Nevada</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>NV1 - Carson City
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lp9q60abmb4vlguc12trdkmcjo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqJL27IWgbNTAdbr_mRzgKR3KW22gxxWxlmQ0N7Pu_eExXsx4TS7Qzs7qVcXWTcz3UbJpc2-woc7A2ns4hjl6ZLy5_mpGnwuIFESxcZvuiSkbvIHONYaXT3Lk9OTJ0Whb56jup9fQkhaLfrlhWkFd85dtT1NDtuh1OdMj7sFJWtaLQvCt-ZPhyDqxpZ-jGtA-_kOQJ-PgIxhlb2kt1YZPlsRse8knRs4EkzzEC8nml7TWE5LTyLSlVej3bhqr4C5hX_-dzgznBO6KbW6vxLSN_UjZYzRg?session=0&fife" height="200" width="auto" /><br><br>Law Enforcement Officers Memorial<br>Nevada State Capitol Building \n 395 S Carson St.<br>Carson City, Nevada<br>GPS: 39.163067, -119.766279<br>Access: 24/7. Two photos required, no illumination at night.<br><br>This memorial to Nevada’s slain law enforcement officers was built entirely with private funds, none from any government agency. The maintenance and upkeep is also paid by private contributions.<br><br>Each year in May, Nevada’s law enforcement officers make an Olympic-type, 430-mile run from Las Vegas to the memorial in Carson City. They carry a roll of the names of all the officers that have lost their lives so they will always be remembered. It starts a week before the Memorial Ceremony and ends at the presentation.<br><br>The ceremony itself, tentatively held May 15, 2020, is an honor to watch and includes a presentation of colors, bag pipes, 21-gun salute, laying of wreaths, speeches, prayers, reverent songs, riderless horse, and finalized by families of the fallen officers laying carnations on the memorial while Taps are played. <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lp9q60abmb4vlguc12trdkmcjo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqJL27IWgbNTAdbr_mRzgKR3KW22gxxWxlmQ0N7Pu_eExXsx4TS7Qzs7qVcXWTcz3UbJpc2-woc7A2ns4hjl6ZLy5_mpGnwuIFESxcZvuiSkbvIHONYaXT3Lk9OTJ0Whb56jup9fQkhaLfrlhWkFd85dtT1NDtuh1OdMj7sFJWtaLQvCt-ZPhyDqxpZ-jGtA-_kOQJ-PgIxhlb2kt1YZPlsRse8knRs4EkzzEC8nml7TWE5LTyLSlVej3bhqr4C5hX_-dzgznBO6KbW6vxLSN_UjZYzRg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -119.766279,39.163067,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NV2 - Elko
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/dselttaq8ejqppsboi9urib628/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoHTdFhFjRy01e3Vplk60eH45XEIAL9KeegDwQJV0-N3OcvESgk5i8Qtj3m8Hn76-ZFbeJhF124TYRE-e0yjk2Yg9AaoLRNtvkRY4snE2TLNVwofqYgBky_XNwb4FJTPozrPLjp5l3cb78Q7O1VGAPv-d_XnzVnPnvTZWfMzi8u0zqjlJrYZoGKnmHi83_HfxKf1u72mfxp2z_5ttgn-TL9ehGdMc3_eoeiaFrn7gIy2dgXzm2qQ3OE9ExvPoZJ6e-vWduTTgexBzOYUIC7o_4BtnnQcw?session=0&fife" height="200" width="auto" /><br><br>9/11 World Trade Center Memorial<br>1751 College Ave.<br>Elko, Nevada<br>GPS: 40.843803, -115.752751<br>Access: 24/7. Not illuminated at night.<br><br>This memorial stands in honor of the 1000s of innocent victims, and the 412 heroes who responded to the call to help, on September 11, 2001. When the Port Authority of New York and New Jersey made available artifacts from the fallen World Trade Center towers after the tragic attack, the City of Elko became the recipient of a three-foot structural I-beam removed from the wreckage, which was incorporated into this impressive sculpture.<br><br>The sculpture is oriented according to the angle of the sun at 10:22 a.m. on September 11, the moment of the collapse of the second tower. Each year at this day and time, sunlight shines through the silhouette of the first bird, illuminating the opposite face of the box. Never forget.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/dselttaq8ejqppsboi9urib628/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoHTdFhFjRy01e3Vplk60eH45XEIAL9KeegDwQJV0-N3OcvESgk5i8Qtj3m8Hn76-ZFbeJhF124TYRE-e0yjk2Yg9AaoLRNtvkRY4snE2TLNVwofqYgBky_XNwb4FJTPozrPLjp5l3cb78Q7O1VGAPv-d_XnzVnPnvTZWfMzi8u0zqjlJrYZoGKnmHi83_HfxKf1u72mfxp2z_5ttgn-TL9ehGdMc3_eoeiaFrn7gIy2dgXzm2qQ3OE9ExvPoZJ6e-vWduTTgexBzOYUIC7o_4BtnnQcw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -115.752751,40.843803,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NV3 - Ely
+</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/u9gpic8iusb9g4sf75q71fkkl0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqwVpfifGsHTzXduj9fclzoTwWTLtewmBkKRcHrvb4b_rXg1G6YVEYtnNEB9Szb-x7xuaxu7YTcZea9BiSypSXQ2mIDFwMojl8ypmC9zUk-qHlSV1ojr5pLpinqGXktGM9EfymkjhNt22BnIgFKdB5ODdTyYVTqz6hE8hZakRlIl42uqI3i6VkqdAhgxxMiQj3XyYwHwT5TwsuHb3mZ1s62TuMCMrL3rKL4SgIt_7B2Y9ZKo2HunaDTwfxXRW87l02N7oa1wpz3vbgWRgOaBH0NrlNiaA?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>801 Clark St.<br>Ely, Nevada<br>GPS: 39.247757, -114.889464<br>Access: 24/7. No illumination at night.<br><br>A memorial honoring the 124 White Pines County residents who gave their lives in wars from the Spanish American to Vietnam.<br><br>Dedicated on Memorial Day, 1996, and erected by the community of Ely, this memorial sits in a beautiful park setting and is placed in a small plaza surrounded by flag poles and benches and rests on a slope just below the historic 1909 courthouse. Vertical panels set at right angles to each other list the names of those killed in the wars.<br><br>Made in America: In 1878, a gentleman by the name of J.W. Long established a camp known as Ely, which later served as a stagecoach station along the Pony Express and Central Overland Routes. In 1906, copper was discovered here and the mining boom was on. Today Ely is the largest community in White Pines County and is still mostly dependent on it’s mining infrastructure.<br><br>The Northern Nevada Railway Museum is located here, and keeps alive the history of the area with all kinds of rides and events running along the original rails that connected Ely to the Trans-Continental Railroad. More information can be found at www.nnry.com<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/u9gpic8iusb9g4sf75q71fkkl0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqwVpfifGsHTzXduj9fclzoTwWTLtewmBkKRcHrvb4b_rXg1G6YVEYtnNEB9Szb-x7xuaxu7YTcZea9BiSypSXQ2mIDFwMojl8ypmC9zUk-qHlSV1ojr5pLpinqGXktGM9EfymkjhNt22BnIgFKdB5ODdTyYVTqz6hE8hZakRlIl42uqI3i6VkqdAhgxxMiQj3XyYwHwT5TwsuHb3mZ1s62TuMCMrL3rKL4SgIt_7B2Y9ZKo2HunaDTwfxXRW87l02N7oa1wpz3vbgWRgOaBH0NrlNiaA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -114.889464,39.247757,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NV4 - Las Vegas
+</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/hrh1i920b6jc5fr2rsfufu03e4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrY8gGRguON4m282qYjDG4o8HozkqM16wimfaiC0crIwGz46PlattzPqhINsHlaz-7VdbZxWV6soRjG2ycMR7qkagBz02auo2iGbl7HbYnJUVFsIQl4aMXwX9d7VQy5YLJLJa8srySOoJh5GMAloSNTkVg2dJtlkF_w-L2H3Y45qKPh2NY9ZlkibALNwgujFcPr8Gf6J_U-EYx0rGu9XP8FFp3kQGHsownSRmyfjT9liaHXCme8KYdnT6DaZdmNIDNMsp0y83camxk5m5LQYFyNod9oqQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Lions Memorial Park \n 555 E Washington Ave.<br>Las Vegas, Nevada<br>GPS: 36.18218, -115.13263<br>Access: 8AM-8PM. Two photos required. <br><br>The Nevada State Veterans Memorial is a beautiful monument dedicated in 2016, consisting of several larger-than-life statues and walls showing the struggles of all service people during times of conflict, from the Revolutionary War to the Global War on Terror. It also includes a moving tribute to Gold Star Families.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/hrh1i920b6jc5fr2rsfufu03e4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrY8gGRguON4m282qYjDG4o8HozkqM16wimfaiC0crIwGz46PlattzPqhINsHlaz-7VdbZxWV6soRjG2ycMR7qkagBz02auo2iGbl7HbYnJUVFsIQl4aMXwX9d7VQy5YLJLJa8srySOoJh5GMAloSNTkVg2dJtlkF_w-L2H3Y45qKPh2NY9ZlkibALNwgujFcPr8Gf6J_U-EYx0rGu9XP8FFp3kQGHsownSRmyfjT9liaHXCme8KYdnT6DaZdmNIDNMsp0y83camxk5m5LQYFyNod9oqQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -115.13263,36.18218,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NV5 - Laughlin
+</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0dp30k7f7c7uqrjb0n4chit2e0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrpu1rtV87QE9XiLCS1NrBb4rUxfPrm3NlUyJ4tPYfh73O-t8aWTaxKsSot7d5w8se4cxx8hLIeGOmoMsux_CBGiP418mcr9zbOz3rE_oJI50NgsEWvVcIdridi0rd03ak7B05w0sFvFGgFCXDgRShpOsSLmJnl9E2H36rOqKD4--w57O6XyZbGe6ODfZms5nqrKN5gTtGElocwmtVx32M_YIR5tCNOAS4SwPbwvaIh0QEKBPfIvuVg87rHFbIQW5wpuVcLQMWY03rp1e9w3Wp4HzusPA?session=0&fife" height="200" width="auto" /><br><br>Avenue of Flags<br>1450 S. Casino Dr.<br>Laughlin, Nevada<br>GPS: 35.171233, -114.571001<br>Access: 24/7. No illumination at night.<br><br>American Legion Post No. 60 proudly designates this Avenue of Flags in honor of all those who served in the Armed Forces of the United States, protecting our country and assuring us that our flag will forever wave. <br><br>Made in America: The town of Laughlin owes it’s existence to the vision of a Las Vegas club owner, Don Laughlin. He saw the tourist potential of what had been the town of South Pointe along the Colorado River. It was never his intention to name the area after himself, but the post office had other ideas.<br><br>Today, Laughlin is the third most visited casino and resort destination in Nevada after Las Vegas and Reno, with two points of access to Arizona. It’s a busy town periodically throughout much of the year. One of the busiest weekends in 2020 will be April 23-26 for the Laughlin River Run, right up there with Sturgis, Daytona, Laconia, Street Vibrations, etc. Most of the casinos will not allow colors during the rally and if you plan to stay anywhere in the area you will need to make plans well in advance.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0dp30k7f7c7uqrjb0n4chit2e0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrpu1rtV87QE9XiLCS1NrBb4rUxfPrm3NlUyJ4tPYfh73O-t8aWTaxKsSot7d5w8se4cxx8hLIeGOmoMsux_CBGiP418mcr9zbOz3rE_oJI50NgsEWvVcIdridi0rd03ak7B05w0sFvFGgFCXDgRShpOsSLmJnl9E2H36rOqKD4--w57O6XyZbGe6ODfZms5nqrKN5gTtGElocwmtVx32M_YIR5tCNOAS4SwPbwvaIh0QEKBPfIvuVg87rHFbIQW5wpuVcLQMWY03rp1e9w3Wp4HzusPA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -114.571016,35.171266,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NV6 - Mesquite
+</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7nsu7mmdl6vr43crp691ijeft0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpSFeohEvlEOdDSYYMYO2BNke41t924wUKtGccHWdiaI4xIOmxxmG8-Bd3aQw4HmalSpr2kUSUrCefnyenOmxYlFTrrhvwKCy4sFrdK6eJOe2Zy6HN59L_bwBulxYvSC9UK49bJLtd9NzBITokZa20rkbmNtF30HrMFKY2kBjKa9ricw9tbogyEbAN77LKBFQXoRaRTFzJym7FtYHC7rzra1WWBjsJjBgCCObJZswuHzFDOq8tW5AdQSdB6ARIoD6VhqvcYpQKPpcCHjH69jWrx-CJ59w?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Park<br>501 Hillside Dr.<br>Mesquite, Nevada<br>GPS: 36.811388, -114.061020<br>Access: 24/7. No illumination at night.<br><br>This beautiful memorial consists of 2 cannons, a large eagle statue and flag poles representing each branch of service atop a memorial wall. It stands in honor of Veterans from Mesquite and the Virgin Valley who served their country.<br><br>Inscription: “For the Veterans, Those Ordinary, Yet Extraordinary Individuals, Who Served to Keep Us Free “<br><br>Made in America: Founded in 1880 by Mormon Pioneers who settled the Virgin River Valley, the area largely remained a farming community through the 1960’s. Located 80 miles north east of Las Vegas, today Mesquite is mostly a retirement community with several golf courses and casinos.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7nsu7mmdl6vr43crp691ijeft0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpSFeohEvlEOdDSYYMYO2BNke41t924wUKtGccHWdiaI4xIOmxxmG8-Bd3aQw4HmalSpr2kUSUrCefnyenOmxYlFTrrhvwKCy4sFrdK6eJOe2Zy6HN59L_bwBulxYvSC9UK49bJLtd9NzBITokZa20rkbmNtF30HrMFKY2kBjKa9ricw9tbogyEbAN77LKBFQXoRaRTFzJym7FtYHC7rzra1WWBjsJjBgCCObJZswuHzFDOq8tW5AdQSdB6ARIoD6VhqvcYpQKPpcCHjH69jWrx-CJ59w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -114.06123,36.81126,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NV7- Tonopah</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/u9kcu6qntohcmj4gqq30jtpih8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrJkBiaHmpbcT0AhH-cczpdqtF8FMTsfVM6Jv9F8cXEzigJMRU_fgYY4Gyiezw780nnp8TPvDcD35rv48J359AlqnByUlhaTRUrFzq2X11zeHp4nBELXGifKdQsJUx98plbqz45pNfpZnm3eh1HoR6VtOM7KtwZpN4c1_yu4p79FIB9MdVVfDSllrdFUus_xa1n2YpYznCrm0Sq9v3pxLpcKQYrbM-F5lUpOsQkkUnuxZfGwtdIOAM9vXEg4bXtZvlPLfDfeNgwrEX9w7V6qr4QNht2Jg?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>VFW Post 1103 \n 265 South Main St.<br>Tonopah, Nevada<br>GPS: 38.066589, -117.229355<br>Access: 24/7. No illumination at night.<br><br>A three soldier statue atop a concrete base erected by the local VFW, with a small plaque that reads, “Duty, Honor, Country. In honor and memory of all veterans who served during times of war and peace. Their personal sacrifices, loyalty, and dedication have given us the freedoms we enjoy in this great nation”<br><br>Made in America: Tonopah has a rich history of both mining and the military significance. It was the site of the second largest silver strike in Nevada’s history, just behind the famous Comstock Load to the north. Founded in 1900 by a prospector by the name of Jim Butler, silver ore production in that first year was over $750,000.<br><br>The Tonopah AAF was founded just after WWI and was a key training field during WWII for both fighter and bombers. P-39’s and B-24’s were staples at this field until the late 40s when the field was turned over to the county for use as a municipal airport. <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/u9kcu6qntohcmj4gqq30jtpih8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrJkBiaHmpbcT0AhH-cczpdqtF8FMTsfVM6Jv9F8cXEzigJMRU_fgYY4Gyiezw780nnp8TPvDcD35rv48J359AlqnByUlhaTRUrFzq2X11zeHp4nBELXGifKdQsJUx98plbqz45pNfpZnm3eh1HoR6VtOM7KtwZpN4c1_yu4p79FIB9MdVVfDSllrdFUus_xa1n2YpYznCrm0Sq9v3pxLpcKQYrbM-F5lUpOsQkkUnuxZfGwtdIOAM9vXEg4bXtZvlPLfDfeNgwrEX9w7V6qr4QNht2Jg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -117.229355,38.066589,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

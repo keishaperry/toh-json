@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Minnesota</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>MN1 - Aitkin
+</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/6081rj6ojtbmqfliq7rrqanrm8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqo4Tjn_LH4mu0y-g6FKZE93SA50XjfjZ9aip-0Jds85pKizalzrG8m_DrADUfZlzFjVQyBJ6YMC-gX61HhgADiUxXo4vx16Rll24Zb6QOcHOUutucGAFUQZmuwvnFtYDqMBy_soaYlqn2nvKjQ0O3y9Dsj0jo8aVcG7y48S9xqnTXQeFL-vKDg-wMC3SN0CCH1_V3UU4R5A1-TBFMfc6jtglzJK6lOWiDZBAzEiKL1-4mDSVR1GKHhLMNbHeoi12V2vgESaBPbOrncsfD8wKvV1u-kHA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>209 2nd St. NW<br>Aitkin, Minnesota<br>GPS: 46.533162, -93.710500<br>Access; 24/7<br><br>Still called the “Eagle Veterans Memorial,” the actual hand-carved bald Eagle is now inside the courthouse. If you are there during business hours, stop in and see it! The clerks inside, behind the counters are also friendly and knowledgeable. It doesn’t hurt to let them know that the Tour of Honor appreciates their city’s memorial.<br><br>The city of Aitkin has replaced it with a beautiful marble memorial to which the eagle has been “carved” into the center piece. One really has to admire how “small town America” has created beautiful, simple, memorials.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/6081rj6ojtbmqfliq7rrqanrm8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqo4Tjn_LH4mu0y-g6FKZE93SA50XjfjZ9aip-0Jds85pKizalzrG8m_DrADUfZlzFjVQyBJ6YMC-gX61HhgADiUxXo4vx16Rll24Zb6QOcHOUutucGAFUQZmuwvnFtYDqMBy_soaYlqn2nvKjQ0O3y9Dsj0jo8aVcG7y48S9xqnTXQeFL-vKDg-wMC3SN0CCH1_V3UU4R5A1-TBFMfc6jtglzJK6lOWiDZBAzEiKL1-4mDSVR1GKHhLMNbHeoi12V2vgESaBPbOrncsfD8wKvV1u-kHA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -93.7105,46.533162,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MN2 - Hutchinson</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/4q80e7ce22pcd1hh7cvsp62bfk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrVLDGy3BJvXI42etTyqlfP1BN3Bja6xDAgZB7gsOILQDY2C9AQyF3Ex6awfs_vJSG3G3UPFj_ylsfdvfnJ0NIZriGP0gQrjec6U5CWwKSvcwXLODUatZHadsAyyarK1AlcrOvUzs4sjB-H7r1-YKq-ipoc9XGGbZHmjTY5K4GoJbyM__oB_Eu9YibijA-DFjykADX2AYVESPAng-zgDn1JfLnrVhXYwf-BFpWiI8QIabv-gZ6dyVjdTHO5MHqhLZPCLLQhgUsYGQ8sWaIYMf2l3lagIA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Park<br>1st Ave NE<br>Hutchinson, Minnesota<br>GPS: 44.893867, -94.365582<br>Access: 24/7<br><br>This is a “two-fer.” Photograph the memorial and get credit for the memorial site. Then photograph the Huey at the same location with your bike and flag and get credit for that, too. A “Two-Fer”!<br><br>Here is a recent review of the site, “This park contains memorials commemorating each of the wars since WW1. In addition, there are two pieces of military equipment- a tank and a Huey helicopter that was used in Vietnam. It’s a humbling place to visit, as there are pavers listing the many service men and women who were in the military. Overall, it’s a good place to stop and walk around and honor the military heroes who provide us freedom.”<br><br>It is a beautiful site with great parking. Memorials are in place honoring veterans from all wars since WWI. Walk around and check it out!<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/4q80e7ce22pcd1hh7cvsp62bfk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrVLDGy3BJvXI42etTyqlfP1BN3Bja6xDAgZB7gsOILQDY2C9AQyF3Ex6awfs_vJSG3G3UPFj_ylsfdvfnJ0NIZriGP0gQrjec6U5CWwKSvcwXLODUatZHadsAyyarK1AlcrOvUzs4sjB-H7r1-YKq-ipoc9XGGbZHmjTY5K4GoJbyM__oB_Eu9YibijA-DFjykADX2AYVESPAng-zgDn1JfLnrVhXYwf-BFpWiI8QIabv-gZ6dyVjdTHO5MHqhLZPCLLQhgUsYGQ8sWaIYMf2l3lagIA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -94.3692926,44.8925483,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MN3 - Kasson
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/he40sueq7k9vqrmnjkmbc1o86o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqZrtB6JWrJyA0lfW35SHskLvcwEJW3CaZMGkFaJnejfKUkmgBt5eNgChSHWL8Msvx-jYknBWLWzTINvPboDKuETSf2F3SqTya6o9Gwfix5yl2jrLXM76G4jDc0Lo5_DJwBvrA4S7Kx5FZLvIPcMLlSu00CV8HKlqagsJu05P8xl362hZuaoyUSF8VoLYUBWE1C4wZo-ZcttBreT49kEO7gVwlZPS7S5-GS84apwbnMyrsETRSYY4ayaw-q6vBiEDPwIvtkhTGAxJ2V7mddXgnei74JNA?session=0&fife" height="200" width="auto" /><br><br>Freedom Rock©<br>212 W Main St.<br>Kasson, Minnesota<br>GPS: 44.029375, -92.751791<br>Access 24/7<br><br>The Freedom Rock by Ray “Bubba” Sorenson II is the first Freedom Rock in the state of Minnesota. If you get the chance, go into the Legion and pick up the brochure which tells the complete story of all of the scenes painted on the rock.<br><br>The front side of this rock depicts the Wasioja Recruiting Station that recruited 200 men into the Army for the Civil War. Not far from Kasson, Minnesota in the community of Wasioja, Minnesota is the actual Wasioja Recruiting Station. Take the extra 15-minute ride and see this historical site.<br><br>Minnesota is also “famous” for SPAM Luncheon Meats. That too is depicted on the Freedom Rock. During WWII, 100 MILLION POUNDS of meat was sent to those troops. If interested, travel to Austin, Minnesota (Just south of Kasson) and visit the SPAM museum! It’s a fun place to see!<br><br>The south side of the rock depicts the story of children who were rescued (airlifted) and flown from Korea during that war. <br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/he40sueq7k9vqrmnjkmbc1o86o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqZrtB6JWrJyA0lfW35SHskLvcwEJW3CaZMGkFaJnejfKUkmgBt5eNgChSHWL8Msvx-jYknBWLWzTINvPboDKuETSf2F3SqTya6o9Gwfix5yl2jrLXM76G4jDc0Lo5_DJwBvrA4S7Kx5FZLvIPcMLlSu00CV8HKlqagsJu05P8xl362hZuaoyUSF8VoLYUBWE1C4wZo-ZcttBreT49kEO7gVwlZPS7S5-GS84apwbnMyrsETRSYY4ayaw-q6vBiEDPwIvtkhTGAxJ2V7mddXgnei74JNA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -92.751791,44.029375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MN4 - Marshall
+</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gd0gbs2gh19dqggsitedm5og3c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq9PxZ1L1zi5r1GIrhTrePybQx3pSRmZ1SzsAbJ9-dbF_zDTe3xFt7etX6iuPzsoqCYF5IqZrVK9YOX2Ntw94uWLXNvaE4cG0PM03_BvG6Qon4PrU1IPN6xP-otu_h_txsw2mNmrn1KonJGCSPMVJL7HNsSuZT_sygAryBUGMZ5alrEeJS7u2EDcanLMtE7wzEQyTr3nmKLh7_vcFLhHxkaDIyx0ccNLmlQbd9yTpc3QmL-2DsRCsUsl7uHcZKhk3hrUD0M3hA3qlMDHbHVKJaubqVihw?session=0&fife" height="200" width="auto" /><br><br>9/11 Memorial Park<br>S 1st St. & W Marvin Schwan Memorial Dr.<br>Marshall, Minnesota<br>GPS: 44.445868, -95.788706<br>Access: 24/7. Two photos required for parking reasons.<br><br>9/11 Memorial Park commemorates one of the most significant events in our nation’s history. The Marshall Fire Department acquired a beam from the rubble of the World Trade Center in New York City and after years of planning, dedicated the beam in Marshall’s Memorial Park on 9/11/11. This inspiring memorial celebrates our nation’s capacity to survive and overcome adversity and at the same time symbolize the renewal and resolve of a nation which came together that fateful day. <br><br>This memorial is a “work-in-process” with more being added to this site. While there, walk into the center of the memorial where the 9-11 beam is. They did a beautiful job there, even adding a statue of a fire fighter. <br><br>The 9/11 Memorial is also a gathering place for Marshall’s revitalized downtown and honors the public safety personnel who sacrificed their lives in an effort to save others.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gd0gbs2gh19dqggsitedm5og3c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq9PxZ1L1zi5r1GIrhTrePybQx3pSRmZ1SzsAbJ9-dbF_zDTe3xFt7etX6iuPzsoqCYF5IqZrVK9YOX2Ntw94uWLXNvaE4cG0PM03_BvG6Qon4PrU1IPN6xP-otu_h_txsw2mNmrn1KonJGCSPMVJL7HNsSuZT_sygAryBUGMZ5alrEeJS7u2EDcanLMtE7wzEQyTr3nmKLh7_vcFLhHxkaDIyx0ccNLmlQbd9yTpc3QmL-2DsRCsUsl7uHcZKhk3hrUD0M3hA3qlMDHbHVKJaubqVihw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -95.7886765,44.4459628,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MN5 - St. Charles
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/fid44aql2r47g918jqekvdk5h4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp0MBltkxZcXpt5ZNMGbgooPRtj_H4_iFS1dDutx3x-fmS_vY5dE50e4L25yZbhEc6BMCagE8nnbe0S5PJMTEpSYhmitRW__3QIPDDNBOHT6A8mVCFlMU_rUp6Z0IHeLhWBBpnAqw6ir5jklPlX32i1y5cChrlUqtLkoOIu6-cn_Hia32s7Mt-JAPHaXzFu8q9l0-O9byqO4ISPJeGyCj2S9uYjhhCqgHkec990FYA-ASDzhswWb6UONQHIkxooKsqbXp6mMSrtplv0UTlwXfpVfqOJCw?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Park<br>1042 Whitewater Ave.<br>St. Charles, Minnesota<br>GPS: 43.967955, -92.065119<br>Access: 24/7<br><br>This new Veterans Memorial Park was just dedicated on Aug 25th, 2019.<br><br>Look for and send in a photograph of the Veterans stone belonging to TOH Rider #206 (Russell Marsolek). If you are the first one to submit this photo, you’ll be awarded with ten TOH poker chips!<br><br>Made in America: A couple of neat places to eat here as well. “Del’s Café” right next door, has been there “forever.” On Highway 14 is The Good Sport Bar and Grill. They have GREAT burgers, however the best are their home-made “chips,” better then French-fries or potato chips. Well worth the wait!<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/fid44aql2r47g918jqekvdk5h4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp0MBltkxZcXpt5ZNMGbgooPRtj_H4_iFS1dDutx3x-fmS_vY5dE50e4L25yZbhEc6BMCagE8nnbe0S5PJMTEpSYhmitRW__3QIPDDNBOHT6A8mVCFlMU_rUp6Z0IHeLhWBBpnAqw6ir5jklPlX32i1y5cChrlUqtLkoOIu6-cn_Hia32s7Mt-JAPHaXzFu8q9l0-O9byqO4ISPJeGyCj2S9uYjhhCqgHkec990FYA-ASDzhswWb6UONQHIkxooKsqbXp6mMSrtplv0UTlwXfpVfqOJCw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -92.065119,43.967955,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MN6 - Staples
+</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/f3f5v34ejdkquljammsb2kg4sc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoZA4vJ3picf_HQ3somnTH88LXVF6V_4IGTeCKe81Y0kFnmFx-zy-gR4aNTa0x5cqNv5TQar_5de-TWXgrSlbQbLrVCisElNsLZeSqx_hFnT_dTeM0Al3faRy9591UL2vboHWREsQqD96PYk5R7uXvLOVaXlCP-P4syezW29yAsDvXypCv16mzkPi-SGIRc2zOEKqqBLvDcfOwJdPKuU8aYWWRJfRRphBfKdXO_4iJ1GY7j_I2-1Z_Jvjfe7SgoxeO86mtjQhmwW3X8H-8aBtgJLLejYQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Park<br>820 US Hwy. 10<br>Staples, Minnesota<br>GPS: 46.35392, -94.78784<br>Access: 24/7<br><br>Raising the 80’ flagpole and flying the 20’x30’ flag was quite an undertaking, a collaborative effort starting with the Staples Rotary Club. The Rotary Club began a fundraising campaign in 2005 and continued into 2006. Soon after, the flagpole was purchased and put in storage. <br><br>Construction on the flagpole began on August 12th of 2009, just in time for the Annual Railroad Days Celebration. The big flag was displayed in the Railroad Days Parade and was taken to the Veterans Park and officially raised for the first time. Construction continued with the installation of the lights for the flag.<br><br>This photo was taken from the back side of the memorial which has better, and safer parking.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/f3f5v34ejdkquljammsb2kg4sc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoZA4vJ3picf_HQ3somnTH88LXVF6V_4IGTeCKe81Y0kFnmFx-zy-gR4aNTa0x5cqNv5TQar_5de-TWXgrSlbQbLrVCisElNsLZeSqx_hFnT_dTeM0Al3faRy9591UL2vboHWREsQqD96PYk5R7uXvLOVaXlCP-P4syezW29yAsDvXypCv16mzkPi-SGIRc2zOEKqqBLvDcfOwJdPKuU8aYWWRJfRRphBfKdXO_4iJ1GY7j_I2-1Z_Jvjfe7SgoxeO86mtjQhmwW3X8H-8aBtgJLLejYQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -94.78784,46.35392,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MN7 - Stillwater
+</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/rr45rhik7vc7fkebd74jafeg9c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoqGiXIeXbzVhB3o3E2Mqvv_JxZxDThVkLhi3DVy-MJA2RaTY9ihCCNxbGYCnTgeBkcYQHBjZ4DilS3gmMMvNKxtAQv5mkQn37B-4cbIjP0_03YFJdxEl9PNFzLTPP21ESxrTy_RfJfZ3cJAp_iZPBKCa7k7tEGRSRx9aWZFSCBvzfLvtTWGQI1NO0whOnHxFD67gdr-6ygCyuGB3UOOtPTcf7BNt-3MumppYFXo9cT9MtUmaFQrFRx4ziJ6e4WKgPMkZ4G77OFMfIBldYrXUV31bPIag?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>138 Pine St. W<br>Stillwater, Minnesota<br>GPS: 45.052553, -92.807856<br>Access: 24/7<br><br>This beautiful site honors former students of Stillwater Area Schools who were killed in service in time of war, and all other veterans who have honorably served and sacrificed for our country. <br><br>Made in America: Stillwater, Minnesota is known as the birthplace of Minnesota. Located right on the St. Croix river it is incredibly beautiful! If you get the chance, go down to the Main St. part of this town and walk around. Great little unique shops with many wonderful places to eat, for any appetite or budget!<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/rr45rhik7vc7fkebd74jafeg9c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoqGiXIeXbzVhB3o3E2Mqvv_JxZxDThVkLhi3DVy-MJA2RaTY9ihCCNxbGYCnTgeBkcYQHBjZ4DilS3gmMMvNKxtAQv5mkQn37B-4cbIjP0_03YFJdxEl9PNFzLTPP21ESxrTy_RfJfZ3cJAp_iZPBKCa7k7tEGRSRx9aWZFSCBvzfLvtTWGQI1NO0whOnHxFD67gdr-6ygCyuGB3UOOtPTcf7BNt-3MumppYFXo9cT9MtUmaFQrFRx4ziJ6e4WKgPMkZ4G77OFMfIBldYrXUV31bPIag?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -92.807856,45.052553,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

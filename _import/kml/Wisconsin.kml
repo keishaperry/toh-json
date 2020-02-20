@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Wisconsin sponsored by Calvin Lunsford</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>WI1 - Arcadia
+</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/51b31tnpqhhmofva7ibkmrnffo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoa_4ZW-fZwWkFr53ImyYDMOOMK4XTDmekOp2IEnHL6f0eBEFpOI8_gxLymDJ0sRwgzlXfB1__Vh3h0T2FeeHA5Qk1P4LzeFmfKypGiI8g_A4doiSpC8NgyyafaEqaxM9utdPAEerStTFs8XvwHVDeZ6vtHUDUeV0boEzrf96TTQZ6hGdFDFjNvx6td5OKkVzHkE2cVqtMK6TL5spfFZzPj81outzafHA2zTNJ9XqyNXkyoo-vyIcAmEJKP_mkEC2vWopI07Z0NwXoV9K_80wcH57A-hg?session=0&fife" height="200" width="auto" /><br><br>F-16A Fighting Falcon<br>Soldiers Memorial Walk \n 551 Memorial Dr.<br>Arcadia, Wisconsin<br>Nearest access to the F-16 is at Reit & Orion Lns., near the Generals Overlook.<br>GPS: 44.241205, -91.493448<br>Access: 24/7<br><br>This F-16, standing in memory of Wisconsin airmen, is the only F-16 on display in Wisconsin. You should plan on spending some time here because the site is full of amazing memorials representing many, if not all, of the conflicts our Nation has been involved in.<br><br>Made in America: This amazing park is the work of Ashley Furniture CEO Ron Wanek. The 54 acre park is the largest memorial park in the U.S., outside of Washington, D.C. Be sure to stop and rub the nose of Oswald the Pig for good luck! Find out more at https://bit.ly/2UlPMxL<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/51b31tnpqhhmofva7ibkmrnffo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoa_4ZW-fZwWkFr53ImyYDMOOMK4XTDmekOp2IEnHL6f0eBEFpOI8_gxLymDJ0sRwgzlXfB1__Vh3h0T2FeeHA5Qk1P4LzeFmfKypGiI8g_A4doiSpC8NgyyafaEqaxM9utdPAEerStTFs8XvwHVDeZ6vtHUDUeV0boEzrf96TTQZ6hGdFDFjNvx6td5OKkVzHkE2cVqtMK6TL5spfFZzPj81outzafHA2zTNJ9XqyNXkyoo-vyIcAmEJKP_mkEC2vWopI07Z0NwXoV9K_80wcH57A-hg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -91.493448,44.241205,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WI2 - Green Bay</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/8r8cua5bqc1egj1kqc8vpeatbc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrTpnRV7SJivf2_9R7zWDhY9Fb4gjkVCMVq94IiDlm-08-QUJvMfJRcFdCxvvO_5KYpItcScqm6YPgLT5QcIRLL2onJ0kCiQkewexh6BVZGIBkGphFOSxi8l5aOQI3aHZasLPokFB_7l_hPL0iJHkW1DBpNh6s84BFa8fNXfAurSUM02-PH3eYjA8gafLwM5GdLHGpbqeojgOwPcGzZIrH7HIXwMUow7bQKY-ZOS8bHDFQ4s0O_73V45NnM_KHOIrm9m1nmKP-erw7_lQL8TZGjdzMt6Q?session=0&fife" height="200" width="auto" /><br><br>9/11 Memorial<br>210 Museum Pl.<br>Green Bay, Wisconsin<br>GPS: 44.518290, -88.017376<br>Access: 24/7<br><br>Two blindingly bright 30-ft tall stainless steel towers, perhaps exaggerated in narrowness, stand along the Fox River, next to the Nitschke Bridge at the Neville Public Museum. The prime spot had been taken up by the popular Green Bay Packer Receiver statue until the WTC 9/11 Memorial arrived (then the Receiver was sent packing up the road...).<br><br>The WTC 9/11 Memorial was dedicated on June 1, 2005. Names of victims are engraved on the granite base and a 34 inch chunk of an actual WTC girder is mounted on the front. The main inscription reads: “In Loving Memory to the Known and the Unknown, the Found and the Unfound.”<br><br>Literal WTC tower replicas as 9/11 memorials are somewhat rare (most towns opting for somber, artistic abstractions). At the time this went up, there were plans to build 50 more of these memorials, one for every state in the nation plus Washington, DC. But those plans fizzled and this is the only example. And maybe that’s not such a bad thing. It was rejected by the City of Madison before coming here.<br><br>Even though it’s a prototype, it remains a somber memorial to not only the victims, but the heroes that sacrificed their lives that day in 2001.<br><br>Made in America: Across the street is the infamous Lambeau Field.<br><br>Just a few blocks east of here is the popular Joe’s Texas BBQ. What?? Don’t knock it, it’s pretty darn good! http://joestexasbbq.com<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/8r8cua5bqc1egj1kqc8vpeatbc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrTpnRV7SJivf2_9R7zWDhY9Fb4gjkVCMVq94IiDlm-08-QUJvMfJRcFdCxvvO_5KYpItcScqm6YPgLT5QcIRLL2onJ0kCiQkewexh6BVZGIBkGphFOSxi8l5aOQI3aHZasLPokFB_7l_hPL0iJHkW1DBpNh6s84BFa8fNXfAurSUM02-PH3eYjA8gafLwM5GdLHGpbqeojgOwPcGzZIrH7HIXwMUow7bQKY-ZOS8bHDFQ4s0O_73V45NnM_KHOIrm9m1nmKP-erw7_lQL8TZGjdzMt6Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -88.017376,44.51829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WI3 - Menomonie</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/h2m6ob2u4nefqhe30oc89cv3ds/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo3Zz3RxQ67L0QWe6g6NLD_YsboUG1tqZsuRA9fIxMSOyxhAauatjPnLbI4_H6JQmZZ7es6II1VSnXNItw6optTjJGp2cDcATTbZtrVpV947zmiGbkRE0IKMmVPG-GlMraEs3h7tX-oQpFQv1LTkxwRmjrIriRPWOycq8B3-oCDvXBMDrI2jBzkwEDH7HWrCSJYxnZwrqCkWFghwOqVDPOMUq4ZLFQNMRK8tTcaItCw3wv-3Y9ALNe2raihG2ckJkwp-C4PT2fveGlAdwUhpLNsDuuCQg?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>521 2nd St E<br>Menomonie, Wisconsin<br>GPS: 44.877582, -91.928359<br>Access: 24/7<br><br>A wonderful all-wars memorial near historic 2nd St.<br><br>Made in America: If in town on a Friday, the state sponsor highly recommends walking across Crescent St. to the Waterfront Bar & and Grill for their fish fry…excellent food and patio dining on Lake Menomin!<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/h2m6ob2u4nefqhe30oc89cv3ds/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo3Zz3RxQ67L0QWe6g6NLD_YsboUG1tqZsuRA9fIxMSOyxhAauatjPnLbI4_H6JQmZZ7es6II1VSnXNItw6optTjJGp2cDcATTbZtrVpV947zmiGbkRE0IKMmVPG-GlMraEs3h7tX-oQpFQv1LTkxwRmjrIriRPWOycq8B3-oCDvXBMDrI2jBzkwEDH7HWrCSJYxnZwrqCkWFghwOqVDPOMUq4ZLFQNMRK8tTcaItCw3wv-3Y9ALNe2raihG2ckJkwp-C4PT2fveGlAdwUhpLNsDuuCQg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -91.928359,44.877582,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WI4 - Monroe
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0o7jj6hlhms4d1aiohfkr4bugo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqN5zQKFhZz4CtmD5Botx-3v2XIaGzXAZ2AV1e54KBqCdy492d-WWKMvL91cEjdzO9gUqEIFKdeclmDBAlPT8qaOnZmYP_KxPyvHmPDhDe00g8W6JlLqBU8cSKS7Lz_YqERxrd7PB6NZDF5rfZ2dW-IDMstKc7ujvZqunaf6yAJPJj4I42NitFInG4DjxzxXI1dLPGYoaCfseoq6QDf0gJo2aXD4AmYnb8_Yv9z3CJ-MOCnRVsGTUiC1H4kYk7Wt7EnkbFK-rx3p0LhAit9Xs4njmtbnw?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Park<br>County Hwy N, just north of WI-81<br>Monroe, Wisconsin<br>GPS: 42.622087, -89.660407<br>Access: 24/7 but not lit after dark<br><br>Dedicated to Green County Area Veterans, this memorial has these items of remembrance.<br>1) Stone plaque at the entrance of the memorial engraved with an American Flag, emblems for the Army, Air Force, Marines, Navy and Coast Guard with the message “Dedicated to Green County Area Veterans”<br>2) A M60 Tank originally obtained by Monroe VFW Post # 2312 in 1999.<br>3) A UH-1C “Huey” helicopter # 513 that served in the Vietnam War<br>4) The Hall Of Honor – dedicated to four Generals that were natives of Green County<br><br>Made in America: If you’re hungry, visit Baumgartner’s Cheese Store and Tavern on the town square in Monroe. Great sandwiches and local brews, state sponsor Calvin Lunsford’s favorite is the roast beef on marble rye with a local cheese and a cold Spotted Cow by New Glarus Brewing. Since 1931. https://www.baumgartnercheese.com<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0o7jj6hlhms4d1aiohfkr4bugo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqN5zQKFhZz4CtmD5Botx-3v2XIaGzXAZ2AV1e54KBqCdy492d-WWKMvL91cEjdzO9gUqEIFKdeclmDBAlPT8qaOnZmYP_KxPyvHmPDhDe00g8W6JlLqBU8cSKS7Lz_YqERxrd7PB6NZDF5rfZ2dW-IDMstKc7ujvZqunaf6yAJPJj4I42NitFInG4DjxzxXI1dLPGYoaCfseoq6QDf0gJo2aXD4AmYnb8_Yv9z3CJ-MOCnRVsGTUiC1H4kYk7Wt7EnkbFK-rx3p0LhAit9Xs4njmtbnw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.660407,42.622087,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WI5 - Prairie du Sac</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/o3b2tmb9hqi7jamm9tjp48vnno/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrS_8pGiEdw4mO3Q2S-iSv4LFMa6iuRS8W2krKZYZe-UucqqGs9bNys_0fFPpP24c0wKqVC5l7UBaVBPQxyTglpbj8NS_KdTl7WbTzYWdqXo1nWvamXga-YgneiXGngA2g-q8ECYbWB-UJ4VjAhaMVpzrj85FITZXTwxDvHfE1xs2kcZQwlOCwluqKvZfjTS0EPbu2gC9Dt2ovUygkK_UyYB_3vou4Ss2ic6-0RyFoZ6DGgM2DBUVR6I2q53J_lVM_tdzowzPT8A8gUb3XCXo2heYF60w?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Across from S9417 US-12<br>Prairie du Sac, Wisconsin<br>GPS: 43.301659, -89.758459<br>Access: Dawn to dusk<br><br>This memorial honors all Wisconsin Veterans and is comprised of three former US Military assets.<br>• Air Force T-33 fighter jet<br>• Army Bell UH-1a ”Huey” helicopter<br>• Army Model 60 tank<br><br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/o3b2tmb9hqi7jamm9tjp48vnno/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrS_8pGiEdw4mO3Q2S-iSv4LFMa6iuRS8W2krKZYZe-UucqqGs9bNys_0fFPpP24c0wKqVC5l7UBaVBPQxyTglpbj8NS_KdTl7WbTzYWdqXo1nWvamXga-YgneiXGngA2g-q8ECYbWB-UJ4VjAhaMVpzrj85FITZXTwxDvHfE1xs2kcZQwlOCwluqKvZfjTS0EPbu2gC9Dt2ovUygkK_UyYB_3vou4Ss2ic6-0RyFoZ6DGgM2DBUVR6I2q53J_lVM_tdzowzPT8A8gUb3XCXo2heYF60w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.758459,43.301659,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WI6 - Spooner</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/62t02qugoj8nharcc10hvu6f9k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqhygTh7Oj76nQQg5myyDR-emrFOzhzgq17v98E5NyPoNVHJdihFNoYqEACZVDVpn7oN3sEG8pxnuJvkeyKC00IQNtQpR7y1jXMU9rkjtUUHgnu3ao_Pn3AQx9xcoxsCiX9akei5OG5ogOJ_JhjqRmgfu2QyVNoKXibz8qYCeNxuKFlE7lXauj-K7N2FNT_hoxAeUnjmAbTh13hzOKxB2ffyFGF5OMNKPexv23aUVti1FovERsCfco8dAlLRFzz0I76SEH_wy6X-OMGDsq0jxmNIYFtAg?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Hatchery St. & Hwy 63<br>Spooner, Wisconsin<br>GPS: 45.818060, -91.895512<br>Access: 24/7<br><br>The Spooner Veterans Memorial has the names of more than 3,700 local area veterans inscribed on the stones. Names will be added as they become available, and are engraved at no cost to the veteran’s family. In addition to the memorial stones, the floor of the memorial is laid with 900 granite paver stones set between 6,000 decorative stones.<br><br>The memorial also features a bell tower with a four-foot eagle on top. Eight flags fly above the memorial, including the American, Wisconsin, and POW-MIA flags, as well as flags for each branch of the U.S. armed forces.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/62t02qugoj8nharcc10hvu6f9k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqhygTh7Oj76nQQg5myyDR-emrFOzhzgq17v98E5NyPoNVHJdihFNoYqEACZVDVpn7oN3sEG8pxnuJvkeyKC00IQNtQpR7y1jXMU9rkjtUUHgnu3ao_Pn3AQx9xcoxsCiX9akei5OG5ogOJ_JhjqRmgfu2QyVNoKXibz8qYCeNxuKFlE7lXauj-K7N2FNT_hoxAeUnjmAbTh13hzOKxB2ffyFGF5OMNKPexv23aUVti1FovERsCfco8dAlLRFzz0I76SEH_wy6X-OMGDsq0jxmNIYFtAg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -91.895512,45.81806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WI7 - Wisconsin Rapids</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/fdg5ckos3je7v0hebuvc1amtog/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrPK1SO-DBpNsEUOdbLQqbuCE6ecOHgloYyoQmRgcGsekzoSChWmcLTU6J-khd4OvTcks5x0i_z9MHimyqVuWAi78ZWIr47h7DAp6hJQ7m7mtBB0Q0-_zHyIDe_pnn28p40flxNCJbALabjudQyzb6PG8WMiMy_jpm8iALenpe0JSrzv7Z_wjNytFsPC4gIIOFzR79KNRav18adGhcjCnahJCwMtcygNM9J-6BOEp6o7LUornXQFrCmfaup0Ig4UPl8LEk1HjEtGB2Emyv8zKqzNtph6Q?session=0&fife" height="200" width="auto" /><br><br>Firefighters Memorial Park<br>2031 2nd Ave. S<br>Wisconsin Rapids, Wisconsin<br>GPS: 44.374696, -89.848409<br>Access: 24/7. A 50 yard wheelchair-accessible path leads to the memorial. Illuminated at night.<br><br>Every year, approximately 100 firefighters die in the line of duty in the United States. The Wisconsin State Firefighters Memorial Board of Directors has chosen to provide a unique and lasting way to pay tribute to firefighters from the State of Wisconsin who have made this ultimate sacrifice while in service to their communities. This tribute has taken the form of a Memorial Park dedicated to preserving their memory.<br><br>The vision of the WSFM was to create a park with a natural and scenic setting to house a memorial to our firefighting heroes from across this great State of Wisconsin. The serenity of the setting allows visitors to be alone with their thoughts and emotions, and at the same time realize that their loved one will never be forgotten.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/fdg5ckos3je7v0hebuvc1amtog/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrPK1SO-DBpNsEUOdbLQqbuCE6ecOHgloYyoQmRgcGsekzoSChWmcLTU6J-khd4OvTcks5x0i_z9MHimyqVuWAi78ZWIr47h7DAp6hJQ7m7mtBB0Q0-_zHyIDe_pnn28p40flxNCJbALabjudQyzb6PG8WMiMy_jpm8iALenpe0JSrzv7Z_wjNytFsPC4gIIOFzR79KNRav18adGhcjCnahJCwMtcygNM9J-6BOEp6o7LUornXQFrCmfaup0Ig4UPl8LEk1HjEtGB2Emyv8zKqzNtph6Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.848409,44.374696,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

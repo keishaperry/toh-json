@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Georgia sponsored by Tour of Honor</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>GA1 - Blue Ridge
+</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ijdgna4ophas3l285u5d5iulms/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo794NJraxAZbH1kMRg-p9Jy7udPx3bA5mdmGQhRfyj7Euf86Q_MIXO42a_GJk1LFUVwfP3uUrihAtrX4JVs8sTHduidXJFcmKLlChTO0go1v8PYBpP1CWErl42N1eg3glFUmgxSbH9r5Bs-nkAimVUu9XcrI1PjCXoqs5ZQWughpS_VKEW9a1Net4ANcZxdGDPMnNnUMflHbCMYJnRSjsLr65pra6JGGEF_ZeYo4CWX3w84XjHsl-UHQNNqHlvgYdUnBHRDaxelhH_ILRx0EeUfIoNbw?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Park<br>4584 Old Hwy. 76<br>Blue Ridge, Georgia<br>GPS: 34.870721, -84.305137<br>Access: 24/7<br><br>This well-executed park has a UH-1 Helicopter bearing the insignia of the 1st Cavalry Division; several stone memorials bearing the names of those KIA from Fannin County; bronze sculptures and a number of historical quotes from notables ranging from Gen. Douglas MacArthur to William Shakespeare. <br><br>Made in America: For lunch or dinner, try Mike’s Trackside BBQ, 3950 E First St. a block or so from the Memorial.<br><br>Some of the best motorcycling roads in Georgia are nearby. For riders not familiar with the area, one suggestion is to follow Old Hwy 76 east towards Morganton, Georgia, and then take Hwy 60 to Dahlonega, by way of Sucches, Georgia (about 45 miles Morganton-Dahlonega). Hwy 60 is one of the best roads in North Georgia.<br><br>Another suggestion is ride east to Blairsville and then take Hwy 129 south. About 10 miles south of Blairsville take Hwy 180 southwesterly towards Sucches and then on to Dahlonega. Georgia Hwy 180 rivals the nationally-known motorcycle road, “The Dragon” in curves and technical riding. With neither the hype nor the sometimes frenzied “racers” plying “The Dragon,” Hwy 180 is in many ways a superior ride, according to some.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ijdgna4ophas3l285u5d5iulms/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo794NJraxAZbH1kMRg-p9Jy7udPx3bA5mdmGQhRfyj7Euf86Q_MIXO42a_GJk1LFUVwfP3uUrihAtrX4JVs8sTHduidXJFcmKLlChTO0go1v8PYBpP1CWErl42N1eg3glFUmgxSbH9r5Bs-nkAimVUu9XcrI1PjCXoqs5ZQWughpS_VKEW9a1Net4ANcZxdGDPMnNnUMflHbCMYJnRSjsLr65pra6JGGEF_ZeYo4CWX3w84XjHsl-UHQNNqHlvgYdUnBHRDaxelhH_ILRx0EeUfIoNbw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.305137,34.870721,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GA2 - Columbus 
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7p3dr9dpavj5mi60aasn7te2e0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoajSEdS4-HUAJ6nUneawj5M1uZvovYQg1pUqehmKLOZROWptOXJS0-wY5GjVttNIFLKvq5O_kNxSHHEYtk-5K07V538ZplIPSJ6YZ7Cjsd4ZTdUOHg7FcK3h0vj1pm9jC8-s3J70h7xvp0FUwzT7NWxkWsxw8eXvru3MdW6pJp_i1Gb2fyn0t8jwDLMpyifA3je8XZ20MO2fs-0ooau7VBf9hIiwBexlJr8CBmNS4y_yzVzCLpOrI5qM3r83RWxIoAfnHbG16WlBMMEtzlh1xQRHP_7w?session=0&fife" height="200" width="auto" /><br><br>Follow Me! Infantry Soldier<br>National Infantry Museum and Soldier Center \n 1775 Legacy Way<br>Columbus, Georgia<br>GPS: 32.389269, -84.955309<br>Access: 24/7<br><br>Fort Benning has been the home of Army Infantry since 1918. Starting with Basic Training, raw recruits are trained to be soldiers and then receive advanced infantry training here at Fort Benning. The Army’s Airborne School is here, as well as the Army’s Ranger School.<br><br>Located outside the entry gate to Ft. Benning, is the recently opened National Infantry Museum & Soldier Center. The museum opened in 2009 and includes informative historical displays, an IMAX Theater, and Combat Simulators which will give you a taste of the training soldiers receive at Fort Benning. There is plenty to see and do here, so try to spend at least a couple of hours visiting the museum. You’ll be glad you did!<br><br>Museum hours: 9AM-5PM Tuesday-Saturday, 11AM-5PM Sunday. Closed Mondays, Memorial Day and 4th of July. Free admission, though a $5 donation is suggested. The Infantry Soldier statue is located outside the museum, so you should be able to access it during off-hours.<br><br>Made in America: Next door, you’ll find Ranger Joe’s, a military and law enforcement supply store open to the public. It’s a favorite place to browse and shop for all things tactical. Not a surplus store, everything is first rate and up to date.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7p3dr9dpavj5mi60aasn7te2e0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoajSEdS4-HUAJ6nUneawj5M1uZvovYQg1pUqehmKLOZROWptOXJS0-wY5GjVttNIFLKvq5O_kNxSHHEYtk-5K07V538ZplIPSJ6YZ7Cjsd4ZTdUOHg7FcK3h0vj1pm9jC8-s3J70h7xvp0FUwzT7NWxkWsxw8eXvru3MdW6pJp_i1Gb2fyn0t8jwDLMpyifA3je8XZ20MO2fs-0ooau7VBf9hIiwBexlJr8CBmNS4y_yzVzCLpOrI5qM3r83RWxIoAfnHbG16WlBMMEtzlh1xQRHP_7w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.955309,32.389269,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GA3 - Kingsland
+</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/am13snr2te9gf956npcc1cojn8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq3hCxTgC7R3BuOp8DckRdbFUxqWopxz-_st6-TOS-0qp6zgDQ-A2vYtQDT9rBGDwuBwEID_0iZNeCknvtraIujKHRYUNzMni_luGOAmPw0V3r9cdjzHxou1Hb-RH7rZSSZ-APQAF3bidB6SiMaNZbMrNsfx2ZkL5b9GZQQRQvtRhOCNuo-z8G2NjHmIto2NdOzqH9OkmM-Zvw9cWHvmbtz6yHX_AmEspmjv620yyAF6D8-1Ray8ltgKXohyGq5--f_litwRbbJAL3UezvIacPyUP44Mw?session=0&fife" height="200" width="auto" /><br><br>Memorial Park<br>S. Orange Edwards Blvd. & W King St.<br>Kingsland, Georgia<br>GPS: 30.799682, -81.691439<br>Access: 24/7, illuminated at night<br><br>This beautiful park serves as a tribute to all who served in the military, and to those who lost their lives to protect our freedom. At the front of the park is an illuminated flag pole standing in a circular plaza around which are stone panels, one dedicated to each branch of the service and upon which are photos of scenes from the respective branch.<br><br>Behind the plaza is a brick pathway circling the tree-lined grassy area of the rest of the park. Along this pathway are individual statues dedicated to each branch of the service. There’s a soldier on patrol statue for the Army. A proud Marine, standing tall at attention, captures the essence of the Marines. A sailor in dungarees and peacoat represents the Navy. A determined-looking fighter pilot represents the Air Force. And a finally, a Coast Guardsmen standing ready to put to sea on a rescue mission.<br><br>Made in America: There are a number of restaurants to choose from within a few blocks. In the Memorial Park, there are several tree-shaded picnic tables, so consider grabbing a sandwich and taking a lunch break.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/am13snr2te9gf956npcc1cojn8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq3hCxTgC7R3BuOp8DckRdbFUxqWopxz-_st6-TOS-0qp6zgDQ-A2vYtQDT9rBGDwuBwEID_0iZNeCknvtraIujKHRYUNzMni_luGOAmPw0V3r9cdjzHxou1Hb-RH7rZSSZ-APQAF3bidB6SiMaNZbMrNsfx2ZkL5b9GZQQRQvtRhOCNuo-z8G2NjHmIto2NdOzqH9OkmM-Zvw9cWHvmbtz6yHX_AmEspmjv620yyAF6D8-1Ray8ltgKXohyGq5--f_litwRbbJAL3UezvIacPyUP44Mw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.691439,30.799682,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GA4 - McDonough
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jn5mug41ft1m3oko717gjejt5c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqW9GlD3gPB1OzYHSJZ7tRA_-w_nDrY6QPCKjF-XABD1pCkHwYIbK1n2m6fFy_qksXcry-RzKdoNA2IqesjLOo8eEPFYtqQus6CeXjd2sxgsFXF219BkLEt_pOxN1ATpqioOf4iUpjoiJA1xGN7CfOd41BWKJvL6pvOuMf41qgARhJL313bcRw0WTB9g6Zu1PHo3eaNB89_Z2_FLXHy9YGYIb-wpgKn3NZ1E3L1Y9AjhKVIRbrHM7uEKe6cMLLlga9DYDGhHvTOHuRivW1FPztj7c4XSw?session=0&fife" height="200" width="auto" /><br><br>Veterans Wall of Honor<br>101 Lake Dow Rd.<br>McDonough, Georgia <br>GPS: 33.442637, -84.119568<br>Access: 24/7<br><br>“The willingness of which our young people are likely to serve in any war, no matter how justified, shall be directly proportional as to how they perceive the veterans of earlier wars were treated and appreciated by their nation.” -- George Washington<br><br>The dramatic Veterans Wall of Honor sits on a 2.5 acre hilltop site in the historic Heritage Park. Standing before the Veterans Wall of Honor one is struck by the beauty of not only the wall and memorial, but also of the entire scene, especially when visited in the early morning or late afternoon hours when the sun is low and the light golden. The memorial contains the flags of all fifty states and flags of the five branches of the military. The wall from left to right contains etched scenes of major wars and battles beginning with the Revolutionary War all the way to the Iraq and Afghanistan. Each section of the wall contains a quote such as the one above, along with the etched scenes.<br><br>Opposite the Veterans Wall is the POW/MIA tribute. “A more intimate and quiet setting, the POW/MIA tribute allows for reflection and remembrance. [The POW/MIA tribute] stands where it does to commemorate those who were captured and have returned, and to symbolize those who have been lost in action serving our military, yet who remain in the memories of their families and comrades”. <br><br>Made in America: Located in the same park as the Veterans Wall of Honor is the Historical Military Museum located in the red barn at the Heritage Village. http://bit.ly/2QUmBzH<br><br>Routing suggestion: If you’re riding between the McDonough and Watkinsville TOH sites, plug in Monticello and Madison, Georgia as waypoints. This routing will avoid some of the worst traffic in the Atlanta Metro Area and provides a pleasant ride through farmlands and the Chattahoochee National Forest. From Monticello to Madison, Highway 83 is the road to take. Highway 83 offers another pleasant ride featuring light traffic, farms, ranches and orchards.<br><br>In Madison, there are several cafes and restaurants to choose from. On main street in Madison, the Perk Avenue Cafe serves breakfast and lunch. https://perkave.com <br><br>Another place for lunch or dinner is right across the street, the Chop House Restaurant. http://bit.ly/3adM2UI<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jn5mug41ft1m3oko717gjejt5c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqW9GlD3gPB1OzYHSJZ7tRA_-w_nDrY6QPCKjF-XABD1pCkHwYIbK1n2m6fFy_qksXcry-RzKdoNA2IqesjLOo8eEPFYtqQus6CeXjd2sxgsFXF219BkLEt_pOxN1ATpqioOf4iUpjoiJA1xGN7CfOd41BWKJvL6pvOuMf41qgARhJL313bcRw0WTB9g6Zu1PHo3eaNB89_Z2_FLXHy9YGYIb-wpgKn3NZ1E3L1Y9AjhKVIRbrHM7uEKe6cMLLlga9DYDGhHvTOHuRivW1FPztj7c4XSw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.119568,33.442637,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GA5 - Pooler
+</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jcahg9loccv2qte6q1a0ro5h3k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqKFhPRlooTZ43247m5VEDqoOGtk5dfyo5H3rmNhB0u2q4VV9nHDfGsb5iMtNezQChFXASfOcXch0hWnc_-N6lNkvgm-rRfdFHcLic_Hivfm0IMLeXP0MaoefDZyjSM-FD3VZ6eN9W91stAvuClCkV1HSCrnz1coHyxCDGyEjyE1xSYC1maoUlIjDk4-e0ouHEUhiM_1DcKRQhkQ24pETuLS27qdtLpyAzo1MiGp6tpI2gX3lRbycjaiGEvPDRLkIWc0NzB6KSPwbi60mBPGLnfCIRHRA?session=0&fife" height="200" width="auto" /><br><br>The Mighty Eighth! Air Force Museum<br>175 Bourne Ave.<br>Pooler, Georgia<br>GPS: 32.11605,-81.23520<br>Access: 9AM-5PM Daily<br><br>This museum is dedicated to the role of the Eighth Air Force during WWII. The “Mighty Eighth” was organized in Savannah in 1942 and later deployed to England where it’s B-17s and B-24s participated in the strategic bombardment of Nazi Germany. Escorting the bombers into Germany were squadrons of Eighth Air Force P-51, P-38 and P-47 fighter aircraft.<br><br>The “Mighty Eighth” became part of the newly-formed U.S. Air Force in 1947 when the Air Force separated from the Army to become it’s own independent branch of the military. Still in existence, the Eighth Air Force has served in Iraq and Afghanistan.<br><br>Inside the Mighty Eighth Air Force Museum you will find exhibits on the rise of Nazi Germany, what it was like to fly a B-17 and B-24, POW experiences, and numerous personal items donated to the museum. There is also a B-17 Flying Fortress, the “City of Savannah.” This is an excellent museum and well worth planning a couple of hours to visit. You’ll be glad you did!<br><br>Museum hours: Seven days a week 0900-1700, but the F-4 above, next to the parking area, should be accessible during non-business hours.<br><br>McDonnell Aircraft designed and built the F-4 Phantom in the early 60’s. It became one of the most successful fighters ever built and was flown by the United States Air Force, Navy and Marine Corps as well as many foreign countries. In Vietnam, the F-4 fulfilled both fighter and fighter-bomber roles, scoring 277 aerial combat victories. The aircraft weighed 38,352 pounds with a max bomb load of 16,000 pounds. At 40,000 feet the F-4 was capable of flying at over 1,400 mph.<br><br>Made in America: Savannah is one of the most picturesque cities in the South. In and around the waterfront there are so many hotels/motels/restaurants to choose from that you can surely find one to your liking. Suffice to say, whatever your lodging and restaurant preference, you’ll find it here along the Savannah waterfront, from fast food to fine dining, making it a good overnight choice.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jcahg9loccv2qte6q1a0ro5h3k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqKFhPRlooTZ43247m5VEDqoOGtk5dfyo5H3rmNhB0u2q4VV9nHDfGsb5iMtNezQChFXASfOcXch0hWnc_-N6lNkvgm-rRfdFHcLic_Hivfm0IMLeXP0MaoefDZyjSM-FD3VZ6eN9W91stAvuClCkV1HSCrnz1coHyxCDGyEjyE1xSYC1maoUlIjDk4-e0ouHEUhiM_1DcKRQhkQ24pETuLS27qdtLpyAzo1MiGp6tpI2gX3lRbycjaiGEvPDRLkIWc0NzB6KSPwbi60mBPGLnfCIRHRA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.2352,32.11605,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GA6 - St. Simons
+</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0cfar7bs9cl59egln6ef26k80s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqqKggK0bW7LfJKAXehzHRO8Njk47qdRfI8IlQlH51y-FHCU_3wIq0C559IaRv3rlYGBxRnbA61wTRF37NT-MgoJZbzhNAL4jV-MmYI1nteYg9OSOdPDfIpohmNKftYlDFb2vQ6XpeF8jV5ZNhM-TueODPbOd_P8lnsJASpdm9clewZGOlwLRkxIgCYoikz8_nZkZx8W--oNJz36AMnKWPY6JrLt7lBK7ta9PSLAAqSq6F5IpHLj6WJsCQ2mNhRBzF9hylDHd9maGpG3vFh0jEzff9bjw?session=0&fife" height="200" width="auto" /><br><br>Georgia Lightkeepers<br>101 12th St.<br>St. Simons, Georgia<br>GPS: 31.134045, -81.393443<br>Access: 24/7<br><br>The St. Simons Lighthouse and adjoining museum pay a fitting tribute to the light keepers who faithfully guided mariners for nearly 150 years on St. Simons Island. <br><br>For 143 years, beginning in 1810 when the first light house was built on the southern tip of St. Simons Island, light keepers kept watch and the light burning to guide shipping into the St. Simons Sound. During the Civil War, with US Naval forces blockading the southern coast, the Confederate government destroyed the original lighthouse in 1862 to prevent it from falling into Union hands during a Union raid. The current lighthouse and keepers cottage were built after the Civil War in 1872. According to some, the Lighthouse is reputed to be haunted by the ghost of light keeper Frederick Osborne, who was killed in a duel with assistant keeper John Stephens in early March 1880. <br><br>The St. Simons Lighthouse is still fully operational, though without the light house keeper, as the lighthouse was fully automated in 1953. The lighthouse is now part of a navigational range consisting of two range lights and the lighthouse. By keeping the lighthouse between the two range lights mariners know they are in the channel leading into the St. Simons Sound.<br><br>Made in America: Visit The Lighthouse Museum, located next to the lighthouse. Climb the steps to the top of the lighthouse for a terrific view of St. Simons. http://saintsimonslighthouse.org<br><br>BBQ lovers won’t go wrong with Southern Soul Barbeque, built in a former gas station and featured on the Diners, Drive-Ins and Dives.http://bit.ly/3862Omw<br><br>Ride suggestion: When traveling north and south between Savannah and St. Simons consider riding Georgia Coastal Highway 17. Highway 17 is a scenic and interesting alternative to Interstate 95. The northern portion of Highway 17 travels through small towns and farmlands while the southern portion travels through the salt marshes.<br><br>Darien, Georgia is a nice stopping point along Highway 17 for breakfast, lunch or dinner. Skipper’s Fish Camp, http://skippersfishcamp.com, overlooks the Darien River and is right around the corner. Try the crispy flounder.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0cfar7bs9cl59egln6ef26k80s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqqKggK0bW7LfJKAXehzHRO8Njk47qdRfI8IlQlH51y-FHCU_3wIq0C559IaRv3rlYGBxRnbA61wTRF37NT-MgoJZbzhNAL4jV-MmYI1nteYg9OSOdPDfIpohmNKftYlDFb2vQ6XpeF8jV5ZNhM-TueODPbOd_P8lnsJASpdm9clewZGOlwLRkxIgCYoikz8_nZkZx8W--oNJz36AMnKWPY6JrLt7lBK7ta9PSLAAqSq6F5IpHLj6WJsCQ2mNhRBzF9hylDHd9maGpG3vFh0jEzff9bjw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.393443,31.134045,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GA7 - Tallapoosa
+</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lhc2jfhkbl6d588773vs473ko4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp9vIjRHiZk-egDCzO_7hVt9R5R5Y_lSXlmciPewPoIdk6XaPUrLQkiWpRvgnaspA_KqBEcn9Pc-rBmumGYyzG3tCRov8cAwo9WYke2CyyANHTKvHYwwO4amuzskCS62pcbNo0hsTjLaeGoH4vfV7LeFhXD_8DGzlexFtaAhVI1D-z7mCSvw0kSp8ATQtscT_L1qdXmLOLMFIMfaT3HovdgPTe9bjzjNGgZ-eYEp-P5sEvpwK8gmxmqWD7dINs8-AWiv9UXYGrqhtwx6d3tvhnbG2bqhg?session=0&fife" height="200" width="auto" /><br><br>“Wild Weasel” F-105s<br>Helton Howland Memorial Park \n 2853 US 78<br>Tallapoosa, Georgia	<br>GPS: 33.73782, -85.26485<br>Access: 7AM-7:30PM<br><br>The Republic F-105 Thunderchief was a supersonic fighter-bomber used by the United States Air Force. The Mach 2 capable F-105 conducted the majority of strike bombing missions during the early years of the Vietnam War; it was the only U.S. aircraft to have been removed from combat due to high loss rates. <br><br>Originally designed as a single-seat, nuclear-attack aircraft, a two-seat Wild Weasel version was later developed for the specialized Suppression of Enemy Air Defenses (SEAD) role against surface-to-air missile sites. The F-105 was nicknamed the “Thud” by its crews because of the sound the heavy plane made upon landing.<br><br>View the two F-105s from different angles, proudly displayed as if they are flying through the valley. Numerous authentic military vehicles and aircraft on display at this park. Apparently it’s a well-known location for rock hunting as well. So if you or your family paints rocks, hides them, trades them out or just like the revitalized past time, be sure to keep your eyes out for a hidden gem.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lhc2jfhkbl6d588773vs473ko4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp9vIjRHiZk-egDCzO_7hVt9R5R5Y_lSXlmciPewPoIdk6XaPUrLQkiWpRvgnaspA_KqBEcn9Pc-rBmumGYyzG3tCRov8cAwo9WYke2CyyANHTKvHYwwO4amuzskCS62pcbNo0hsTjLaeGoH4vfV7LeFhXD_8DGzlexFtaAhVI1D-z7mCSvw0kSp8ATQtscT_L1qdXmLOLMFIMfaT3HovdgPTe9bjzjNGgZ-eYEp-P5sEvpwK8gmxmqWD7dINs8-AWiv9UXYGrqhtwx6d3tvhnbG2bqhg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -85.26485,33.73782,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

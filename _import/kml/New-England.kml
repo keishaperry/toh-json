@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>New England region, six states sponsored by Jim Hatch</name>
+    <Style id="icon-1502-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-62AF44-normal">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-62AF44-highlight">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-62AF44">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-62AF44-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-62AF44-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-757575-normal">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-757575-highlight">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-757575">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-757575-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-757575-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-F4B400-normal">
+      <IconStyle>
+        <color>ff00b4f4</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-F4B400-highlight">
+      <IconStyle>
+        <color>ff00b4f4</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-F4B400">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-F4B400-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-F4B400-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-F4EB37-normal">
+      <IconStyle>
+        <color>ff37ebf4</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-F4EB37-highlight">
+      <IconStyle>
+        <color>ff37ebf4</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-F4EB37">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-F4EB37-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-F4EB37-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>CT1 - Groton, CT</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/4tssut8h2ghkg25f3pfv82aoa0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqcuNb3wg-osYk_EXeckQP103z-c4e7Wo5j9zAQY9CqgDRcAaJZVR78qIhNUmZlMENnbxql15uQW_LQjPG5WNmlFdn46a5KznvfEjS9zGBf-VAz3NJv3qqdX-nIIjiSJi6B9VBySjCIRS2ZjCV86r-1mIaiKqcmWfZhXUIoHVzeTWCDsTz1WRPSx-Q5h9K_wV7hHcJwf0Pd7eSOIG39HLvc0kppu69_lMSjs-RU3V6O2viZXBnwZeHdE-004HAqjxz6GTDSGS3ccQv6sRpOhzteYnbDbQ?session=0&fife" height="200" width="auto" /><br><br>WWII Submarine Memorial<br>Bridge & Thames Sts.<br>Groton, Connecticut<br>GPS: 41.362634, -72.08345<br>Access: 24/7<br><br>Near the entrance to the New London Submarine Base is the Submarine Memorial. A short drive south you’ll come across the periscope and conning tower of the USS Flasher, a WWII submarine. A sister to the WWII Submarine Memorial–West in Los Angeles, this memorial features 52 granite stones representing the submarines lost in WWII and a Wall of Honor inscribed with the names of the 3,617 submariners who gave their lives in the Silent Service during WWII.<br><br>The USS Flasher served in the Pacific Theater in WWII, engaged in 6 war patrols and sank 21 Japanese ships. Launched less than a year after her keel was laid, the Flasher went on to serve in active duty for 3 years during which she was credited with sinking over 100,000 tons of enemy ship, the largest tonnage of any submarine in the war.<br><br>Made in America: The Submarine Force Museum, located three miles north, on the Thames River in Groton, is the home of the USS Nautilus, the first nuclear powered vessel. The museum is the only one operated by the US Navy, tracing the development of the “Silent Service” from David Bushnell’s Turtle, used in the Revolutionary War, to the latest Ohio and Virginia class submarines. https://www.ussnautilus.org<br><br>Norm’s Diner is just down the road at 171 Bridge St., a classic 1954 Silk City recently renovated and under new management, open every day but Tues, 5AM-1PM. It remains a favorite stop for motorcyclists.<br><br>Or you can grab a bite to eat at the “birthplace of the hamburger,” Louis’ Lunch in New Haven, but don’t ask for ketchup as they only offer cheese, onions and tomato to dress your burger. https://louislunch.com<br><br>If seafood is more your thing, Jimmie’s in West Haven serves up the best fried clams you’ll find in a state that exports more clam than any other seafood. Since 1925. https://bit.ly/2OhpHfm<br><br>And if you can’t decide between any of the above, try a coal-fired meat and clam pizza at the home of what many call the world’s best pizza, Frank Pepe Pizzeria Napolentana. https://bit.ly/37WIWD3<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/4tssut8h2ghkg25f3pfv82aoa0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqcuNb3wg-osYk_EXeckQP103z-c4e7Wo5j9zAQY9CqgDRcAaJZVR78qIhNUmZlMENnbxql15uQW_LQjPG5WNmlFdn46a5KznvfEjS9zGBf-VAz3NJv3qqdX-nIIjiSJi6B9VBySjCIRS2ZjCV86r-1mIaiKqcmWfZhXUIoHVzeTWCDsTz1WRPSx-Q5h9K_wV7hHcJwf0Pd7eSOIG39HLvc0kppu69_lMSjs-RU3V6O2viZXBnwZeHdE-004HAqjxz6GTDSGS3ccQv6sRpOhzteYnbDbQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -72.08345,41.362634,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CT2 - Manchester, CT</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/iq3ciulvg6ng0eo60i4fq0e9hc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo3AaCQrZ5mcunfI30al93Usd2BGwUVS6A6DnHkHOpyakyw-0uB3egX6R_LNK822GAAnRGIrIVbzEVSh5ROGexPeaUlqsTRFafaHWOcxGc9Glpis7C2bNbnxF1HR3X3WvhUNiefyg9D201m0i3sPZbZsuKGEa3134MYc4pRUDbTpR-H2dBmfa7rFiC5e5KoJZ3_VvBLs30z_UMx2PEevkCMSMBlLqUQbn7fFBDeX2okMDOqhDEpJHzljyjzWtcbS_HbKdlWTJBo5kHsoacDW52aiX9YZA?session=0&fife" height="200" width="auto" /><br><br>Fallen Firefighters Memorial Garden<br>Manchester Fire Station #5 \n 331 Tolland Turnpike<br>Manchester, Connecticut<br>GPS: 41.810585, -72.521097<br>Access: 24/7. Don’t park in driveways for obvious reasons.<br><br>The memorial garden is dedicated to all who have answered the final alarm – regardless of where they served. Located in front of one of the town’s fire stations, the garden is a mix of memorials dedicated to the memory of fallen firefighters. Among these memorials is a pair of standing alarm boxes depicting the North and South World Trade Center Towers flanked by the names of all New York Firefighters lost in the 9-11 attacks.<br><br>A gate stands in memory of six firefighters from Worcester who lost their lives in a warehouse fire. An eternal hydrant flows nearby honoring four Manchester firefighters who have died on duty.<br><br>And theree’s a silhouette of Granite Mountain in memory of the 19-member Granite Mountain Hotshot Crew who died fighting the 2013 Yarnell Hill fire in Arizona.<br><br>Made in America: Cheeks Chicken & Waffles (648 Center St) is a small diner featuring batter fried chicken and waffles. <br><br>If a burger (beef, lamb, mushroom, salmon or good old patty melt) is more your style, the Artisanal Burger Company is the place to go, also featuring craft beer and bourbon if you’re staying over. https://bit.ly/2vFILO3<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/iq3ciulvg6ng0eo60i4fq0e9hc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo3AaCQrZ5mcunfI30al93Usd2BGwUVS6A6DnHkHOpyakyw-0uB3egX6R_LNK822GAAnRGIrIVbzEVSh5ROGexPeaUlqsTRFafaHWOcxGc9Glpis7C2bNbnxF1HR3X3WvhUNiefyg9D201m0i3sPZbZsuKGEa3134MYc4pRUDbTpR-H2dBmfa7rFiC5e5KoJZ3_VvBLs30z_UMx2PEevkCMSMBlLqUQbn7fFBDeX2okMDOqhDEpJHzljyjzWtcbS_HbKdlWTJBo5kHsoacDW52aiX9YZA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -72.521097,41.810585,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CT3 - Milford, CT</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jr0359eot4ccj42j05nktjn1to/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqzqI-EiSlQ1Y2GpaZTppi0jDgeY8jSFJGq-WdwZRC00JcrZcPfQeIlOaqPboi8DEHh98Emba5d9UlpGKyh-GSk-uPi-UWg7Wvo-5OxJexd_lUfD029z-N1rvsuT5VsrUyid-QwqJLGVOPDl0Z9l1dqIZrA1oTh4bJeIDVWpTTeR5aycJfxvqdhrZnUKG0_OqeBsVywPjzw8fquZATBVvGIVGy8oPo3nGoybTpzMsuA5p6UtsjpA2_tkb4-KonpNr1dZfn8jhwKq_yZuJqjl1XNspVNXg?session=0&fife" height="200" width="auto" /><br><br>Vietnam and Korean War Memorial<br>Milford Green \n Across from 135 Broad St.<br>Milford, Connecticut<br>GPS: 41.220624, -73.060258<br>Access: 24/7<br><br>WE MOURN THE FALLEN, WE GRIEVE THE MISSING, WE CELEBRATE THE RETURN OF OUR VALIANT MEN AND WOMEN.<br><br>Standing atop a common granite block are memorial statues of a soldier from the Vietnam War back to back with his counterpart from the Korean War. Together they stand as a memorial to the four Milford men killed in Korea, and the 11 who died in Vietnam.<br><br>Also on the Green are monuments to WWII veterans and a memorial to the deceased members of the town’s volunteer fire companies.<br><br>Made in America: If New England seafood is your deal, stop at 826 Bridgeport Ave where you’ll find the Lobster Hut truck parked most days – classic lobster and clam rolls are a tradition, and the ones from this truck are outstanding. <br><br>Or, if you’ve got a hot dog or burger craving, the popular Dogtown is a small (tiny really) restaurant/shack at 664 New Haven Ave. – good shakes and tater tots too!<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jr0359eot4ccj42j05nktjn1to/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqzqI-EiSlQ1Y2GpaZTppi0jDgeY8jSFJGq-WdwZRC00JcrZcPfQeIlOaqPboi8DEHh98Emba5d9UlpGKyh-GSk-uPi-UWg7Wvo-5OxJexd_lUfD029z-N1rvsuT5VsrUyid-QwqJLGVOPDl0Z9l1dqIZrA1oTh4bJeIDVWpTTeR5aycJfxvqdhrZnUKG0_OqeBsVywPjzw8fquZATBVvGIVGy8oPo3nGoybTpzMsuA5p6UtsjpA2_tkb4-KonpNr1dZfn8jhwKq_yZuJqjl1XNspVNXg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.060258,41.220624,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CT4 - New Britain, CT</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/oddkrjkt6qbvk5ik8qf07npf7o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrr4_5uZ5qFwR5c0AyfHtdL6lManLTY4xGfeUZxE5CIqwHdTu0ETezeHBdX-2zz3jejz89N669gFFWMkFpqxo85CzRnc18p9BHgROx5a4ZZxLiZkOc6Zmr4e5N44WqrViKV6qB1wIUJjOWopFpRElgDo52Krbldum8tH6eC_Mc9ENTj0RgPzrpX0UbFui37b4RK6TzsvxlNj0qslcIyFY_1q9p8tGFW-_Jk22UcoVkYAZMzzRI0q_NsSSToyPM_d6l866s2-CbwxQuBSVYdIKj9kGSuBA?session=0&fife" height="200" width="auto" /><br><br>Iwo Jima Memorial<br>Ella Grasso Blvd. (exit 29 off CT Rt 9)<br>New Britain, Connecticut<br>GPS: 41.69823, -72.75853<br>Access: 24/7<br><br>Similar to the United States Marine Corps War Memorial in Arlington, Virginia, Connecticut’s version is the official National Iwo Jima Memorial and although similar is not a copy. The statue was patterned after Joe Rosenthal’s iconic photograph of the Marine capture of Mount Suribachi on Iwo Jima in 1945.<br><br>Inscribed on the base surrounding the memorial are the names of 100 Connecticut men who gave their lives during the battle for the island.<br><br>Near the base are two granite monuments honoring military chaplains and the combat medical corps. The only major monument to the medical corps, this monument honors the 738 medical corpsmen and 23 doctors killed or wounded during the battle of Iwo Jima.<br><br>Made in America: For something a little different, take a short ride to the Avery Soda Company. Over 35 flavors and made with cane sugar. If you arrive on bottling day at this 100 year old soda factory, the oldest in New England, your tour can even include making your own three bottles of soda. http://averysoda.com<br><br>Lake Compounce is America’s oldest continuously operating amusement park, next to the continent’s tallest (38 story) elevator test tower skyscraper in Bristol. The park has two wooden coasters, one dating back to 1927, and another voted “World’s #1 Wooden Coaster” by amusement park associations and coaster enthusiasts. https://www.lakecompounce.com<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/oddkrjkt6qbvk5ik8qf07npf7o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrr4_5uZ5qFwR5c0AyfHtdL6lManLTY4xGfeUZxE5CIqwHdTu0ETezeHBdX-2zz3jejz89N669gFFWMkFpqxo85CzRnc18p9BHgROx5a4ZZxLiZkOc6Zmr4e5N44WqrViKV6qB1wIUJjOWopFpRElgDo52Krbldum8tH6eC_Mc9ENTj0RgPzrpX0UbFui37b4RK6TzsvxlNj0qslcIyFY_1q9p8tGFW-_Jk22UcoVkYAZMzzRI0q_NsSSToyPM_d6l866s2-CbwxQuBSVYdIKj9kGSuBA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -72.75853,41.69823,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MA1 - Attleboro, MA</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/s89e6smhbilvtgcnhnsdkvv634/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpNGitOA7XJir_Axo9MhJb-W-9T2dr5FF0qfuPBnSkSPnwctNIr_gqeCYGArBqiduxp6_56iaYuLTV-NFkA_5_Ss8ZRkIiZTQFOPaitavTL3zopDilieuaTxOsw-LJqyLD0Jq921P3ihT9OxXhkmbwtS9w52xaS8ARbJSAIDn3_7iUf6fB-i1Eg36Hd3Qf7LMDTUCgOd1UnuOHua9tsRRFlB-OCZa6G9UmKxzTSzwgBBAmHE5olfm-lcgqdAe8qA-uB_zI_d2_rFUj6FCJJCIFr7phuOA?session=0&fife" height="200" width="auto" /><br><br>POW*MIA 9/11 Memorial<br>Capron Park \n Across from 201 County St.<br>Attleboro, Massachusetts<br>GPS: 41.937453, -71.294679<br>Access: 24/7<br><br>Located just inside the park’s south entrance in an area called the Veteran’s Memorial Triangle where memorials to every major war from the Revolutionary War are found, is the POW*MIA & 9-11 Remembrance Memorial.<br>The large round granite slab is a replica of a 3,000 pound millwheel to remind us to never forget, to always remember the suffering & sacrifice.<br><br>Embedded in the earth in front of the stone is a section of steel from the World Trade Center. It is placed in a 9 foot 11 inch diameter circle. It’s 40.7 degree angle of rest is the same as the latitude of New York City. There are brass markers in the walkway showing the heading toward New York and Washington and stars for this memorial, Ground Zero and the Pentagon. Another set of markers represent Shanksville, Pennsylvania and Boston’s Logan Airport where the planes departed from.<br><br>Made in America: The impressive National Shrine of our Lady of La Salette (https://bit.ly/37Lnktb) or Attleboro Industrial Museum (https://bit.ly/2UduL8o) are worth a stop to stretch your legs. <br><br>Then you can grab a chili dog at renowned Tex Barry’s Coney Island Dog at 31 County St.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-62AF44</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/s89e6smhbilvtgcnhnsdkvv634/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpNGitOA7XJir_Axo9MhJb-W-9T2dr5FF0qfuPBnSkSPnwctNIr_gqeCYGArBqiduxp6_56iaYuLTV-NFkA_5_Ss8ZRkIiZTQFOPaitavTL3zopDilieuaTxOsw-LJqyLD0Jq921P3ihT9OxXhkmbwtS9w52xaS8ARbJSAIDn3_7iUf6fB-i1Eg36Hd3Qf7LMDTUCgOd1UnuOHua9tsRRFlB-OCZa6G9UmKxzTSzwgBBAmHE5olfm-lcgqdAe8qA-uB_zI_d2_rFUj6FCJJCIFr7phuOA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -71.294679,41.937453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MA2 - Barnstable, MA
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/24p7sa69uc94m4acasbo7naf08/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr-3gvfTb-0pRrLyP2gvVvF37BMQSl_CI3kqYw9eOvDpY7j394DSVnJRPTB4vFaNgDDhnBbOGU0wpCKTWOa4NPQAhr7PlXWtxv8VxcVzC7TSbm0mUrbrI9a9muYuvLokdpgvjLPLOPClcQueIs1rnEArv0JzxQORnw3Il7PgCFGQT3vtx-ftQNR9iRkEa46lmgJr6TsDoCjhmPMVk8pK-dkX1ax2f-IUKcSbZGZtr8VKiuzJm9UHY2UWKQSjdLIWIJBdgbuPTYTK3uc0rp0yMFF85LT3w?session=0&fife" height="200" width="auto" /><br><br>Vietnam War Memorial<br>Barnstable Town Green \n Main St. & Park Ave.<br>Barnstable, Massachusetts<br>GPS: 41.649774, -70.348622<br>Access: 24/7. There are two similar memorials here, be sure to get a photo of the right one.<br><br>Located in the Centerville section of Barnstable on Massachusetts’s historic Cape Cod, the town green is home to several veterans memorials including one of the oldest Civil War monuments in Massachusetts dating back to July 1866.<br><br>Also in the park are monuments to Centerville’s veterans of WWII, Korea and Vietnam. (WWI veterans are named on a plaque on the Civil War memorial.)<br><br>Inscribed on the Vietnam Memorial, reflecting a time when the country was divided over its involvement in the war is this:<br><br>“In memory of all Vietnam Veterans<br><br>“This memorial was erected in memory of the young individuals who went to war as kids and lost their youthful dreams, and some their lives, for a cause – freedom and honor – and came back as men with the horrors of war distilled in every fiber of their being and were never given the respect and honor they so dearly deserved from the public or United States government.”<br><br>Made in America: The Cape is the site of the National Seashore beaches, hundreds (thousands?) of shops and restaurants. At its northernmost tip is the Pilgrim Monument in Provincetown, the tallest all-granite structure in the United States, and a memorial to the Pilgrims who came to this country in search of freedom. The Cape is home to any number of eateries all along the Mid-Cape Highway (Rt 6) all the way up to Provincetown where the downtown area features food, fun, drinks, and -- of course -- real pulled taffy.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-62AF44</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/24p7sa69uc94m4acasbo7naf08/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr-3gvfTb-0pRrLyP2gvVvF37BMQSl_CI3kqYw9eOvDpY7j394DSVnJRPTB4vFaNgDDhnBbOGU0wpCKTWOa4NPQAhr7PlXWtxv8VxcVzC7TSbm0mUrbrI9a9muYuvLokdpgvjLPLOPClcQueIs1rnEArv0JzxQORnw3Il7PgCFGQT3vtx-ftQNR9iRkEa46lmgJr6TsDoCjhmPMVk8pK-dkX1ax2f-IUKcSbZGZtr8VKiuzJm9UHY2UWKQSjdLIWIJBdgbuPTYTK3uc0rp0yMFF85LT3w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -70.34871,41.6498,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MA3 - Gloucester, MA
+</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/8js5j3u7jqfb2ast9iq56s7qus/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrq12bxOkpPkPJQLdobMYB-qAVKZnHoUy6pfub_pZKKlqZco17y9To61RpPT6byWp26meOFHUBd8aE0JiZWzU3FvZYff5toQcsxjwFrrlyhvS8upBcBjGCzyfOJGMvhP5Av5s68mgdPx5-QibLgnsNyov26gMthmwSU3PTMfwEdT9DVUQv-IZC_EM4JcwpQmIhbcAZcuMavXSPL5nbWJNXMaKUDMx2h4ihJDh33Mx3ntzSwUWOdend5jYl4dQF3po4j72H5QAY6yLwzJfECM2-fX-hSKg?session=0&fife" height="200" width="auto" /><br><br>Fishermen Memorial<br>Stacy Esplanade \n Across from 59 Western Ave., on the harbor side<br>Gloucester, Massachusetts<br>GPS: 42.610118, -70.670356<br>Access: 24/7<br><br>Erected in 1925 in honor of Gloucester fishermen, this larger than life statue of a fisherman on the deck of his boat overlooks Gloucester Harbor and serves as a cenotaph sculpture – an empty tomb to honor those whose remains are interred elsewhere.<br><br>Listed on the National Register of Historic Places, the statue has become synonymous with Gloucester and was raised to commemorate the thousands of fishermen lost at sea in the first 300 years of Gloucester’s history. Today it has become a symbol of honor and remembrance for ALL fishermen who never returned to their homes.<br><br>Made in America: Midway between Boston and Portsmouth, Gloucester has a long history with the sea and is worth a stop, even an overnight. Just down the road from the Fisherman’s Memorial at the easternmost point of Stage Fort Park is the Fisherman’s Wives Memorial.<br><br>The visitor center on Hough Ave. in the park can provide a list of countless ways to while away a warm summer day, including a sail on the Schooner Thomas E Lannon, ordering chowda at Causeway Restaurant (https://bit.ly/31jwOt5), or maybe raising a pint at the Cape Ann Brewing Co. (https://bit.ly/2OfESpy).<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-62AF44</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/8js5j3u7jqfb2ast9iq56s7qus/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrq12bxOkpPkPJQLdobMYB-qAVKZnHoUy6pfub_pZKKlqZco17y9To61RpPT6byWp26meOFHUBd8aE0JiZWzU3FvZYff5toQcsxjwFrrlyhvS8upBcBjGCzyfOJGMvhP5Av5s68mgdPx5-QibLgnsNyov26gMthmwSU3PTMfwEdT9DVUQv-IZC_EM4JcwpQmIhbcAZcuMavXSPL5nbWJNXMaKUDMx2h4ihJDh33Mx3ntzSwUWOdend5jYl4dQF3po4j72H5QAY6yLwzJfECM2-fX-hSKg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -70.67035,42.610118,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ME1 - Augusta, ME</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/mpibkhflt3q7qe467b0sskdqhs/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo1CIm0DDSxaaHznJqRg26-Whbdvf9br2VC389emkwysXlLduLIk3KiSLqd6RZQOF8zTekr8nJFqbF_w_d-sIqxxkO5cmbrs7CT-5h1G_lQb4N24uO4n8w0ZH5KlTdfkTAYDzeJIQ-vZ8cvl9g2Y8F3EQ6fOxWS6rJQJt_IeeE6zmc5JY54JodG-RDBaNor956dbxrjS5fo6gflmZNXttVJihAkI1Apg_V5p6LNoDttR1R6-KoRCi-e3C8iWapDb0ysIDs8OIJ4xAZPsVydeR8zqClOYA?session=0&fife" height="200" width="auto" /><br><br>Vietnam Veterans Memorial<br>State Capitol Park \n 30 Capitol St.<br>Augusta, Maine<br>GPS: 44.307104, -69.779168<br>Access: 24/7<br><br>The Maine Vietnam Veterans Memorial is a group of sharp-edged concrete and steel memorial walls featuring a cut out tableau of two soldiers carrying their wounded compatriot home. A “statue in reverse” walking through the memorial you become one of those to whom this memorial was dedicated – those who served in Vietnam and those whose lives were touched by the war.<br><br>None of the 343 Maine residents who died, or the 17 still listed as Missing in Action, are recorded on the walls of the memorial despite continued public debate. The original intent to honor everyone affected by the war instead of the more traditional roll call of the dead has been questioned by some, while staunchly defended by others. Forty years after its end, the war still evokes strong emotions.<br><br>Made in America: A visit to the Maine State Museum of Natural History (https://bit.ly/2uSA3vg) is worth a few hours in this “best kept secret” of the state capitol. And an hour at Old Fort Western, taking a guided tour of one of the oldest wooden military buildings in the country still standing, will take you back to where Maine began. https://bit.ly/2uOLx32<br><br>Or head to the town of Union, 20 miles away and the Sweetgrass Farm Winery and Distillery where Maine-grown fruits are used to produce wines and spirits. https://bit.ly/2Owvv55<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-F4B400</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/mpibkhflt3q7qe467b0sskdqhs/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo1CIm0DDSxaaHznJqRg26-Whbdvf9br2VC389emkwysXlLduLIk3KiSLqd6RZQOF8zTekr8nJFqbF_w_d-sIqxxkO5cmbrs7CT-5h1G_lQb4N24uO4n8w0ZH5KlTdfkTAYDzeJIQ-vZ8cvl9g2Y8F3EQ6fOxWS6rJQJt_IeeE6zmc5JY54JodG-RDBaNor956dbxrjS5fo6gflmZNXttVJihAkI1Apg_V5p6LNoDttR1R6-KoRCi-e3C8iWapDb0ysIDs8OIJ4xAZPsVydeR8zqClOYA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -69.779168,44.307104,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ME2 - Bangor, ME
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9olbhss0gb7t7vjbaeuc67tnf0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALodFp0tzcmB9TdCnn75So54WU84ZvRK92QM7D_csRR4kcJsn3ZM6Twxj0UJ0-4N4CmqSOSz59IPjrGC-0qsTVqEuWE2fV7vonceUI1sAUWyUUashWcPZhcO8QqixphliacQM3DVFto9Kj5S4y_3FF5kDjbbcip5PrhK8Ye8rDHff1E6KnB4UzR6VSMea_CV875qQjjkVXNwjoP5FEGHvZvLPMuERlLVQIZCd4SkbCQ4e1YY32sOAXYMyTBzjvO1AvNPxdMgTtR0NbFecGF5oZR3z_ZsTQ?session=0&fife" height="200" width="auto" /><br><br>WWII Monument<br>Cole Land Transportation Museum \n 405 Perry Rd.<br>Bangor, Maine<br>GPS: 44.784933, -68.805206<br>Access: 24/7 Museum hours 9AM-5PM daily.<br><br>This bronze Jeep sculpture is dedicated to more than 41,000 Maine residents who served in World War II. Nearly 5,000 of them were from Bangor and 110 lost their lives. The driver is a likeness of the museum founder’s childhood friend who was one of those 110. <br><br>Nearby is a black granite wall with the names of those Bangorites as well as those who attended the local high school who made the ultimate sacrifice fighting for freedom.<br><br>Made in America: The Cole Land Transportation Museum contains displays of land transportation vehicles and exhibits including the world’s largest indoor display of snow plows, as well as fire engines, farm vehicles, snowmobiles, trucks, cars and even a recreated train station. https://www.colemuseum.org<br><br>NOTE: Founder Galen Cole, WWII veteran and Purple Heart Recipient, reunited with his friend portrayed in the Jeep, passing away on January 9, 2020. RIP, soldier.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-F4B400</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9olbhss0gb7t7vjbaeuc67tnf0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALodFp0tzcmB9TdCnn75So54WU84ZvRK92QM7D_csRR4kcJsn3ZM6Twxj0UJ0-4N4CmqSOSz59IPjrGC-0qsTVqEuWE2fV7vonceUI1sAUWyUUashWcPZhcO8QqixphliacQM3DVFto9Kj5S4y_3FF5kDjbbcip5PrhK8Ye8rDHff1E6KnB4UzR6VSMea_CV875qQjjkVXNwjoP5FEGHvZvLPMuERlLVQIZCd4SkbCQ4e1YY32sOAXYMyTBzjvO1AvNPxdMgTtR0NbFecGF5oZR3z_ZsTQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -68.805206,44.784933,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ME3 - Kennebunkport, ME</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/57kdvi61r0o5lig2dsdeksdfhk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrBknH23oDu_X5kzz7rhs58N01ZEzxngtlb18qO0hypAsv7miXxX5qllVxVBi-9ggq9hU1xiSfV2O9bGduCRwhyiKRzm5GMm5CsINVMWcsYHVVsTXjB12jeznFlNePAL6BfWJTjxIrTm8pf-QXmzuDvk5gp510hmcdz3fQMFXInctT8EvdQFethTcWG2wu2soYU2rK2gNQc7eg3_1GRMExfMymuWtgTYPz2m20JUVjlhmd-vpEYsVn03zHXoVH_IYhZlkgB-Z-lzB0SCn4eLPbGTZsOZg?session=0&fife" height="200" width="auto" /><br><br>Soldiers and Sailors Memorial<br>Dock Square at Ocean Ave.<br>Kennebunkport, Maine<br>GPS: 43.361518, -70.477111<br>Access: 24/7<br><br>In a circle of flowers and stone, stands the Kennebunkport memorial to their soldiers and sailors who served in the Army and Navy.<br><br>Ten years after the memorial was built, it was rededicated to remember those who served in World War I including the one townsman who died in France in 1918. (He was later disinterred and returned to Maine to be buried at the family farm in Kennebunkport.)<br><br>Made in America: The Seashore Trolley Museum just outside of town is a time sink of epic proportions for any transportation geek. Trolleys, trams and buses from the turn of the last century are featured in various stages of restoration. A tram tour runs through the grounds and includes stops at the workshop where you can see the current restoration project as well as museum exhibits and the requisite gift shop. Prepare to spend hours wandering the grounds. It’s that good! https://www.trolleymuseum.org<br><br>Stop at Rococo’s Artisan Ice Cream, voted a top-10 ice cream shop in the U.S. and keeper of a most delicious dark chocolate ice cream. http://www.rococoicecream.com<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-F4B400</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/57kdvi61r0o5lig2dsdeksdfhk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrBknH23oDu_X5kzz7rhs58N01ZEzxngtlb18qO0hypAsv7miXxX5qllVxVBi-9ggq9hU1xiSfV2O9bGduCRwhyiKRzm5GMm5CsINVMWcsYHVVsTXjB12jeznFlNePAL6BfWJTjxIrTm8pf-QXmzuDvk5gp510hmcdz3fQMFXInctT8EvdQFethTcWG2wu2soYU2rK2gNQc7eg3_1GRMExfMymuWtgTYPz2m20JUVjlhmd-vpEYsVn03zHXoVH_IYhZlkgB-Z-lzB0SCn4eLPbGTZsOZg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -70.477111,43.361518,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ME4 - Machias, ME
+</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jv6k6pq2d5vp8sh0h0r2niclgg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoutf-tS-_7NMlH3If15GdoqQcfxHU6bhYzX1VgqZycO4BfvPkN5oud-APZDDQpxhjIK4Iv9hIE8Ru74Ei4c6FGzwvoxuK0aywaChUSvR7cQ4i1oHX1H0c90Xz09SQBJ5mwu88hZnUY5QSNa3aCuwZbdQQHtLfQca0AtBoifeGvkqlriG6pGK5FQqthUwRasSnaSZvd_dLOkAh1mJ7TDgSVwKMuVYtV5Qj8iSYtNXntnZj3FN8XEhDaLLMNR5YXHAYJ0gYxO1O0t7Y-v02MmsPu3OMYhw?session=0&fife" height="200" width="auto" /><br><br>First Naval Battle Memorial<br>Across from 29 Dublin St.<br>Machias, Maine<br>GPS: 44.712027, -67.457920<br>Access: 24/7<br><br>Sentinel against the sea, Machias stands as a lonely coastal outpost defending our shores. In 1775, there was little north of Machias and nothing but ocean until England to the east. Yet upon hearing of the battles of Lexington & Concord, the people of Machias erected a Liberty Pole in support of the cause of freedom.<br><br>When the anxiously awaited merchant supply ship arrived after the harsh winter of ’75, bringing supplies in exchange for timber – once used for building English ships but now wanted for building barracks for British troops in the Colonies; it was escorted this time by an armed schooner for defense.<br><br>The Captain of the schooner demanded the town remove its Liberty Pole and surrender its timber stores. The town refused and with a tiny sloop, the Unity, chased the schooner into the bay where they defeated her in what historians call the first naval battle of the American Revolution, or the “Lexington of the Sea”.<br><br>Made in America: The Burnham Tavern Museum (http://www.burnhamtavern.com) is one of 21 homes designated “most significant to the American Revolution.” The Bold Coast Balloon Festival will be held over Columbus Day weekend for late riders and the Wild Blueberry Festival (http://www.machiasblueberry.com) is held in the warm days of August, (August 14-16). After that, riding the coast roads is the best way to enjoy Machias.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-F4B400</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jv6k6pq2d5vp8sh0h0r2niclgg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoutf-tS-_7NMlH3If15GdoqQcfxHU6bhYzX1VgqZycO4BfvPkN5oud-APZDDQpxhjIK4Iv9hIE8Ru74Ei4c6FGzwvoxuK0aywaChUSvR7cQ4i1oHX1H0c90Xz09SQBJ5mwu88hZnUY5QSNa3aCuwZbdQQHtLfQca0AtBoifeGvkqlriG6pGK5FQqthUwRasSnaSZvd_dLOkAh1mJ7TDgSVwKMuVYtV5Qj8iSYtNXntnZj3FN8XEhDaLLMNR5YXHAYJ0gYxO1O0t7Y-v02MmsPu3OMYhw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -67.45792,44.712027,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NH1 - Manchester, NH
+</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/1k3eeoptl79t98f75nhi433tc0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALraJyBvykGV6f_w4-B2-At3-ssBlJ1qu49Lp5GB1NyvxJQUxlut5XabYS6lbmHqAAFSJX5ns7xQvhSL3AMhglhw55cO64g_rQGUqiiwZqTbkNuJitM9yQuA1X09YYq0tUvvT9XzGvtmtILBAa4WwWwP7WuyJK7_1DOwnN6f_XUxToj6xNU9ZFe4leo4kByxD2II6DNaPalxvJiBBTNAPnytjyYQdp70GCGR1l2itPGR9-tSh3QZEUXiYABtOr_2UqRjdXnrAM1gHELX2PYoFNNhmfY8dQ?session=0&fife" height="200" width="auto" /><br><br>Gold Star Mothers Memorial<br>700 Elm St.<br>Manchester, New Hampshire<br>GPS: 42.988239, -71.463772<br>Access: 24/7<br><br>Across from the Manchester Veterans Memorial Park, is a memorial statue of a mother who has lost a child in war – a “Gold Star Mother”. This is New Hampshire’s tribute to New England Gold Star mothers and the sacrifice they made in ensuring our country’s freedom.<br><br>Erected in 2011, this statue is the one of the latest erected by the Gold Star Mothers Association across the country and a precursor to the recently approved legislation to raise a similar memorial in Washington D.C.<br><br>Made in America: A short ride north to Hooksett will take the rider to the Old Man of the Mountain Replica – a one-quarter scale stone model of the famed cliffside outcropping now seen only on NH license plates….and a bazillion knickknacks and souvenirs.<br><br>Rising South, riders can wander America’s Stonehenge in North Salem http://stonehengeusa.com, or visit the famed sculptor and artist Paul Andres’ public collection of sculpture on the grounds of his Art Institute on Big Bear Mountain in Brookline. Free admission. http://www.andresinstitute.org<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-F4EB37</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/1k3eeoptl79t98f75nhi433tc0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALraJyBvykGV6f_w4-B2-At3-ssBlJ1qu49Lp5GB1NyvxJQUxlut5XabYS6lbmHqAAFSJX5ns7xQvhSL3AMhglhw55cO64g_rQGUqiiwZqTbkNuJitM9yQuA1X09YYq0tUvvT9XzGvtmtILBAa4WwWwP7WuyJK7_1DOwnN6f_XUxToj6xNU9ZFe4leo4kByxD2II6DNaPalxvJiBBTNAPnytjyYQdp70GCGR1l2itPGR9-tSh3QZEUXiYABtOr_2UqRjdXnrAM1gHELX2PYoFNNhmfY8dQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -71.463772,42.988239,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NH2 - Northfield, NH</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gf0bv7vqbiu4ffgkb67gs14c0k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrFD0x0XJU6DGwWB8zFLyRZwlptZDv-lVffs5aL_Ohx8UmoV89Vh6tYBTygBGeceExUSZW-UFsg6NkPd5ZA4OQFSIEuT3yFUKD63eauZ8AZh1FezSY03u4msioXMYfmaVLTitQULf3sDbDBLopEbYU9slKy_orfcuznFa5EZiYeQzBjbzTM9otBDuoHVWzjv39WAIMrfSkHgcwuVv4WBvfjb9_53Nc94Cor2h-VpFrn9pVo26aQADDKozMF8R2HGlHJoGKtniSgpi10Kw4nH49VAy2L1A?session=0&fife" height="200" width="auto" /><br><br>19th Century War Dead Memorial Arch<br>Arch Park \n 3 Summer St.<br>Northfield, New Hampshire<br>GPS: 43.440538, -71.588817<br>Access: 8AM-10PM<br><br>Standing atop a hill overlooking the Winnipesaukee River a massive triumphal granite arch stands over a 50-ton sarcophagus upon which rests a regal lion.<br><br>Built on top of an old Indian fort in 1882 and originally lit by gas lamps, it was visible for miles through the surrounding countryside. Unlike other triumphal arches and memorials of the time, it was built not to honor the dead of war but rather the “victories of peace rather than those of war.”<br><br>Made in America: Located in the heart of New Hampshire’s Lakes Region, Northfield is a short ride to Silver Lake and Lake Winnisquam on whose shores you’ll find Laconia, the center of New England motorcycling with its annual bike week June 13-21. This year celebrates the 97th anniversary of the East coast’s version of Sturgis. https://bit.ly/2SxS3U1<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-F4EB37</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gf0bv7vqbiu4ffgkb67gs14c0k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrFD0x0XJU6DGwWB8zFLyRZwlptZDv-lVffs5aL_Ohx8UmoV89Vh6tYBTygBGeceExUSZW-UFsg6NkPd5ZA4OQFSIEuT3yFUKD63eauZ8AZh1FezSY03u4msioXMYfmaVLTitQULf3sDbDBLopEbYU9slKy_orfcuznFa5EZiYeQzBjbzTM9otBDuoHVWzjv39WAIMrfSkHgcwuVv4WBvfjb9_53Nc94Cor2h-VpFrn9pVo26aQADDKozMF8R2HGlHJoGKtniSgpi10Kw4nH49VAy2L1A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -71.588817,43.440538,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NH3 - Rindge, NH
+</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/3bqjapcc516r601cfrllr4dqd8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo9a1evJGq3gqL8ZXH2ozRqTmvEdk5PxXvROASpOEo6PB3LgtaG7KJ9QTjiDpFPx6Yan1yECnPm23_t0F-uWGLS9jXso4n6_JUK-QA7S-jftfoMMWJ0APdmzNfBoLI7pmNUYt8J1Xjte1IQZbhJtcUihuwWmN7UZ7EV__xmq6EOGMDU-L8tjnYJzD6YzWbE5SpTywMnbfko_fD87BYeq3LZ4JqZwnYkAB5NOmRkk8Gj2CUTBzo02OUG3_ZT_PxffUk9d0PsfaxedZ8G0PeK3oukTIJkUA?session=0&fife" height="200" width="auto" /><br><br>Women’s War Memorial<br>Cathedral of the Pines \n 10 Hale Hill Rd.<br>Rindge, New Hampshire<br>GPS: 42.774722, -71.988568<br>Access: Daytime hours for lighting purposes. Memorial and offices are available April 1, rest of grounds open on May 1.<br><br>Just off the parking lot, is a memorial to those men and women, who had sacrificed their lives in World War II, including a 55-foot tall fieldstone bell tower. This special site is believed to be the first memorial built specifically to honor the women who served in the Armed Forces.<br><br>Surrounded by monuments honoring the service of American men and women—both military and civilian; the tower pays tribute to all mothers, wives, sisters, and daughters, “who endured hardship and grief over the separation or loss of loved ones during war, or who forfeited their own lives for the sake of our country.”<br><br>Large bronze plaques designed by Norman Rockwell and sculpted by his son, depict early pioneer women in remembrance of those who defended the home front and their families, women in the five branches of the armed forces, Red Cross founder Clara Barton in honor of all nurse who served, and a plaque honoring various organizations of women who gave their lives to the war efforts.<br><br>A granite fountain and “Tree of Life” Sculpture are situated in the center of the bell tower. The sculpture features twelve kinds of fruit signifying “strength of character, stamina, determination, and courage.”<br><br>If you have the time to visit the office, ask for Executive Director Patricia Vargas, she’d love to meet Tour of Honor riders!<br><br>Made in America: The popular Hometown Diner is an American Diner at its best. https://bit.ly/2tsVwLe<br><br>Also in town is the Sandwich Master Plus for decadent excess, where you can choose between 50 sandwiches on the regular menu, or 30 on the Sandwiches Gone Mad menu. https://bit.ly/2tn6amy<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-F4EB37</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/3bqjapcc516r601cfrllr4dqd8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo9a1evJGq3gqL8ZXH2ozRqTmvEdk5PxXvROASpOEo6PB3LgtaG7KJ9QTjiDpFPx6Yan1yECnPm23_t0F-uWGLS9jXso4n6_JUK-QA7S-jftfoMMWJ0APdmzNfBoLI7pmNUYt8J1Xjte1IQZbhJtcUihuwWmN7UZ7EV__xmq6EOGMDU-L8tjnYJzD6YzWbE5SpTywMnbfko_fD87BYeq3LZ4JqZwnYkAB5NOmRkk8Gj2CUTBzo02OUG3_ZT_PxffUk9d0PsfaxedZ8G0PeK3oukTIJkUA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -71.988568,42.774722,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NH4 - Wolfeboro, NH</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/bfpo4cdoiev9ovrq4ddq0fl908/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpzjaeZWBCDIMJDOgYtdI7wuHNf74e9BrtowmPgiqzKVf3Lpr-If8PAPKaKxXzcjxHuXykRvXGKdZ87u0cxlIbppuA3aKDXoiihIw-1vrfAve_Fcmvbjz2nFcJ4DF7BGcMVYES3Bw38g-5H9_MGA4hAUjh1AlSvgsDS72zMfeg2RXEDoe3xXzj4Ya_fTU76ZtTnKiKiHuR3S6bahNFdHhjZVY8NYG3T2cUEoUy3_TuF-Kt46C3o0t5-95IsWGOwgZzLy226l9k6R40l4PdstpDgjgxIuw?session=0&fife" height="200" width="auto" /><br><br>WWII Memorial and Museum<br>77 Center St.<br>Wolfeboro, New Hampshire<br>GPS: 43.589209, -71.205438<br>Access: 24/7<br><br>This is the Wright Museum of WWII and on the side of the building next to a tank crashing through a wall, is a sign honoring the home front in WWII. Celebrating the people at home who helped win the war almost as much as those at the front. “Rosie the Riveter,” mom holding down the home front, kids taking over for dad; they are all honored here.<br><br>If you step inside (admission fee required) you’ll find a collection dedicated to the greatest generation, the American people who were thrust on the world stage and together fought for peace. The soldiers, sailors and airmen who fought on battlefields around the world are honored here. But also the people remaining behind – everyone at home supported the war effort through rationing, bond drives, factory production and for the first time women became a major part of the industrial workforce.<br><br>Stop and check out the tank and the tribute to the home warriors or take a break and see the thousands of exhibits remembering the generation that started the American Century. https://www.wrightmuseum.org/<br><br>Made in America: After the Wright, stop in at the New Hampshire Boat Museum (http://www.nhbm.org/) for a view of life on the lake during the heyday of the American post-war expansion.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-F4EB37</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/bfpo4cdoiev9ovrq4ddq0fl908/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpzjaeZWBCDIMJDOgYtdI7wuHNf74e9BrtowmPgiqzKVf3Lpr-If8PAPKaKxXzcjxHuXykRvXGKdZ87u0cxlIbppuA3aKDXoiihIw-1vrfAve_Fcmvbjz2nFcJ4DF7BGcMVYES3Bw38g-5H9_MGA4hAUjh1AlSvgsDS72zMfeg2RXEDoe3xXzj4Ya_fTU76ZtTnKiKiHuR3S6bahNFdHhjZVY8NYG3T2cUEoUy3_TuF-Kt46C3o0t5-95IsWGOwgZzLy226l9k6R40l4PdstpDgjgxIuw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -71.205438,43.589209,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NH OPTIONAL - Gorham, NH</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0bvaumtjaqdehh7uaur4g7sg0o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo3JLC5kr-Xb5k3s6h-5EwQBmH96eQ99GRyB1qief5-VH0Wxvk4aDctZDJfiKQ0iaslYJNoyi0Dg6V6fzfqoQrAGqOMCa-UcOxrp2eUB1pt9R9pvKiqFsWPIPv6AvMhxFIif6FNzEL2OxcZCoiRV1FZIA3UD9PqfRoAAESPoB7_PnDW8yzzPu4YVK8d1zy3pcflniUqX9FJN0SqX4TgpHEIA-z2ZtG7HKCdxYTMIyAa6B99UBk1Vcz66KIHdXXOtL1wtkTgpSnl4Fdr5HgxCWfnU6wWiA?session=0&fife" height="200" width="auto" /><br><br>10th Mountain Division – Optional, NO CREDIT<br>Mount Washington Summit \n Mount Washington Auto Road<br>Gorham, New Hampshire<br>Toll road: $17/bike & rider, additional $9 for passenger<br>GPS: 44.270483, -71.303017<br><br>Access: hours are seasonal beginning early May, check website or call 603-466-3988, road may be closed due to severe weather at the summit. You can also check the road status at www.mtwashingtonautoroad.com/current-road-status-weather<br><br>NOTE: THIS IS NOT A 2020 TOUR OF HONOR STOP. But we felt it’s worthy of a visit if you’re in the area.<br><br>Located at the summit of Mount Washington, the New England Chapter of the 10th Mountain Division placed this memorial plaque in memory of comrades who gave their lives in the Aleutians and Italy in WWII.<br><br>The 10th Mountain Division was modeled after Finnish soldiers on skis who managed to stop two Soviet armored divisions during the Soviet invasion in 1939. The US Army with the help of the National Ski Patrol recruited experienced skiers into the Army for this division; deciding it was easier to teach skiers to fight than teach soldiers to ski.<br><br>The 10th Mountain were at the forefront of the Fifth Army’s invasion of Italy in 1945 and held off the German army attempting to flee south from the U.S. Seventh Army, shattering German defenses and forcing their surrender in the Po Valley.<br><br>Since the 9/11 attacks, the division has been deployed over 20 times in Iraq and Afghanistan.<br><br>Inscription: “Many returned to their beloved mountains. Those heroes who did not return are still fondly remembered as Brave Men Whose souls rest forever amid these mountain peaks-- Sempre Avanti”<br><br>Made in America: While you’re up top, check out the cog railway and observatory before grabbing a bite to eat in the summit restaurant. If you can wait, the places to eat in Gorham are the Blue Pig Diner (19 State St – open daily, except Wednesdays, until 1:30PM), the Saalt Pub (https://bit.ly/2Uhmlgi) or Gorham House of Pizza (http://www.ghop.me)<br><br>NOTE: This is a bonus stop only, no credit will be given for your visit. Please don’t submit photos to scorers. But well worth the trip!]]></description>
+      <styleUrl>#icon-1502-FFEA00</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0bvaumtjaqdehh7uaur4g7sg0o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo3JLC5kr-Xb5k3s6h-5EwQBmH96eQ99GRyB1qief5-VH0Wxvk4aDctZDJfiKQ0iaslYJNoyi0Dg6V6fzfqoQrAGqOMCa-UcOxrp2eUB1pt9R9pvKiqFsWPIPv6AvMhxFIif6FNzEL2OxcZCoiRV1FZIA3UD9PqfRoAAESPoB7_PnDW8yzzPu4YVK8d1zy3pcflniUqX9FJN0SqX4TgpHEIA-z2ZtG7HKCdxYTMIyAa6B99UBk1Vcz66KIHdXXOtL1wtkTgpSnl4Fdr5HgxCWfnU6wWiA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -71.303017,44.270483,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RI1 - Cumberland, RI
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/8o38rr0ifuku5selrumukicgu0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrnFVszPn3iG-EUVOdMTQHXV-cu5gFcKo9riQ11Hck_byTFzBclx1KbX4y6ZuRfkMypoTvZNXA0v2y5-eKcXo8UckAt4uzoNB-isQMmLL-8jdMlQdR-C-0WyfA12zew0Vzr42dbsGfLQ7eI53kdYVoYwEC7OdmC0sR6N4FPhAw-2fD5PCqGSX0VL0SU7eXm7kQxwyKrW85RX-kuQjxkX-tTjstja8bWKoZh_cp5YVseVIFhMuvxSwOIEnAlH9UWePiKhl5NiWcGkcOneXGScKqRfYa3aw?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>1464 Diamond Hill Rd.<br>Cumberland, Rhode Island<br>GPS: 41.933317, -71.402306<br>Access: 24/7<br><br>Located on the grounds of an old Trappist monastery, now the town library, stands a monument to “the honor and glory to those who have served and died in the many wars defending American freedoms and those of allies across the world.”<br><br>Containing images of soldiers from the Revolution to the first World War and Spanish American War, the monument stands on the site of iron works that made cannons and cannonballs for the French and Indian War and the American Revolution. The park has several cannons and large guns on display.<br><br>Made in America: Cumberland is the northernmost town in Rhode Island and was the home of the Valley Falls Company, originally a cotton manufacturing company, and the parent of Berkshire Hathaway for those with an interest in the investment world. While you’re enjoying the area, stop at GottaQ for traditional southern BBQ! https://www.gottaq.com/<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/8o38rr0ifuku5selrumukicgu0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrnFVszPn3iG-EUVOdMTQHXV-cu5gFcKo9riQ11Hck_byTFzBclx1KbX4y6ZuRfkMypoTvZNXA0v2y5-eKcXo8UckAt4uzoNB-isQMmLL-8jdMlQdR-C-0WyfA12zew0Vzr42dbsGfLQ7eI53kdYVoYwEC7OdmC0sR6N4FPhAw-2fD5PCqGSX0VL0SU7eXm7kQxwyKrW85RX-kuQjxkX-tTjstja8bWKoZh_cp5YVseVIFhMuvxSwOIEnAlH9UWePiKhl5NiWcGkcOneXGScKqRfYa3aw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -71.402322,41.933496,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RI2 - Davisville, RI</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/rg9ml863t84uuti65va0dk72ag/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpATvLd7U_TBijM_mMLmGMhiE6S3xH8754uONq8raRdCH7tsrhLmUnIulBW-V3VGPPSK1ASBxRpTsC2cJzHilr1x7f_2LRNEHxDmaazvz8sJgKB0JH1BDYHkaSvd2U3Zx3bV98J7UjtyZ1yQLVDNHya7NmRKX6Y1FVZjT4yJ4A91JeOn9gyDat3jt-5AtRc0VvHYLnxtdiEIv9NYDnAuhG5kcN1ZB1D23PD7v_tNBLQEjAjDeGwtFpE0s4wNQN7_oW1hzMAk9Q_hKnJK5vxjStRDf0mPg?session=0&fife" height="200" width="auto" /><br><br>Seabee Museum and Memorial Park<br>21 Iafrate Way<br>Davisville, Rhode Island<br>GPS: 41.606462, -71.449838<br>Access: 24/7<br><br>The home of the Navy Seabees, Camp Endicott houses the Seabees Museum and Memorial Park. With the historic Chapel in the Pines and examples of Quonset Huts designed here at Quonset, Rhode Island; the museum was built by Seabees, run by Seabees for Seabees and their families and the public.<br><br>The Seabees were a special organization of engineer-soldiers within the Navy who would support Navy and Marine personnel throughout the WWII fighting theatres. Battalions of highly skilled craftsmen, electricians, plumbers, equipment operators and others were deployed to construct or reconstruct facilities from the pontoon causeways used by the Army infantry to storm Normandy Beach, to the airfields on Guadalcanal and Midway Ovid Brooks, father of TOH organizers Steve and Dave Brooks, was one of those Seabees on Midway.<br><br>The Seabees continue to be the front line engineering battalions of the American armed forces, serving in Korea, Vietnam, Desert Storm and Iraqi Freedom. “Can Do – Done” and “We Build, We Fight” are still watchwords of freedom.<br><br>Made in America: Quonset Air Museum is nearby and the home of the Quonset Hut made famous by Seabee installations the world over. If you visit nearby Exeter’s Vampire Grave (Mercy Lena Brown, whose exhumation in 1892 is said to have inspired Bram Stoker’s Dracula), stop at the The Middle of Nowhere Diner on Nooseneck Hill Rd. https://bit.ly/2Og2uKL<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/rg9ml863t84uuti65va0dk72ag/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpATvLd7U_TBijM_mMLmGMhiE6S3xH8754uONq8raRdCH7tsrhLmUnIulBW-V3VGPPSK1ASBxRpTsC2cJzHilr1x7f_2LRNEHxDmaazvz8sJgKB0JH1BDYHkaSvd2U3Zx3bV98J7UjtyZ1yQLVDNHya7NmRKX6Y1FVZjT4yJ4A91JeOn9gyDat3jt-5AtRc0VvHYLnxtdiEIv9NYDnAuhG5kcN1ZB1D23PD7v_tNBLQEjAjDeGwtFpE0s4wNQN7_oW1hzMAk9Q_hKnJK5vxjStRDf0mPg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -71.449838,41.606462,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RI3 - Jamestown, RI
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/d0t3ctv1i9k9acp2a1i07jnj2c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALocO_dgaEu1vZ-VuPIe0g_Eb8syVlWvAEtgJVbslPK-iksSTLBDdkOmZnKbE_IIw47siio_hW5XXnpzdoQvbWZlnHo-h7dwKgDPPDqA6zQmsaZWO0XoQjplI5Bh9B0UBhIKHCXghgVrX-nyOyLEonhNmecw8EYnV4D-nMwOdXyhp_ZhTjF_cDSnvmLIGb5jmg3WDbiD5M4sNiU_LxhlHYv42grIRUVWDjU6s4QpxxPzjbVPPsPMOlKk2Q0RCRPEbfp8XOMVdvvvmcnrXRaW_mPGX8nBlw?session=0&fife" height="200" width="auto" /><br><br>Memorial to America’s Wars and Conflicts<br>Conanicus & Narragansett Aves.<br>Jamestown, Rhode Island<br>GPS: 41.49637, -71.366622<br>Access: 24/7<br><br>Due to its location on Conanicut Island in the Narragansett Bay, only accessible by bridge or boat, Jamestown is home to many scenic rides and unique sights. Among these is one of the only memorials to the Indian Wars in New England. An obelisk memorializes all “wars and conflicts” of American history with individual markers for each at its base.<br><br>The island is lightly trafficked outside of downtown and provides an incredible opportunity for island riding in the heart of Rhode Island.<br><br>Made in America: Take a ride over the Clairborne Pell Newport bridge whose towers soar 400 ft above the bay and more than 2 miles long making it the longest suspension bridge in New England, then take a ride into Newport, park the bike and walk around downtown for the shopping and the food or even a mansion tour at the famous Newport Gilded Age mansions of the Vanderbilts and their posh neighbors. https://bit.ly/38YokdE<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/d0t3ctv1i9k9acp2a1i07jnj2c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALocO_dgaEu1vZ-VuPIe0g_Eb8syVlWvAEtgJVbslPK-iksSTLBDdkOmZnKbE_IIw47siio_hW5XXnpzdoQvbWZlnHo-h7dwKgDPPDqA6zQmsaZWO0XoQjplI5Bh9B0UBhIKHCXghgVrX-nyOyLEonhNmecw8EYnV4D-nMwOdXyhp_ZhTjF_cDSnvmLIGb5jmg3WDbiD5M4sNiU_LxhlHYv42grIRUVWDjU6s4QpxxPzjbVPPsPMOlKk2Q0RCRPEbfp8XOMVdvvvmcnrXRaW_mPGX8nBlw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -71.366622,41.49637,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RI4 - Westerly, RI
+</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/l5drtlgibg532p8qlatdqdsn7k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrjgQngmmJBpUp_PtaAiUramHOzWWnyauTbKpg2IwaLI3p9xuqsoY-_3WILzEsOk-Z167eplndiwAib5heZhWVp5O6rZfffjjEn2Z6Mko6ptC3_I8jCfvA_sNJzUPWiuM8kc1MyGbLmf2nFksOJKWwzkKSLKWDgFdNY8c1A8xPnhIozM7KgEQC60zcUbW0CcOHxZeccwlT-WPOxSOWcHdKM_Qb6szZl2h6tV-V9_5im3Eq01acCbVMaUW4iWbti6t0Ujlj3SaVMMlkQt0r5PARWz0_4LA?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>37 Main St..<br>Westerly, Rhode Island<br>GPS: 41.377520, -71.831345<br>Access: 24/7. Park behind the memorial.<br><br>A soldier standing with two children atop a stone base proclaiming the “memory of all who gave their lives and in honor of all who served to preserve our freedom” is the centerpiece of the Westerly-Pawcatuck War Memorial.<br><br>Flanking the center are tablets marking the names of the residents of Westerly & Pawcatuck across the river, who died in WWII and the Korean and Vietnam Conflicts.<br><br>Across the bridge on the Pawcatuck (Connecticut) side of the river stands a monument to those taken prisoner of war and the families of those who are missing in action. The POW-MIA monument is the sister to this memorial.<br><br>Made in America: A stop at the Malted Barley will get you beer of all kinds, great pub food, and PRETZELS; some of the best in the region. https://bit.ly/31eWFCl <br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/l5drtlgibg532p8qlatdqdsn7k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrjgQngmmJBpUp_PtaAiUramHOzWWnyauTbKpg2IwaLI3p9xuqsoY-_3WILzEsOk-Z167eplndiwAib5heZhWVp5O6rZfffjjEn2Z6Mko6ptC3_I8jCfvA_sNJzUPWiuM8kc1MyGbLmf2nFksOJKWwzkKSLKWDgFdNY8c1A8xPnhIozM7KgEQC60zcUbW0CcOHxZeccwlT-WPOxSOWcHdKM_Qb6szZl2h6tV-V9_5im3Eq01acCbVMaUW4iWbti6t0Ujlj3SaVMMlkQt0r5PARWz0_4LA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -71.831345,41.37752,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VT1 - Bennington, VT
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2ea3fohqvjhkfqvkjksgm5dvqg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrnTJ3u0eahRDSU3fJ4b0WkU2qkCgaNDVvwZAy059K_DiVSrsGVA4lRGXVbMXiFa-4Yg8PpOZy8xLJAD6dckHWA5sB0qjc2MAyCm33Apj-2JyM3I-akeC0An0l1t4HwN2WtatqncC-5IOVc66bQL6hjWOzaMB8wh0qpxCI2kfQv059lRA5woKx7CW8MA-alVbVkUVIo0PO_yhH_VuP0ufmBggo2InPc7wcuvApX5fdSRN6TXgoYgAut_fa9qO3jZFmnR2b1PJjPl25xHU_6sZQLKF6BvA?session=0&fife" height="200" width="auto" /><br><br>Bennington Battle Monument<br>Monument Square \n Walloomsac Rd. and Monument Ave.<br>Bennington, Vermont<br>GPS: 42.889221, -73.215564<br>Access: 24/7 grounds access (Monument tours and museum have seasonal hours)<br><br>Behind this handsome colonial minuteman stands a 306’ limestone monument, erected on the site of a weapons storehouse and the tallest structure in Vermont. It was built to commemorate the colonial victory over General Burgoyne on August 16, 1777. Untrained troops under the command of then Continental Colonel John Stark defeated Burgoyne’s best trained and equipped troops attempting to capture the armory. With most of his troops killed, captured or wounded, Burgoyne’s assault on Albany was forestalled and without the captured supplies, was forced to surrender his remaining 8,000 troops at the Battle of Saratoga on October 7, 1777.<br><br>Beginning May 1, from 10AM-5PM, an elevator takes visitors to the observation deck two-thirds of the way up the monument where you can see New York, Massachusetts and New Hampshire. Looking west, the battlefield itself is visible from six miles away in New York.<br><br>The wooden cutout of the Colonial Militiaman is placed on the grounds seasonally but if not available, the bronze statue of General Stark nearby is perfectly situated for a rally flag picture.<br><br>Made in America: The Bennington Museum is a short drive down W. Main St (Rt 9) and the Four Chimneys Inn and Restaurant offers a historic site for lunch or an overnight stay. https://bit.ly/31bEoWI<br><br>The Apple Barn & Country Bake Shop, south of town on Rt 7, offers apples, fresh cider, hot pies and Vermont ketchup (maple syrup) for consumption or a souvenir. https://theapplebarn.com<br><br>Motor geeks (that’s us!) need to stop at Hemmings Store & Sunoco Station run by the real-deal Hemmings Motor News folks. https://bit.ly/2GELhGC<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-757575</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2ea3fohqvjhkfqvkjksgm5dvqg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrnTJ3u0eahRDSU3fJ4b0WkU2qkCgaNDVvwZAy059K_DiVSrsGVA4lRGXVbMXiFa-4Yg8PpOZy8xLJAD6dckHWA5sB0qjc2MAyCm33Apj-2JyM3I-akeC0An0l1t4HwN2WtatqncC-5IOVc66bQL6hjWOzaMB8wh0qpxCI2kfQv059lRA5woKx7CW8MA-alVbVkUVIo0PO_yhH_VuP0ufmBggo2InPc7wcuvApX5fdSRN6TXgoYgAut_fa9qO3jZFmnR2b1PJjPl25xHU_6sZQLKF6BvA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.215564,42.889221,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VT2 - Colchester, VT</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/hp0sntamqatfmlrvndqs6u1qdo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrd7Xw4NH7tL5q98rwoaWpcWNJSUeKL_82Y1zTg91bjk523p6KXxwKnepuYjlIpe3z9-ROxbsujgc8YN0zsJEs_79OpBfPN5ORGbPbNTThknwBIww7XhwVduOLnzaOmOBGjya9z5GPe3cT2zAg0aVOCwlWTLRxloLKXq55dGkyMZjHT_g3rvtwusDCawOJb-5nUYiJdGB52ZEn2g5dPVPgd6xA5rAwcnT-KHgsC7kNR_a3R4v3AMtXU1qZrGBDaaqhHHYJeFaELSlEQ_z3J60oSc4J4KA?session=0&fife" height="200" width="auto" /><br><br>Fallen Heroes Memorial<br>789 Vermont National Guard Rd.<br>Colchester, Vermont<br>GPS: 44.500784, -73.160590<br>Access: Daylight hours. See note below.<br><br>Located at the Vermont Veterans Militia Museum and Library on the grounds of the Vermont National Guard’s Camp Johnson, the Fallen Heroes monument was raised in honor of the 11 Vermont National Guardsmen who lost their lives in Iraq. Although one of the smallest states, Vermont had the highest per-capita death rate in Iraq when the monument was erected in 2008.<br><br>NOTE: The museum is open Mon-Fri 10AM-3PM, and the curator says visitors outside those hours should stop at the gate and explain they’re there: to visit the Fallen Heroes Memorial at the museum.<br><br>Made in America: Located at the entrance to Camp Johnson, the museum itself is open Mon-Fri from 10AM-3PM (free admission) and is a must-visit. Featuring exhibits and displays going back to the 18th century, the museum includes a one-of-a-kind Sheridan’s Ride Civil War painting which, when completed in 1900, was the largest oil painting in North America at 17’ by 28’. Uniforms, weaponry (including a captured WWI German cannon) and a variety of aircraft are on exhibit.<br><br>Just a half hour away on Rt 100 in Waterbury, you’ll want to take the Ben & Jerry’s Factory Tour (and Flavor Graveyard). Vermont also produces a quarter of the country’s maple syrup and together they make a delicious summer delight. https://benjerrys.co/31ckSJw<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-757575</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/hp0sntamqatfmlrvndqs6u1qdo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrd7Xw4NH7tL5q98rwoaWpcWNJSUeKL_82Y1zTg91bjk523p6KXxwKnepuYjlIpe3z9-ROxbsujgc8YN0zsJEs_79OpBfPN5ORGbPbNTThknwBIww7XhwVduOLnzaOmOBGjya9z5GPe3cT2zAg0aVOCwlWTLRxloLKXq55dGkyMZjHT_g3rvtwusDCawOJb-5nUYiJdGB52ZEn2g5dPVPgd6xA5rAwcnT-KHgsC7kNR_a3R4v3AMtXU1qZrGBDaaqhHHYJeFaELSlEQ_z3J60oSc4J4KA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.16059,44.500784,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VT3 - Sharon, VT</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/r3eg163k4mo1vfn4vfa1tpa8mk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr_XavKB7CJOdFLwpL-i_9J7wW541c2oj7qXGV1a9aColoj-kGLoXjPiZCuHHNEeFvgvqH9k41iOwjL7lEKoW_WDXPLE0-2yjAkC81PAxNNsWav09EVTAD3ga3LVwQjZuksHVhQ8N15lKXXU_v4c31AXB_cg95ehkV9brwyALyS_UxrH3r45Gglt3YdbArvuZrfyoBPOZjfN2b9j1gN5cjBol2Uknsuor3it8jRDFgKB3q4ErnOrmUq_EKPuAJ0fbfHMzvEJKv11Ek2Ch0Ko660w_HFsQ?session=0&fife" height="200" width="auto" /><br><br>Vietnam Veterans Memorial<br>I-89NB Sharon Rest Stop (mile marker 139)<br>Sharon, Vermont<br>GPS: 43.727602, -72.426237<br>Access: 24/7<br><br>The Vermont Vietnam Veterans Memorial is located at the Sharon Rest Area on Interstate 89, northbound side in its Welcome Center. It honors the 7,236 Vermont servicemen and women who served in Vietnam and the 138 who died there. The Welcome Center also features a photo display and timelines of Vermont and Vietnam events from the beginning of US involvement through the 1975 evacuation of the US Embassy.<br><br>This is the first Vietnam Memorial erected in the United States and was chosen for its similarity in views to Highway One in Vietnam and because it is 138 miles from the Canadian Border (the same number as those from Vermont who died in the war). The stone memorial wall now features an eternal flame.<br><br>A stop on Memorial Day eve will find you part of the all-night vigil held every Memorial Day.<br><br>Made in America: While there, tour the Living Machine Waste Water Recycling System where native South Asia plant life treats the site’s waste water.<br><br>A bit north in South Royalton, you can visit the birthplace of Joseph Smith, the founder of the Mormon Church. A bit south in White River Junction the Main Street Museum features a “Cabinet of Curiosities,” an 18th and 19th century display of “stuff” – a museum about the roots of museums. https://bit.ly/2SkZGNJ<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-757575</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/r3eg163k4mo1vfn4vfa1tpa8mk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr_XavKB7CJOdFLwpL-i_9J7wW541c2oj7qXGV1a9aColoj-kGLoXjPiZCuHHNEeFvgvqH9k41iOwjL7lEKoW_WDXPLE0-2yjAkC81PAxNNsWav09EVTAD3ga3LVwQjZuksHVhQ8N15lKXXU_v4c31AXB_cg95ehkV9brwyALyS_UxrH3r45Gglt3YdbArvuZrfyoBPOZjfN2b9j1gN5cjBol2Uknsuor3it8jRDFgKB3q4ErnOrmUq_EKPuAJ0fbfHMzvEJKv11Ek2Ch0Ko660w_HFsQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -72.426237,43.727602,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VT4 - Stowe, VT</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0k6ht5167v26rgfenhv7bhgh1c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoLMTL2ZB4cHO1YDuOvY8gHETvmUCSN_-GTm8dPrhTF-ccvd1TJ-wYZJfC_9SNryokz62edYl4-MdecKowG62vI5FZb2BRMfmA-3dcGaw6ntt_ggdVAqm-B14zMnveUH3y85pu10j82fliBZW3g80ngsVYzp8to8e16AMF7q62Nge4Lj7kEf4hTPIctZhaZCq9C45D-lYD9xBYa-lDjup4RWbpvVN-9XnpJPeXkp1XofPobrPxk4nI4NPFX2sd1ber3ExiPkvrASUSHSeSo1xXO4RJjpA?session=0&fife" height="200" width="auto" /><br><br>10th Mountain Division Memorial<br>3681 Mountain Rd.<br>Stowe, Vermont<br>GPS: 44.490809, -72.737578<br>Access: Private property, please visit between 9am-7pm and respect the property owners (no loitering, smoking or loud pipes).<br><br>Inspired by the Finnish Army whose ski soldiers kept the Russian Army at bay in 1939, Minnie Dole (who later formed the National Ski Patrol) proposed the formation of a mountain and snow trained fighting force. The 4th Corps of the 5th Army, the 10th Division fought in the alpine mountains of northern Italy and helped change the tide of war by cutting off supply routes, capturing the high ground and forcing the surrender of German soldiers in Italy.<br><br>Returning home, they virtually created the skiing sports industry in America. In Vermont, they started lodges, shops and ski schools, opened ski areas and inspired the formation of the Mountain Warfare School and Battalion in nearby Jericho, Vermont.<br><br>Today, this thirteen-foot-tall, 2200 pound bronze statue stands in testament to the larger than life impact these soldiers had on war, and on the subsequent peace. Inscribed on the plaque nearby are the names of the 6 Vermont Ski Troopers killed in action during WWII.<br><br>Made in America: The Trapp Family Lodge (of The Sound of Music fame) is open to visitors (https://www.trappfamily.com/) as is Ben & Jerry’s factory in nearby Waterbury. If you go, make sure to visit the graveyard of dearly-depinted flavors. https://benjerrys.co/31ckSJw<br><br>If you’re hungry, there are MANY choices nearby, with Doc Pond’s (https://www.docponds.com/) and Von Trapp Brewing Bierhall Restaurant (https://bit.ly/2S9TE26) coming to mind.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-757575</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0k6ht5167v26rgfenhv7bhgh1c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoLMTL2ZB4cHO1YDuOvY8gHETvmUCSN_-GTm8dPrhTF-ccvd1TJ-wYZJfC_9SNryokz62edYl4-MdecKowG62vI5FZb2BRMfmA-3dcGaw6ntt_ggdVAqm-B14zMnveUH3y85pu10j82fliBZW3g80ngsVYzp8to8e16AMF7q62Nge4Lj7kEf4hTPIctZhaZCq9C45D-lYD9xBYa-lDjup4RWbpvVN-9XnpJPeXkp1XofPobrPxk4nI4NPFX2sd1ber3ExiPkvrASUSHSeSo1xXO4RJjpA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -72.737578,44.490809,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MA4 - Worcester, MA
+</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9ifekaq1jsofuslnb6t9qiocd8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq67VwveucW9LKEW8_ISk4ZPx_eQ5TehZOUKvoxA9HywxtQS8_v2oNknj9_SUdW220oR05OHsGUqdb-jJ3I-IAJRv7kyMfq2L2ZzwysA5EpgDNSgug06aS1y6NnM-_xwzmwr5nnBh18kd0Vr2YrtFDMJmee6UvpMEubKHOEx9NSsSKWo9SDT_YJvy1zPDSGzXvLvkkfQLwB3ccQg9AWpcnkIF8vMQsumrIoAjIXN1lyK4mfepnz5RvqGu16cH6UUOqfIDwar3AQXU4f0AKp96LGCQ0nSQ?session=0&fife" height="200" width="auto" /><br><br>Vietnam Veterans Memorial - A Place of Names \n Green Hill Park<br>200 Green Hill Pkwy.<br>Worcester, Massachusetts<br>GPS: 42.279994, -71.784057<br>Access: Dawn to 10PM. Two photos required. <br><br>Spread across four acres is a Place of Flags, a Place of Words and a Place of Names. The Place of Flags flies the banners of the United States and its allies in Vietnam, next to the POW-MIA flag, always reminding us of those who haven’t returned.<br><br>The Place of Words displays text from letters written home by some of the Soldiers, Sailors, Airmen and Marines who died in Vietnam.<br><br>The Place of Names (pictured above) is on the far end of the pond, proclaiming the names of each of the 1,546 Massachusetts men and one woman who died in combat or as a result of wounds received while in action in Vietnam or who remain missing.<br><br>Made in America: While here, walk to the Place of Words and contemplate the words found in letters written home by 13 Massachusetts servicemen who died in Vietnam. You’re surely going to shed a tear knowing these were some of the last letters these men wrote and knowing they never came home.<br><br>Before hitting the road, grab an M&M Donut or Oreo Iced Coffee at Boston Donuts (https://bit.ly/2OiptEZ), or visit Miss Worcester Diner at 300 Southbridge St., the “#1 Diner in America,” according to TLC’s Best Food Ever series.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-62AF44</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9ifekaq1jsofuslnb6t9qiocd8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq67VwveucW9LKEW8_ISk4ZPx_eQ5TehZOUKvoxA9HywxtQS8_v2oNknj9_SUdW220oR05OHsGUqdb-jJ3I-IAJRv7kyMfq2L2ZzwysA5EpgDNSgug06aS1y6NnM-_xwzmwr5nnBh18kd0Vr2YrtFDMJmee6UvpMEubKHOEx9NSsSKWo9SDT_YJvy1zPDSGzXvLvkkfQLwB3ccQg9AWpcnkIF8vMQsumrIoAjIXN1lyK4mfepnz5RvqGu16cH6UUOqfIDwar3AQXU4f0AKp96LGCQ0nSQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -71.784057,42.279994,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Florida sponsored by Dan Buis</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>FL1 - Fort Myers</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7m9qilln92kcd5fpd4lrm5nks8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqJT6O3PZFICsWwU80ZrzkK9ijvy3sFBEsFBbcr8Eyk66CqrPjQ_HWIZP1Ig9PPrFafgj3ePqQfvZ0xSjtb4NAk3Ar2E02f2D34rkxxJ-kkgBncnb9pL8p7NoBF6l1sYA7FvvrPOD83zgSMO8Mq4-1jyW43QLnwF_impcjuP5DMz9YN4jNdC-ed78o5DOP8FRUZmX3i8osdLQeDkPt2Pn2tDsS9G7aNeVsDhvnGpgmjkFNW7dse399DB1c94L6JdmBTiDkt11Jqt2ENlf-Zl-Bw1DdHTA?session=0&fife" height="200" width="auto" /><br><br>82nd Airborne Monument<br>Park of Palms \n Edwards Dr. & Lee St.<br>Fort Myers, Florida<br>GPS: 26.646779, -81.868869<br>Access: 24/7<br>Parking is available along the street next to the memorial, with no ADA issues. <br><br>The 82nd Airborne Division is an active duty airborne infantry division of the United States Army. It specializes in parachute assault operations into denied areas. Based at Fort Bragg, North Carolina, the 82nd Airborne Division is the primary fighting arm of the XVIII Airborne Corps.<br><br>The monument is dedicated to all paratroopers and glider men, living and deceased, who have served during peace or war in the Armed Forces of the United States. Naples (FL) sculptor Andrew McGowan cast and donated the bronze statue of the paratrooper, with the formal dedication made in 1983.<br><br>Made in America: This area is famous for its Cuban sandwiches, “the play of roast pork against sweet ham, the twang of mustard and pickles, the pressed bread that shatters into a spray of tiny crumbs -- all of it held together with gooey Swiss cheese,” as written by local food critic Jean La Boeuf. A couple of places to try: Kings Kitchen at 215 W First St. and Casa Rojas Cuban Bakery & Café at 728 Pine Island Rd. SW<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7m9qilln92kcd5fpd4lrm5nks8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqJT6O3PZFICsWwU80ZrzkK9ijvy3sFBEsFBbcr8Eyk66CqrPjQ_HWIZP1Ig9PPrFafgj3ePqQfvZ0xSjtb4NAk3Ar2E02f2D34rkxxJ-kkgBncnb9pL8p7NoBF6l1sYA7FvvrPOD83zgSMO8Mq4-1jyW43QLnwF_impcjuP5DMz9YN4jNdC-ed78o5DOP8FRUZmX3i8osdLQeDkPt2Pn2tDsS9G7aNeVsDhvnGpgmjkFNW7dse399DB1c94L6JdmBTiDkt11Jqt2ENlf-Zl-Bw1DdHTA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.868869,26.646779,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FL2 - Fort Pierce</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/g6vprmq6k9kjchp01ojp6r8rnk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpXTZsQZDspkZE7f1-X9MHIHcWwTBT54DATzJREchq5QPGo1bPnYl9lNDupUHUtVI9mr6Rzzzw_wZmiCO6CcxXUs2MLh51XX4dHarD06m7vT57RIV-mKrqFUzoGizPPRF91G1sLsiMGa6Y-DIA-OsVY07KgeycNRZay6Y9YgdyddQ2rbrHZdNL0AyZz3Fj3ynByi8iEZWVCAI-uomoOolTNF2iYZadE47CJmSywfLa4VMh3jdrKSHmIyN8ISFSKWiz3O1wkt0vc2ZfL45ewgwYRhjMisA?session=0&fife" height="200" width="auto" /><br><br>Naked Warrior Memorial \n National Navy SEAL Museum<br>3300 N Hwy A1A<br>Fort Pierce, Florida<br>GPS: 27.495083, -80.300321<br>Museum access: Tuesday-Saturday 10AM-4PM, Sunday 12PM-4PM. Photo can be taken through the fence if visiting outside museum hours.<br><br>The entrance to the National Navy SEAL Museum is guarded by the statue of the Naked Warrior, which specifically portrays the elite men of the U.S. Navy’s Underwater Demolition Teams of World War II. These men went into battle equipped only with swim fins, face mask, and a slate board with a lead pencil on which to record intelligence gathered. Their only weapon was a K-Bar knife. <br><br>The statue also stands in honor of all maritime commando units that have provided legacy capabilities still resident in today’s U.S. Navy SEAL Teams. Several of these legacy units received basic or advanced schooling at Amphibious Training Base (ATB) Fort Pierce, beginning as early as February 1943 in proximity of where the National Navy SEAL Museum now stands.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/g6vprmq6k9kjchp01ojp6r8rnk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpXTZsQZDspkZE7f1-X9MHIHcWwTBT54DATzJREchq5QPGo1bPnYl9lNDupUHUtVI9mr6Rzzzw_wZmiCO6CcxXUs2MLh51XX4dHarD06m7vT57RIV-mKrqFUzoGizPPRF91G1sLsiMGa6Y-DIA-OsVY07KgeycNRZay6Y9YgdyddQ2rbrHZdNL0AyZz3Fj3ynByi8iEZWVCAI-uomoOolTNF2iYZadE47CJmSywfLa4VMh3jdrKSHmIyN8ISFSKWiz3O1wkt0vc2ZfL45ewgwYRhjMisA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.300321,27.495083,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FL3 - Freeport</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/1ar1a3qa7ccfpdmuhgp4oot7cg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALodsXOgAc0YlBJC5bs2LOxawvqEEs4kZ_e55kZyjxCLBdpk-dkNL_ogIOnZR4vTUzMQFOLqRp9as9KINHe7HmH8oo6fw0FeLMt4iWY6pdYXaRGdUXraLX67LwwQZuYnArNOtJnBmetvhXd92_6ip0jwd4sroUaE_8wxFXMAa5FDDteZmWWlKsWw4r6CYhFhnmzSI0Iv7b98sxQ-pwwKprArihTsO9LTpBC5_eZ0ZB0SporImwlHfyKJwKuxYaS_Y29P8YC4VlfkFVEAkhs-39PbPyhBYQ?session=0&fife" height="200" width="auto" /><br><br>Fallen Soldier Memorial<br>112 FL Hwy 20<br>Freeport, Florida<br>GPS: 30.499600, -86.137970<br>Access: 24/7, ADA-accessible, parking in adjacent lot. <br><br>The newly installed Fallen Soldier monument compliments the existing Freeport Veterans Memorial located adjacent to City Hall.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/1ar1a3qa7ccfpdmuhgp4oot7cg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALodsXOgAc0YlBJC5bs2LOxawvqEEs4kZ_e55kZyjxCLBdpk-dkNL_ogIOnZR4vTUzMQFOLqRp9as9KINHe7HmH8oo6fw0FeLMt4iWY6pdYXaRGdUXraLX67LwwQZuYnArNOtJnBmetvhXd92_6ip0jwd4sroUaE_8wxFXMAa5FDDteZmWWlKsWw4r6CYhFhnmzSI0Iv7b98sxQ-pwwKprArihTsO9LTpBC5_eZ0ZB0SporImwlHfyKJwKuxYaS_Y29P8YC4VlfkFVEAkhs-39PbPyhBYQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -86.13797,30.4996,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FL4 - Jacksonville
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/03jefjf0d1trgsq33f135h0gnk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqOmYJ0YuT1Q0gRk3EDV3aS8jcNfgAlZ_XG90xFfhe-41qkPUAyxfLoFLS_58LOpbtzkPYpsUIIWP6VEkr8S8p5JPGLopSMgOPgBLLvsDUgkGNy55j3MpKKtbbTEqo7P_xV5_h0gc1yA4WLJesUigz4bC6XOhmfxgnaVl3EXHLrk0V3v31ZHl3lydcrWu_KHxBEGAECKnHYQLRD503IA9fRIPDHSPa2amgQx1qGIB6SffnKnPpR5qnlwAH4RylQ-yY_PSAHU-UzsoL8j-XD48LfgsepFQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Wall and Eternal Flame<br>1145 East Adams St.<br>Jacksonville, Florida<br>GPS: 30.324398, -81.640288<br>Access: 24/7, illuminated but use caution after dark.<br><br>The Veterans Memorial Wall is located adjacent to the Jacksonville Municipal Stadium in downtown Jacksonville, Florida. The quarter-million dollar monument was dedicated in November, 1995 and serves as a tribute to more than 1,500 Jacksonville area American war heroes. The outdoor memorial was promoted as “the only wall that honors veterans from all six branches” (Army, Navy, Marines, Air Force, Coast Guard and Merchant Marine). The 65 foot-long black granite monument contains the names of servicemen and women from World War I through Operation Desert Storm and the current war on terrorism.<br><br>The Wall is the site of the city’s Memorial Day ceremony, when any local servicewoman and serviceman who lost their lives in the prior year are honored and their names added to the obelisque.<br><br>When the Wall was built, it was located just eight feet from the exterior wall of the Jacksonville Veterans Memorial Coliseum, and extraordinary measures were taken to protect it when the Coliseum was demolished in 2003. When all of the debris was removed and the site restored to grade, the Memorial was surrounded by a 2-acre walking park.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/03jefjf0d1trgsq33f135h0gnk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqOmYJ0YuT1Q0gRk3EDV3aS8jcNfgAlZ_XG90xFfhe-41qkPUAyxfLoFLS_58LOpbtzkPYpsUIIWP6VEkr8S8p5JPGLopSMgOPgBLLvsDUgkGNy55j3MpKKtbbTEqo7P_xV5_h0gc1yA4WLJesUigz4bC6XOhmfxgnaVl3EXHLrk0V3v31ZHl3lydcrWu_KHxBEGAECKnHYQLRD503IA9fRIPDHSPa2amgQx1qGIB6SffnKnPpR5qnlwAH4RylQ-yY_PSAHU-UzsoL8j-XD48LfgsepFQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.640288,30.324398,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FL5 - Key West </name>
+      <description><![CDATA[<br><br>Veterans Memorial Garden<br>Bayview Park \n 1320 Truman Ave.<br>Key West, Florida<br>GPS: 24.557496, -81.787989<br>Access: 24/7, parking available along Jose Marti Dr.<br><br>Dedicated in 2014, this park contains memorials to each of the conflicts that America has faced over the years. There are memorials to Korea, Afghanistan, and a photo-etched wall dedicated to Vietnam. The different sections of the park combine to create an impressive tribute to all Key West veterans.<br><br>In 2016, the Forgotten Soldier Memorial was unveiled in remembrance of Key West’s African-American residents who served in the Union’s 2nd South Carolina infantry regiment during the Civil War. (Key West was held by Union forces throughout the war). There is also a memorial to Confederate soldiers and sailors nearby.<br><br>Made in America: Don’t forget the keepsake photo of your bike at the buoy at South and Whitehead Sts.<br><br>If taking part in the RTE-USA Challenge, pay a visit to B.O.’s Fish Wagon (801 Caroline St.) for a fish sandwich, or Keys Fisheries in Marathon, ½ way between Key West and Miami, for a lobster reuben and “one of the best sunset locations in the Florida Keys.”<br><br>Who doesn’t like key lime pie? For award-winning key lime pie and other mouth-watering confections, try Blond Giraffe Key Lime Pie Factory on the way back from Key West. Voted “Best in Key West,” “Best in Miami,” and “Best in Florida.” http://www.blondgiraffe.com<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -81.787989,24.557496,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FL6 - Merritt Island</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7knncgbb05nj62ir80peq0fdsk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALogsvTuTEEH36BDXzxUGIUecAw_qim5PyoAHUdWuDRMvx8zaj7uN1a9J-b_gmiYWKV-tcWxGczp04Hs7bWv36Xa3KNhRSQ5hdWPDkox7iZv3AYN2M5ayZUWQmO7W9KvqVpQQ10pCKFEXXZ3fj6cZi0wsBnD1dDONufZinF5pD6R5XAnJhxG05W0mSDTXIbOxDqfqfgASN7NmKB2-xY23xvNfE5vq6BvjpkdWWAGfKgEKVhTR5UYK214AIAUzqWCumqcFtW5auCYpaCptwbUC6LPmtTdDQ?session=0&fife" height="200" width="auto" /><br><br>Memorial Plaza<br>Brevard County Veterans Center \n 400 S Sykes Creek Pkwy.<br>Merritt Island, Florida<br>GPS: 28.351298, -80.682885<br>Access: 8:30AM-5PM (gated), trophy and IBA runs require visit during open hours.<br>ADA-accessible.<br><br>At the time of this writing, the Veterans Memorial Center/Museum is in the midst of an expansion. The original small center is still open and accessible to the public (free), but it is likely that the new center will be available to enjoy by the start of the TOH season. The outside static display is impressive, consisting of a multitude of military vehicles and weaponry, along with many memorials surrounding the central court. <br><br>Also in the memorial court is the WWI ‘Dixie Doughboy’ statue, for those participating in the ‘Searching for the Lost Generation’ challenge.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met. ]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7knncgbb05nj62ir80peq0fdsk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALogsvTuTEEH36BDXzxUGIUecAw_qim5PyoAHUdWuDRMvx8zaj7uN1a9J-b_gmiYWKV-tcWxGczp04Hs7bWv36Xa3KNhRSQ5hdWPDkox7iZv3AYN2M5ayZUWQmO7W9KvqVpQQ10pCKFEXXZ3fj6cZi0wsBnD1dDONufZinF5pD6R5XAnJhxG05W0mSDTXIbOxDqfqfgASN7NmKB2-xY23xvNfE5vq6BvjpkdWWAGfKgEKVhTR5UYK214AIAUzqWCumqcFtW5auCYpaCptwbUC6LPmtTdDQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.682885,28.351298,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FL7 - Trenton</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/i76sbp1bv6ri7afer7rh0qavuo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpX4rtsl8CIW4zdCFO1FqWw1YwbgvksRJUGRIlAJCLOv2HM3GptrLMyhmdqc6sdH6P0sEI0iJgiPLqERkT2TnrcZ2rjKGwNZJ9-fIO1JxOxIYWkXokmwJzdniH_D37J2HEFUopUN_XHUTsY8ozns-APHLqwNi22kUGp7L0nE9RapbQr6B9mUxnY0YBFuW3PljN8cATHMxGz6mNPNUwf71rmpLC8sFK6z2plxfVMCFvQo0LFttzgl0IOehZFxZzHAhLc_rgz_Ic42hIpfPRs5kpsZTbQRg?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>225 SE 1st Ave.<br>Trenton, Florida<br>GPS: 29.612348, -82.817765<br>Access: 24/7<br><br>This display contains several memorials dedicated to the conflicts America has faced. The various obelisks and pedestals are arranged in a circle around a central flag and occupy a linear park in front of the Gilchrist County Courthouse.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/i76sbp1bv6ri7afer7rh0qavuo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpX4rtsl8CIW4zdCFO1FqWw1YwbgvksRJUGRIlAJCLOv2HM3GptrLMyhmdqc6sdH6P0sEI0iJgiPLqERkT2TnrcZ2rjKGwNZJ9-fIO1JxOxIYWkXokmwJzdniH_D37J2HEFUopUN_XHUTsY8ozns-APHLqwNi22kUGp7L0nE9RapbQr6B9mUxnY0YBFuW3PljN8cATHMxGz6mNPNUwf71rmpLC8sFK6z2plxfVMCFvQo0LFttzgl0IOehZFxZzHAhLc_rgz_Ic42hIpfPRs5kpsZTbQRg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -82.817765,29.612348,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

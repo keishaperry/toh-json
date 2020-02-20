@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Washington sponsored by John Davis</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>WA1 - Dayton
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gi0264a0jcrrugjoqe6ae8m5lk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoQgt6vO4yUR6MSOkcfdh5AuUUmN4hpiYiuoN11lJadzkm2VUwe08FmP4_OtXzap8qRMoRrrw9xJ9SHX9FVylzii_l9S3ncCZ_jN__Zcbd1_b9cp7rTWo-Ilvo4bUy02VvZFFRT8C4Ib87rmc5OMUBtvR8hNgCbQKt_JL0K13ASvtTwv-fHgqv_fgrM0XcxNreABUrQ0v17SzfqH10C0uByr3FM42ZZdhgQXOIy4sOsAvvN_eIeWlspb2wOr6Yag3V9mJT0-RJrHp1yiHRxb5Qdl0OZmQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>427 E Main St.<br>Dayton, Washington<br>GPS: 46.321686, -117.976668<br>Access: 24/7<br><br>The memorial consists of a central flagpole surrounded by 10 basalt columns. Nine of the columns have brass plaques with the name of a war, and the tenth has the name of the memorial. This is the first phase of the memorial, and the plan for the future is to include the names of all Columbia County Veterans.<br><br>Made in America: In nearby Waitsburg is the Laht Neppur Brewery featuring excellent burgers and onion rings. http://bit.ly/2tB7na0<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gi0264a0jcrrugjoqe6ae8m5lk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoQgt6vO4yUR6MSOkcfdh5AuUUmN4hpiYiuoN11lJadzkm2VUwe08FmP4_OtXzap8qRMoRrrw9xJ9SHX9FVylzii_l9S3ncCZ_jN__Zcbd1_b9cp7rTWo-Ilvo4bUy02VvZFFRT8C4Ib87rmc5OMUBtvR8hNgCbQKt_JL0K13ASvtTwv-fHgqv_fgrM0XcxNreABUrQ0v17SzfqH10C0uByr3FM42ZZdhgQXOIy4sOsAvvN_eIeWlspb2wOr6Yag3V9mJT0-RJrHp1yiHRxb5Qdl0OZmQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -117.976668,46.321686,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA2 - Forks</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/s8bbrse24f49bf01eppdu9s5r0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp64_fPN7gdc2BXQoOgTv04R89ZUjWza6Zizna4Q-5guukKMMWRr9-nbKKIuob0wUpiqwl0r1TLS55e2gNHuyOXpVMDKyVXIgp3lwNnEE9yBfs6ZPO4b03ty1o8C7MXNIbPx5E4pP17bKrWFQTxoTxOZM_ut2DT8DAY2rIb0C57_jx3mE9NiPNJSJPCFXKN6IJcbdoumfqadAC3GH4xgmo9tFKPfMjCJunp5wPPqr7Hhp5jz5XoSP2y5BBKfJGYdrblGekbcGryM5yNuudTq0rcJebi4Q?session=0&fife" height="200" width="auto" /><br><br>Gold Star Families Memorial Monument<br>551 S Forks Ave.<br>Forks, Washington<br>GPS: 47.945508, -124.384985<br>Access: 24/7, but no illumination at night<br><br>Dedicated in October 2019, the Forks Gold Star Family Memorial Monument is the first, and currently only, Gold Star Family Memorial in Washington state. Gold Star Family Memorials honor the families of those who have sacrificed in service to our country.<br><br>The Hershel “Woody” Williams Medal of Honor Foundation are responsible for these memorials, and one of the three charities supported by Tour of Honor. The memorials are featured as a TOH auxiliary ride. Find out more at http://bit.ly/3avCV1v<br><br>Made in America: Forks was the setting for the Twilight series of novels, so many places in town promote vampire/Twilight-related themes.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/s8bbrse24f49bf01eppdu9s5r0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp64_fPN7gdc2BXQoOgTv04R89ZUjWza6Zizna4Q-5guukKMMWRr9-nbKKIuob0wUpiqwl0r1TLS55e2gNHuyOXpVMDKyVXIgp3lwNnEE9yBfs6ZPO4b03ty1o8C7MXNIbPx5E4pP17bKrWFQTxoTxOZM_ut2DT8DAY2rIb0C57_jx3mE9NiPNJSJPCFXKN6IJcbdoumfqadAC3GH4xgmo9tFKPfMjCJunp5wPPqr7Hhp5jz5XoSP2y5BBKfJGYdrblGekbcGryM5yNuudTq0rcJebi4Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -124.384985,47.945508,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA3 - Maryhill
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/74k9tfhhqv0a90a62991joq5ds/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrSqrvaiuNE3Nj2ZDc7EjsWji4HavXyIuOOIFP4B8Bwao0ZFE1dK8JG3y9_lXFlcz4GMLXUhX7dh8llMBAsDWrOLVfNZaUdhC5hGvEliJlLT_xToSP6b1bHAcUdSV9Ju695SDCk2YzoZ2p1Qk1LmYdFQ8MmlkDsY4LbakxDCR6nvm2tY-4QvNcUC1L0QrR4dkVuHSiKVI5FxzHsHihPF6P97ECeHgeKHSVwByaVr_5ebUO065u_5ajvuNckM5BOu3tSPLMmhePLx5bs1ujJgfGFrBy0lQ?session=0&fife" height="200" width="auto" /><br><br>Stonehenge WWI Memorial<br>Stonehenge Dr.<br>Maryhill, Washington<br>GPS: 45.694342, -120.806115<br>Access: 7AM-Dusk<br><br>Erected as the nation’s first WWI memorial and dedicated in 1918 to the servicemen of Klickitat County, Washington, who died in the service of their country during the Great War, entrepreneur Sam Hill built Stonehenge Memorial is a monument to heroism and peace.<br><br>Hill erroneously believed that the original Stonehenge was constructed as a place of human sacrifice. Concluding there was a parallel between the loss of life in WWI and the sacrifices at ancient Stonehenge, he set out to build a replica on the cliffs of the Columbia as a reminder of those sacrifices and the “incredible folly” of the war.<br><br>Guided by leading authorities on archaeology, astronomy, and engineering, Hill combined their knowledge to duplicate, as nearly as possible, the original size and design of the ancient Neolithic ruin in England.<br><br>Made in America: In 1995, the Klickitat County Veterans’ Memorial was erected near Hill’s Stonehenge to honor those who have died in service of their country since WWI. The project was a partnership between Maryhill Museum of Art and the Klickitat County Veterans Association.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/74k9tfhhqv0a90a62991joq5ds/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrSqrvaiuNE3Nj2ZDc7EjsWji4HavXyIuOOIFP4B8Bwao0ZFE1dK8JG3y9_lXFlcz4GMLXUhX7dh8llMBAsDWrOLVfNZaUdhC5hGvEliJlLT_xToSP6b1bHAcUdSV9Ju695SDCk2YzoZ2p1Qk1LmYdFQ8MmlkDsY4LbakxDCR6nvm2tY-4QvNcUC1L0QrR4dkVuHSiKVI5FxzHsHihPF6P97ECeHgeKHSVwByaVr_5ebUO065u_5ajvuNckM5BOu3tSPLMmhePLx5bs1ujJgfGFrBy0lQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -120.806115,45.694342,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4 - Moses Lake</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/etb7a62gvkmfv7vmhk7r9l3hso/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpEFwEVqNU4cXPD63otwsMM-qf-u4GM3lSL02K7XMJ6f1_kQWOqeRi6vOkx_rQ8T72IUvy2EsCoQ20CEH6i5dkx6s6tv4zn8a-2GIBPCmeBPk5qvV0ORFPb3f8XY5vya2Rdmzn3QzzQDOf4TIZxLPDgkLIfnlYfaYrkFSllw16F8LnKAGTTkD-xMt_hcoVf-IToTzrlz3AUjo_t-Gq_oAPeuxcmLEAKIxFWvOybbDSg39Mmz73yHVbWFCfac8QvWCVp6eYt7T0AHc-oc5rpbK9CR258UQ?session=0&fife" height="200" width="auto" /><br><br>“Forgotten Heroes” Memorial<br>Andrews St. NE & 26th Ave. NE<br>Moses Lake, Washington<br>GPS: 47.188459, -119.324573<br>Access: 24/7<br><br>The Forgotten Heroes Memorial was erected to honor the 87 servicemen killed on December 20th, 1953, while returning home from the Korean War for Christmas. The victims were part of a flight of 106 servicemen and 10 crew members aboard an Air Force C124 Globemaster departing from what was then Larson AFB. The men were chosen through a lottery to come home from the Korean theater for Christmas as part of “Operation Sleigh Ride.” The plane crashed on takeoff killing all but 29.<br><br>Larson AFB was deactivated in June 1960 and is now the Grant County International Airport.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/etb7a62gvkmfv7vmhk7r9l3hso/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpEFwEVqNU4cXPD63otwsMM-qf-u4GM3lSL02K7XMJ6f1_kQWOqeRi6vOkx_rQ8T72IUvy2EsCoQ20CEH6i5dkx6s6tv4zn8a-2GIBPCmeBPk5qvV0ORFPb3f8XY5vya2Rdmzn3QzzQDOf4TIZxLPDgkLIfnlYfaYrkFSllw16F8LnKAGTTkD-xMt_hcoVf-IToTzrlz3AUjo_t-Gq_oAPeuxcmLEAKIxFWvOybbDSg39Mmz73yHVbWFCfac8QvWCVp6eYt7T0AHc-oc5rpbK9CR258UQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -119.324573,47.188459,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA5 - Neah Bay</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/m9fi2gmi8g0ce5n0sqs55uiudg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpXgI7b6zd51QnPNZ7NLknsX3MmVk9GtxdLfk5AIOHc24be83r74wEQTHugJ-6DG2FTcyZPCYo9L6fj7qriolIwohYa2wKC3SbbCWeV9A4qBEyAuk8n3pdAKizDPgnW4fsyuYHo0t5DqVgbaQcwFWzNKAZOi5jjI5wqFUExSEgsrgTwitGi6Zbk62Q63tZ4aHWvzWeXuUCq8fpHRRldQAx62mPW7E06a2xo6AFt1ePAp9DII3yAitNGCLlnS9YFvEju3lTdetjB2_C_MmM8g4Jdf4-X4g?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Diah Veterans Park and Ft. Nunez Gaona \n Holden Creek & Bayview Aves.<br>Neah Bay, Washington<br>GPS: 48.368990, -124.625570<br>Access: 24/7<br><br>Built on waterfront property overlooking Neah Bay, the structure is constructed of six large cedar columns to resemble a traditional Makah longhouse. The columns are from a tree felled on the property. Along its western side is a tall fort-like fence of logs. The site bears the flags of the United States, Spain, the Makah Nation, Washington state, the Nuu-chah-nulth Native Peoples of Canada, and each branch of the United States military. A stone monument bears the names of Neah Bay area veterans who have served since World War I. The fact that all returned home alive is a source of Makah pride.<br><br>Made in America: Calvins Crab House, next door, is 4.5 star rated on both Yelp and Tripadvisor.<br><br>Nearby Cape Flattery is the northwestern-most point in the lower 48. Although a hike is required to reach the tip of the cape, the road into the trailhead is well-paved, twisty and worth the ride, even if you don’t take the hike.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/m9fi2gmi8g0ce5n0sqs55uiudg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpXgI7b6zd51QnPNZ7NLknsX3MmVk9GtxdLfk5AIOHc24be83r74wEQTHugJ-6DG2FTcyZPCYo9L6fj7qriolIwohYa2wKC3SbbCWeV9A4qBEyAuk8n3pdAKizDPgnW4fsyuYHo0t5DqVgbaQcwFWzNKAZOi5jjI5wqFUExSEgsrgTwitGi6Zbk62Q63tZ4aHWvzWeXuUCq8fpHRRldQAx62mPW7E06a2xo6AFt1ePAp9DII3yAitNGCLlnS9YFvEju3lTdetjB2_C_MmM8g4Jdf4-X4g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -124.62557,48.36899,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA6 - Oak Harbor
+</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/i4r1q7tdin54vp48n1d64e85dk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoSJ2M3P6pVDnKU6SZRAt81q96Bf1uJQQo1cbwyhfFq5_XtA6wKn1JpuYDSsp8iBUPxw9McSxdQh187Ii2DdvfoMI4Owd40xlC9z1-O5a9xBtcKolKMno5z3Mok0apqH7Y-cXcowIlo6--9wxQYZSNteweY9jvN8nWovS-TQe3ZZ8HbqJ5NX_fIeGyGck8GcltqhkxjycSXGeYezahUsr_TQ3NgGvONPhGFFsT9Phw9yesSUf0NnvQEGJVus_vd_zf3ts0XokuF502SP83chzzVycIDjw?session=0&fife" height="200" width="auto" /><br><br>A-3 Skywarrior Memorial<br>Langley Blvd. & Larkspur Circle<br>Oak Harbor, Washington<br>GPS: 48.331934, -122.668579<br>Access: 24/7<br><br>Dedicated in October of 2017, the A-3 Skywarrior Memorial features a beautifully restored A-3 Skywarrior and honors those who flew the A-3 and perished.<br><br>The A-3 Skywarrior Strategic Bomber (aka “The Whale”) was a carrier-based aircraft in service from 1952-1991. It could carry up to 12,000 lb of weaponry in the bomb bay, nearly as much as the Air Force’s F-105 that could carry 14,000 lb. on its five “hardpoints.”<br><br>Directions to the memorial: From Highway 20 on Whidbey Island, turn onto W. Ault Field Rd . The turn is marked by the display of A-6 and EA-6B (featured in TOH 2012) aircraft on the west side of the highway. Drive West on Ault Field Rd approximately 1.8 miles to Langley Blvd. Drive down Langley Blvd approximately .4 miles. Turn right onto Larkspur Circle before reaching the Langley Gate entrance to NAS Whidbey Island. The memorial site is on Navy property, but outside the security perimeter, and is accessible to the public.<br><br>Made in America: If you’re hungry, visit the nearby, rider-friendly BBQ Joint for an outstanding meal. “Southern BBQ Hospitality And Real Sweet Tea.” http://www.thebbqjoint.com<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/i4r1q7tdin54vp48n1d64e85dk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoSJ2M3P6pVDnKU6SZRAt81q96Bf1uJQQo1cbwyhfFq5_XtA6wKn1JpuYDSsp8iBUPxw9McSxdQh187Ii2DdvfoMI4Owd40xlC9z1-O5a9xBtcKolKMno5z3Mok0apqH7Y-cXcowIlo6--9wxQYZSNteweY9jvN8nWovS-TQe3ZZ8HbqJ5NX_fIeGyGck8GcltqhkxjycSXGeYezahUsr_TQ3NgGvONPhGFFsT9Phw9yesSUf0NnvQEGJVus_vd_zf3ts0XokuF502SP83chzzVycIDjw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.668579,48.331934,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA7 - Tonasket
+</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/i7rdku17pi64gh85nq6l1hsaqc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoCK1LjzOUHu4qTZXHCAB9TT_5H2i4Yr5iOUTnsH3eXJ2XEwzPm0GtK4xOM7bzpLswLsU6P-AlGA31Tn6SzaDFvjndrn9L-MSgIsl3jYFInsXsP-fPd-v6KG4qQiGupuLWq_vSJGxakDVJsnoY2mI_jaQIJ4zJME5921Xn1RWTEwIwZpBsQv6TcG4H5KVfOWzHRM58lDkwY0LW1-j9JXhIO6NK7dKweQP_qpUvL0AHkH1FAXAEQ3p2FJLWa_YYE6nfd4N_JW83P_s5kyF63qwd74iRC_g?session=0&fife" height="200" width="auto" /><br><br>Veterans Monument<br>1 Tonasket Shop Rd.<br>Tonasket, Washington<br>GPS: 48.701580, -119.442844<br>Access: 24/7<br><br>The Armed Forces Legacy Project is an ongoing project designed to build and maintain the legacy of the armed forces and those who have served. Unlike a memorial, the project accepts the names of living veterans as well as deceased. This one half acre project is a staffed organization which will help veterans to understand and apply for their benefits.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/i7rdku17pi64gh85nq6l1hsaqc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoCK1LjzOUHu4qTZXHCAB9TT_5H2i4Yr5iOUTnsH3eXJ2XEwzPm0GtK4xOM7bzpLswLsU6P-AlGA31Tn6SzaDFvjndrn9L-MSgIsl3jYFInsXsP-fPd-v6KG4qQiGupuLWq_vSJGxakDVJsnoY2mI_jaQIJ4zJME5921Xn1RWTEwIwZpBsQv6TcG4H5KVfOWzHRM58lDkwY0LW1-j9JXhIO6NK7dKweQP_qpUvL0AHkH1FAXAEQ3p2FJLWa_YYE6nfd4N_JW83P_s5kyF63qwd74iRC_g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -119.442844,48.70158,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

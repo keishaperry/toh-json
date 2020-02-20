@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Dakotas sponsored by Ken & Linda Schleman]]></name>
+    <Style id="icon-1502-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ND1 - Carson
+</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pa1vangue8u688eh60i7fecni8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpBNVgDND41IaRdb7kgx88irM-zYVFhXMiW75LA8nmhzM1DGoswKYNMzhzMXiDujCVUivCPUcrZU1Wh9upn3GBm_9IdeFWB8HmrF0NvxiEkez9dBihKr6BXhOSYQYQpzVPQygFQeuJHKXkysej8guBlSLrDr0_7yMcpIiutwVTS_0BQfegIWHp2gv5xQjWrmdReajeVWLMX_6xxdX7QsGsLkLjeh00x1MR-XEgjOYZAQ2uOSlAhDVm0WOZ4UkYHitoC6OYRYJ2Rmf5q2FxSY3vRNde2_Q?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>106 2nd Ave.<br>Carson, North Dakota<br>GPS: 46.421779, -101.564862<br>Access: 24/7<br><br>The Grant County Veterans Memorial is located in this small town of 295 residents. According to one of the local resident, Reuben Zeller, 99 years young, the funds to build the memorial were raised by local American Legionnaires playing poker.<br><br>Made in America: Eating places and local attractions are limited in this part of the country. However, its made up for with great motorcycle roads, relaxation, and enjoying peaceful surroundings. <br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pa1vangue8u688eh60i7fecni8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpBNVgDND41IaRdb7kgx88irM-zYVFhXMiW75LA8nmhzM1DGoswKYNMzhzMXiDujCVUivCPUcrZU1Wh9upn3GBm_9IdeFWB8HmrF0NvxiEkez9dBihKr6BXhOSYQYQpzVPQygFQeuJHKXkysej8guBlSLrDr0_7yMcpIiutwVTS_0BQfegIWHp2gv5xQjWrmdReajeVWLMX_6xxdX7QsGsLkLjeh00x1MR-XEgjOYZAQ2uOSlAhDVm0WOZ4UkYHitoC6OYRYJ2Rmf5q2FxSY3vRNde2_Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -101.564862,46.421779,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ND2 - Dawson</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/mc1n108pkgefi44a953uja56e8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrLi6QaXqDw9rulGDAJx5NdtD0gQJpZuQRXljaMziRhB0W9Rzzo0oEdBCV75bjcyJTpWHGcWfg4h90JglzhJsA5AlHxNEUUEVTq7wycxyI36DioY0V0anOX21A8Ka12Uo7YAtWOYHSP4kDBaJ8CowzLIGXa2FT_9_aySWQ8GrC8J97Ud2mvW4lfTmBJSqHjuTG41nzHEb2KioEMocC1dsaxDFiMRG_4w-paCzW20Vp4twp-mrf8J9ZayNiR9aTdB_C4f0-C8IndqW8scI4WUbCC2qT3rQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Wall<br>Lake Ave. & Thompson St.<br>Dawson, North Dakota <br>GPS: 46.867347, -99.751179<br>Access 24/7<br><br>The Veterans Memorial Park in this quaint town honors veterans of all wars, with a wall of names of local veterans, an information booth with pictures and memorabilia, and a guest log book that you are encouraged to sign. <br><br>Made in America: March 400 feet to Dawson’s Corner Café at 123 Thompson St. The state sponsor encourages you to discover the joy of the best knoephla (potato soup with dumplings) in North Dakota.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/mc1n108pkgefi44a953uja56e8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrLi6QaXqDw9rulGDAJx5NdtD0gQJpZuQRXljaMziRhB0W9Rzzo0oEdBCV75bjcyJTpWHGcWfg4h90JglzhJsA5AlHxNEUUEVTq7wycxyI36DioY0V0anOX21A8Ka12Uo7YAtWOYHSP4kDBaJ8CowzLIGXa2FT_9_aySWQ8GrC8J97Ud2mvW4lfTmBJSqHjuTG41nzHEb2KioEMocC1dsaxDFiMRG_4w-paCzW20Vp4twp-mrf8J9ZayNiR9aTdB_C4f0-C8IndqW8scI4WUbCC2qT3rQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.751179,46.867347,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ND3 - Kenmare</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7kv8tk1o3jqmigd13n161gmq8g/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALomCz7m5TNiiUjFXMLzZDYXbFnDLmj7okphPCtH775dP2VN1mOdidNIqYl4-0-N6abY8omwELoDMDxH6IZg9stSqk2t4_TwhqbUUwRHff3y6SXUesCDrUjlQFXlDedoMHITM7Rnn7PW8Y5RxJc2D59CBn9pdxk0RUGbwCSoBjcR1Td4OIDociOec5l6j0bA51-Vz5Wj_viSUpHpEtHDgCmxREwFWRm2_0ucWLpSq7X0HN3TYvqmQqK4Q6Gzjmv5vSdMTudMQFWF8jmxVPTs8zCyUuIz9w?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>W Division St. & 1st Ave NW<br>Kenmare, North Dakota<br>GPS: 48.671956, -102.083357<br>Access: 24/7<br><br>This veterans memorial honors all branches of service. The bottom of the memorial is inscribed with “In memory of those who served,” “In tribute to those who perished,” “ In gratitude to those now serving.”<br><br>Made in America: This little town has a typical small town eatery called South of the Border, located at 50401 US-52<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7kv8tk1o3jqmigd13n161gmq8g/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALomCz7m5TNiiUjFXMLzZDYXbFnDLmj7okphPCtH775dP2VN1mOdidNIqYl4-0-N6abY8omwELoDMDxH6IZg9stSqk2t4_TwhqbUUwRHff3y6SXUesCDrUjlQFXlDedoMHITM7Rnn7PW8Y5RxJc2D59CBn9pdxk0RUGbwCSoBjcR1Td4OIDociOec5l6j0bA51-Vz5Wj_viSUpHpEtHDgCmxREwFWRm2_0ucWLpSq7X0HN3TYvqmQqK4Q6Gzjmv5vSdMTudMQFWF8jmxVPTs8zCyUuIz9w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -102.083357,48.671956,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ND4 - Rugby</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/afiscrua4m5spne979tqhk0e4s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqhS5H67WDZwTqFkVOrnEsVbV6oOCiQhTpCihPfOANcFa8LNNEUy17p_ijpN-ys59AtFIJs7mAUJHhVhHqCu_JaNMBVmBBGDnmwiMusxEwZ-D1N-KsX1fNfBrXRCEf9YSc4QXopGgNqrbiWeYPws08LR6VHotqsqRHIXn4JYh388pXKD-kXQ5LKb0NHfOYgwQflwL4iBbB6asTN14RliuGB5x0dXVOOCCqX714H0WEvIj2ON7T8eJqFgTs9X2QkcpAuOuIT51YsHv_A85TQ6KOq84yDYw?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>3rd St SE & 2nd Ave SE<br>Rugby, North Dakota<br>GPS: 48.367818, -99.995063<br>Access 24/7<br><br>This veterans memorial is located on the grounds of Pierce County Memorial Hall, and maintained by the local American Legion Post 23. <br><br>Made in America: The town of Rugby is the geographical center of North America. A great photo op is the rock obelisk about 15 feet tall flanked by poles flying the United States and Canadian flags, marking the intersection of Highways US 2 and ND 3.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/afiscrua4m5spne979tqhk0e4s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqhS5H67WDZwTqFkVOrnEsVbV6oOCiQhTpCihPfOANcFa8LNNEUy17p_ijpN-ys59AtFIJs7mAUJHhVhHqCu_JaNMBVmBBGDnmwiMusxEwZ-D1N-KsX1fNfBrXRCEf9YSc4QXopGgNqrbiWeYPws08LR6VHotqsqRHIXn4JYh388pXKD-kXQ5LKb0NHfOYgwQflwL4iBbB6asTN14RliuGB5x0dXVOOCCqX714H0WEvIj2ON7T8eJqFgTs9X2QkcpAuOuIT51YsHv_A85TQ6KOq84yDYw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.995063,48.367818,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SD1 - Eureka</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9u87l1sp344sk5pfvoh7u0top0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALraieQmfnwaUYVrwnHsKvB-jBDIwyhoBnaHGmnFXwjk45pWxijAWxSi55_uPPinAzptWZhfzadBfvWzG4dWAAu6dCHaVMYgKIuyDaUYgu35go0cDYrIL4iOtjsLYoXyXBkJwvJ__FeFR2koNzukh_Y_hi5GcAymxhO8mHuNp4A352XstQE8es3VU2Ap4wYYi2miJYrJ9dCmidk8dsox_fdaRhwZTeOpL1xcaFaQ54utxv5EL6LSGBxp-6jFDADVBqfysUI_uhN1Fa5NsMmlRjJ9DwIqCQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>18th St. & E Ave.<br>Eureka, South Dakota<br>GPS: 45.771980, -99.635380<br>Access: 24/7<br><br>Erected by the Eureka VFW Post 5126, this memorial is dedicated to all veterans of the U.S. Armed forces. It’s located on the east side of Eureka Lake which serves as a beautiful backdrop.<br><br>Made in America: Try the Prime Time at 719 7th St. Lots of food selections and if you happen to be there in the evening you may be serenaded with a live piano.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9u87l1sp344sk5pfvoh7u0top0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALraieQmfnwaUYVrwnHsKvB-jBDIwyhoBnaHGmnFXwjk45pWxijAWxSi55_uPPinAzptWZhfzadBfvWzG4dWAAu6dCHaVMYgKIuyDaUYgu35go0cDYrIL4iOtjsLYoXyXBkJwvJ__FeFR2koNzukh_Y_hi5GcAymxhO8mHuNp4A352XstQE8es3VU2Ap4wYYi2miJYrJ9dCmidk8dsox_fdaRhwZTeOpL1xcaFaQ54utxv5EL6LSGBxp-6jFDADVBqfysUI_uhN1Fa5NsMmlRjJ9DwIqCQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.63538,45.77198,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SD2 - Hot Springs</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/73hlq6qr1b2la2spq47c5662lk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrHXrgPe-zexMX2aDDIrI85_b52ewboMqSxdOzTduncsRnk7IkQfiF_KrI4Uc9SlEgw0sQRMP_pHrKN3j2RVL_NeClc2E3J9FqvxGpVxsZyMoN7XXcskT_rgEfiuqwQLDAQ-lwXmd410dzceMo0Hg0o-ZXHd7JF0Nzw01M48LSXEnZVzc35gJfdHKd4ttqqKMe0axaapK_ZBf9awq5rurDyFS5Ek5L9COx6H0KL5AuqnMDr2Lyzy3VyWROPrx5iyG3Z5hvXZ-VeIvbzGDIvXa27cOrDfw?session=0&fife" height="200" width="auto" /><br><br> <br>2500 24th St.<br>Hot Springs, South Dakota<br>GPS: 43.436874, -103.493650<br>Access: 24/7<br><br>This memorial is located on the grounds of the Michael J. Fitzmaurice South Dakota Veterans Home. <br><br>In 1889, the Dakota Territorial Legislature met and passed a bill establishing the Dakota Soldiers’ Home to be located in Hot Springs, South Dakota. The object of the Home was to provide the care and subsistence for veterans and their wives and widows who meet eligibility requirements for admission. <br><br>The grounds cover approximately 193 acres offering a serene setting carved out of the beautiful Black Hills. By preserving the old and adding conveniences of the new, a true home environment exists. <br><br>Thank them for their service. We suggest you post a photo on Facebook of yourself with one of the residents. <br><br>Made in America: Hot Springs is located in the southernmost part of the Black Hills and in its uniqueness has many things to offer. There is the Wind Cave National Park where truly the “buffalo roam.” There’s Custer State Park where you can see many types of wild life from buffalo, elk, antelope, to LOTS of prairie dogs (so cute, so destructive), In Custer State Park you can ride the scenic Needles Highway. There’s Highway 71 south of Hot Springs that takes you to the Wild Horse Sanctuary and continues south into Nebraska historic Fort Robinson. Great roads everywhere!<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/73hlq6qr1b2la2spq47c5662lk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrHXrgPe-zexMX2aDDIrI85_b52ewboMqSxdOzTduncsRnk7IkQfiF_KrI4Uc9SlEgw0sQRMP_pHrKN3j2RVL_NeClc2E3J9FqvxGpVxsZyMoN7XXcskT_rgEfiuqwQLDAQ-lwXmd410dzceMo0Hg0o-ZXHd7JF0Nzw01M48LSXEnZVzc35gJfdHKd4ttqqKMe0axaapK_ZBf9awq5rurDyFS5Ek5L9COx6H0KL5AuqnMDr2Lyzy3VyWROPrx5iyG3Z5hvXZ-VeIvbzGDIvXa27cOrDfw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -103.49365,43.436874,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SD3 - Pierre</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lkqg7jruq4oejo2tuo7bt20gcs/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqCmXn0_FfwFqDbCk0DdcPng2zGbVwtOxV_AOiVPJWOsYCBoZYdWkazHwkCLWkhuO0fAvcQLhafzL826f16eK6AqO4jkH0tRfEA6YXA2udXigh3F-1SopQea_zNA2tjIOKXCPB2D0iEAJNbDI9GGc38lA4Wn9aDVhIlchZdJcd2qoL_6rimYw5KZcGETPtGQSgMgI5e2Za8XKF0JMhbmawmH5lPBWjtnVlAGRaXLKN10v3-sK1O9MivgV1UnZ2ilGUj9n3kIsk1r1URMlIW6meDTd3cOA?session=0&fife" height="200" width="auto" /><br><br>Fallen Firefighters Memorial<br>500 E Capitol Ave.<br>Pierre, South Dakota<br>GPS: 44.367275, -100.344047<br>Access: 24/7. Two photos required.<br><br>This memorial was erected in 1996 when 26 firefighters names were placed on the monuments. Since then,18 more names have been added. The memorial is designated for firefighters who have suffered a death in the line of duty while performing fire-related services in, or for the state of South Dakota. Included are the names of four North Carolina National Guard who were working on Black Hills wildland fires, when they were killed (also see below). In 2016, wildland fire-fighter David Ruhl of Rapid City was the last to be added to the memorial, after sacrificing his life in 2015 while assisting fire crews in California.<br><br>An annual memorial service is conducted every fall, usually the first Sunday of October.<br><br>Eight miles northeast of Edgemont, South Dakota, another memorial honors the four North Carolina National Guard men, ages 35-50, who lost their lives when their C-130 air tanker crashed on July 1, 2012. If you would like to see that location where the incident occurred and the modest memorial there, it’s located at 43.3871 -103.7553. <br><br>Made in America: Pierre is the capitol of South Dakota. Oahe Dam is the largest dam along the Missouri River, just north of here, creating Lake Oahe, the fourth largest artificial reservoir in the United States. Lake Oahe stretches 231 miles up the course of the Missouri to Bismarck, North Dakota. <br><br>Big Tom’s Diner is a cool place to eat. Quick, good food, and simple. Located at 1415 E Wells Ave.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lkqg7jruq4oejo2tuo7bt20gcs/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqCmXn0_FfwFqDbCk0DdcPng2zGbVwtOxV_AOiVPJWOsYCBoZYdWkazHwkCLWkhuO0fAvcQLhafzL826f16eK6AqO4jkH0tRfEA6YXA2udXigh3F-1SopQea_zNA2tjIOKXCPB2D0iEAJNbDI9GGc38lA4Wn9aDVhIlchZdJcd2qoL_6rimYw5KZcGETPtGQSgMgI5e2Za8XKF0JMhbmawmH5lPBWjtnVlAGRaXLKN10v3-sK1O9MivgV1UnZ2ilGUj9n3kIsk1r1URMlIW6meDTd3cOA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -100.344047,44.367275,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SD4 - Springfield</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/almerbu2iremvtbv11ts8mm5ic/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrB6spfggGcV9a5cX-PBfBhAIfDsrX5jn1R1mJBCBrK40a2K4C5g1Dx8zkAWmsl5lb-0s4MRufgATYpliMEHpcEjTJiNMjM8U9GKQlo8dhG_8a89_UQWw3bFE9ZAgibEe3LHYMkxa8z-LHqLRfNcO_pYKf5n6S-0nrJhcue2xCgPUYnslkW6tP-w906yMn3auMN63Q4Osra2123AhjbuJss5QAe6Qa9o-vDa5KMreVDolTSl1rAHVR06eh7LIZj6Y19RrSyJGwHLKEFIfmInzKw1U_9MA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Terrace Park \n Walnut & 5th Sts.<br>Springfield, South Dakota<br>GPS: 42.850856, -97.892670<br>Access: 24/7<br><br>The monument is a 22-foot-tall gray granite spire, with black granite panels etched with the names of nearly 2,000 local area veterans.<br><br>Made in America: The beauty surrounding the modest town is a sight to see , with great motorcycle roads to soak in the countryside. The only place to eat in Springfield is the Players Club, located at 710 8th St. Rated 4.6 stars on Google and Yelp.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/almerbu2iremvtbv11ts8mm5ic/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrB6spfggGcV9a5cX-PBfBhAIfDsrX5jn1R1mJBCBrK40a2K4C5g1Dx8zkAWmsl5lb-0s4MRufgATYpliMEHpcEjTJiNMjM8U9GKQlo8dhG_8a89_UQWw3bFE9ZAgibEe3LHYMkxa8z-LHqLRfNcO_pYKf5n6S-0nrJhcue2xCgPUYnslkW6tP-w906yMn3auMN63Q4Osra2123AhjbuJss5QAe6Qa9o-vDa5KMreVDolTSl1rAHVR06eh7LIZj6Y19RrSyJGwHLKEFIfmInzKw1U_9MA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.89267,42.850856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

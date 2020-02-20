@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>California</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>CA1 - Atascadero</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jl79v6mpkb6tfga6rkbfk7j200/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALorHSxnBs35xXoNq9cZILCL0gbHUYpZn4n--PaQQTxtfQY9ErqcEbmaPZPXVsYuMopwk-xhQ0L6ZByp0x_XySlbCVNpVKujrvgucCmrBbXpfcyVfLiEzNYgQyRwFzxFoIwX7vNIdvigZBEfYZcrEr0BXVFLhS9YFIiRyyS7OL6_WqJNJAfzcBzy3xEt_EX4JXpSNAsTnU4MOdwwkgBfUHMXKUjOYVYxUXp3bgtB4x3QB209OXmf7SfdGGNqmUuBch8xfzHhYhahD2jWSrITWE2UnVIwpA?session=0&fife" height="200" width="auto" /><br><br>“Faces of Freedom” Veterans Memorial<br>9085 Morro Rd.<br>Atascadero, California<br>GPS: 35.46809,-120.66948<br><br>This beautiful memorial is halfway between Los Angeles and San Francisco, a little over 1 mile off Highway 101 next to the Atascadero Lake. It shows the true pride of a small town that it has in its local veterans.<br><br>Made in America: Atascadero is a great place to visit during the summer with beautiful country, beaches, hills, mountains, lakes and lots of good breweries and wineries.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jl79v6mpkb6tfga6rkbfk7j200/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALorHSxnBs35xXoNq9cZILCL0gbHUYpZn4n--PaQQTxtfQY9ErqcEbmaPZPXVsYuMopwk-xhQ0L6ZByp0x_XySlbCVNpVKujrvgucCmrBbXpfcyVfLiEzNYgQyRwFzxFoIwX7vNIdvigZBEfYZcrEr0BXVFLhS9YFIiRyyS7OL6_WqJNJAfzcBzy3xEt_EX4JXpSNAsTnU4MOdwwkgBfUHMXKUjOYVYxUXp3bgtB4x3QB209OXmf7SfdGGNqmUuBch8xfzHhYhahD2jWSrITWE2UnVIwpA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -120.66948,35.46809,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CA2 - Bishop</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/qsiesu04bgt2c36i8gamkiepco/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALolBZei2oJILaUD_XfIGTdQPsVOAj3BEjUuAzxK-2uhdxJLyD_-q4bLBH7GErpez1ceXVgxfAc__ChkRn909H5WMlx8WHwmMD4iA6fTo-V49pqVWk_y3u-1V7tnfp2GNn_0IeryfXGXs0Gp_yn-xxtmRbK1okqpEN8H0STYPqKJAH8OYhJUIvnppf_ERs2fIO_Vf-GA_KLKI3rJdpBYnq6IQtSglxRvPGjH5-kfmr-QIRy9KW0UppeSo40wt2vAAebbEir_oy23YYb_8TPU11qZJOrCcQ?session=0&fife" height="200" width="auto" /><br><br>Medal of Honor Recipient Kern Dunagan<br>690 N Main St.<br>Bishop, California<br>GPS: 37.367535, -118.395148<br>Access: 24/7. Two photos may be required because of red zone on street corner. In the spring, check road conditions on US Hwy 395 in the mountain areas.<br><br>The monument memorializes U.S. Medal of Honor recipient, Col. Kern W. Dunagan, US Army. The citation was awarded for his intrepidity and heroic actions in 1969 during the Vietnam War.<br><br>The granite boulder has a brass plaque with Col. Kern W. "Hudson" Dunagan's photo and is engraved with the wording of the Medal of Honor citation delivered in 1971 by President Richard M. Nixon. Take time to read it.<br><br>Col. Dunagan was born in Arizona, lived in the Philippines for a time and settled in Bishop to complete his schooling. He entered the Army in Los Angeles. <br> <br>This memorial was built by classmates of Dunagan at Bishop High School. If visiting during business hours, check in with fellow classmate and veteran Chuck Kilpatrick at the Bishop Area Chamber of Commerce and Visitors Bureau (Mon.-Sat. 9-5, Sun. 10-4). <br> <br>During the Vietnam War, 254 Medal of Honor Citations were received, 63% posthumously. Col. Dunagan survived several injuries during the war, but died of skin cancer at age 57 in 1991 and is buried at the San Francisco National Cemetery at the Presidio.<br><br>Made in America: Back Alley Bowl and Grill was voted Best Dinner in Inyo County, and the hamburgers are great! 649 N Main St.<br> <br>If you have time, check out the murals throughout Bishop, especially the "Dangerous Arrest" and the accompanying plaque honoring the "Angel of Lizard Gulch" (Officer Richard E. Perkins) beside the police station at 207 W. Line St.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/qsiesu04bgt2c36i8gamkiepco/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALolBZei2oJILaUD_XfIGTdQPsVOAj3BEjUuAzxK-2uhdxJLyD_-q4bLBH7GErpez1ceXVgxfAc__ChkRn909H5WMlx8WHwmMD4iA6fTo-V49pqVWk_y3u-1V7tnfp2GNn_0IeryfXGXs0Gp_yn-xxtmRbK1okqpEN8H0STYPqKJAH8OYhJUIvnppf_ERs2fIO_Vf-GA_KLKI3rJdpBYnq6IQtSglxRvPGjH5-kfmr-QIRy9KW0UppeSo40wt2vAAebbEir_oy23YYb_8TPU11qZJOrCcQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -118.395148,37.367535,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CA3 - Chiriaco Summit</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/vrq23j4peq6das82egt2hm20b0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp0ej-E9et7pIsY6bqXAL78PRhTg0B6pEygk4MIhbTVjlUiUamBJ6qqZeMs60rDUonNPH-uxNeoKnM3d0Ix8VxJl6OV89S5eGx31r8RZghawEIZouGnI28linK8dxJScw7Ua7BR0Bctu6RmGBL6y_aUR6M51D2k8yYWRmgJNdGGHvw3pqRuoc0dV_1Rtpt9nCEexUgTQ3TL9axh3CPa53j38kt0r5unh8Kx7WzZ8yCjfRl4-pc0OYYl_J-yijkXB5ZJxsOOu5G3EDPv97n7R_TZK-vgRg?session=0&fife" height="200" width="auto" /><br><br>George Patton Military Museum<br>I-10, east of Palm Springs, Exit 173<br>Chiriaco Summit, California<br>GPS: 33.66170,-115.72228<br>Access: 24/7<br><br>This is at the Desert Training Center California-Arizona Maneuver Area. The D.T.C. was established by Major General Gorge S. Patton in response to a need to train American combat troops for battle in North Africa during WWII. The camp, which began operation in 1942, covered 18,000 square miles, and was the largest military training ground ever to exist. Over one million men were trained at the eleven sub-camps (seven in California, four in Arizona).<br><br>The museum is a must-visit for anyone with an interest in military history. Gas & food are all here. If you are into dry camping there are some free camp sites behind the museum. Not far to the west is Joshua Tree National Park, good camping and a nice motorcycle ride up to the 29 Palms area.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/vrq23j4peq6das82egt2hm20b0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp0ej-E9et7pIsY6bqXAL78PRhTg0B6pEygk4MIhbTVjlUiUamBJ6qqZeMs60rDUonNPH-uxNeoKnM3d0Ix8VxJl6OV89S5eGx31r8RZghawEIZouGnI28linK8dxJScw7Ua7BR0Bctu6RmGBL6y_aUR6M51D2k8yYWRmgJNdGGHvw3pqRuoc0dV_1Rtpt9nCEexUgTQ3TL9axh3CPa53j38kt0r5unh8Kx7WzZ8yCjfRl4-pc0OYYl_J-yijkXB5ZJxsOOu5G3EDPv97n7R_TZK-vgRg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -115.72228,33.6617,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CA4 - La Jolla</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/aqjl8fvmesmh3nl1g3jclvc25s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpMdtjQe0EMCrhXssM7U9jRzTnARrZYqY9xpN1m_RF-z9o6BEqc_Qd2IkieDyKlzPYzx6u2JjqSQ6WIggeRmIxP5D0aaGgohSYjiVdRUi7G67-FxF0e4A2Jc8DmVDxQxpDqaLGfYmIfXQEzTbSeibaZeUK2LzQJKj8FjYk1Jsgx4W5Pvmn88ZTqhwHNIezaiyTd40nA5_yTJAtziRGc0KZSal5xC6oj4L1xUyBHcJ7pjE8JJstdKabrALGF5uwsyqNyTE2CPvaEGjWqntVNl2Tks82aPw?session=0&fife" height="200" width="auto" /><br><br>Mt. Soledad National Veterans Memorial<br>6905 La Jolla Scenic Dr. S<br>La Jolla, California<br>GPS: 32.8398,-117.2452<br>Access: 24/7<br><br>One of San Diego area’s most popular tourist destinations, a memorial with 360 degree views and grassy areas for picnicking. The hilltop location has a storied history with the Lindbergh’s using it for glider flights in the 1920s, used as part of the early-warning defense system in World War II, the Latin Cross dedicated in 1954 for Korean War Veterans, long used by ships and planes for navigation, and now saluting veterans from all wars.<br> <br>Over 3,000 individuals are memorialized with their photos and stories etched onto six concentric walls of granite plaques. <br><br>Made in America: If you like taco trucks, you might want to try San Diegans' favorite: Marisco's German Taco Truck 3, at 3504 University Ave. And if you want a restaurant-style Mexican meal, check out El Indio, est. 1940 and featured on Diners, Drive-ins and Dives. https://www.elindiosandiego.net<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/aqjl8fvmesmh3nl1g3jclvc25s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpMdtjQe0EMCrhXssM7U9jRzTnARrZYqY9xpN1m_RF-z9o6BEqc_Qd2IkieDyKlzPYzx6u2JjqSQ6WIggeRmIxP5D0aaGgohSYjiVdRUi7G67-FxF0e4A2Jc8DmVDxQxpDqaLGfYmIfXQEzTbSeibaZeUK2LzQJKj8FjYk1Jsgx4W5Pvmn88ZTqhwHNIezaiyTd40nA5_yTJAtziRGc0KZSal5xC6oj4L1xUyBHcJ7pjE8JJstdKabrALGF5uwsyqNyTE2CPvaEGjWqntVNl2Tks82aPw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -117.2452,32.8398,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CA5 - Lake Elsinore</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/267k8q0r2eiguufk066ffpr7fs/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrdnnslf40x0RVcnPNhvbcGVti9b8YsKeyJ88a43Y14jHnAYoeOSL-oxmPGNNuDDQ1OBRdlSiqyn2qMSvK-__c9EgCSRUV4jsyQ5tvbJByuymdP-gAVFRD-QXhH8Mc9yCnSqKKds529gUBnyln3gcCNtNnOT6eCHbqUhWs2zpuIodJZ7ZkT_nBOX3lU2f8pp0RZuK4Hcy8GGQ6GmLPaAde_b3FECsXK8VrSC2JnI3tzKn4VfUCYOwIgU_6MzfFEGqjxm8zxXqg8q99v7oom07ZeZcLFlg?session=0&fife" height="200" width="auto" /><br><br>Wildland Firefighters Memorial<br>Ortega Hwy and South Main Divide Rd.<br>Lake Elsinore, California<br>GPS: 33.65169,-117.40821<br>Access: 24/7<br><br>This memorial is a tribute to firefighters that have paid the ultimate sacrifice fighting wildland fires in the state of California. Conception came about in 1995 when a group of retirees, fire survivors, CAL FIRE and USDA Forest Service sought to repair and replace missing markers from the Decker Fire of 1959. This fire killed 6 firefighters within the Santa Ana Mountains above Lake Elsinore.<br><br>Made in America: About a mile east, is the Lookout Roadhouse is located at 32107 Ortega Hwy. More than just a biker-friendly restaurant, this is a local gem providing a memorable experience. Southern California may be known for its upscale restaurants, but it also has plenty of under-the-radar hidden gems that deserve to be discovered. One worthy contender is this local gem that’s known for more than its food — it also has one of the most amazing views around. https://lookoutroadhouse.com<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/267k8q0r2eiguufk066ffpr7fs/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrdnnslf40x0RVcnPNhvbcGVti9b8YsKeyJ88a43Y14jHnAYoeOSL-oxmPGNNuDDQ1OBRdlSiqyn2qMSvK-__c9EgCSRUV4jsyQ5tvbJByuymdP-gAVFRD-QXhH8Mc9yCnSqKKds529gUBnyln3gcCNtNnOT6eCHbqUhWs2zpuIodJZ7ZkT_nBOX3lU2f8pp0RZuK4Hcy8GGQ6GmLPaAde_b3FECsXK8VrSC2JnI3tzKn4VfUCYOwIgU_6MzfFEGqjxm8zxXqg8q99v7oom07ZeZcLFlg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -117.40821,33.65169,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CA6 - Rosemead</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/b5h8lmvo4glt9b4je3nn1u5r8k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpLVtlXYlK0nuGzZ2cIEQuxArXk0iqHfY4RdL2daIbb6i67kTwI_PmLSwWeHfmPT7FH-otHtW9UAOBxe3dk2g1E_MT_Te3wf6yplFYWOn4AJIalB9S8yg-Ng2eu2-6XmtF03iZCgYixCMhI250lImOYxKQ_oAejj0xfErjTkD4LxO93Kt-rogdjj4QjpoRmPwyBk-nuCQRY0CBmgg3Lnp-D_uPmESCk6glzPoU57jwc0m1b_wz_wv73yV5pbemR3dzeB5xEwPTDT46bEkc6Ezq8ib5c6g?session=0&fife" height="200" width="auto" /><br><br>9/11 Memorial<br>8838 E Valley Blvd.<br>Rosemead, California <br>GPS: 34.080539, -118.076641<br>Access: 24/7 <br><br>To commemorate the lives of the nearly 3,000 people who died 15 years ago on September 11, the City of Rosemead unveiled “Reflect,” a sculpture of two hands fashioned from thousands of dove-like cutouts carrying a steel girder from the World Trade Center just as emergency personnel carried victims on September 11, 2001. Each dove represents a victim. The sculpture was created by local artist Heath Satow. <br><br>Made in America: A short 20 minute drive away is the Los Angeles Police Museum is located at 6045 York Blvd. in Los Angeles. This little-known gem in SoCal is quite the discovery and deserves a few hours of your time for a visit. You’ll be fascinated by the history you can find inside this unique museum that captures over 150 years of history from the LAPD.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/b5h8lmvo4glt9b4je3nn1u5r8k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpLVtlXYlK0nuGzZ2cIEQuxArXk0iqHfY4RdL2daIbb6i67kTwI_PmLSwWeHfmPT7FH-otHtW9UAOBxe3dk2g1E_MT_Te3wf6yplFYWOn4AJIalB9S8yg-Ng2eu2-6XmtF03iZCgYixCMhI250lImOYxKQ_oAejj0xfErjTkD4LxO93Kt-rogdjj4QjpoRmPwyBk-nuCQRY0CBmgg3Lnp-D_uPmESCk6glzPoU57jwc0m1b_wz_wv73yV5pbemR3dzeB5xEwPTDT46bEkc6Ezq8ib5c6g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -118.076641,34.080539,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CA7 - San Diego</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/4gdufct7jaf9d6n8e043s9ablk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoRHiZNX4mVVgrxDNwjbtbFLfG2RYREQ6JmD33w65yc9FObGBnlfgmbHDOfWNI8JDaeUwwK-GVQOG_zy_Cn3U1tm7Yw337oevzVV0QKIJb1Mty2oC3zoQM8S-Ppp3_l0T0wXKWeRAg_m1XDR9ydY_Q9zF90bkh478fo7NX6elR0C0rAI8TQsgm0Z12Rulj8p9fis-fCtk-u9nGPGXxZH_rcgqudvZ5i_HV2BDgT2r50-kNlC0Yf1D5L6PaJc1CQrWdRnAjDY9daV-DA8Jz4VBzU00XClw?session=0&fife" height="200" width="auto" /><br><br>Bob Hope Tribute<br>N Harbor Dr. & W G St. \n Tuna Harbor Park, next to USS Midway Museum<br>San Diego, California<br>GPS: 32.712727, -117.175535<br>Access: 24/7<br><br>An elevated plaza with the sign: "A National Salute to Bob Hope and the Military." And what looks from a distance like a small crowd assembled around a man at an old time-y microphone.<br><br>The figure with the mic is a bronze likeness of Bob Hope, the legendary movie/TV comedian and entertainer, in his prime. Before his death in 2003 at age 100, Hope had performed in hundreds of USO events since 1941, entertaining US military audiences in far-flung theaters of conflict, from World War II to the Gulf War.<br><br>Made in America: Just a few blocks away is KC BBQ. Good food and you might recognize the place from the movie, Top Gun. This is where several bar scenes were filmed, including “Great Balls of Fire” and “You’ve Lost That Loving Feeling.” http://kcbbq.net<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/4gdufct7jaf9d6n8e043s9ablk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoRHiZNX4mVVgrxDNwjbtbFLfG2RYREQ6JmD33w65yc9FObGBnlfgmbHDOfWNI8JDaeUwwK-GVQOG_zy_Cn3U1tm7Yw337oevzVV0QKIJb1Mty2oC3zoQM8S-Ppp3_l0T0wXKWeRAg_m1XDR9ydY_Q9zF90bkh478fo7NX6elR0C0rAI8TQsgm0Z12Rulj8p9fis-fCtk-u9nGPGXxZH_rcgqudvZ5i_HV2BDgT2r50-kNlC0Yf1D5L6PaJc1CQrWdRnAjDY9daV-DA8Jz4VBzU00XClw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -117.175535,32.712727,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

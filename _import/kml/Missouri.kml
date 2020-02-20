@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Missouri sponsored by Bob Rippy</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>MO1 - Branson
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/plocu1batca8da19201eggks2c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoJDkfg9fZY_ujFOI8wGngPndulr62Ju0n3seYJa6Pi89nP4XDFVfWXrEWk6j1R28aamgdWwESqtfRGrgBmsAFO8ozwOcL5HqnXiXl0ZuTdyrKzhkX_224u-gtx3WqwsY4H2quJ0EH7mtYmq41ak-WyD6-C2Y_aMrOxOR4Dkf-MLAodF2Wwwyzx12xV71Lj3fjvNeA7OB74-xCXQaT16XBXDwjp3DWQllzieZna84x5gLey3C3tjQ4avKPXu_RyKW5ABBOUX4sXOYPQT8X-4NRZY30jzA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Museum <br>1250 W 76 Country Blvd.<br>Branson, Missouri<br>GPS: 36.640086, -93.241211<br>Access: 24/7<br><br>This 18,000(!) square foot museum is the creation of one man Fred Hoppe. Inspired by his Father, a WWII hero, Mr. Hoppe built the museum to honor those from WWI, WWII, Korea, Vietnam, Desert Storm and other conflicts of the 20th century. He authored the scripts on each of the over 2000 artifacts and displays, and even cut the lumber and siding (70 tons!) on his own sawmill.<br><br>Two wheeled artifacts include both a bicycle and motorcycle.<br><br>This was the group photo location for the 2018 Tour of Honor Ride to Meet.<br><br>Made in America: There is a plethora of things to in this area including great motorcycle roads. A few of the things to do in Branson include the famed Auto and Farm Museum (http://www.bransonmuseum.com) across the street from the Veterans Museum, the Titanic Museum (http://www.titanicbranson.com), Silver Dollar City (1800s-themed amusement park  (https://www.silverdollarcity.com), or numerous musical entertainment venues to choose from.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/plocu1batca8da19201eggks2c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoJDkfg9fZY_ujFOI8wGngPndulr62Ju0n3seYJa6Pi89nP4XDFVfWXrEWk6j1R28aamgdWwESqtfRGrgBmsAFO8ozwOcL5HqnXiXl0ZuTdyrKzhkX_224u-gtx3WqwsY4H2quJ0EH7mtYmq41ak-WyD6-C2Y_aMrOxOR4Dkf-MLAodF2Wwwyzx12xV71Lj3fjvNeA7OB74-xCXQaT16XBXDwjp3DWQllzieZna84x5gLey3C3tjQ4avKPXu_RyKW5ABBOUX4sXOYPQT8X-4NRZY30jzA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -93.241211,36.640086,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MO2 - Chillicothe
+</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/e2obv70plv13d9kn4vfihe94gc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoqUYTCAGx93j6ZrvK9c95-IRS_5XmQMj5FLSyb_t-h01A1xq1c0rA7hpl4d-dd0PFrq7U36R-FtfaSTF6m2XoWgAiobY5-YyVwoMTlcHmAgGDu28OYKRecLqqx6QLW9oN6zol_iPnSoN-NSOBBPzB7Kks_jHmwcXoE4_pyDaI2Ae4cFklWj8mDuxmi_ow82FyfloBbiF7DtNMYJcmBw644siDA5r0_wBDxuYhWFiPp6jEn0XYPuUKafOAsep_pGNm5r0eAbp8KSkEUBjRb1SMBtoYKng?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>700 Webster St.<br>Chillicothe, Missouri<br>GPS: 39.793582, -93.553165<br>Access: 24/7<br><br>The beautiful black and white memorial is striking in it’s sweeping lines and stark contrasts.<br><br>Made in America: If you were to say this Memorial is the best thing since sliced bread, you’re closer to the truth than you think. Chillicothe is home to the first commercially sold sliced bread and there is a huge mural in town depicting it. Click here (http://www.homeofslicedbread.com/) for more details.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/e2obv70plv13d9kn4vfihe94gc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoqUYTCAGx93j6ZrvK9c95-IRS_5XmQMj5FLSyb_t-h01A1xq1c0rA7hpl4d-dd0PFrq7U36R-FtfaSTF6m2XoWgAiobY5-YyVwoMTlcHmAgGDu28OYKRecLqqx6QLW9oN6zol_iPnSoN-NSOBBPzB7Kks_jHmwcXoE4_pyDaI2Ae4cFklWj8mDuxmi_ow82FyfloBbiF7DtNMYJcmBw644siDA5r0_wBDxuYhWFiPp6jEn0XYPuUKafOAsep_pGNm5r0eAbp8KSkEUBjRb1SMBtoYKng?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -93.553165,39.793582,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MO3 - Dexter
+</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/de77e7s5er7n91j1nrne45p73k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoFqmPgPvXS7q6wvH0TlfDUFUs6DQEx12Unas1BKC8DMd9QtuskGNolKSHH_jb_lNIL_Lnr84u2PbxeWRK-Ws645rRXTu594hAf25mpKEDnbympOyQM171SPOS6G5n9kt4kx52dy5p_JTGrSBqrpa4GtoxB6YLDe_-bkBH_gN9oYTej4G44tJwB3TAPLTX5WjBDp4QCwl6Df13ZFA_0PCWA-LYlkLFEq5BIfInMPKmcmSAeewVZBxBOhl2MdJD2mu1ARTkdRvvaRkHhT7BweaAcAQ35ng?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>402 W. Grant St.<br>Dexter, Missouri<br>GPS: 36.789527, -89.964122<br>Access: 24/7<br><br>The Keller Veterans Memorial is located on the grounds of the Keller Public Library. The memorial is dedicated to allVeterans of Dexter who gave their all in service to our country.<br><br>Dexter is hometown to two famous people. George Sisler was a 1st Lieutenant in the 5th Special Forces Group,<br>who was awarded the Medal of Honor for his actions in Vietnam. Other honors included having a US Naval Supply Ship the USNS Sisler named for him, Sisler Hall in Fort Huachuca, Arizona, and Sisler’ s Range at his alma mater Arkansas State University.<br><br>Made in America: The second most famous Dexterian would be Patti McGuire, Playboy Playmate of the year in 1977 and married to tennis star Jimmy Connors.<br><br>If you’re hungry, visit the Dexter Queen,“World Famous BBQ since 1949.” 1109 W Business US<br>Hwy 60.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/de77e7s5er7n91j1nrne45p73k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoFqmPgPvXS7q6wvH0TlfDUFUs6DQEx12Unas1BKC8DMd9QtuskGNolKSHH_jb_lNIL_Lnr84u2PbxeWRK-Ws645rRXTu594hAf25mpKEDnbympOyQM171SPOS6G5n9kt4kx52dy5p_JTGrSBqrpa4GtoxB6YLDe_-bkBH_gN9oYTej4G44tJwB3TAPLTX5WjBDp4QCwl6Df13ZFA_0PCWA-LYlkLFEq5BIfInMPKmcmSAeewVZBxBOhl2MdJD2mu1ARTkdRvvaRkHhT7BweaAcAQ35ng?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.964122,36.789527,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MO4 - Kingdom City
+</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/j2t1sb66dt103kgst5ms20250c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqwSozB-IsuzZAjE3kkRiAK6bPZud_OVPHeOsKoWUF9fQX_vyENVukoeT-awVhJJc4xMeAHrJz-J-SXZRMtAebUfEnHFHeZa-RJE-elS_ICrLCVbCBL9tU3HdoF9FAO7SEZhdv0t-XCU9KF3EOFsRlzJbZ8mF5s-Le1HMKD3HL79JjmtxiR1fcubzD5FfNk_wSLXBSrevtH2Jnrq5Bje5aH-RqF5f8pdoM3EEdcm9MjV8fSpu3qAN2C-CbjegW9YBFcyN0dc41JQn-Oc9TEiaaB_d7JLg?session=0&fife" height="200" width="auto" /><br><br>Firefighters Memorial<br>5599 Angel Dr.<br>Kingdom City, Missouri<br>GPS: 38.945453, -91.942688<br>Access: 24/7<br><br>This memorial contains all of the names of the firefighters killed in the line of duty in Missouri since 1838. Originally to be dedicated in 2002, the first praying Firefighter Sculpture was en route to Missouri traveling through New York City on 9/11/2001, when it’s trip was cut short. On September 19th, the New York Fire Department accepted the original as a gift from the Missouri Firefighters to honor the 343 firefighters who died in the World Trade Center. It now rests at 8th Avenue and 41st Street in NYC, probably the first permanent memorial to the events of 9/11. The Missouri Firefighters had a second sculpture cast, to be placed in the spot meant for the original donated to NYFD.<br><br>Made in America: Just down the road is the town of Fulton and Westminster College. There in the Chapel (which is open to visit), Winston Churchill gave a famous speech, coining the phrase“Iron Curtain”for the first time. As Missourians, we all heard this speech growing up, because it was said to note the beginning of the Cold War. Outside the Chapel is a large original section of the Berlin Wall. Well worth the stop.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/j2t1sb66dt103kgst5ms20250c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqwSozB-IsuzZAjE3kkRiAK6bPZud_OVPHeOsKoWUF9fQX_vyENVukoeT-awVhJJc4xMeAHrJz-J-SXZRMtAebUfEnHFHeZa-RJE-elS_ICrLCVbCBL9tU3HdoF9FAO7SEZhdv0t-XCU9KF3EOFsRlzJbZ8mF5s-Le1HMKD3HL79JjmtxiR1fcubzD5FfNk_wSLXBSrevtH2Jnrq5Bje5aH-RqF5f8pdoM3EEdcm9MjV8fSpu3qAN2C-CbjegW9YBFcyN0dc41JQn-Oc9TEiaaB_d7JLg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -91.942709,38.945774,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MO5 - Lexington
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/a837a5iouiep3008ahsl4nljug/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpXNIclDhfoZpq7E-srs9Il3lIEQ2CC1IhlbTDSsHrS0Z1jG1JUNUb4ZTEUYnKco6YqUGuGcpE4sXNoGySm_oZ5UXE7e47jiJ2HOfyyZ4EWhaP28jaxsvMcM9THCypncZ75e0lZVN50d85E2C8DZZJsNW9hCpJBcdwfcqSrMqQJxxfIDFAc2KnHjRjnojn-TAzcHdXa6IBNOqYJd6YlUEKIGj5lfKJITd49jRPffyaSDPuHxgFekcOiJw-_UsqL2ZxNSeKUzvMq-bvHZAFBp3fifr6yRg?session=0&fife" height="200" width="auto" /><br><br>Memorial to World War Veterans<br>.4 miles west of Hwy. 224<br>Lexington, Missouri<br>GPS: 39.183468, -93.891198<br>Access: 24/7<br><br>This Memorial was built in 1925 to honor World War I veterans. Later, veterans’ names from World War II, Korea and Vietnam were added. It sits in a beautiful location on the bluffs overlooking the Missouri River, where a bridge used to be, built in 1924. The bridge was razed a few years ago but the turnout is still there making the memorial an easy place to stop. The steps go up to the very top of the bluff and are level with the town of Lexington.<br><br>On a personal note, state sponsor Bob Rippy’s father played in a Boy Band at the bridge dedication.<br><br>Made in America: Lexington was the sight of one of key battles of the Civil War in Missouri. There is a Battlefield Park where you can still see the trenches. Also in the courthouse is a cannon ball shot into one of the columns.<br><br>Also, if you’ve never had pleasure of eating a MaidRite Burger this is your chance at 1401 Main St. A shake is recommended with your meal.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/a837a5iouiep3008ahsl4nljug/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpXNIclDhfoZpq7E-srs9Il3lIEQ2CC1IhlbTDSsHrS0Z1jG1JUNUb4ZTEUYnKco6YqUGuGcpE4sXNoGySm_oZ5UXE7e47jiJ2HOfyyZ4EWhaP28jaxsvMcM9THCypncZ75e0lZVN50d85E2C8DZZJsNW9hCpJBcdwfcqSrMqQJxxfIDFAc2KnHjRjnojn-TAzcHdXa6IBNOqYJd6YlUEKIGj5lfKJITd49jRPffyaSDPuHxgFekcOiJw-_UsqL2ZxNSeKUzvMq-bvHZAFBp3fifr6yRg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -93.891198,39.183468,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MO6 - Moberly
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/13v6m2rc3c3r8jhpq4tv8jkfnk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqV8Y5GOU528n74SdSev4qdp9eN3rAO3e7qZ5a8qR33YOGKCZ_8me5zohyKiTqWwyn4lLdR7LizCZDLQ6kvTyxfLf3R-1-VPe1c0eqSPq4XxAUuF6yCBfxLemrttyfqrf_mU_3HceoveAwsLeDGHMgENg6tkgUDrdvMJAgAXeT21ZdgM2X8Hs5wrH7c1eKXo0U3iEuCyE_z2xVQccfvCcZ0DSNCW9Kx2fIxdvoOx06UWBss38oaayIYzpv-14TwUqbT88T0hXn6WiHhbeokVAYqzO0T-w?session=0&fife" height="200" width="auto" /><br><br>General Omar Bradley Statue<br>349 Holman Rd.<br>Moberly, Missouri<br>GPS: 39.420698, -92.457645<br>Access: 5AM-11PM<br><br>General Omar Bradley has one of the most impressive list of accomplishments of any American General. As a 5 Star General, he commanded the largest Army every assembled, and was the first Chairman of the Joint Chiefs<br>of Staff. From the nearby town of Clark, he was sworn in by fellow Missourian President Harry S Truman as General of the Army on September 22nd 1950. After General Bradley passed away in 1969 at the age of 88, the rank of 5-Star General was retired.<br><br>If you visit on July 4th, the Director of Parks and Recreation, Troy Bock, says, "Given this year is the 75th anniversary of the end of WWII and General Omar Bradley had a significant role in that successful conclusion, we are planning promotional items and events (City and State Proclamations recognizes July 4th as General Omar Bradley Day) to commemorate the end to the conflict and General Bradley's role. We'll have one of the largest 4th of July celebrations in Missouri!"<br><br>Made in America: If you would like to pay your respects to those who served, down the road is the Missouri State Veterans Cemetery at 1479 County Road 1675, Jacksonville. Open 8AM-4PM.<br><br>Moberly has several handcrafted Amish stores in town.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/13v6m2rc3c3r8jhpq4tv8jkfnk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqV8Y5GOU528n74SdSev4qdp9eN3rAO3e7qZ5a8qR33YOGKCZ_8me5zohyKiTqWwyn4lLdR7LizCZDLQ6kvTyxfLf3R-1-VPe1c0eqSPq4XxAUuF6yCBfxLemrttyfqrf_mU_3HceoveAwsLeDGHMgENg6tkgUDrdvMJAgAXeT21ZdgM2X8Hs5wrH7c1eKXo0U3iEuCyE_z2xVQccfvCcZ0DSNCW9Kx2fIxdvoOx06UWBss38oaayIYzpv-14TwUqbT88T0hXn6WiHhbeokVAYqzO0T-w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -92.457645,39.420698,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MO7 - O’Fallon
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/s5reaqh6gfvqett3ol1smnm110/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALphNrO9nli2G6aou0TH3C9uKjLh5RmkJylgw_OVdMbdDW5GbMqhBOuxMaF2kLglIMm9Zf76PYEst2-bTe6RRq9IDBIpvAVCOx8k5awUDvAKRqLtjbfeKcA8YnJWzkyMPOrh8-G7roDSZaXEiKhu02Fx3TUhJzred22E5Ymn5yuH0XTv3z8DOYTJHxsLBgF21lEBxWlBf7VAg7DMp-0WwTkf5Laq86VH-YaLAqyiJqHZBj3o0CoWTmjxIbIpdiY1sK-8K6pvndp-i2mFsSsagWF3bHMFBA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Walk<br>800 Belleau Creek Rd.<br>O’Fallon, Missouri<br>GPS: 38.801181, -90.67656<br>Access: 24/7<br><br>No other monument in the U.S. is quite like the Veterans Memorial Walk, dedicated in 2001 as a place to honor all U.S. soldiers, past and present. This site is unique with a platoon of cast bronze boots positioned as though<br>marching. A solitary pair of boots is stationed at the foot of the POW/MIA flag, and an eternal flame burns<br>continuously.<br><br>Suffice to say this is a stunning monument.<br><br>Made in America: Nearby is Fort Zumwalt Park, with the reconstructed home of Jacob Zumwalt, a Revolutionary War veteran from here. These large log structures were used as “forts,” gathering places for protection from raids in the War of 1812. There were seven such structures in St. Charles County. Location: 1000 Jessup Drive W, O’Fallon, Missouri.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/s5reaqh6gfvqett3ol1smnm110/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALphNrO9nli2G6aou0TH3C9uKjLh5RmkJylgw_OVdMbdDW5GbMqhBOuxMaF2kLglIMm9Zf76PYEst2-bTe6RRq9IDBIpvAVCOx8k5awUDvAKRqLtjbfeKcA8YnJWzkyMPOrh8-G7roDSZaXEiKhu02Fx3TUhJzred22E5Ymn5yuH0XTv3z8DOYTJHxsLBgF21lEBxWlBf7VAg7DMp-0WwTkf5Laq86VH-YaLAqyiJqHZBj3o0CoWTmjxIbIpdiY1sK-8K6pvndp-i2mFsSsagWF3bHMFBA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -90.67656,38.801181,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

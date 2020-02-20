@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Arizona</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>AZ1 - Bullhead City</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ojci61k081arpj533akb2222t4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqR962y2xCjsqUzxtV5QmFGsXyytJK36WDK2og0xfclYX5s1O9LLxT_2dZ13x7gAP2INB7Zao0Vswld7S9YCPLjJPGKx9m4xvAHE3IRvKGgwIIRPWVItgPC7HzlxT8ttejjUAwb-spsy1zDxkXKND2fyJwlftU6wz2GF4L4PUgUVG5fXhMzW781QH6vpVCsJRG9QRqyZoJPC7xM9G4aA-axWjxYtNZve794dB5JLGTpf3qEQy6fpIAiydtX2NODREEmpxsN5MrCzIgg_brCxzwb0fE1ow?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>American Legion Post 87 \n 2249 Clearwater Dr.<br>Bullhead City, Arizona<br>GPS: 35.09316,-114.63180<br>Access: 24/7 (see 2nd paragraph in description)<br><br>The Arizona Veterans Memorial is split into a North and South section. The two sections are separated by water so if you choose to visit both sections, you’ll have to go around the long way, unless you packed a swim suit of course. To access the NORTH part of the memorial you would go to the parking lot behind the saloon at 2170 Rio Grande.<br><br>But, for TOH purposes, the required visit is to the south portion of the park. The only access is on the property of the American Legion so a visit when they are open would be recommended.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ojci61k081arpj533akb2222t4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqR962y2xCjsqUzxtV5QmFGsXyytJK36WDK2og0xfclYX5s1O9LLxT_2dZ13x7gAP2INB7Zao0Vswld7S9YCPLjJPGKx9m4xvAHE3IRvKGgwIIRPWVItgPC7HzlxT8ttejjUAwb-spsy1zDxkXKND2fyJwlftU6wz2GF4L4PUgUVG5fXhMzW781QH6vpVCsJRG9QRqyZoJPC7xM9G4aA-axWjxYtNZve794dB5JLGTpf3qEQy6fpIAiydtX2NODREEmpxsN5MrCzIgg_brCxzwb0fE1ow?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -114.6318,35.09316,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AZ2 - Morenci</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/krvue1uogof4u4nucocdvhk5hg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqu0Ne4ibZgacNAjFXVqJmwExavr1U8lkyofNxvZkqzzca0JG0RFZA7o0jkFE2utpVNh-pia7Hc8UHlEH8PZ8Qvi638cApqQB9p1BTDQPjgPOJPljNjxlzANG0pd2PP4pSXz2LlBcErZM5nthsO-FsdD1g4LMHgKm4vqB_Qyc2L5m96inwy0V5NAVaJqLJuC60R2SY6xB3AQ4-4fO4WnUz88z0WkHoai17Daqht1JpkbXhcvXyp-nx4dkgRpOfPIQbqx6tUw_PzetwTIImkBpdufTlGOw?session=0&fife" height="200" width="auto" /><br><br>Morenci 9 Memorial<br>Morenci High School\n1 Stadium Dr.<br>Morenci, Arizona<br>GPS: 33.039814, -109.321021<br>Access: 24/7<br><br>A plaque is erected in a pillar of copper ore that honors the service and sacrifice of nine Marines from Morenci. Of the nine names listed, six paid the ultimate sacrifice in Vietnam.<br><br>With a population around 6,000 in the 1960s, Morenci was (and still is) a mining town. With few options in a rural mining town and with the likelihood of being drafted, eight seniors from the Morenci Class of 1966 along with one that graduated the year before enlisted on the same day and left on a bus together bound for boot camp on July 4, 1966. The Morenci 9 included men from all parts of the then-segregated town – five were white, three were Hispanic, and one was Navajo. While they knew each other in high school, they were not necessarily close friends. It was their joint enlistment into the Marine Corps that brought them together as brothers in arms.<br><br>After eight weeks together at boot camp, they received their assignments, deploying to various locations in Vietnam and West Coast military bases. They learned of the others’ movements through letters to each other and from family in Morenci. Two of the Marines died in 1967, and by the end of 1969 four more had lost their lives in Vietnam. Only three of the nine returned to Arizona. The story is chronicled in “The Morenci Marines: A Tale of Small Town America and the Vietnam War” by Kyle Longley. While the historical work provides specific details of the Morenci 9, the themes highlighted by the author are relatable to any person that grew up any small, rural town in the United States.<br><br>Made in America: If you are visiting the monument during school hours, check in at the front office and asked to see the indoor display wall to the Morenci 9. The indoor display includes pictures and drawings of the Marines along with a copy of the article about them that appeared in January 5, 1970 issue of Time magazine.<br><br>In the neighboring town of Clifton, Arizona is Mares Hill. The trail to Mares Hill was created as a memorial to the veterans from the area. At the top the bluff is decorated with flags, a bell, and more than 2,000 replica dog tags representing combat and non-combat veterans from World War I, World War II, Korea, Vietnam, Afghanistan and Iraq and those who served in peace time. To find the trailhead, take Wards Canyon Road 0.4 miles and look for the signed parking lot on your left. The hike is approximately 6.5 miles round trip, with an elevation gain of 350 feet (http://www.cometoclifton.com/great-outdoors/hiking-trails.php)<br><br>Not to be missed is the opportunity to motorcycle the Coronado Trail Scenic Byway. This 120-mile section of U.S. Highway 191 between Morenci and Springerville, Arizona has 460 curves. The Coronado Trail (or “The Trail” as referred to by locals) was originally part of Arizona Route 666; hence earning the name “The Devil’s Highway.” Route 666 has since been renamed U.S. 191. The route passes right through the open pit copper mining operations at the Morenci Mine. As you pass through, be sure to size up your motorcycle to that of a three-story tall haul truck, and if possible, grab a photo. Once passed the mine, you will follow the trail used in 1540 by Spanish explorer Francisco Vasquez de Coronado as he searched for the fabled “Seven Cities of Cibola.” Wildlife abounds in the area and the scenery is some of the best in the state. Hannagan Meadow Lodge has lodging and a restaurant, or you can travel to Alpine, Arizona for a meal at the Alpine Grill, Bear Wallow Café, or the Foxfire. Fuel is available at both ends of the Coronado Trail – Morenci/Clifton, Alpine, or Springerville/Eagar. (https://www.arizonahighways.com/explore/scenic-drives/coronado-trail). Butler Motorcycle Maps rates this highway as a G-1 ride.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/krvue1uogof4u4nucocdvhk5hg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqu0Ne4ibZgacNAjFXVqJmwExavr1U8lkyofNxvZkqzzca0JG0RFZA7o0jkFE2utpVNh-pia7Hc8UHlEH8PZ8Qvi638cApqQB9p1BTDQPjgPOJPljNjxlzANG0pd2PP4pSXz2LlBcErZM5nthsO-FsdD1g4LMHgKm4vqB_Qyc2L5m96inwy0V5NAVaJqLJuC60R2SY6xB3AQ4-4fO4WnUz88z0WkHoai17Daqht1JpkbXhcvXyp-nx4dkgRpOfPIQbqx6tUw_PzetwTIImkBpdufTlGOw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -109.321021,33.039814,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AZ3 - Phoenix</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/60c7rpjnjv5k0gd101igknhqi8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpzBk1QZcdWbeeeUVN7MjiYhJLmDVtv-B88MufF8K1sDq_b1xjqmzpQESHekCCPb9J4ph4n4KFjO7FQBFayqhnERes62cE4AldOkic7lB5ByUYjmNzCzSuCsDFom63e6Kmy5zerPGMjmFUB5LtH9Lpk0Nsnm6DmPtdZdTT0z119nH0sLtExzIaTIkijW9raK8Nmcvm0wWoCO5WkRIcCxNo3B3218ojybMyc4iGhp_XDydCvnXK4ZJGb5CAPfeeT9ulK5BNO7X2HzYmT1_6oLyj5f4KMMA?session=0&fife" height="200" width="auto" /><br><br>USS Anchor Memorial<br>Wesley Bolin Memorial Plaza \n 1700 W. Washington<br>Phoenix, Arizona<br>GPS: 33.448153, -112.093159<br>Access: 6AM-6PM. 2nd photo required.<br><br>During the attack on Pearl Harbor, the Battleship Arizona (BB39) was hit by several bombs, one of which hit the forward ammunition magazine. It was the resulting explosion that sank the ship, taking with her over 1,100 of her crewmen, whose bodies are still entombed there.<br><br>The USS Arizona Memorial in Pearl Harbor is situated over the midship’s hull while the anchor and mast were retrieved and sent to Phoenix, where it now rests here in Phoenix. <br><br>Made in America: The Wesley Bolin Memorial Plaza is part of the Governmental Mall which is based on the concept of the National Mall in Washington, D.C. As such it is an open air gathering spot with memorials, monuments, and gardens. Since you’re already parked, consider spending some time here to take in all the memorials and monuments.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/60c7rpjnjv5k0gd101igknhqi8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpzBk1QZcdWbeeeUVN7MjiYhJLmDVtv-B88MufF8K1sDq_b1xjqmzpQESHekCCPb9J4ph4n4KFjO7FQBFayqhnERes62cE4AldOkic7lB5ByUYjmNzCzSuCsDFom63e6Kmy5zerPGMjmFUB5LtH9Lpk0Nsnm6DmPtdZdTT0z119nH0sLtExzIaTIkijW9raK8Nmcvm0wWoCO5WkRIcCxNo3B3218ojybMyc4iGhp_XDydCvnXK4ZJGb5CAPfeeT9ulK5BNO7X2HzYmT1_6oLyj5f4KMMA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -112.093159,33.448153,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AZ4 - Poston</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/e90upokcac1qta55c53gh2v93c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoNncglReTH7CF1QJ0FAk37OonTRNFzskvRguaiNI3OXiZ1yF7M9CcMWaOnUeQ-rfE6uKevJlThpwrvJRdXrUXP-R-u_wRVvu7Kao3kxqfj2MFrUa-DglhiRMIIT3TW80kzngIlDTcWkqkUMiHTiodxqc2Hc1uh5Ma3gkEazW2v34v8Wdqx3RvdRqUARGZbW03AU85WYLHC-BasvMcL9C83sDRReatHuN6UKmiWJ0wbHmDHGn9oHpPsK0QKakZzWRSPO02A7A31ixZsY-wY3B1Hvqm1lg?session=0&fife" height="200" width="auto" /><br><br>Poston Memorial Monument<br>23701 Mohave Rd.<br>Poston, Arizona<br>GPS: 33.987617, -114.401233<br>Access: 24/7. Gravel parking lot is not lit at night, use caution.<br><br>The Poston Memorial Monument marks the site of a War Relocation Center where persons of Japanese ancestry, the majority of whom were United States citizens, were interned during World War II. In 1942, President Roosevelt signed an executive order that required the evacuation and internment of all persons of Japanese descent living on the West Coast. These individuals were evacuated and placed in sites like Poston on the grounds that they posed a threat to the national security. Poston was one of ten War Relocation Authority centers, most located in California. <br><br>Internees began to arrive at Poston in May 1942, and three months later, the population peaked at 17,867, becoming Arizona’s second largest city at the time. The internment lasted until November 1945.<br><br>It is the hopes of the Colorado River Indian Tribes, former internees of Poston, and veterans that this memorial will “serve as a constant reminder of our past so that Americans in the future will never again be denied their constitutional rights and may the remembrance of that experience serve to advance the evolution of the human spirit.”<br><br>TOH content: More than 1,200 of those interned at Poston signed up to serve with the 442nd Regimental Combat Team. Most of the volunteers were second generation Japanese-Americans who were born in the United States, and in spite of the injustice, they fought valiantly for American liberty and values. <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/e90upokcac1qta55c53gh2v93c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoNncglReTH7CF1QJ0FAk37OonTRNFzskvRguaiNI3OXiZ1yF7M9CcMWaOnUeQ-rfE6uKevJlThpwrvJRdXrUXP-R-u_wRVvu7Kao3kxqfj2MFrUa-DglhiRMIIT3TW80kzngIlDTcWkqkUMiHTiodxqc2Hc1uh5Ma3gkEazW2v34v8Wdqx3RvdRqUARGZbW03AU85WYLHC-BasvMcL9C83sDRReatHuN6UKmiWJ0wbHmDHGn9oHpPsK0QKakZzWRSPO02A7A31ixZsY-wY3B1Hvqm1lg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -114.401233,33.987617,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AZ5 - Window Rock</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/4e1vpbp2v9jrceu654prane9l8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpUt-tBdMKe6vSoJb6z3avDL18zbExbLOTAs5sbqZKyYpNoc76kLabaCDCy5gRmKEUY19iRdcDEHLACg6XYkSqIYejrET-yJBb1DZPOW9ej2XZ60Df5rqquQMlo4L8NKgLobJwX7elZREG41_7GGstNW2xmXmrrqefknckD87ZKg0eedk2I1VaQkBg09Ru8Ul9PMvaSBxoM_E-zIw9NTX4ef85auDCTWeLW1ZF2BMTlRh5puNX6nh3XHXzYALXtSNk-BYKt-yg25DXbAg8rfVpg2yF4cA?session=0&fife" height="200" width="auto" /><br><br>Navajo Nation Code Talkers Memorial<br>Indian Route 100<br>Window Rock, Arizona<br>GPS: 35.681366, -109.049030<br>Access: 8AM-5PM. 2nd photo required. Please don’t ride your bike on sidewalks due to cultural sensitivity.<br><br>During World War II, the Japanese possessed the ability to break almost any American military code. Over 400 Navajos, with 29 being the original Navajo Code Talkers, stepped forward and developed the most significant and successful military code of the time using their native language. So successful was this innovative code that military commanders credited it with saving the lives of countless American soldiers and with the successful engagements of the U.S. in the battles of Guadalcanal, Tarawa, Saipan, Iwo Jima, Okinawa and paved the way to victory for Allied forces in the Pacific Theater.<br><br>“Were it not for the Navajos, the Marines would never have taken Iwo Jima.” These were the words of Major Howard Connor, USMC 5th Marine Division Signal Officer.<br><br>Far from their homes, these brave young men served our nation with honor. Sadly, the tale of their exploits remained a closely guarded secret for decades in the event that the Navajo Code Talkers’ unique talents would be needed again. Many Code Talkers have passed on never knowing of the honors that a grateful nation now bestowed upon the remaining brothers. It was not until 1968 when the Navajo Code was declassified.<br><br>Directly across from the council chambers of the Navajo Nation, is the Navajo Nation Veterans Memorial Park modeled after the medicine wheel. Few parks in the state, and maybe even the nation, have been designed so deliberately and intentionally. Everything you see here is packed with symbolism and meaning. Although the park is not completely finished, it is a touching tribute from grateful Navajos and grateful Americans, one and the same.<br><br>Made in America: While here, take the time to visit other sculptures in the park. If you are not committed to staying inside the state of Arizona, then make sure to ride the length of the Diné Biítah “Among the People” scenic byway. This 105-mile road is worth the ride in every way.<br><br>The Navajo nation is a sovereign nation that has its own laws and customs, including a ban on firearms and alcohol. For more information on customs and laws visit www.discovernavajo.com.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/4e1vpbp2v9jrceu654prane9l8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpUt-tBdMKe6vSoJb6z3avDL18zbExbLOTAs5sbqZKyYpNoc76kLabaCDCy5gRmKEUY19iRdcDEHLACg6XYkSqIYejrET-yJBb1DZPOW9ej2XZ60Df5rqquQMlo4L8NKgLobJwX7elZREG41_7GGstNW2xmXmrrqefknckD87ZKg0eedk2I1VaQkBg09Ru8Ul9PMvaSBxoM_E-zIw9NTX4ef85auDCTWeLW1ZF2BMTlRh5puNX6nh3XHXzYALXtSNk-BYKt-yg25DXbAg8rfVpg2yF4cA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -109.04903,35.681366,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AZ6 - Yarnell</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lod128mrii7d246onthv6nk7ec/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpGhJoZU-00NIu9rwVFXzCwSMeYxYq0a88YhVGkYV_nxF_0g69xP0wGLazHWJFCOzM0bfP4W7po38PJJ-2CUTWhrc0IewSqcHy30eLM5-yjzHfreAhh2F8ATvC2gPoKC-WBmPOIWX6upNixkvV26mXpWD70uLp3kVAINcChb8lRo3UV3TEXLlRx3aZMtQLbgA7LMSYM48u_hCKOulkdiid5xZBxafupSi1C9jlH8FL10qaGcoWcE8Wi1jP1H4sISog4nBJo8CIfuox1-FAILPcqGUf5Kg?session=0&fife" height="200" width="auto" /><br><br>Granite Mountain Hotshots Memorial State Park<br>SB White Spar Hwy. (AZ 89) – 2.8 miles SW of Yarnell<br>Yarnell, Arizona<br>GPS: 34.203488, -112.774329<br>Access: Park is open dusk to dawn. Pullout is available 24/7 for photo.<br><br>A lightning strike started a wildfire near Yarnell, Arizona on June 28, 2013. Just two short days later, 19 of the 20 firefighters belonging to the Granite Mountain Hotshots crew were overrun by the fire and killed. The story of the Granite Mountain Hotshots was depicted in the 2017 movie Only the Brave.<br><br>This isn’t the first time Tour of Honor riders will visit a memorial to the Granite Mountain Hotshots. In 2015, riders visited the final resting place of 13 of the 19 heroes buried at the historic Pioneers’ Home Cemetery in nearby Prescott. This year, Tour of Honor riders will visit the Granite Mountain Hotshots Memorial State Park which opened to the public on November 30, 2016. The park is situated on 320 acres where the fire occurred. <br><br>The state park includes a 2.85-mile trail. Along the trail, hikers will encounter 200+ stair, interpretive signs, and 19 memorial plaques that lead to an observation deck. The 19 plaques share a photo and a story of each fallen crew member. From the observation deck, hikers can see the Town of Yarnell and the fatality site of the hotshots. A tribute wall at the observation deck is available to leave stickers, patches and other mementos in honor of the sacrifice the Granite Mountain Hotshots made to protect the public. Once at the observation deck, a 3/4-mile trail, allows hikers to follow the last steps of the hotshots down to the fatality site where they made their last stand. Encircling the fatality site, 19 gabion baskets are united by chains representing their eternal team.<br><br>The latest addition to the park is a bronze Hotshot sculpture. The bronze was donated to the park on behalf of the Wildland Firefighter Guardian Institute by the Facebook Watch program Returning the Favor, starring Mike Rowe. The sculpture was unveiled in April 2018. The Returning the Favor episode was posted on April 17, 2018. The sculpture is accessible from the state park’s parking lot.<br><br>Made in America: The White Spar Highway (AZ 89) is well-known to motorcycle riders heading to and from Prescott or Wickenburg who often stop at the popular Ranch House Restaurant in Yarnell for breakfast or lunch Thursday through Sunday (http://ranchhouserestaurantyarnell.com/).<br><br>Downtown Prescott’s Whiskey Row (38 miles from the state park) is known for bars and live music (https://www.prescott.com/whiskey-row-restaurants-bars). This block of town includes The Palace, the oldest frontier saloon in Arizona and the most well-known and historic restaurant and saloon in the state. In the late 1870s, Wyatt Earp, Virgil Earp and Doc Holliday were regular patrons of the Palace.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lod128mrii7d246onthv6nk7ec/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpGhJoZU-00NIu9rwVFXzCwSMeYxYq0a88YhVGkYV_nxF_0g69xP0wGLazHWJFCOzM0bfP4W7po38PJJ-2CUTWhrc0IewSqcHy30eLM5-yjzHfreAhh2F8ATvC2gPoKC-WBmPOIWX6upNixkvV26mXpWD70uLp3kVAINcChb8lRo3UV3TEXLlRx3aZMtQLbgA7LMSYM48u_hCKOulkdiid5xZBxafupSi1C9jlH8FL10qaGcoWcE8Wi1jP1H4sISog4nBJo8CIfuox1-FAILPcqGUf5Kg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -112.774329,34.203488,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AZ7 - Yuma</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/1kcgjbf6ak84sh9kkfg2b2qrec/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr9DEF4ZFKNn7wrtBIZWUll1zA4R3-xPaaUInijRK0kFyS5klf_NSFoRUxMxU3AxVTBWZBTDVK6TbIjJV_fAQ8fKDtCGSzLWO7pnjpcjiPFvwnGm01elhuy_82HISSvfSAle-JhZ1L_91y2ZW-daOks7hG0bZARK9v2nm-OlUksIB5Qg0Uz5SQo9ugkoBDBhHWglD0MingH1GV8i4furgwnFCM2OtjXO44Z-J-HXN8N_kcrbEzde2jjGPZyjKKaqx_zNI9fb4idBO1gg6bey8OGR04WgA?session=0&fife" height="200" width="auto" /><br><br>Yuma Proving Ground Open Air Museum<br>East Imperial Dunes Rd. \n Take Hwy 95 north from Yuma to the “big guns,” then turn west.<br>Yuma, Arizona<br>GPS: 32.828354, -114.390067<br>Access: 24/7<br><br>The Yuma Proving Ground is a U.S. military installation located 32 miles from Yuma, Arizona, one of the largest military installations in the world covering 1,300 square miles in the Sonoran Desert, where weaponry and military technology are tested.<br><br>Just outside the entrance to the installation is the Yuma Proving Ground Open Air Museum maintained by the Yuma Proving Ground Heritage Center. The open air display includes informational exhibits and weaponry from the installation’s inception in 1942 as Camp Laguna to Yuma Test Branch, Yuma Test Station and the present day Yuma Proving Ground. There are numerous combat vehicles, tanks, missiles launchers, and cannons on display, all of which were tested at the Yuma Proving Grounds.<br><br>Made in America: If you have time, obtain a permit from the Yuma Proving Ground Visitor Control Center (VCC) to the visit the Yuma Proving Ground Heritage Center located within the installation (http://bit.ly/2R7UFHJ). The VCC is co-located at the open air museum. The Heritage Center houses a visual interpretation of the people, places, events, and objects that have played a part in the history of the Yuma Proving Ground.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/1kcgjbf6ak84sh9kkfg2b2qrec/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr9DEF4ZFKNn7wrtBIZWUll1zA4R3-xPaaUInijRK0kFyS5klf_NSFoRUxMxU3AxVTBWZBTDVK6TbIjJV_fAQ8fKDtCGSzLWO7pnjpcjiPFvwnGm01elhuy_82HISSvfSAle-JhZ1L_91y2ZW-daOks7hG0bZARK9v2nm-OlUksIB5Qg0Uz5SQo9ugkoBDBhHWglD0MingH1GV8i4furgwnFCM2OtjXO44Z-J-HXN8N_kcrbEzde2jjGPZyjKKaqx_zNI9fb4idBO1gg6bey8OGR04WgA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -114.390067,32.828354,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

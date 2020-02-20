@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Alaska sponsored by Tour of Honor</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>AK1 - Anchorage
+</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/vaed2n8ideposuu99em9u1rg6s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrKWPqBxykm_dHybm-gmGXO7TO6qYgfsjWhdfFZlnzYA5Zmi27a7rfP5BspxF38J9OgHRGfU7iIHsJIir5ARV8icrVGEQ33rJPOVQ9UjBSkDNelw2VIWNcuGnavJeMHK4OyNCCb-qmbNOzGLQEuMWlosFH66Ml9pLU-0667-CKvQxIzl8WS9VOshAFwTWnW1tyDtMSg6BrA2vGl8QpIvA_vLS-DGjEJsYDbTx2jmu8i8pICW0ZN7_uJ2NhRkp0P9_02rZ7sYCsLGbNetDoRLbsXC1CC2A?session=0&fife" height="200" width="auto" /><br><br>WWII Airmen Memorial<br>1942 Remembrance Circle<br>Anchorage, Alaska<br>GPS: 61.208368,-149.841395<br>Access: 24/7<br><br>Inscribed are the names of those airmen from the Eleventh Air Force, Fleet Air Wing Four, and Royal Canadian Air Force who died or suffered captivity in the defense of Alaska while serving in the Aleutian Islands during World War II.<br><br>Made in America: You’ll want to make hotel reservations in Anchorage as far ahead as possible. Smaller towns and villages not so much, but the farther ahead you plan, the better prices you will normally receive. TripAdvisor.com is your friend in Alaska.<br><br>The Long Branch Saloon in South Anchorage is a biker friendly, reasonably priced, great place to eat if you like small “dive type bars.” Open until 11AM-2:30AM. They also serve a great breakfast from 9AM-12N BUT only on weekends. 1737 East Dimond Circle<br><br>Kriner’s Diner in midtown serves great food in huge portions so be hungry if you stop in here. http://krinersdiner.com <br><br>Gwennie’s Old Alaska Restaurant is an Alaska-themed restaurant/bar right across the street from House of Harley. Huge portions and biker friendly. https://bit.ly/2Gpdl0A<br><br>Alaska Wild Berry Products is well worth the visit, especially if you need to take some “Alaska made goodies” back home to friends and family. https://bit.ly/2GpNTYN<br><br>Alyeska Resort is a downhill ski resort with tram rides up the mountain year around. On a nice day, the view is hard to beat plus there is a cafeteria for lunch and a fine dining restaurant overlooking Anchorage and Turnagain Arm. A nice place to spend the evening. https://bit.ly/2O0VpgR<br><br>Alaska Wildlife Conservation Center makes a great day trip or when headed south from Anchorage. See all the critters that roam Alaska from a safe vantage point. https://bit.ly/2RrfkaU<br><br>Begich, Boggs Visitors Center is an informative geological place to visit heading south from Anchorage and especially if you are taking the Alaska State Ferry System out of Whittier. Several glaciers in the area and you can even take a 1 hour “Glacier Cruise” to get up close and personal with Portage Glacier. https://bit.ly/37CzTHf<br><br>Alaska by Motorcycle Travel Tips by TOH rider Butch Rudowski: https://bit.ly/36rta1g<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/vaed2n8ideposuu99em9u1rg6s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrKWPqBxykm_dHybm-gmGXO7TO6qYgfsjWhdfFZlnzYA5Zmi27a7rfP5BspxF38J9OgHRGfU7iIHsJIir5ARV8icrVGEQ33rJPOVQ9UjBSkDNelw2VIWNcuGnavJeMHK4OyNCCb-qmbNOzGLQEuMWlosFH66Ml9pLU-0667-CKvQxIzl8WS9VOshAFwTWnW1tyDtMSg6BrA2vGl8QpIvA_vLS-DGjEJsYDbTx2jmu8i8pICW0ZN7_uJ2NhRkp0P9_02rZ7sYCsLGbNetDoRLbsXC1CC2A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -149.841395,61.208368,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AK2 - Byer’s Lake
+</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/5r515nj72j78aged5q4ocrqce0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo2h4YN25i3Bzujh-upQH-ujOveCvNAzf2xv9QynymAzNeqHNssUtJBMtNvcRkB7lhVJn8GnQlfkMFss1dSy4puAzlP1GlyzD39ivnHlY-ha-sAgNHBZrzOrCc8aBK40BT6Y6aZJuIsMbFJuJ-aftYvaNlu4h9bxW1DkYPXa5XHAhvMgoLS9bd56pFttTvPGAEULgJuDehlqxwh2tLByfOyTx4HA5SmG6o610nojAusPQTe1kxXx0PtUw0oCyu_dEawKHCszBEFzH2A0YGfD3snD7M26A?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Denali Park \n Milepost 147.2 of the George Parks Hwy.<br>Byer’s Lake, Alaska<br>GPS: 62.745608, -150.129795<br>Access: 24/7<br><br>The memorial consists of five 20-foot tall concrete panels, one each to represent the Army, Air Force, Navy, Marines and Coast Guard, arranged in a semi-circle. A statue of two Alaska Territorial Guards, carved by Canadian sculptor George Pratt, greet you at the entrance. On each panel is a short history of that branch’s contribution to Alaska. <br><br>This is the most visited veterans memorial in Alaska. Every Memorial Day weekend, all Alaska H.O.G. Chapters have a “Meet in the Middle” rally to pay tribute to our veterans. Alaska Vets MC and Combat Vets MC have a weekend rally with a group ride staged from Mary Carey’s McKinley View Lodge to the Byer’s Memorial. 100s of bikes are involved and it is something else to behold and take part in. And YES, anyone can be a part of it. All you have to do is show up.<br><br>Made in America: The Denali State Park is 325,240 acres, nearly half the size of Rhode Island. The park provides visitors with a great variety of recreational opportunities, ranging from roadside camping to extreme wilderness exploration. <br><br>Tesoro Gas Station at Talkeetna Spur Road turnoff is a popular place with a lot of business so fuel is fresh. For bikes with smaller tanks, this is a critical fuel stop when headed north.<br><br>Several restaurants in Talkeetna, Fairview Inn and West Rib have been featured on the Food Network Channel.<br><br>The 14 mile Talkeetna Spur Road is a scenic road leading to the village of Talkeetna where the Talkeetna, Susitna and Chulitna Rivers meet. Talkeetna is also the staging area for climbing Mt. McKinley (Denali). Hire a charter to fly the mountain, land on a glacier. Run the rivers in 500 horsepower jet boats or take a leisure drift trip in a rubber raft. Take a hike along the tracks. Even go zip lining if you are adventurous. A unique place and well worth the time it takes to visit. https://bit.ly/2ROp263<br><br>One of the top micro breweries in Alaska calls Talkeetna home: Denali Brewing Company. https://bit.ly/2tRcx1B<br><br>There are numerous small hotels in Talkeetna, with “rustic” best describing them. Tent camping at end of town along river. Lots of Bed and Breakfasts. <br><br>McKinley Lodge provides first class lodging close to the George Parks Highway. https://bit.ly/2vhFhkt<br><br>Alaska by Motorcycle Travel Tips by TOH rider Butch Rudowski: https://bit.ly/36rta1g<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/5r515nj72j78aged5q4ocrqce0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo2h4YN25i3Bzujh-upQH-ujOveCvNAzf2xv9QynymAzNeqHNssUtJBMtNvcRkB7lhVJn8GnQlfkMFss1dSy4puAzlP1GlyzD39ivnHlY-ha-sAgNHBZrzOrCc8aBK40BT6Y6aZJuIsMbFJuJ-aftYvaNlu4h9bxW1DkYPXa5XHAhvMgoLS9bd56pFttTvPGAEULgJuDehlqxwh2tLByfOyTx4HA5SmG6o610nojAusPQTe1kxXx0PtUw0oCyu_dEawKHCszBEFzH2A0YGfD3snD7M26A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -150.129795,62.745608,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AK3 - Fairbanks</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/rks7no1t16pdr81igirge4pc9s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp4kh7hiWQHSnvqNl0foakxrGgoT_wavu2K8s934axHeyJkUVbPRSeGJIxcdCxfm56JOshpyduF_upCMi-Dhql4K9KwnEGTAJCxmnHxSa8o4vqnPZC6vo9D7uj4dmgTPayYcVd9pQFmrFfbENVZW4vJDjjz49Tm_NkK-fD-LR3wtqKMHwUGY0wJZhgRWKKUyjy4kpU5RCb7EHZk_WuOzN3itjRpwfGwXMOgVizykKirXhcmbKwvvQ2L1Is98IFiBFb8bcypxovfqPD-9kYTLPB144HVBQ?session=0&fife" height="200" width="auto" /><br><br>Alaska Siberia WWII Memorial<br>360 Wendell Ave.<br>Fairbanks, Alaska<br>GPS: 64.845348, -147.717025<br>Access: 24/7<br><br>This memorial honors the pilots who flew aircraft from the continental United States to Siberia via Alaska as part of the Lend-Lease program during World War II.<br><br>During the years 1942-1945, Fairbanks was the point of transfer of 7,926 airplanes from US factories to the Soviet Union, America’s Ally in the war against Hitler’s Germany. American pilots brought airplanes from Great Falls, Montana to Fairbanks, where Soviet representatives accepted and ferried them along the Soviet leg of the route to Krasnoyarsk and then to the battlefronts.<br><br>Made in America: Pike’s Waterfront Lodge is an only-in-Alaska hotel on the banks of the China River. Nice and reasonably priced. https://pikeslodge.com<br><br>Chatanika Lodge has 10 rooms, food and some interesting gold mining memorabilia, especially the gigantic gold dredge across the street. A lot of gold mining history here. https://bit.ly/2uymrFk<br><br>Arctic Circle. Not a good trip for touring bikes, but better for dual sports. Rental vehicles are usually not allowed on this road. Road itself is fairly well maintained but extremely dry conditions are just about as bad as wet, rainy conditions. This is the Haul Road as in Ice Road Truckers show and truck traffic is continuous and fast. The trucks have right of way so it’s up to you to preferably pull over and stop, waiting for them to pass. Can be quite exciting at times and not always in a good way. https://bit.ly/2tRcToX<br><br>Chena River Hot Springs is a great ride, 56 miles one way on a usually minimal traffic paved road. Besides the hot springs, the resort is one of the best places in Alaska to view the northern lights, from September to March. And it’s well worth the trip just to see the Aurora Ice Museum, the world’s largest year-round ice museum with its very own ice bar. 20 degrees inside, so bring heated gear! https://bit.ly/37rQtJH<br><br>Alaska by Motorcycle Travel Tips by TOH rider Butch Rudowski: https://bit.ly/36rta1g<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/rks7no1t16pdr81igirge4pc9s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp4kh7hiWQHSnvqNl0foakxrGgoT_wavu2K8s934axHeyJkUVbPRSeGJIxcdCxfm56JOshpyduF_upCMi-Dhql4K9KwnEGTAJCxmnHxSa8o4vqnPZC6vo9D7uj4dmgTPayYcVd9pQFmrFfbENVZW4vJDjjz49Tm_NkK-fD-LR3wtqKMHwUGY0wJZhgRWKKUyjy4kpU5RCb7EHZk_WuOzN3itjRpwfGwXMOgVizykKirXhcmbKwvvQ2L1Is98IFiBFb8bcypxovfqPD-9kYTLPB144HVBQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -147.717025,64.845348,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AK4 - Soldotna</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/f0otkj109fsolgu4bqls7sc850/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoJpyAjhOpSB8Ti2r0XnAmIERdXDrJDOIkSky1vH6FYbsoIViDZ96XX4Wc5C_g9QbwD7i19O5efahIU1E17_9gAHMZ8oHIz8dLKcK5sG15yO_o6M5tdMiml_UodK62c_VFbz1h1Sa24hed9UwrbQ6xqOUeqnQNdhnX-MBzCntLhGpbdgDWv3b7njb6ThJfF0INJDzXn5Um0bgHPF3umrxyrdMaC7WCX8GQak7ZpvbP0hqDwxGp09eYgWiXu0OMxLEDDUS8itB_82JhVi9eO9IYhUDaCsA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>600 W Redoubt Ave.<br>Soldotna, Alaska<br>GPS: 60.487833, -151.10763<br>Access: See below.<br><br>This Memorial was designed in collaboration with local veteran groups in recognition for their service and sacrifice in protecting our freedom and way of life. It includes insignias of all five branches of the U.S. military in front of three flagpoles for the United States, Alaska and Veterans flags. The area is expandable similar to all sections of the park with the forest as a background.<br><br>Hours: Soldotna Memorial Park is open at all times to pedestrian visitors. Hours of operation/accessibility will be posted at the entrance to the Memorial Park. Summer hours: 8AM-8PM daily May 1- September 30. Winter hours: The vehicle gate may be closed depending upon weather and/or road conditions October 1-April 30.<br><br>Made in America: Best Western King Salmon Hotel is a clean biker-friendly, fairly reasonable priced hotel (by Alaska standards) that includes a full breakfast with your stay. https://bit.ly/2TXhXmC<br><br>The Soldotna Visitors Center is recommended, located right on the Kenai River bank, complete with paved handicap and walking access to the river. Extremely popular and if you’re into fishing, full mounts of the largest and second largest (90+ pounds) King Salmon ever caught are on display plus numerous other mounts. https://visitsoldotna.com<br><br>Photo ops: Kalifornsky Beach Road (K-Beach Road) is a scenic 22 mile loop ride on a good road along Cook Inlet from Soldotna to Kasilof, without a lot of traffic.<br><br>Alaska by Motorcycle Travel Tips by TOH rider Butch Rudowski: https://bit.ly/36rta1g<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/f0otkj109fsolgu4bqls7sc850/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoJpyAjhOpSB8Ti2r0XnAmIERdXDrJDOIkSky1vH6FYbsoIViDZ96XX4Wc5C_g9QbwD7i19O5efahIU1E17_9gAHMZ8oHIz8dLKcK5sG15yO_o6M5tdMiml_UodK62c_VFbz1h1Sa24hed9UwrbQ6xqOUeqnQNdhnX-MBzCntLhGpbdgDWv3b7njb6ThJfF0INJDzXn5Um0bgHPF3umrxyrdMaC7WCX8GQak7ZpvbP0hqDwxGp09eYgWiXu0OMxLEDDUS8itB_82JhVi9eO9IYhUDaCsA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -151.10763,60.487833,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AK6 - Wasilla</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jsfaddbk04sdcrgp3n37lka45k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqC3vvSRCkh2ItD-AYSZRn00fLmF_GJfP9LXYOViI6ISBHQaDUe32hGlIb1hADEwRJDVvjmdprbDPeNZjAsfgWC8sGa9C_CEb6pB4hMlqBbV1g7I2A4mFeIXAeOpxs83BNOBFR80HSQ8Ol0qBDnjb22aJXe8Nwsd60qdhVvZhiz5XB5ujdz0QnF634WGty79sqxupnhVF8gthzwnnDU_emDbMKpmzvecRRwxYJzdYzduCzUi2bA3xrsqEm117upxbpZAznOVn4zcGeQ-IPZRXupUmo7hQ?session=0&fife" height="200" width="auto" /><br><br>Armed Forces Honor Garden<br>550 Lucille St.<br>Wasilla, Alaska<br>GPS: 61.584696, -149.450996<br>Access: 24/7<br><br>The Armed Forces Honor Garden is located on the east side of Iditapark. During the summer months, you will see dazzling displays of flowers that adorn walkways within the Honor Garden. Flags representing all branches of our Armed Services fly in recognition of those who currently serve and those who have served our great nation.<br><br>Alaska by Motorcycle Travel Tips by TOH rider Butch Rudowski: https://bit.ly/36rta1g<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jsfaddbk04sdcrgp3n37lka45k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqC3vvSRCkh2ItD-AYSZRn00fLmF_GJfP9LXYOViI6ISBHQaDUe32hGlIb1hADEwRJDVvjmdprbDPeNZjAsfgWC8sGa9C_CEb6pB4hMlqBbV1g7I2A4mFeIXAeOpxs83BNOBFR80HSQ8Ol0qBDnjb22aJXe8Nwsd60qdhVvZhiz5XB5ujdz0QnF634WGty79sqxupnhVF8gthzwnnDU_emDbMKpmzvecRRwxYJzdYzduCzUi2bA3xrsqEm117upxbpZAznOVn4zcGeQ-IPZRXupUmo7hQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -149.450996,61.584696,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AK7 - Whittier</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/u6jar3qrdq2smm0u0s4kqov5qc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALplz2NysIc31eay4tz3y9Y2_fFmUJk0erfEyfoCs8HYNXrJHOkbB_ZRkJOCu3Op5ffMlxfJk8iLJSMa7C7PlkJwm5uRu-r3lHtvdu1lWHvgcyuIrr7r9s-5SRNPYOw62vVzL6EPZjt11M35LSolmER7srpDpt43UaVl4TBxAnC85mY9C8hQIwExL2mV03coAJnNDhMVbw5Mwc8AVnlRoiSJ_ctgATcKEzd45UEqhYWmFsRAFWc-sHdcpqz9TzUxOumCKnW7g0eL1ARetFNa8v5wKqFqMA?session=0&fife" height="200" width="auto" /><br><br> <br>Portage Glacier Rd.<br>Whittier, Alaska<br>GPS: 60.790088, -148.815105<br>Access: CAUTION advised, see below. $12 toll. Passage through tunnel not necessary for verification purposes. Whittier signage OK.<br><br>Anton Anderson (1892–1960) was a true Alaska pioneer and shaper of the Alaskan Railroad and Highway system. He was chief engineer of the Alaska Railroad and served as Mayor of Anchorage, Alaska from 1956 to 1958. He has been called “Mr. Alaska Railroad.”<br><br>In the 1930s, Anderson worked on the Matanuska Colonization Project, building Alaskan infrastructure to support the settlement of the Matanuska Valley. During World War II, he served in the United States Army Corps of Engineers. He also participated in the construction of the Eklutna River hydroelectric dam. <br><br>In 1976, the tunnel from Whittier to Portage, Alaska, which he had overseen, was renamed the Anton Anderson Memorial Tunnel. https://bit.ly/2RorYrd<br><br>CAUTION: Before passing through the 2.5 mile tunnel (longest one-lane highway tunnel in North America), READ THE LINKS BELOW. This tunnel shares traffic with trains (though not at the same time). SLIPPERY WITH STRONG CROSSWINDS due to jet fans used for ventilation. If you’re uncomfortable with slippery bridge grating or crossing wet trolley tracks, you’ll likely be uncomfortable here (tip: keep bike centered between the rails, don’t white knuckle the handlebars....relax) TUNNEL PASSAGE NOT MANDATORY for credit.<br><br>Alaska by Motorcycle Travel Tips by TOH rider Butch Rudowski: https://bit.ly/36rta1g<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/u6jar3qrdq2smm0u0s4kqov5qc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALplz2NysIc31eay4tz3y9Y2_fFmUJk0erfEyfoCs8HYNXrJHOkbB_ZRkJOCu3Op5ffMlxfJk8iLJSMa7C7PlkJwm5uRu-r3lHtvdu1lWHvgcyuIrr7r9s-5SRNPYOw62vVzL6EPZjt11M35LSolmER7srpDpt43UaVl4TBxAnC85mY9C8hQIwExL2mV03coAJnNDhMVbw5Mwc8AVnlRoiSJ_ctgATcKEzd45UEqhYWmFsRAFWc-sHdcpqz9TzUxOumCKnW7g0eL1ARetFNa8v5wKqFqMA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -148.815105,60.790088,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AK5 - Valdez</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/72napoddnfkhs5vmp4jp76haqc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrY-BRMT1HUbVbzPfAOuacUfQS1-PqT5Gx-_ZgAcbpfcRYBnA60hAr2qdmIdlotJLaxxgxkAKx2bnK-mf3cA0qXwoCLhqMUvw65ykadPnENqLHFRvNX62lztGha0IEtD1etQ7CtC8K_BsQMfSHieFUusTaGXid8hPQ_lBG1wUhX6CkNWbmb0XwJsYSS_fnTAthcrSWPgFK9w7KsWbBoV1yfGqqkMSAxHr8CgkDWEjLdKudVi_uDLtwgl3DglHLZbNCKpal9LTlQWXsHO7k4vRaBxyUYfg?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>340 Galena Dr.<br>Valdez, Alaska<br>GPS: 61.127779, -146.358473<br><br>This small memorial is sponsored by Valdez Post 2 American Legion and dedicated to the Vietnam Veterans lost from Alaska. <br><br>Also in the area: Don’t get too excited if you see a few bears roaming around town, especially when the Salmon are running which is most all summer. Valdez is a tourist town so be prepared. <br><br>There’s a nice museum here also. Valdez actually relocated the whole town after the 1964 earthquake. https://bit.ly/36tfWRs<br><br>Walk the docks and watch fishing charters coming in and unloading catch. <br><br>Take a Resurrection Bay sightseeing or fishing charter. <br><br>Lodging: Totem Inn is a bit rustic, but a clean, biker friendly and reasonably priced hotel that caters to Alaska H.O.G. riders frequently. They have an excellent restaurant at the hotel also. https://bit.ly/2RokuEu<br><br>Best Western is right on the water overlooking the boat harbor so it has some spectacular views. https://bit.ly/37t1FFM<br><br>Food: Old Town Burgers is great for a big breakfast and burgers are some of the best anywhere. Reasonable prices and biker friendly but no frills or atmosphere. A great biker hangout. https://bit.ly/38ARxLt<br><br>The Fat Mermaid is basically a bar with about a dozen tables. Great food with an extensive menu. All their seafood items are great. Occasional music and it can get a little loud late in the evening. https://bit.ly/36qKcwv<br><br>Alaska by Motorcycle Travel Tips by TOH rider Butch Rudowski: https://bit.ly/36rta1g<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/72napoddnfkhs5vmp4jp76haqc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrY-BRMT1HUbVbzPfAOuacUfQS1-PqT5Gx-_ZgAcbpfcRYBnA60hAr2qdmIdlotJLaxxgxkAKx2bnK-mf3cA0qXwoCLhqMUvw65ykadPnENqLHFRvNX62lztGha0IEtD1etQ7CtC8K_BsQMfSHieFUusTaGXid8hPQ_lBG1wUhX6CkNWbmb0XwJsYSS_fnTAthcrSWPgFK9w7KsWbBoV1yfGqqkMSAxHr8CgkDWEjLdKudVi_uDLtwgl3DglHLZbNCKpal9LTlQWXsHO7k4vRaBxyUYfg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -146.358473,61.127779,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

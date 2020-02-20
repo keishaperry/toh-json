@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Montana sponsored by Trevor Mikkelsen</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>MT1 - Big Sky</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2ldcibb6qh7ogcqcua3s2put84/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrAbqxXZjfSlFR2O4NaYSaqudKgSGF_XLcHV8NlNFHisSWHZLXBrhNQmF9tE5LjPbaKc1M2RfQd-R_VU6d0NBRmKf18qT3esaeh8ezVI00eWmE8ibL-Ys1t52n1GxLPwGmjLFQ54BPqgJXzSghhP2TeOzeY7HlBs55GVTzH17RT74DnA0kmOfJJ8xHVm0eD-TQNBOIYsMWqrr-HQqxofr3mxo5TEyXLlIqdf2nCT777bbqWDcktDUX8AZlVsb69jtNWHZncZjLR869RlySgAlX8N-wVZg?session=0&fife" height="200" width="auto" /><br><br>Soldiers Chapel<br>47875 Gallatin Rd.<br>Big Sky, Montana<br>GPS: 45.263991, -111.256523<br>Access: 24/7<br><br>A large marker in front of the chapel is in tribute to the soldiers of the 163rd Infantry, 41st Division of Montana who, with courage and devotion, died in pain, defending their country and the cause of freedom for all men. Another marker honors Lieut. Nelson Story IV, killed in action, Afua, New Guinea, August 6, 1944. <br><br>Behind the chapel are several dozen headstones for veterans who are buried there. The rock and log chapel, which is normally open, has a grand view of the mountains and a large stained glass window that honors fallen soldiers. Take a look at it from the inside.<br><br>On a personal Tour of Honor note, organizer Dave Brooks’ wife, Marilyn, played the organ for several weddings held here.<br><br>Made in America: Located in the beautiful Gallatin Valley, this Memorial is near Big Sky Resort with great opportunities for hiking, climbing, biking and hunting. The Gallatin River has excellent fishing and white water rafting. <br><br>Yellowstone NP is just 60 miles away via US-191.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2ldcibb6qh7ogcqcua3s2put84/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrAbqxXZjfSlFR2O4NaYSaqudKgSGF_XLcHV8NlNFHisSWHZLXBrhNQmF9tE5LjPbaKc1M2RfQd-R_VU6d0NBRmKf18qT3esaeh8ezVI00eWmE8ibL-Ys1t52n1GxLPwGmjLFQ54BPqgJXzSghhP2TeOzeY7HlBs55GVTzH17RT74DnA0kmOfJJ8xHVm0eD-TQNBOIYsMWqrr-HQqxofr3mxo5TEyXLlIqdf2nCT777bbqWDcktDUX8AZlVsb69jtNWHZncZjLR869RlySgAlX8N-wVZg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -111.256523,45.263991,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MT2 - Billings</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/i76vt72u93p7nffrd7sf2bcs5k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrARtXW-bSXB1LPobzArKQbgbhvNIOzYLQWLdehC637xicc0lhvScPxt-XG57dm-WKfp6Aoypn8hCnZQPWfGLuc0mVlbwJa32yQhYZC1OZT3LlzFXnwtvoBuIpnsowRzMaP0U50cPVCfWLJ8EOHaNIrZ0TccMJ_JH_hdjFkPsT7fXoBRTsqsopyAbM_-VYAS6u0grUJAIbuUcvehrcG9BJE77gDr5G7Rwc-3dNEZqhqEA9NMk4_ZixdbXHPx8v7UoJmmsRLO3d-8q-kh_W9tSAD1oKDuA?session=0&fife" height="200" width="auto" /><br><br>Purple Heart Memorial<br>217 N 27th St.<br>Billings, Montana<br>GPS: 45.784112, -108.505441<br>Access: 24/7<br><br>The Montana Purple Heart Memorial honors combat wounded veterans from Montana. Also in the same park area is the Yellowstone County Veterans Memorial honoring local veterans who served in the Spanish American War, WWI, WWII, Korea and Vietnam. <br><br>Made in America: Billings (the Magic City) is the largest city in Montana and is the logical jumping off point to the start of the Beartooth Highway in Red Lodge, Montana. The Beartooth Highway is rated the number one motorcycle highway by the AMA and can be the highlight of any motorcycle trip.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/i76vt72u93p7nffrd7sf2bcs5k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrARtXW-bSXB1LPobzArKQbgbhvNIOzYLQWLdehC637xicc0lhvScPxt-XG57dm-WKfp6Aoypn8hCnZQPWfGLuc0mVlbwJa32yQhYZC1OZT3LlzFXnwtvoBuIpnsowRzMaP0U50cPVCfWLJ8EOHaNIrZ0TccMJ_JH_hdjFkPsT7fXoBRTsqsopyAbM_-VYAS6u0grUJAIbuUcvehrcG9BJE77gDr5G7Rwc-3dNEZqhqEA9NMk4_ZixdbXHPx8v7UoJmmsRLO3d-8q-kh_W9tSAD1oKDuA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -108.505441,45.784112,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MT3 - Crow Agency
+</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/of9i0ot7nma4sjvm454n354vvk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrzcX1SJF-5us-b7P5yOuT-Mi1cW1DBg-6oP-nQTWuHOXAlErHzuKzZxYoUn_VGz2By-89goab731kZ5Gwqt9ywUCubnKVjAsCeilDdYXTEYqu5DxrzCpWl5oyG6OACKgwO4lWpxrgfnLRwcIC1vY_SmmVl3B-1VXDjW6TWwZGeYVq8kCXwFOk3zVX9JoWV3CBdsc37lOltkJmJHog5v1AaBij9jRQRMOpt-eX10xAx7zhyYwZJSZi5rSryYdYgkHUbOvJIkDOj7Xeouzb4AkB2m9UNJQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Frontage Rd. & Arapoosh Rd.<br>Crow Agency, Montana<br>GPS: 45.593624, -107.459236<br>Access: 24/7<br><br>This memorial in Apsaalooke Veterans Park honors those veterans from the Crow Tribe of Indians.<br><br>Made in America: The Crow Agency abuts the Little Bighorn Battlefield National Monument that reflects on a controversial chapter of American history. From the NPS website, “This area memorializes the US Army’s 7th Cavalry and the Lakotas and Cheyennes in one of the Indian’s last armed efforts to preserve their way of life. Here on June 25 and 26 of 1876, 263 soldiers, including Lt. Col. George A. Custer and attached personnel of the US Army, died fighting several thousand Lakota and Cheyenne warriors.”<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/of9i0ot7nma4sjvm454n354vvk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrzcX1SJF-5us-b7P5yOuT-Mi1cW1DBg-6oP-nQTWuHOXAlErHzuKzZxYoUn_VGz2By-89goab731kZ5Gwqt9ywUCubnKVjAsCeilDdYXTEYqu5DxrzCpWl5oyG6OACKgwO4lWpxrgfnLRwcIC1vY_SmmVl3B-1VXDjW6TWwZGeYVq8kCXwFOk3zVX9JoWV3CBdsc37lOltkJmJHog5v1AaBij9jRQRMOpt-eX10xAx7zhyYwZJSZi5rSryYdYgkHUbOvJIkDOj7Xeouzb4AkB2m9UNJQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -107.459236,45.593624,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MT4 - Fort Peck</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/nd4g26ae8barq65jt0q3q2k1j0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpP6TMvLk-EnoTJHhVbJtagvI8gwpgHD_so-XYSNy_nlQ41Lt1LLsxdCKHHtrtLyYuICqEaJyNYSmv2v18o62lAYGL4e4kOm7rwlkTrrsX04e8_JvHVgSGwtUBgLMcMAvu_n-6_9_aMtlqnVByRwx9xBkECTKXHMOKpMcOTrS34zg7hipk8OgFMY6ll97rvz-ss7_KTOb2pWogwPIgwyC1E6ao9cXnrkPNM-5vdEWXKwk615WpCwLQExBh3clYAycBVPGs81JAvPuEjq5V1JP8v0ZkKIg?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Park<br>Across from 1403 N Missouri St.<br>Fort Peck, Montana<br>GPS: 48.009313, -106.449025<br>Access: 24/7<br><br>Dedicated in 2016, the Northeast Montana Veterans Memorial Park honors local area veterans and preserves a loving memory, showing the highest respect and honor for the sacrifices of all veterans.<br><br>Made in America: Fort Peck was founded as “the government town” during the construction of the Fort Peck Dam and Reservoir. Each summer, the historic Fort Peck Theatre hosts summer theatre productions of popular plays and musicals. <br><br>The town of Glasgow is 15 miles northwest of here, so if you’re hungry try Eugene’s Pizza, consistently rated as the Best Pizza in Montana for more than 50 years. https://bit.ly/2RGWcoc<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/nd4g26ae8barq65jt0q3q2k1j0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpP6TMvLk-EnoTJHhVbJtagvI8gwpgHD_so-XYSNy_nlQ41Lt1LLsxdCKHHtrtLyYuICqEaJyNYSmv2v18o62lAYGL4e4kOm7rwlkTrrsX04e8_JvHVgSGwtUBgLMcMAvu_n-6_9_aMtlqnVByRwx9xBkECTKXHMOKpMcOTrS34zg7hipk8OgFMY6ll97rvz-ss7_KTOb2pWogwPIgwyC1E6ao9cXnrkPNM-5vdEWXKwk615WpCwLQExBh3clYAycBVPGs81JAvPuEjq5V1JP8v0ZkKIg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -106.449025,48.009313,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MT5 - Great Falls
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/cnctcch9mrd21a3jfs5j9mdnrc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoAz6aqUJaZkM1xpoMQ4o8vKvib330ATjI5IfpDkt_Evz_5eZ_Ikg6A9nWBjwMqthTZk3MYoCGqRIZdyXRCf_u1T9ll6iGlRjImwl0kAcVpp9j6K6HIUoNA9cqG2Rpe0s_jDNuLfDJidF4eI4Xuqbs-Be61coYrrJ_UXNG866mmU6OL69CN8T-f4CUjVOej_tZ_xkUdChorUPZqreyMMyAKnufXJNkjnZwyyPvmYygBNPSqoTH7P6R7gZZLTZMLKCcWdnyUFtqiEWN8H7BBj8CrHrL3RQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>River Dr. N & 25th St N<br>Great Falls, Montana<br>GPS: 47.517749, -111.261774<br>Access: 247<br><br>The memorial honors and recognizes all veterans of all branches of military service to the United States of America, in peace and in war. The central sculpture “The Warrior Angel” was cast by local artist and Vietnam Veteran Marvin Brewster, who for many years before he passed in 2012, headed up the annual Toys for Tots ride, a legacy that is carried on to this day by his wife and daughters.<br><br>Made in America: Great Falls is home to the Charlie Russell Museum and annual Western Art Auction. The Lewis and Clark Interpretive Center highlights much of the history of that historic expedition, especially documenting the month-long portage around the falls along the Missouri River.<br><br>Great Falls knows burgers! The Roadhouse Diner won the “Best Burger Showdown” for Guys Grocery Games on the Food Network. They also won the “Best Burger in each state in America” for Montana in 2017. Five stars on Yelp, Tripadvisor and Google. http://www.roadhousegf.com<br><br>And Two Ks Kafe at 406 3rd Ave. S won the “Best Hole in the Wall Burger Joint in America” in 2019.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/cnctcch9mrd21a3jfs5j9mdnrc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoAz6aqUJaZkM1xpoMQ4o8vKvib330ATjI5IfpDkt_Evz_5eZ_Ikg6A9nWBjwMqthTZk3MYoCGqRIZdyXRCf_u1T9ll6iGlRjImwl0kAcVpp9j6K6HIUoNA9cqG2Rpe0s_jDNuLfDJidF4eI4Xuqbs-Be61coYrrJ_UXNG866mmU6OL69CN8T-f4CUjVOej_tZ_xkUdChorUPZqreyMMyAKnufXJNkjnZwyyPvmYygBNPSqoTH7P6R7gZZLTZMLKCcWdnyUFtqiEWN8H7BBj8CrHrL3RQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -111.261774,47.517749,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MT6 - Helena</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/6m3f12eug5sjc5ldhf677lenis/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo2sKKeI-y19wncvgI3OvDvlC4Hc8L30dE5NdlLvXwQHSYnT9YtQzZOgZFLlJhDNfddUwRFJN0w2ELNKblrZnc40X_vSutkMVDjk-E6HidSw4mOsHhK7oXFRYOiytFxcqJWdzyCKNrSuK0vAwBmn4GiR8lUO50rleyscTQ9HShLgcqyxZa4kk9-7dM4spifUUEdoXfyLFECKDVQfQvYRN1VIDpOkzkPViaKMFGsSOkYAqELlZMeFlwrP7QtUmsv8CqREz7YFo5N-ZDCcm5stQLopTZX-g?session=0&fife" height="200" width="auto" /><br><br>First Special Service Force Memorial<br>1203 N Last Chance Gulch<br>Helena, Montana<br>GPS: 46.599480, -112.030126<br>Access: 24/7<br><br>The monument is dedicated to the First Special Service Force commissioned by President Roosevelt along with Prime Minister Winston Churchill as a joint Canadian-U.S. force of three small regiments and a service battalion. Also referred to as the “Devil’s Brigade,” the 1st Special Service Force was activated on 9 July 1942 at Fort William Henry Harrison, Montana. <br><br>The mission of these soldiers was to parachute into occupied enemy territory and destroy crucial enemy targets. Dubbed the “Black Devils” by Germans for their ferocious nighttime fighting ability, they suffered heavy losses but were extremely successful. The memorial features a stone memorial with an encased FSSF flag, and a memorial wall with the names of unit members.<br><br>Made in America: Helena lies halfway between Glacier and Yellowstone National Parks. A historical town that has served as the Capital of Montana since 1875, 14 years before statehood. Home of the 1864 Montana gold rush which earned the nickname “Last Chance Gulch.”<br><br>If you’re looking for good comfort food, check out Shellies Country Café at two locations: 908 Euclid Ave. or 3122 US 12 between Helena and E Helena. <br><br>Also highly rated is Steve’s Café at two locations https://www.stevescafe.com<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/6m3f12eug5sjc5ldhf677lenis/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo2sKKeI-y19wncvgI3OvDvlC4Hc8L30dE5NdlLvXwQHSYnT9YtQzZOgZFLlJhDNfddUwRFJN0w2ELNKblrZnc40X_vSutkMVDjk-E6HidSw4mOsHhK7oXFRYOiytFxcqJWdzyCKNrSuK0vAwBmn4GiR8lUO50rleyscTQ9HShLgcqyxZa4kk9-7dM4spifUUEdoXfyLFECKDVQfQvYRN1VIDpOkzkPViaKMFGsSOkYAqELlZMeFlwrP7QtUmsv8CqREz7YFo5N-ZDCcm5stQLopTZX-g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -112.030126,46.59948,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MT7 - Libby</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gj356jv0ub7oobbgm573pf4se0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpY2rF9PrOX5IfcezUdBLOE0Ppz8iSgSBupNs1iSxTGfKK2V8NHObqBvGMriA9yJiaOtRHbtqjxe6c80TGqO91-z_a6QAWTXLyrAVBTF0gQ2xYSsq4Hk2QsMSlEdmCWLJ7lQHVFU1_1cQCiWTJCQzwZx9i-AX361Bw201T--YVQY953fJcDFqOK-sCGCgzkDpIGnjT7EHW2fLkUmwkfG4zwIJ1Jd28qskMPRY-VBRzjpGOij98c2YWbkcLyyGo2cjwNz2ZiYBERNTkz-J57cRnQ2WnDCg?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>123561 City Srv Rd.<br>Libby, Montana<br>GPS: 48.397287, -115.552512<br>Access: 24/7<br><br>Located along the picturesque Kootenay River, this Memorial Park honors the veterans of Lincoln County in Northwestern Montana. The bronze sculpture by local artist Scott Lennard depicts a WWII era soldier pulling a modern era soldier out of harm’s way. It honors the generations past and present and their dedication to duty, honor and service.<br><br>Made in America: Libby is home to beautiful views and friendly folk. Stop by the Last Straw Café if you’re hungry, because you won’t be for long. Located at 30890 US-2<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gj356jv0ub7oobbgm573pf4se0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpY2rF9PrOX5IfcezUdBLOE0Ppz8iSgSBupNs1iSxTGfKK2V8NHObqBvGMriA9yJiaOtRHbtqjxe6c80TGqO91-z_a6QAWTXLyrAVBTF0gQ2xYSsq4Hk2QsMSlEdmCWLJ7lQHVFU1_1cQCiWTJCQzwZx9i-AX361Bw201T--YVQY953fJcDFqOK-sCGCgzkDpIGnjT7EHW2fLkUmwkfG4zwIJ1Jd28qskMPRY-VBRzjpGOij98c2YWbkcLyyGo2cjwNz2ZiYBERNTkz-J57cRnQ2WnDCg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -115.552512,48.397287,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

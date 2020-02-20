@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Idaho</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ID1 - Arco</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/q29lrje2np29lcr7f7kpct2n3s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq2SESUONshoyUB85fJNrJeF3hKKlrUoQl15fnnAe2WcEpXMyXkKU5rV19uxay_rrA0IAByjOL5I4DETv1my_YK8hXU63Fxt-G4WO7MStxHR5k65yK4yeeaPJxICnig-61DBCcXNuxJ5hG68eUYL2i0zSRp5rAnbXYujmps9qgkBSVoXa9rqRrcrJW1MYDyUtMvGsM38_yslHU0krwu90lPMWayp9Msu4ODUss6tnoWTD_u1YZWCj9NKsJYRWteqn0bTEyDARryf2cTOx5pj4qNC8GQwQ?session=0&fife" height="200" width="auto" /><br><br>USS Hawkbill SSN-666 “Devil Boat”<br>US-20 & Hwy Dr.<br>Arco, Idaho<br>GPS: 43.634166, -113.296646<br>Access: 24/7<br><br>The sail from the USS Hawkbill (SSN-666) “rises” out of the desert floor in this tiny town. It was no small task establishing Hawkbill's sail as the only known "Submarine in the Desert." But because of Arco's history in nuclear power development, town enthusiasts latched onto the idea, and when Hawkbill was decommissioned in 2001, the Naval Historical Society donated it to them.<br><br>Arco, with a population of 1,023, was the site where nuclear propulsion for submarines began. During the Cold War, all of southeast Idaho was a hotbed of nuclear testing and advancements - but because their studies were classified, no one knew about it.<br><br>Over the last several decades, some 40,000 sailors trained in nuclear operations at three prototype nuclear power plants in the Arco region. When you visit, you may be met by one of the “docents” who either sailed on the Hawkbill, or worked on the power plants.<br><br>Hawkbill's illustrious history was recounted at the dedication by its last commanding officer, Capt. Robert Perry, who with some emotion, told of its 29 years of missions. To his side stood an American flag that once flew from the decommissioned sub.<br><br>"I estimate that Hawkbill steamed almost 1.5 million miles," Perry said. "Most of what Hawkbill did on her deployments remains classified to this day, but I can guarantee you that Hawkbill's crews significantly contributed to our country's victory in the Cold War."<br><br>The submarine deployed 10 times to the Pacific and six times to the Arctic Ocean, where it joined the National Science Foundation in several crucial studies at the North Pole. Perry described using the sail as a battering ram to break through three feet of ice - a dramatic event that the crew found both jarring and exciting.<br><br>Made in America: Pickle's Place is only a stone's throw on the opposite side of the Hwy from the memorial. The menu includes their famous deep-fried pickles and The Atomic Burger comes with an over generous addition of "mushrooms” for obvious reasons. The Deli Sandwich Shop at 119 N Idaho St. makes large Hoagies and deli sandwiches, also very good eating.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/q29lrje2np29lcr7f7kpct2n3s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq2SESUONshoyUB85fJNrJeF3hKKlrUoQl15fnnAe2WcEpXMyXkKU5rV19uxay_rrA0IAByjOL5I4DETv1my_YK8hXU63Fxt-G4WO7MStxHR5k65yK4yeeaPJxICnig-61DBCcXNuxJ5hG68eUYL2i0zSRp5rAnbXYujmps9qgkBSVoXa9rqRrcrJW1MYDyUtMvGsM38_yslHU0krwu90lPMWayp9Msu4ODUss6tnoWTD_u1YZWCj9NKsJYRWteqn0bTEyDARryf2cTOx5pj4qNC8GQwQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -113.296646,43.634166,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ID2 - Athol</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ose88eh720v4embhkvb064r40k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoxL544iDMRolHdgtMVgZOuV2Rz6RllW0AfBlX8t8-BMX30G9VN7mbyfLnzc5VTYanAOMkDRhMMAKLqyvEoTNvAr9mqZpKrjuYIq1roHdkBtcqjVmHZOUHxXIPvC3UOpHoF_YU2CM4B8JmRAZenBGR3eGDMuWlBJlFiXCT1gaKRSH5BooZLfqlXyzI7CagfpeD4WEuDAMi2uRyYttBWUs7g0arLNG8EsefTDzvavo5fxrI-G2Lcr6Bef5l6BL5qq3p_bknnVgsrhYX-abfNObXFhd3F7g?session=0&fife" height="200" width="auto" /><br><br>“The Right of Passage” WWII Naval Memorial<br>Farragut State Park \n 15704 Hwy. 54<br>Athol, Idaho<br>GPS: 47.965230, -116.580826<br>Access: Dawn to dusk. See directions below.<br><br>The Memorial "The Right of Passage" is located at Farragut State Park in Idaho's Panhandle near Lake Pend Oreille.<br><br>Behind the mast flagpole is a bust known as "Mack," positioned on a base resembling a whale boat, a boat made of steel and holding up to 16 Navy recruits. The recruits were trained to row the boats in unison, learning a valuable lesson in teamwork. Surrounding the whale boat and facing the flags are 29 sets of footprints at attention, commemorating the numbers (in tens of thousands) of men who trained at Farragut. Look closely at Mack’s hair when you visit.<br><br>The Brig at Farragut Park is now a Museum and is open from Memorial Day to Labor Day should you have an interest and the time. The Park with camping is available year-round. Note: Farragut State Park is rumored to be one of the most haunted campgrounds in America.<br><br>Relevant links:<br>http://bit.ly/37ORSd1<br>http://bit.ly/36FNQUf<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ose88eh720v4embhkvb064r40k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoxL544iDMRolHdgtMVgZOuV2Rz6RllW0AfBlX8t8-BMX30G9VN7mbyfLnzc5VTYanAOMkDRhMMAKLqyvEoTNvAr9mqZpKrjuYIq1roHdkBtcqjVmHZOUHxXIPvC3UOpHoF_YU2CM4B8JmRAZenBGR3eGDMuWlBJlFiXCT1gaKRSH5BooZLfqlXyzI7CagfpeD4WEuDAMi2uRyYttBWUs7g0arLNG8EsefTDzvavo5fxrI-G2Lcr6Bef5l6BL5qq3p_bknnVgsrhYX-abfNObXFhd3F7g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -116.580826,47.96523,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ID3 - Jerome</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9j2mbmg1ebt47u9evmjoesvlgg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoU8A_vchrR5x4SWHqm3p1Id4iwM4ROzd8qHTaarwz6GDCsWfRPkgxMBySGGsnF--kxNun9FQvxxRlQKCCcQLHGdo2u0YZxfLAzs_36t-nERsUl-ghKiJkYJK0ehLoTXtg41bfOZycT92nPDx9DnK1QTI9uVOo6HhZ4jaI-1u9EmajyR4OfdVIgf6OSzi1Qic01lTKqCAJQUm1wIwnKaH4l2rWNJeQ016YIzKT1Poj2RzcPPaGbrBn55gxat5hxzNyEXRN9T_TIVKL6l9lnotf7YEBtUQ?session=0&fife" height="200" width="auto" /><br><br>Sgt Dan Brown Memorial<br>Gayle Forsyth Memorial Park \n 912 8th Ave. E<br>Jerome, Idaho<br>GPS: 42.7316, -114.50364<br>Access 5:30AM–10PM<br><br>Dedicated in 2017, the memorial depicts a life size bronze statue of Sgt Dan Brown reaching out to an Iraqi child and includes a 24-foot wall listing the names of Idaho soldiers killed since the attacks of 9/11.<br><br>Salt Lake portrait sculptor Lena Toritch created the clay statue of Sgt. Brown. Born and trained in St. Petersburg, Russia, Toritch is a U.S. citizen who lives in Salt Lake City. She feels it is her mission to create sculptures that help people find comfort and hope while honoring the service of American soldiers.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9j2mbmg1ebt47u9evmjoesvlgg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoU8A_vchrR5x4SWHqm3p1Id4iwM4ROzd8qHTaarwz6GDCsWfRPkgxMBySGGsnF--kxNun9FQvxxRlQKCCcQLHGdo2u0YZxfLAzs_36t-nERsUl-ghKiJkYJK0ehLoTXtg41bfOZycT92nPDx9DnK1QTI9uVOo6HhZ4jaI-1u9EmajyR4OfdVIgf6OSzi1Qic01lTKqCAJQUm1wIwnKaH4l2rWNJeQ016YIzKT1Poj2RzcPPaGbrBn55gxat5hxzNyEXRN9T_TIVKL6l9lnotf7YEBtUQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -114.50364,42.7316,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ID4 - Lewiston</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/mk8sm8gumrdmea612co3c9i6j0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq2FA7sMKonMcGFm6L0ibChpUfzTbx_6AnRzfS-PXWcdu7-lw7-LcjlgnG_mve8pXbnAhC91eBS8whKAqvM1jql9Hr45bqwlJT1l5jrVAHb5cNe_4Y9aWjs-491qnVHV27al13ul1h1lhCw1yc0XXoyVuDIBEo0ommDhtTaMmAAhFOwDV7-omgifay4Tb3i_XlYvpLWZyDnIPr266rOF81G8HgxKXa1RO4WKnOM4lS6Y3CUMeEOWsOEQs-HdEaHuCYVpGnC8I28OIpK3gLdjmTQzIRZ3A?session=0&fife" height="200" width="auto" /><br><br>“I am an American”<br>Idaho State Veterans Home \n 821 21st Ave.<br>Lewiston, Idaho<br>GPS: 46.39924, -117.01932<br>Access: 24/7<br><br>The statue of a soldier with a wounded child is designed to commemorate all branches of the military. The stripes on the statue's uniform indicate the figure is a sergeant.<br><br>"He could be a paramedic. He could be a regular soldier. Because soldiers always help people who are in need."<br><br>If time allows, stop and say Hi to some of the residents that may be sitting outside, enjoying the fresh air. They like visitors here and f you have a poker chip for them it would mean a lot.<br><br>Made in America: If you consider yourself a burger enthusiast, Effie’s Tavern is a must-stop at 1120 Main St. They have one the size of a dinner plate and you can super-size it by adding some fried eggs, mushrooms and a big slab of ham. Betcha can’t eat the whole thing! (They also have smaller portions for the rest of us.)<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/mk8sm8gumrdmea612co3c9i6j0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq2FA7sMKonMcGFm6L0ibChpUfzTbx_6AnRzfS-PXWcdu7-lw7-LcjlgnG_mve8pXbnAhC91eBS8whKAqvM1jql9Hr45bqwlJT1l5jrVAHb5cNe_4Y9aWjs-491qnVHV27al13ul1h1lhCw1yc0XXoyVuDIBEo0ommDhtTaMmAAhFOwDV7-omgifay4Tb3i_XlYvpLWZyDnIPr266rOF81G8HgxKXa1RO4WKnOM4lS6Y3CUMeEOWsOEQs-HdEaHuCYVpGnC8I28OIpK3gLdjmTQzIRZ3A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -117.01932,46.39924,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ID5 - Meridian</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/g84ckipufhpm200msagi8qe494/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoGJXfhWA1ycaaRyvqiyy3W8oQJAUYnKLE8PcGORg-WWL08nsfqlJqZ6zC7DX14QilCH-Kkpy1a1f948Pl32sdo69aMZyHMrI5-Z3mtmoMqIagoh2QJp6deSzgFfQo-JYo5ejCqO9lx5khaeh0vR341VFBhZsDuIrESopS5CJlsAjHVLVDG8aGddX0U9WJcFOKiWvCXzA1z3i7ac-dSsTf1_O-_gwWH1fdcHduI5fj9qLvffXVv1FeKrs4HYp0in5rPuLfga7_PsMD67TssVYA5fJBoKQ?session=0&fife" height="200" width="auto" /><br><br>Peace Officers’ Memorial<br>Idaho Peace Officers Standards and Training \n 700 S Stratford Dr.<br>Meridian, Idaho<br>GPS: 43.5986, -116.38407<br>Access: 24/7<br><br>The Idaho Peace Officers’ Memorial is located on the grounds of the Idaho Peace Officers Standards and Training. The purpose of the memorial is to recognize the sacrifices of those officers who have given their lives in the line of duty for citizens of the state. The memorial provides a place of solace for families of these fallen officers and also honors those who currently serve the citizens of Idaho as peace officers.<br><br>Each year after the week of May 15 (National Police Week), groups of people gather together to honor the peace officers who gave their lives in the line of duty: Surviving spouses grieving a lost partner, children missing a parent, older couples who have survived their sons or daughters, brothers, sisters, and fellow peace officers.<br><br>Idaho Peace Officers’ Memorial Ceremonies have been conducted at the Memorial since 1995. It is a ceremony that honors the officers who have fallen in the line-of-duty, recognizing the sacrifice of those loved and left behind.<br><br>It is important that we, as survivors, recognize that these officers did not die in vain. The people owe a debt to those who have given their lives, and the peace officers of this state want this memory to stay fresh in the minds of the citizens. That is why we must reflect during this time set aside to reflect on courage and sacrifice; and, to assure that their loss will not be forgotten, and the survivors will always be a part of the law enforcement community.<br><br>Constructed and dedicated May 15, 1998, the Memorial is designed as a five-point badge laid in a red bricked walkway. The center of the star is the focal point: three sandstone boulders stand proudly within the center of the star.<br><br>Made in America: The Boise area is home to literally dozens of breweries all of which have some kind of food truck parked nearby that usually offer a limited but excellent board of fair. Too many to list but easy to look up on your smart phones. TOH organizers favor Sockeye Brewing Pub at 12542 W Fairview Ave., just a few blocks north of the Memorial. https://www.sockeyebrew.com<br><br>If you're a foodie, you might want to check out the new mega-Albertsons at 3499 E Fairview Ave., just a few blocks north of the Memorial. Trust us on this one. Where else will you find a full bar with live music inside a grocery store?<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met. ]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/g84ckipufhpm200msagi8qe494/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoGJXfhWA1ycaaRyvqiyy3W8oQJAUYnKLE8PcGORg-WWL08nsfqlJqZ6zC7DX14QilCH-Kkpy1a1f948Pl32sdo69aMZyHMrI5-Z3mtmoMqIagoh2QJp6deSzgFfQo-JYo5ejCqO9lx5khaeh0vR341VFBhZsDuIrESopS5CJlsAjHVLVDG8aGddX0U9WJcFOKiWvCXzA1z3i7ac-dSsTf1_O-_gwWH1fdcHduI5fj9qLvffXVv1FeKrs4HYp0in5rPuLfga7_PsMD67TssVYA5fJBoKQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -116.38407,43.5986,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ID6 - North Fork</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/b3kfjv6vqkcmte5uigt7c4hhuo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqB_VJTQfpNDRG9w97eabfJPlF0gwIyxhQnH1SVDDaI7fw8rBjlosi5BR_sioUSXaR1_AJAILf2nO4F5rDiOBi3-JU7Ljr_VazovhDLdTSB59E8jfgbtor3ZPkPbew-qsRSZJw2kr8-hO6ernZlKnaq4VQTt-x9D41VsMQZC664c6HNX16vOpcUHVyNvjPV-5V456BSEZiiUmruz5j0eBOu1g_9_DzT08Izyi19S-2INDV6f2oSchMcx-SdCCDSOn0tlIcI8ciFG_dX6M9WA2_FoncMeQ?session=0&fife" height="200" width="auto" /><br><br>Smokejumpers Memorial<br>Salmon-Challis National Forest \n 1029 Salmon River Rd.<br>North Fork, Idaho<br>GPS: 45.401092,-114.168066<br>Access: 24/7. Not illuminated after dark.<br><br>This firefighter memorial is where two smokejumpers perished while fighting the "Cramer" Fire in July, 2003. Jeff Allen, 24, of Salmon, Idaho and Shane Heath, 22, of the Boise area, were overrun by flames after rappelling to the ground to clear a helicopter landing zone.<br>  <br>The Wildland Firefighter Foundation honors those who have been killed in the course of protecting our lands, our homes and our property. These statues depict the strain of the rappeler’s descent, the smokejumpers' leap; the long, hot smoke-filled days and nights... the elements of the wilderness, including fire. The incident report can be found at http://bit.ly/2t4aOFN<br> <br>Made in America: The North Fork General Store at the intersection of Salmon River Rd and Hwy 93 is a well-stocked store with short order food, sundries and ice cream.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/b3kfjv6vqkcmte5uigt7c4hhuo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqB_VJTQfpNDRG9w97eabfJPlF0gwIyxhQnH1SVDDaI7fw8rBjlosi5BR_sioUSXaR1_AJAILf2nO4F5rDiOBi3-JU7Ljr_VazovhDLdTSB59E8jfgbtor3ZPkPbew-qsRSZJw2kr8-hO6ernZlKnaq4VQTt-x9D41VsMQZC664c6HNX16vOpcUHVyNvjPV-5V456BSEZiiUmruz5j0eBOu1g_9_DzT08Izyi19S-2INDV6f2oSchMcx-SdCCDSOn0tlIcI8ciFG_dX6M9WA2_FoncMeQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -114.168066,45.401092,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ID7 - Preston</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/u048k4uj4k93g346tprqt91mtk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrZhjlq7W64tJpNuCJm6vsrMhoyWeOHP8RqD-szm4hLKk3RudmnvF2H6krywciCEBcyozToKxxkhl8O1jf1fsMSPonIyvSdgmMQRozwHDAF15gjuXeiPpqdTRivyIbRodRMZlRnLVxhrZcTEci04FIbnih6V0E65PprZnOeaaUAdhQMqk_7L0VzO5gp8UnLQ0CORZe0QQ7D7lz6eqFPjmCZ2kI-Cgf-o7NEZHWVWtYkq8KeNQf_O77iqBC7DKeqdI7KlDM005nYjAyLLftuS4OCotnbHw?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>39 W. Oneida St.<br>Preston, Idaho<br>GPS: 42.09611, -111.878372<br>Access: 24/7<br><br>This is a statue of an American soldier surrounded by brick pillars bearing the names of Franklin County residents lost defending freedom in WW2, Korea and Vietnam.<br><br>Noteworthy Veterans: Mervyn S. Bennion, Leonard C. Brostrom and Nathan K. Van Noy residents and former residents of Preston were awarded the Medal of Honor. All were members of The Church of Jesus Christ of Latter-day Saints. Three of five LDS World War II Medal of Honor recipients were from Preston, Idaho.<br><br>Made in America: The local favorite here in Napoleon Dynamite country, is Big J Burgers with their fresh fruit shake creations being recommended. Located at 196 N State St., just 2 blocks north of the Memorial.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/u048k4uj4k93g346tprqt91mtk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrZhjlq7W64tJpNuCJm6vsrMhoyWeOHP8RqD-szm4hLKk3RudmnvF2H6krywciCEBcyozToKxxkhl8O1jf1fsMSPonIyvSdgmMQRozwHDAF15gjuXeiPpqdTRivyIbRodRMZlRnLVxhrZcTEci04FIbnih6V0E65PprZnOeaaUAdhQMqk_7L0VzO5gp8UnLQ0CORZe0QQ7D7lz6eqFPjmCZ2kI-Cgf-o7NEZHWVWtYkq8KeNQf_O77iqBC7DKeqdI7KlDM005nYjAyLLftuS4OCotnbHw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -111.878372,42.09611,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

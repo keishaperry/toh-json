@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>New York sponsored by Tour of Honor</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>NY1 - Brockport
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/htealb9aj873v7rrn7k4btvfdk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoRGttK0d_fJ9b2yj5yc-wfwjEfC7bhb1CWav_kncli13uBkmhrqaML5jDUHdTtGTaNSs2v1aJ3rEgQw5CxTumN8wq0mKRHeAd8ZIX6kOsU729oRVZYha9k3KwfT1B0KDax64L_NtTSuUrMly-ticNUs-NglL4QfXzRpn0RO_HFy7mXJ2pfKliGmSZKXToRmwMGqcvd4kDOjlEbXEiCM570IoMsm6W-l8k-mlSWq6EFtSmujDECA_0DKyFR34aIQXmqQvXLtm9mI60QDEL9lAc8QxQUmw?session=0&fife" height="200" width="auto" /><br><br>Capen Hose Fire Museum<br>237 Main St. S<br>Brockport, New York <br>GPS: 43.209555, -77.940138<br>Access: 24/7. Two photos required. Parking is in the rear of the firehouse.<br><br>“Ground Zero” is a wood carved sculptural grouping that recreates the famous Thomas Franklin photograph of three firefighter heroes raising a flag over Ground Zero in the aftermath of the 9/11 attack. The statues were carved by Richard Kron out of white oak. Steel beams and marble tile from the rubble of the World Trade Center augment the design. <br><br>All three of the firefighters are still employed by the New York City Fire Department. They are private citizens who wish that their privacy be honored. However, the New York Fire Department has issued a general update of their status:<br><br>“George Johnson has also worked for the FDNY for more than 20 years and was recently promoted to Battalion Chief in Brooklyn. Daniel McWilliams is currently a lieutenant with Battalion 37 in Brooklyn. He has worked with the FDNY for more than 20 years and lives on Long Island. William Eisengrein is a firefighter working out of Rescue 2 in Brooklyn. He has been with the FDNY for more than 25 years.”<br><br>Made in America: Due to a conflict between two of Brockport’s founders, there are no intersections on Main St. that meet up squarely. The founders hated each other so much that they refused to line up any streets when each designed their half of the village.<br><br>It’s eight miles to Texas Bar-B-Q Joint, 112 S. Union St. in Spencerport, and the finest BBQ nearest the memorial. www.tbjny.com<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/htealb9aj873v7rrn7k4btvfdk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoRGttK0d_fJ9b2yj5yc-wfwjEfC7bhb1CWav_kncli13uBkmhrqaML5jDUHdTtGTaNSs2v1aJ3rEgQw5CxTumN8wq0mKRHeAd8ZIX6kOsU729oRVZYha9k3KwfT1B0KDax64L_NtTSuUrMly-ticNUs-NglL4QfXzRpn0RO_HFy7mXJ2pfKliGmSZKXToRmwMGqcvd4kDOjlEbXEiCM570IoMsm6W-l8k-mlSWq6EFtSmujDECA_0DKyFR34aIQXmqQvXLtm9mI60QDEL9lAc8QxQUmw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -77.940138,43.209555,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NY2 - Brooklyn
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/qmn0180s1fb94cifj39m339ojc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq_1ttBQL42UPip90V9POSCan2eg4CUUeGW4aw-x3DXvNxl5RlOkrk-wILt_rGhDXYiQ1FTQItTiLjeMSycShenXHpujvfq_TtnWnK3txPInPtgUsXQuJfIg-UPfQat_oTCSfBNDudkmeJqJT-3U81Qw_H8ZLvVjqKDmeq1nBY5dd0YRkNEgouAwzqydRVWurl4jZxbAjDuEndZiIeuflp0UK-5c1SqclvlkZE2OKlE0sGwhwPsOvXus9uqnF4uoqiIbUO2FuCD0oZJOiZJQZntLcklnA?session=0&fife" height="200" width="auto" /><br><br>In Honor of Michael Carlo, FDNY<br>New York Fire Department - Engine Company 230 \n 701 Park Ave.<br>Brooklyn, New York<br>GPS: 40.697990, -73.947529<br>Access: 8AM-8PM. Riders must provide photo like above in order to receive credit for Trophy rides. Park to the right side of the bay door. Be mindful that this is an active firehouse. Knock on the door, firefighters are expecting TOH riders, both the Lieutenant and Captain said riders are invited to "hang out" for awhile. See tips on entering/exiting Brooklyn below.<br><br>Michael Scott Carlo, FDNY Engine 230, died heroically on September 11, 2001 in the World Trade Center disaster. He was the devoted son of Robert and Phyllis Carlo; dear brother of Robert Carlo, TOH rider and organizer of America’s Ultimate Long Distance Rider. <br>.<br>Go inside this single bay firehouse and make your way to the back room and prepare to be humbled by the duty and honor displayed on the walls. If the house isn’t busy, stay awhile, have some coffee, talk motorcycles and look around. Imagine that this small house is only one of many around the United States each with their own room of honor. <br><br>Find the collage of Michael Scott Carlo and place your flag as shown in the photo. A second photo outside of your bike is required for verification, and if the nose of the truck is outside the bay you might have a good photo op with your bike and the names of heroes on the side of the truck.<br><br>NYC tips from former New York sponsor, Dan Buis: “Weekends are best. Make sure you have enough fuel to get in and get out as gas stations are not that plentiful in the city. Ride with certainty and not timidity. It is not as bad as people think. I would rather ride in NYC than some other major cities because at least the traffic makes sense in the city."<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/qmn0180s1fb94cifj39m339ojc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq_1ttBQL42UPip90V9POSCan2eg4CUUeGW4aw-x3DXvNxl5RlOkrk-wILt_rGhDXYiQ1FTQItTiLjeMSycShenXHpujvfq_TtnWnK3txPInPtgUsXQuJfIg-UPfQat_oTCSfBNDudkmeJqJT-3U81Qw_H8ZLvVjqKDmeq1nBY5dd0YRkNEgouAwzqydRVWurl4jZxbAjDuEndZiIeuflp0UK-5c1SqclvlkZE2OKlE0sGwhwPsOvXus9uqnF4uoqiIbUO2FuCD0oZJOiZJQZntLcklnA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.947529,40.69799,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NY3 - Jamestown
+</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/8gjbp7jovlea3hukdsqsbe005o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpK3Uyj8JAmkU7A6pM33jy_Eu9DXhdXTh52WwijW7IhBc4udaCmwpFY_XuPJTatRwgHuGdQn-k5731jwyy9TyZlfi_DUw_w852p9-UWrLaSN5UCtPMqKZBw0fL1Pz1bpfKWXBFjb4b0YXtQyTg7nLDJDVvTMeHGdYi63rSTC2uPWxdQ7nwmtFS04HEZ4x5s_y4rBg7BaDgspE27K63XPVAGVQo1ATy8WyjayXIu6ifCUhlzZsIEEfwBou6q8kJiFlGUBP_w6013k-HzokHVazRQO6_pSQ?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>Spring St. and E. 3rd St.<br>Jamestown, New York<br>GPS: 42.096500, -79.238449<br>Access: 24/7. Two photos may be required.<br><br>This multi-war monument is dedicated to those from Chautauqua County who made the ultimate sacrifice. Access the memorial from 3rd Street.<br><br>Notable people from the Jamestown area include comedienne Lucille Ball; Supreme Court Justice Robert H. Jackson; naturalist Roger Tory Peterson; singer Natalie Merchant; and NFL Commissioner Roger Goodell. Products developed in Jamestown include the adjustable wrench and automatic voting machines.<br><br>Nearest Diner: Allen St. Diner, 79 Allen St. (3 mins. riding time).<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/8gjbp7jovlea3hukdsqsbe005o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpK3Uyj8JAmkU7A6pM33jy_Eu9DXhdXTh52WwijW7IhBc4udaCmwpFY_XuPJTatRwgHuGdQn-k5731jwyy9TyZlfi_DUw_w852p9-UWrLaSN5UCtPMqKZBw0fL1Pz1bpfKWXBFjb4b0YXtQyTg7nLDJDVvTMeHGdYi63rSTC2uPWxdQ7nwmtFS04HEZ4x5s_y4rBg7BaDgspE27K63XPVAGVQo1ATy8WyjayXIu6ifCUhlzZsIEEfwBou6q8kJiFlGUBP_w6013k-HzokHVazRQO6_pSQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.238449,42.0965,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NY4 - North Tonawanda
+</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/h8n1rfpmp3ua8hn6j419d4rpto/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpfALUglgT_pxi_lPoe3JKDLQl7GK5di4XaHVzKWE_l8MFH8h4_TIyXZ5k2PuxIVZct2yEBUo6i5cfKjJJXPZQGAEWty6EVURN9nEhxk2kva47YAOzwzKaVq7zIijylFisqnNG40usSFbN90FhJ0pKZhVyggmHysupaYbFU4IyrVQFw19dUr0QAVEQ2CAd5yYxnw2cwtykUCiXxFsGk6yMaDONRQfHer_mBoy58PgJeqjDkpWX9sHV_rm7UWPOO-hr2hg4qqONBemM9OhgFvCtdVLMjNA?session=0&fife" height="200" width="auto" /><br><br>Seabees Memorial<br>Fisherman’s Park \n 700 River Rd.<br>North Tonawanda, New York <br>GPS: 43.038981, -78.887201<br>Access: 24/7. Two photos required.<br><br>The memorial consists of a brick wall with several brass or bronze plaques, inscribed with names of those men and women involved with the U.S. Seabees. In front of the wall is a bulldozer. Opposite the wall is a smaller brick pedestal with a carving of a Seabee veteran on top. <br><br>This now nationally famous memorial monument stands proudly in a beautiful public park on the shores of the mighty Niagara River, a few miles upstream of Niagara Falls. The monument was built by members of the Navy Seabees Veterans of America, local Chapter Island X-8.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/h8n1rfpmp3ua8hn6j419d4rpto/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpfALUglgT_pxi_lPoe3JKDLQl7GK5di4XaHVzKWE_l8MFH8h4_TIyXZ5k2PuxIVZct2yEBUo6i5cfKjJJXPZQGAEWty6EVURN9nEhxk2kva47YAOzwzKaVq7zIijylFisqnNG40usSFbN90FhJ0pKZhVyggmHysupaYbFU4IyrVQFw19dUr0QAVEQ2CAd5yYxnw2cwtykUCiXxFsGk6yMaDONRQfHer_mBoy58PgJeqjDkpWX9sHV_rm7UWPOO-hr2hg4qqONBemM9OhgFvCtdVLMjNA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -78.887201,43.038981,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NY5 - Owego
+</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/fs75nol1bb6ekah5j3fpbmev48/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo0Kdiq5xm5hhtzMMn-dnFu7j1xOyDzqfqMcW89_7W2J0yQ6yo2t-rSyqrrIoTa4suWfuqK0xAYtHLpqOYhYYnlZt5FEFK7RNjoShjZ3RaqikGXtXHVaaH1CurOmTskKwOwXOAMUNFMOq03sLmWaL1jZpApXz9C0Jrg-914rYNvVw2-XMnTHdQWaB9M6gXKAOIYP8KbMG1JPHRxwOYuQPJ5tYPKXlcX7doDDnT4bxveGomemQJPXqzBshzLxEBFL0GguNA3NMQhKo4o7FNqpm6vPPIuRQ?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>20 Court St.<br>Owego, New York<br>GPS: 42.102214, -76.261994<br>Access: 24/7<br><br>Like many memorial sites, it is in a park in the center of town. In this case it shares the space with a Civil War Memorial and the historic Tioga County Courthouse.<br><br>The town’s name is a derivative of the Iroquois word “Ahwaga,” which means, “where the valley widens.” This name came from the vast floods that run into the valley when the winter snows melted, causing several deaths each year.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/fs75nol1bb6ekah5j3fpbmev48/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo0Kdiq5xm5hhtzMMn-dnFu7j1xOyDzqfqMcW89_7W2J0yQ6yo2t-rSyqrrIoTa4suWfuqK0xAYtHLpqOYhYYnlZt5FEFK7RNjoShjZ3RaqikGXtXHVaaH1CurOmTskKwOwXOAMUNFMOq03sLmWaL1jZpApXz9C0Jrg-914rYNvVw2-XMnTHdQWaB9M6gXKAOIYP8KbMG1JPHRxwOYuQPJ5tYPKXlcX7doDDnT4bxveGomemQJPXqzBshzLxEBFL0GguNA3NMQhKo4o7FNqpm6vPPIuRQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.261994,42.102214,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NY6 - Saranac Lake
+</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ed8jiuok7th9sk8ar50chedvfc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrXBJAuBW456tnX7Sh7NR8_J8dxSXYUH3PJ3xFnp0KR_MRe9NTTBp03falxod1jwLOEERntp1zR08Y4vm71UQPnphXo0OFO0eTLtgwwdlTLSKQfMHPXfyOxjAdTDbcFopEChHtk7MjZT1clnZM-kK8ioRb_MwEbDXg3AzwAWzNt_aXq4XPZbw7L3ywwkQFofW1-F3dSS3QoGZJSvFX_silY_c5Dn1PtNsq51OndcA2JAfdJ-BEo5Cwh_C-xejAnJo-yXrYm5t32QoxQFSVyeQ-HgOGigQ?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>Mt. Pisgah Veterans Memorial Ski Center \n 92 Mt. Pisgah Lane<br>Saranac Lake, New York<br>GPS: 44.346099, -74.125851<br>Access: 24/7<br><br>Located on the same side of Mt. Pisgah Rd. as the main ski lodge, the memorial is a natural boulder with a wooden plaque affixed to it. It can be found just before you arrive at the main building.<br><br>While Saranac Lake has been sending its children into the services since 1819, there was one conflict which impacted the town out of all proportion to its population. For Europe, World War I began in August of 1914, though the United States wasn’t pulled into the conflict until 1917, a year before it ended. The number of Americans killed or wounded in the conflict was “only” 128,000 -- a small number compared to the deaths of more than 9,000,000 combatants and 7,000,000 civilians.<br><br>Conditions in the trenches made U.S. soldiers vulnerable to tuberculosis because of the poor food and living conditions, the ever-present stress of combat, and being exposed to toxic gases. Saranac Lake took an outsized role in the conflict because of the tuberculosis caught overseas, and soldiers would often come to Saranac Lake to rehabilitate. <br><br>Made in America: 2.6 miles to Down Hill Grill, 74 Main St., the best BBQ in Saranac Lake according to Yelp, short of stretching the ride east 11 miles for Smoke Signals at 2489 Main St. in Lake Placid. www.smokesignalsq.com<br><br>Have a need for speed? Ever wonder what it feels like to be a comet? Check out the Lake Placid Bobsled Experience at the Olympic Sports Complex, 220 Bobsled Run Rd. in Lake Placid. A bobsled run will set you back $95, but it’s the experience of a lifetime and includes a T-shirt and Finishers pin if you survive. And you get to wear a motorcycle helmet one more time, too!<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ed8jiuok7th9sk8ar50chedvfc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrXBJAuBW456tnX7Sh7NR8_J8dxSXYUH3PJ3xFnp0KR_MRe9NTTBp03falxod1jwLOEERntp1zR08Y4vm71UQPnphXo0OFO0eTLtgwwdlTLSKQfMHPXfyOxjAdTDbcFopEChHtk7MjZT1clnZM-kK8ioRb_MwEbDXg3AzwAWzNt_aXq4XPZbw7L3ywwkQFofW1-F3dSS3QoGZJSvFX_silY_c5Dn1PtNsq51OndcA2JAfdJ-BEo5Cwh_C-xejAnJo-yXrYm5t32QoxQFSVyeQ-HgOGigQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.125851,44.346099,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NY7 - Troy
+</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/en23eto5oibo15kgmh5cpoiigs/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo8-KWNv5B278RtCZhAQrPB_HEWEQDuhqXiJ88eIcop9Q_0QRb_yV_vdYfU7gsHlbQK2La-viQPYbfSLGWAtx6_O_MLWmAn0uuh4ZozB_7rgdpqSVUPdydBVNaydcv75a5SRQ22H2-0H5pIPNgvA99e0PbEU_dSDfC-UhZIAKTZaFWhe8bbrmB2R-a_eJGC-6Z6nzj1SaIfX6e_RtW-RhTlanQgm-nKOxAonKFNj6ADGUZAnUXTqkfKl_COO0Uwes1fLbpCl4-wOs0sRplmRBaa-bWAoQ?session=0&fife" height="200" width="auto" /><br><br>Vietnam War Memorial<br>River St. & Museum Pl.<br>Troy, New York<br>GPS: 42.733533, -73.690152<br>Access: 24/7<br><br>The memorial includes the names of the 45 men of Rensselaer County who lost their lives in the Vietnam War. The sculptor entitled her representation of three combat soldiers “The Vietnam Experience - Courage - Compassion - Pain.” It is a wonderfully detailed, accurate, and moving work. <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/en23eto5oibo15kgmh5cpoiigs/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo8-KWNv5B278RtCZhAQrPB_HEWEQDuhqXiJ88eIcop9Q_0QRb_yV_vdYfU7gsHlbQK2La-viQPYbfSLGWAtx6_O_MLWmAn0uuh4ZozB_7rgdpqSVUPdydBVNaydcv75a5SRQ22H2-0H5pIPNgvA99e0PbEU_dSDfC-UhZIAKTZaFWhe8bbrmB2R-a_eJGC-6Z6nzj1SaIfX6e_RtW-RhTlanQgm-nKOxAonKFNj6ADGUZAnUXTqkfKl_COO0Uwes1fLbpCl4-wOs0sRplmRBaa-bWAoQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.690152,42.733533,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

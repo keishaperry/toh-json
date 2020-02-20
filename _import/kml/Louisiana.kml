@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Louisiana</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>LA1 - Alexandria</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/01ki633v9gt9uds0cv0ta1bprg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrvKDIrFJ3qB-DWQ1IwO1vThxowFWAotwuqelh40WxvpSggtFNxfNk-8f9guuBSpBsM0JyeqotAaFKG-MXLWda5gTyIxPi9Z7xST_7KwwvZzPyHlqabWZuHJyHuzjz04oC9QRYVJGdtukcwimrKg5A44V_6vp_KM2FSoOmI-tSrq7xv7eC0PVmRrufx80jiwO11B7SS17weglGecDhJATuMl6jARHt5VE9auJBiKOn7IFsc23tgh1fhmXbH0TWKZj5AhRR0Dm3SDRPsU7EBRSqyx8VxJg?session=0&fife" height="200" width="auto" /><br><br>Fallen Officers Memorial<br>1000 Bolton Ave.<br>Alexandria, Louisiana<br>GPS: 31.303637, -92.453335<br>Access: 24/7<br><br>This memorial is dedicated to the seven Alexandria Police Officers killed in the line of duty. The earliest was November 1904 and the latest of February 2007. The memorial consists of engraved black marble pillars positioned in a reflecting pool.<br><br>Made in America: Located in a metropolitan area of approximately 150,000 residents, lodging, dining and recreational opportunities abound. Whether enjoying the wonderful restaurants in the downtown area or checking out some of the parks, there is something for everyone in the area.<br><br>For those riding iron horses, there is Taboo Harley Davidson (https://tabooharley.com), Loewer Powersports (https://www.loewerpowersports.com) for Honda and Indian, and several other small shops.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/01ki633v9gt9uds0cv0ta1bprg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrvKDIrFJ3qB-DWQ1IwO1vThxowFWAotwuqelh40WxvpSggtFNxfNk-8f9guuBSpBsM0JyeqotAaFKG-MXLWda5gTyIxPi9Z7xST_7KwwvZzPyHlqabWZuHJyHuzjz04oC9QRYVJGdtukcwimrKg5A44V_6vp_KM2FSoOmI-tSrq7xv7eC0PVmRrufx80jiwO11B7SS17weglGecDhJATuMl6jARHt5VE9auJBiKOn7IFsc23tgh1fhmXbH0TWKZj5AhRR0Dm3SDRPsU7EBRSqyx8VxJg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -92.453335,31.303637,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LA2 - Cut Off</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/c0du4c0go8vbdejf5as6mkiu4c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrx7KfmfUclPEKsKLiuVvU4S0rkgDgffGgBDe9XPLSvk15aDkveGi6YXQKW5MYiv_fhjtGKNT4omj9PWiaL4xpVST9LYheHMQwGhQIrlwQjPooe5t3A6OXwBpB4sVs-JH3b453uDZhzPxKsNHUg-Fa4Q7pM6tDO0JJHqz2ZRvR84OP5YSbkuwHh0unYBqhrbWvCL81vs-ktivtZ08lihz4xTNHMDFZQrAcahlRF7EoSwSWIowcvyuAhuSaPfKGFJYlapc8LoDgaFeAqdZVPvfW09BC2DA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial District<br>16937 LA-3235<br>Cut Off, Louisiana<br>GPS: 29.463770, -90.320420<br>Access: 24/7<br><br>This Veterans Memorial Monument, considered the largest of its kind in the United States, is a gift from the people of South Lafourche and the Veterans Memorial District. Linton Doucet, a three tour Korean War veteran and Lafourche Parish native, along with a small group of other veterans are the driving force behind the park, which began with the wall and has since blossomed into an impressive display honoring those who have put their lives on the line for our freedom.<br><br>It’s a beautiful piece of work, now with 3,000 names etched into a wall of black granite. Names will be added as needed to honor those who continue to give the ultimate sacrifice for freedom and their country. At the entrance, a granite wall reading “Freedom Is Not Free” sets the tone for a walk through documented history. At night, a single eternal flame flickers atop the statement in remembrance. A pathway lined with flags sets the tone for a row of statues depicting women in combat, a mother’s loss of her child…. <br><br>Other statues usher visitors to the steps of the great wall, willing each person that walks the grounds to stop, pause, and acknowledge. Nearby stands a reflecting pool complete with an ever-watchful golden guardian angel as well as a sailor, a dedication to those that risked their lives at sea. At the pool’s eastern edge sits the Field of Tears, a 300-foot square walking path decorated with 50 images of those lost to war reflected in etched pieces of granite around the inner perimeter of the trail.<br><br>Mr. Doucet recalls of the initial idea for the park, “The veterans were dying at 1,200 a day and all we ever had was just a picture in the newspaper with a few words and that was it. I said, ‘Well, we’ve got to do better than that for the veterans.’<br><br>“We are proud of what we are doing and enjoying the community getting involved,” he says. “Now, sometimes the school busses come loaded and the kids love to come with a pencil and paper and etch the name of the one in the service that belonged to their family. I always like to tell them, ‘You can say what you want, but every family has veteran blood in them.’”<br><br>Whether it’s Po-Boys, fast food or oriental food, it is all available in the local area.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/c0du4c0go8vbdejf5as6mkiu4c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrx7KfmfUclPEKsKLiuVvU4S0rkgDgffGgBDe9XPLSvk15aDkveGi6YXQKW5MYiv_fhjtGKNT4omj9PWiaL4xpVST9LYheHMQwGhQIrlwQjPooe5t3A6OXwBpB4sVs-JH3b453uDZhzPxKsNHUg-Fa4Q7pM6tDO0JJHqz2ZRvR84OP5YSbkuwHh0unYBqhrbWvCL81vs-ktivtZ08lihz4xTNHMDFZQrAcahlRF7EoSwSWIowcvyuAhuSaPfKGFJYlapc8LoDgaFeAqdZVPvfW09BC2DA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -90.32042,29.46377,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LA3 - Leesville
+</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pm8vap515avi8h971cg27nu71o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALohTQPlRJniOtMa7km5vjh6DTtOtiHGcl3JzICHLXvfrPbbVbwek_FTp6rmq0fiOY1GfhDPWYPjwvuf2cqZoxrj4ivPXJoyDwG0sRLYr8iZK5wZLAPRwY4idLbokI4xPrSvtWscQ3BNrWQUZRUfhN8wR34V8VSfRo9GobUC1829cb1p4vh25S0BakSeCKX5U0wtxDBzNLBUAK2xt3auDSedVKoiK8sqmSeIMmsTajHZU8WaY6u6bYMG_GhDZQfjKwCNjTSgva9cnpJLl75J1WHZ_Y1qww?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>S 3rd & E Maggie Sts.<br>Leesville, Louisiana<br>GPS: 31.141442, -93.261298<br>Acccess: 24/7<br><br>The Veterans Plaza serves as a reminder to all its residents of the honor and sacrifices made by our Veterans, present and past. Since it was begun in 2000, the Vernon Parish Veterans Memorial has grown to contain seven stone tablets engraved with the names of many local area veterans.<br><br>At the site, the American flag towers above the flags of the five US military branches, including Army, Air Force, Navy, Marines, and Coast Guard, as a POW flag flutters to the side, alone, but not forgotten.<br><br>Made in America: Vernon Parish is the proud home of the Joint Readiness Training Center and Fort Polk, the largest military base in the state of Louisiana. The military tradition in this parish is strong and dates back to the 1940s with the Great Louisiana Maneuvers which took place in West Louisiana and East Texas in 1941 to prepare the United States for WWII.<br><br>Vernon Parish is proud of its history as a part of “No Man’s Land” along what used to be the disputed border with Mexico. Outlaws and bandits as well as heroes and soldiers made their mark on this fertile soil. Enjoy the historic heritage and hospitality as well as the many outdoor adventures of today. https://www.vernonparish.org<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pm8vap515avi8h971cg27nu71o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALohTQPlRJniOtMa7km5vjh6DTtOtiHGcl3JzICHLXvfrPbbVbwek_FTp6rmq0fiOY1GfhDPWYPjwvuf2cqZoxrj4ivPXJoyDwG0sRLYr8iZK5wZLAPRwY4idLbokI4xPrSvtWscQ3BNrWQUZRUfhN8wR34V8VSfRo9GobUC1829cb1p4vh25S0BakSeCKX5U0wtxDBzNLBUAK2xt3auDSedVKoiK8sqmSeIMmsTajHZU8WaY6u6bYMG_GhDZQfjKwCNjTSgva9cnpJLl75J1WHZ_Y1qww?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -93.261298,31.141442,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LA4 - Logansport
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/iend55g6fq4oom2889qad3n7co/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrMRBMgoDBC3XuLsEycV8vmiJqEgYcqACOkT2bqnYFkKkKBuyfkfyXjtXb3sVKjuGPdd0DMBMGeTUOXFt0r0uC6TcdhM7esn2KH9vPjefoypUcJgjLmwiURzvCYwa0gz0a5DGbXhl9NHnIucE4mosjdEQMRTQ3VlJcc3jOHVqAzrdBwx0YjYAHfx4bD5X8NBkLT9Ib6Gf2A2beaX3YUO_JT2I9lnwfKiGfMg8xXU5QQrKDyPFaS3CRN6cIQlu6zOSMjxY0M7NmaAfNrjtOjxt8ZeINUmA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Park<br>Behind 108 2nd St.<br>Logansport, Louisiana<br>GPS: 31.972909, -94.00566<br>Access: Dusk to dawn. 2nd photo required.<br><br>The Gordon Cohen American Legion Post 157 and Logansport Veterans Club made a commitment to honor all of our military men and women. This was done with a standing memorial in the Town’s park so that all could see the names of the many Veterans that have served our country so faithfully. The wall was dedicated during a ceremony at the site on July 4th, 1998<br><br>The Veterans Memorial Wall began as one wall standing 6’ high and 12’ long with space for more than 2000 plates. Since the Veterans Memorial Wall’s inception available space for name plates was quickly filled. It was necessary to add two more six feet granite walls to accommodate all the requested brushed stainless-steel engraved name plates of men and women that have or are now serving our country. These two walls were placed, and Phase II was dedicated July 4th 1998.<br><br>Made in America: If you’re feeling hunger pains, stop at the highly-reviewed Big Zach’s Place at 223 Main St., “Where a bit of the South meets your mouth!” Or maybe try the Sabine River Restaurant at 2200 Main St.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/iend55g6fq4oom2889qad3n7co/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrMRBMgoDBC3XuLsEycV8vmiJqEgYcqACOkT2bqnYFkKkKBuyfkfyXjtXb3sVKjuGPdd0DMBMGeTUOXFt0r0uC6TcdhM7esn2KH9vPjefoypUcJgjLmwiURzvCYwa0gz0a5DGbXhl9NHnIucE4mosjdEQMRTQ3VlJcc3jOHVqAzrdBwx0YjYAHfx4bD5X8NBkLT9Ib6Gf2A2beaX3YUO_JT2I9lnwfKiGfMg8xXU5QQrKDyPFaS3CRN6cIQlu6zOSMjxY0M7NmaAfNrjtOjxt8ZeINUmA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -94.00566,31.972909,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LA5 - Monroe
+</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/trjktil5g66c79kfbfg005jhis/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpCME4GvVN8Y2qA-3wKeII32HeDEBbWCpgYaS9t6NRa77XMNGcceIg3HBWKXQg-5dRbt855CYL9piX0eQjqvO0xx_YDbOgkxzT-OgChCYXWmmNDXlsyz6QjHj8CfSalwtQSJ57qLkyL267IltNkeuVxcd4mxXMTcml6E3Dm6odbIbj1W2gI80uLmsBzd_dLr52RIzdLiXfGw3jk5YeB5TZsJteEh9Bchzxvpm6Nak3bW39YdF3g9VcLVkarx8jhAfAGeYfkx1aQdHWSNtsYIBCtRvTwXw?session=0&fife" height="200" width="auto" /><br><br> <br>701 Kansas Ln.<br>Monroe, Louisiana<br>GPS: 32.511636, -92.054526<br>Access: 24/7. Museum and static displays open Tues-Sat 9AM-4PM. Free admission.<br><br>The Chennault Aviation and Military Museum’s story begins in 1986, when those who trained at Selman Field and their descendants held the first Selman Field reunion. It was there that a decision was made to work with the City of Monroe to establish a repository of Selman Field artifacts and memorabilia. The museum gives honor to all our U.S. veterans, and features exhibits on all wars from World War I through Iraq and Afghanistan. It is privately funded, so donations are encouraged.<br><br>Made in America: After the sun sets along the Ouachita River, nightlife rises across Northeast Louisiana.<br>From downtown Monroe along the Riverwalk, to spots tucked away in the suburbs, locals enjoy all Monroe’s nightlife scene has to offer — from its eclectic restaurants, to socializing at after-hours get-togethers, or, depending upon the evening, seeing a live performance.<br><br>For live music, fans jam out to the sounds of southern bands like Doctor Zarr’s Amazing Funk Monster, or the Downtown River Jams concert series held in the heart of the city.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/trjktil5g66c79kfbfg005jhis/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpCME4GvVN8Y2qA-3wKeII32HeDEBbWCpgYaS9t6NRa77XMNGcceIg3HBWKXQg-5dRbt855CYL9piX0eQjqvO0xx_YDbOgkxzT-OgChCYXWmmNDXlsyz6QjHj8CfSalwtQSJ57qLkyL267IltNkeuVxcd4mxXMTcml6E3Dm6odbIbj1W2gI80uLmsBzd_dLr52RIzdLiXfGw3jk5YeB5TZsJteEh9Bchzxvpm6Nak3bW39YdF3g9VcLVkarx8jhAfAGeYfkx1aQdHWSNtsYIBCtRvTwXw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -92.054526,32.511636,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LA6 - Plaquemine
+</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/1enl3jlbqo81uehsgime6p0akg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqSIEPZEZq8EIWJ_1bp0WW-UJY-aQS3N_3YNCwH9yFyztTNaSt79c4tmNy9bdZB7u2TWnMNu6kZIihRweBVWMcoPPg3fzzyJuRQkOK_zwPIwMGV7Bwb6_aWxCeGVtDGwpjdg1W2T0IbatlTJEFaYnCUdIhAVavd_wX70-en2f-5iY_czdPF6Uno3waCU6gftemHNQl65GYQTf5v9k4yWZD84WO6uedvgzHcvxHGXKBTVAcYmBkwdgSLJTrCPOm9R5UmeIzdRps4vhYWsJk0QT2qJWt8jQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Court St. & Railroad Ave.<br>Plaquemine, Louisiana<br>GPS: 30.288492, -91.235766<br>Access: 24/7<br><br>The award-winning Iberville Parish Veterans Memorial was dedicated in grand style on Veterans Day, November 11, 2008. It was designed to be a moving monument honoring Iberville veterans, while also reflecting the Parish and its people. This was accomplished through the use of a variety of materials and effects.<br><br>The memorial’s hard concrete foundation and walls reflect both the stark reality and harshness of war, and the strength of our military. The four conflict markers of the memorial are reminders of the tremendous human costs of World War I, World War II, the Korean and Vietnam wars. Those markers are set within a water element, making them untouchable and unchangeable. <br><br>The inscription on the memorial, etched in bronze, reads simply, “In honor of those whose strength and courage we owe the freedom of this nation.”<br><br>Made in America: Plaquemine (an Indian word translated by the French, means “Persimmon”) serves as the parish seat for Iberville Parish. A short drive from Louisiana’s capitol city, Baton Rouge, Plaquemine is bordered by the mighty Mississippi River, pre-historic Bayou Plaquemine and minutes away from the world-renowned Atchafalaya Basin National Wildlife Refuge. <br><br>While in town, stop and enjoy your choice of a delicious Po-Boy sandwich, crawfish or other fine Cajun cuisine.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/1enl3jlbqo81uehsgime6p0akg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqSIEPZEZq8EIWJ_1bp0WW-UJY-aQS3N_3YNCwH9yFyztTNaSt79c4tmNy9bdZB7u2TWnMNu6kZIihRweBVWMcoPPg3fzzyJuRQkOK_zwPIwMGV7Bwb6_aWxCeGVtDGwpjdg1W2T0IbatlTJEFaYnCUdIhAVavd_wX70-en2f-5iY_czdPF6Uno3waCU6gftemHNQl65GYQTf5v9k4yWZD84WO6uedvgzHcvxHGXKBTVAcYmBkwdgSLJTrCPOm9R5UmeIzdRps4vhYWsJk0QT2qJWt8jQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -91.235766,30.288492,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LA7 - Thibodaux
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/eg21aro8k9vmrlja8hnqodqvn0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo9olUtbcL-3OT3fg123RAFNxYK5FObwSA57iE2rnLKpKN_iTBc3x27iXsrGULqbGfMhmW_nMKgrsIssQpvsHyC_4yssB7MBSEry3oFcB7lebtAcNR3as5sJOO4JF_KaWXevwizvRPqcv7nvUHoWLKG1O1xD6isIkxDicTkqCYVWoXheoVWY4mboVy5upaA1mbg_bwoCGq4exlHBsoAw0dv099u1oNs83UtBFK2n4GogPz9RKu3U1GoN2HJqo3x6U6LSG53vB2CIlf_Su9qFZAV_HIYJA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>3723 Hwy 307<br>Thibodaux, Louisiana<br>GPS: 29.871035, -90.608734<br>Access: 24/7<br><br>The Bayou Boeuf Veterans Memorial stands in front of St. Lawrence the Martyr Catholic Church, dedicated to the men and women who served in the Armed Forces of the United States of America during times of war and peace. When called upon they responded with dignity, honor and valor. We enjoy freedom today because of their sacrifice.<br><br>The Memorial covers from the Civil War to Iraq/Afghanistan.<br><br>Made in America: For a taste of real southwest Louisiana culture, stop by Bubba’s II Po-Boys and Seafood at 212 East Bayou Rd. Take a look at the menu: http://bit.ly/2uIdV6Y<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/eg21aro8k9vmrlja8hnqodqvn0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo9olUtbcL-3OT3fg123RAFNxYK5FObwSA57iE2rnLKpKN_iTBc3x27iXsrGULqbGfMhmW_nMKgrsIssQpvsHyC_4yssB7MBSEry3oFcB7lebtAcNR3as5sJOO4JF_KaWXevwizvRPqcv7nvUHoWLKG1O1xD6isIkxDicTkqCYVWoXheoVWY4mboVy5upaA1mbg_bwoCGq4exlHBsoAw0dv099u1oNs83UtBFK2n4GogPz9RKu3U1GoN2HJqo3x6U6LSG53vB2CIlf_Su9qFZAV_HIYJA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -90.608734,29.871035,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

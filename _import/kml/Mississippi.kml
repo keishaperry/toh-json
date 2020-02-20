@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mississippi</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>MS1 - Belzoni</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/dkbutc8orfos04ogo6nlmk8kd8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqsFVgGUZWaf1P7NDmfr41LaODeGJByp1JM7aofj8TlcfyYAyKkFo4lPfhdm4ANig2LlyLn56ghakJZEjtcmkxCgEAMdyZY-dEmjA5QGECbytY_XTqxjLyvnYxj5K3J1eW2uyooOAeDfAEpWDEoLw0nSSQat4xEfBucR1VqO9J_mn_P68xQQ8Hv9npaI51jM2q92Uli3fftBlYj7tl3lPkUB_XGboJclfb9rHPhWP_RfaQOImPb5FdUQwr1zmXrRzuG4J0HLcBx4jkZCaSXdWZxdqA9ag?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>102 Castleman St.<br>Belzoni, Mississippi<br>GPS: 33.176024, -90.488731<br>Access: 24/7<br><br>On the courthouse grounds stands an all wars monument to the sacrifice made by many. No matter the war, the people of this Delta town get the message: join the fight and give thanks to all who serve.<br><br>Known as the “Heart of the Delta,” Belzoni mixes crops of cotton and soy beans with catfish, claiming to be Dixie’s Catfish Capital. With 40,000 acres of the town under water, farm raised catfish are a staple of the Belzoni economy. A rich history spans generations of citizens that have served their country in times of need. <br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/dkbutc8orfos04ogo6nlmk8kd8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqsFVgGUZWaf1P7NDmfr41LaODeGJByp1JM7aofj8TlcfyYAyKkFo4lPfhdm4ANig2LlyLn56ghakJZEjtcmkxCgEAMdyZY-dEmjA5QGECbytY_XTqxjLyvnYxj5K3J1eW2uyooOAeDfAEpWDEoLw0nSSQat4xEfBucR1VqO9J_mn_P68xQQ8Hv9npaI51jM2q92Uli3fftBlYj7tl3lPkUB_XGboJclfb9rHPhWP_RfaQOImPb5FdUQwr1zmXrRzuG4J0HLcBx4jkZCaSXdWZxdqA9ag?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -90.488731,33.176024,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MS2 - Jackson</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/mmc6cd2gff8hm4kt3lk7qhva5s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpUyRM4BiAi_fN8ET8JcYji0bK_1Igjc6Bw0ar2ZWcEd0Uyw6ov4U7COwzEBJVvkPyTdghq6owKzJdp37IMu85jA6ExFIU3iBSz6Oe2A4WJ5lhW7GCtOrboMwkdI8fhbe0NzUP9GvS0BbdO--iGhLQt5zmxKBqe3thi1sDWcWkFb3BbLGp9AnnjryYWkQpXtmGftQJzzbADfxetJC8HKINMkNLJbFuBZpsgnkLeo6Bi4_kTzRfDFJuxoh5ajMxXKTjponw3rJHLwa9dea5OU5QIlldwMA?session=0&fife" height="200" width="auto" /><br><br>WWI Memorial<br>At rear of 120 N State St.<br>Jackson, Mississippi<br>GPS: 32.299944, -90.179659<br>Access: 24/7, ADA-accessible, daylight visits recommended. Two photos may be required, a 20 yard walk from the street.<br><br>The capital of the state of Mississippi has a lot to offer in the way of monuments and memorials: Police, Firefighters, Civil Rights, 9-1-1, and Veterans. Next to the old Capitol Building, the War Memorial Building lives up to its name and is a beautiful piece of art. Done in art deco style, it was originally created to memorialize the end of WWI. While there are additional pieces around and on the inside of the building, the inscriptions on the outside are enough to make one pause to reflect. Take the time to circle the building and view the inner courtyard. It will not be time wasted.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/mmc6cd2gff8hm4kt3lk7qhva5s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpUyRM4BiAi_fN8ET8JcYji0bK_1Igjc6Bw0ar2ZWcEd0Uyw6ov4U7COwzEBJVvkPyTdghq6owKzJdp37IMu85jA6ExFIU3iBSz6Oe2A4WJ5lhW7GCtOrboMwkdI8fhbe0NzUP9GvS0BbdO--iGhLQt5zmxKBqe3thi1sDWcWkFb3BbLGp9AnnjryYWkQpXtmGftQJzzbADfxetJC8HKINMkNLJbFuBZpsgnkLeo6Bi4_kTzRfDFJuxoh5ajMxXKTjponw3rJHLwa9dea5OU5QIlldwMA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -90.1796547,32.2999314,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MS3 - Kilmichael</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/037nhnrsag92h64v2ocfbsduos/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq_zbSDX1vAPjY4oArlhCIbOoKK_WYJZl4hohdFnOC0DuiWlNcUknk_xDFIrQKJPClqFBnQNb2HIb_be8qN1YHb46HTlDR8JatXfg1eS4phUrlrXeUPkxzFMZM0KJxymD6LfqF-nOibH2VWrwI3j_6KdlB73cDs3tOx8r5WB6kqA1VZ20kjS-jM4u2tZlPei-RvXeHqjojZxGwrugpl_uz6JcmGfP-bOGW2UFLldyifthLM2gluhwfMerg_1J-xyzOEzgXZrpsTd6OFsoeJR3MsbT8ilQ?session=0&fife" height="200" width="auto" /><br><br>Liberty Carillon Tower<br>North Mississippi Veterans Cemetery \n 2 Legion Rd. <br>Kilmichael, Mississippi<br>GPS: 33.446443, -89.558726<br>Access: Daily, dawn to dusk<br><br>The design of the carillon features five steel pillars representing the five branches of the military and plays music during funeral services. The bell at the top of the carillon symbolizes American Liberty. The North Mississippi Veterans Cemetery lies on a 50-acre site that provides space to bury 115,000-125,000 veterans. With the opening of the Cemetery in Kilmichael, 99% of the veterans in Mississippi will have a veterans cemetery within 75 miles of their home.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/037nhnrsag92h64v2ocfbsduos/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq_zbSDX1vAPjY4oArlhCIbOoKK_WYJZl4hohdFnOC0DuiWlNcUknk_xDFIrQKJPClqFBnQNb2HIb_be8qN1YHb46HTlDR8JatXfg1eS4phUrlrXeUPkxzFMZM0KJxymD6LfqF-nOibH2VWrwI3j_6KdlB73cDs3tOx8r5WB6kqA1VZ20kjS-jM4u2tZlPei-RvXeHqjojZxGwrugpl_uz6JcmGfP-bOGW2UFLldyifthLM2gluhwfMerg_1J-xyzOEzgXZrpsTd6OFsoeJR3MsbT8ilQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.558726,33.446443,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MS4 - Natchez</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/nurn58lqhcltvk69c6ugmueeuc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqTQKATQUYo9tRoiAI6aWzIZ4qe9CWmQEJrSJIdWFEsPUwi9nsMTIQjQi9Xy3nM7UssvJLY2z7xHULlOtedcQ4jdgCe3Td5qi8Q-HbKI5yRAv-r4Vu9iOObGvlc9_dfzMECgBZw-WVe4yR9w8Y60WWcuBZRbc77FHWo4FHZ68FXaUxSnK3uoiYNin7rlF94WqJp8uP6l1lMJtsy5PxDT-kCtBpMZJ5c-uYW8hauEkSDFQwGeCX5S3sh_xJYUfTis0s-ZKptHp6OwuPd4ekortYt95jV3w?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>S Union St. between Main and State St.<br>Natchez, Mississippi<br>GPS: 31.558095, -91.401773<br>Access: Daylight hours recommended.<br><br>A simple but striking monument in Veterans Memorial Park paying tribute those served and still serving in our Armed Forces.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/nurn58lqhcltvk69c6ugmueeuc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqTQKATQUYo9tRoiAI6aWzIZ4qe9CWmQEJrSJIdWFEsPUwi9nsMTIQjQi9Xy3nM7UssvJLY2z7xHULlOtedcQ4jdgCe3Td5qi8Q-HbKI5yRAv-r4Vu9iOObGvlc9_dfzMECgBZw-WVe4yR9w8Y60WWcuBZRbc77FHWo4FHZ68FXaUxSnK3uoiYNin7rlF94WqJp8uP6l1lMJtsy5PxDT-kCtBpMZJ5c-uYW8hauEkSDFQwGeCX5S3sh_xJYUfTis0s-ZKptHp6OwuPd4ekortYt95jV3w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -91.401773,31.558095,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MS5 - Ocean Springs</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/r4pv80crqp5h8to17nlprcfcbc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqx4wUemEM-HjTPHgQEOIp8RlJ3RVVLv8vWFCT8bEwhqNErdOALDrl-QUj8oYTkW4_EsCE6dAz_PYB8AApXoGGSQGlCcckoaGoAi_p03GMvM1Y7D_sYM6VotJcSy-FKladUs-nG9JtjOU-0VVoN0UZrwCL0tjirGr0GsHOdvzMhN0GWGUt1fDbfKpGDu6msHbir2faRMyqYM_4MAeXzlws9PkUonKf52NjOmmyKJ4RHuoZ5KKQB9E0xBvlnF3BhlphrL5TRxbPwnaYa9LWToYIswBZiXw?session=0&fife" height="200" width="auto" /><br><br>Submariners Memorial<br>3730 Bienville Blvd. (US90)<br>Ocean Springs, Mississippi<br>GPS: 30.408700, -88.767314<br>Access: Daylight hours recommended. Two photos required. Site is a 50 yard walk from parking lot, behind the Huey helicopter.<br><br>In the mid-1960s, the Submarine Veterans of WWII assigned each of the 52 submarines lost during WWII to a State. The purpose was to establish memorials to the dedication of the men and boats now on eternal patrol, yet shipmates all. New York and California were awarded two each. The State of Mississippi was awarded the USS Tullibee (SS-284). <br><br>The Tullibee was sunk during a night surface attack in the Palau islands. It was only learned after the war that one of her torpedoes had run a circular course and she had sunk herself. The lone survivor of the attack, Clifford Kuykendall, GM2, was picked up by a Japanese destroyer and spent the remainder of the war as a POW.<br><br>The monument stands 14 feet long and 4 feet high, engraved on both sides, and is mounted on a pedestal raising it to nearly 6 feet at the top. In addition to the story of the Tullibee's last run and a list of her crew, the monument also displays:<br>• The 13 boats built in Mississippi at Ingalls Shipbuilding<br>• A list of all submarines lost in WWII<br>• A list of submarines lost other than in WWII<br>• Etched pictures of a Fleet Boat and a Nuclear Boat surfacing<br>• The Submariner's Prayer<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/r4pv80crqp5h8to17nlprcfcbc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqx4wUemEM-HjTPHgQEOIp8RlJ3RVVLv8vWFCT8bEwhqNErdOALDrl-QUj8oYTkW4_EsCE6dAz_PYB8AApXoGGSQGlCcckoaGoAi_p03GMvM1Y7D_sYM6VotJcSy-FKladUs-nG9JtjOU-0VVoN0UZrwCL0tjirGr0GsHOdvzMhN0GWGUt1fDbfKpGDu6msHbir2faRMyqYM_4MAeXzlws9PkUonKf52NjOmmyKJ4RHuoZ5KKQB9E0xBvlnF3BhlphrL5TRxbPwnaYa9LWToYIswBZiXw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -88.767314,30.4087,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MS6 - Tunica</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/u0cqt9iqjlmdhsj74eippm3glk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqIYMiXH7zjczrOilDFYntBLUK4FoAr4tVThpmDP5wn7JMkgnt8MuwGoXqbhLH91Mlrh3nKo0tjrTTzC6nwZDh067KXhEOMvQX6wTPVN8RfWbHFGfqzs3b_Oc30QvwwnszzCJ3tpv5TofW5FpcJxDT5v4I8FOD_aUWP8SLgRoVkg1pR3Lng9k1_HlJHXGXAa5JicJScAI6kNT2g8HFwpGgU1VH9GarBhwUa5BmzXGiRHIEooiovOyGpdVEIX8Yhw4DUSPlPKiXRYtagSqF6yMN09_CaYQ?session=0&fife" height="200" width="auto" /><br><br>Vietnam Memorial<br>Veterans Memorial Park \n Hickory Ln. and Main St.<br>Tunica, Mississippi<br>GPS: 34.686489, -90.383144<br>Access: 24/7<br><br>Tunica is a small town best known these days, for gambling. A grassy median strip rolls through the town and is home to their Vietnam Memorial. Flags of all services are posted and like so many memorials, it has three bronze figures, comrades in arms, assisting each other. Markers at ground level have information not always seen. The breakdown of deaths and injuries is unusual and of course changes from year to year, so to see the historical notes on a memorial is quite interesting.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/u0cqt9iqjlmdhsj74eippm3glk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqIYMiXH7zjczrOilDFYntBLUK4FoAr4tVThpmDP5wn7JMkgnt8MuwGoXqbhLH91Mlrh3nKo0tjrTTzC6nwZDh067KXhEOMvQX6wTPVN8RfWbHFGfqzs3b_Oc30QvwwnszzCJ3tpv5TofW5FpcJxDT5v4I8FOD_aUWP8SLgRoVkg1pR3Lng9k1_HlJHXGXAa5JicJScAI6kNT2g8HFwpGgU1VH9GarBhwUa5BmzXGiRHIEooiovOyGpdVEIX8Yhw4DUSPlPKiXRYtagSqF6yMN09_CaYQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -90.3831547,34.686489,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MS7 - Tupelo</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/db7u55tn611fl9bkpmtg6p30s4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp-xp_wPF81nRsiWR8_UMf9v1cl58cx_kvdMI7lhgDDiI_wv1UDvGu364Wq_4Jw_3htF6wHW4gRzFBhGabhIoPCBRTnrG68-WJHF4fF2L0eFKTHzrvb6DeweHB8LdcINh6phQ6WYvm_IzriGgT3tpEV_wEHcmymzLZu6V0zw8OTc1l8AepuKTxmtb4sdaVqb68na8DTz2nmMqYsPdV4KFKBItag3Z_8o40EX032NRM26_BI5-iGV_OJ8TrTT8VpNFOD72avf8QVS_UOxBtIDJ4c1vb6lw?session=0&fife" height="200" width="auto" /><br><br>Vietnam War Memorial Replica<br>Rockin’ Robin Veterans Park \n 800 N Veterans Memorial Blvd.<br>Tupelo, Mississippi<br>GPS: 34.265952, -88.678241<br>Access: 24/7<br><br>The Vietnam War Memorial replica is 60 percent of the size of the original in Washington, DC, standing more than six feet in height and measuring 300 feet long. Made of black granite and designed in the shape of the letter “V,” a walkway leads to the apex and stretches along the left and right wings of the “V.”<br><br>Names of the 58,267 American soldiers killed in action or missing in action between 1959 and 1975 are etched in the granite, listed in chronological order by date of casualty, and are available for name rubbings. In addition, are the names of Mississippians killed in the war, and those names are in alphabetical order.<br><br>Twenty-four benches dot the landscape recognizing individuals who served the United States during the Vietnam War. Granite panels pay tribute to others. <br><br>The idea for the permanent project spawned from the traveling replica of the Vietnam Veterans Memorial in Washington, D.C. known as the Moving Wall, a traveling exhibit that had been on exhibit at Itawamba Community College in nearby Fulton. It drew 35,000 visitors during the week it was on display 17 years ago. A group of interested citizens recognized the educational value in a permanent display and banded together to raise awareness and to seek appropriations for this permanent replica.<br><br>There are several Moving Walls around the country that tell the story of the Vietnam War and the era surrounding the conflict, giving onlookers an educational experience in a historical and cultural context. The Moving Wall, about half the size of the original one in the nation’s capital, travels across the United States and stops in cities for about a week to offer a viewing opportunity for Americans who might be unable to visit the nation’s capital to see the original.<br><br>Made in America: You’re a short distance away from Elvis Presley’s birthplace at 306 Elvis Presley Dr.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/db7u55tn611fl9bkpmtg6p30s4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp-xp_wPF81nRsiWR8_UMf9v1cl58cx_kvdMI7lhgDDiI_wv1UDvGu364Wq_4Jw_3htF6wHW4gRzFBhGabhIoPCBRTnrG68-WJHF4fF2L0eFKTHzrvb6DeweHB8LdcINh6phQ6WYvm_IzriGgT3tpEV_wEHcmymzLZu6V0zw8OTc1l8AepuKTxmtb4sdaVqb68na8DTz2nmMqYsPdV4KFKBItag3Z_8o40EX032NRM26_BI5-iGV_OJ8TrTT8VpNFOD72avf8QVS_UOxBtIDJ4c1vb6lw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -88.678241,34.265952,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

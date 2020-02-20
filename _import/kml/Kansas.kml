@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kansas</name>
+    <Style id="icon-1502-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>KS1 - Girard</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/54lb67mabl1qof2d6ughg3u1vk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqeydtEn8_-RfUGBo_nc-3hRrDtLX8KH5Rrjn43GtQS-gof_nrLJxSn6k46ychkHsJuvX3vLe2REzK-zs9tFMpH6kHQkQPYRXMyeZyPHqJYnUswJtPGAf2VNnAh8dazo-pMyIeH6W-N3vSguXzKwFO_-kFRCFQEglVBsAofZVcyklbXvxNQHI_BufCIAMWD8DoGDhxr1G5mBD1gveQy0HtTvdCCsC41dN-i0SSXiZEKrQIoQaWBV1puZJ3k5LXtTIw67semmymeJKFMjv1bkJnpFDx1QA?session=0&fife" height="200" width="auto" /><br><br>Vietnam Veterans Memorial<br>111 E Forest Ave.<br>Girard, Kansas<br>GPS: 37.50978, -94.84193<br>Access: 24/7<br><br>The memorial is a granite replica of the Vietnam Wall, engraved with the names of the 777 Kansans lost in the Vietnam War. The memorial also includes a UH-1H Huey helicopter. These memorials stand as a permanent memorial dedicated to veterans of all military service. <br><br>This helicopter was flown in Vietnam by a Kansas pilot and donated by the Department of the Army and Kansas Army National Guard to Girard Veterans of Foreign Wars Post 7479.<br><br>Keep an eye out for one of the nation's largest American Flags (30' x 60'). While you can see the flag from your bike, you really must stand under the Big Flag to appreciate its true size, 130 feet high above the Kansas prairie honoring all war veterans.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/54lb67mabl1qof2d6ughg3u1vk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqeydtEn8_-RfUGBo_nc-3hRrDtLX8KH5Rrjn43GtQS-gof_nrLJxSn6k46ychkHsJuvX3vLe2REzK-zs9tFMpH6kHQkQPYRXMyeZyPHqJYnUswJtPGAf2VNnAh8dazo-pMyIeH6W-N3vSguXzKwFO_-kFRCFQEglVBsAofZVcyklbXvxNQHI_BufCIAMWD8DoGDhxr1G5mBD1gveQy0HtTvdCCsC41dN-i0SSXiZEKrQIoQaWBV1puZJ3k5LXtTIw67semmymeJKFMjv1bkJnpFDx1QA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -94.84193,37.50978,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KS2 - Hays</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/tqlac209nfqdfaig1muvvkk9ds/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqzRu6DAP-d9TmQs-fPMSr9ssfpxDzfnOIvyY9qw8K-mWjHxVYNW7YD0uRSG0QC6s8ss9C3Ifjay4mWUHl3Vy6W9fUjgJFD8rsw0LLGc0gf9Ch5qI23rVVykVJmGlT3VTVjwA3vqvjshfKsHZgv0EN_fS7qXalAnNnsbXiCxpMTvEtiUqj6rqwPzgr3hTL_Bs6QIBk4eHaDb4Mq4IQ3irsDRMC5RJ3f14YTvB6b5ByVSLFtiHwk-NObFQbNezHRhIKylXh1tNDWe-XEfep_CBcaO4PGzA?session=0&fife" height="200" width="auto" /><br><br>Merci Boxcar<br>Veterans Memorial Park \n 1305 Canterbury Dr.<br>Hays, Kansas<br>GPS: 38.87199, -99.30033<br>Access: 24/7<br><br>This is one of the 49 boxcars filled with gifts from the French people brought to the United States in February 1949 – part of the Gratitude Train – a "merci" for the help Americans had given rebuilding France after the German occupation. There was one boxcar for each state of the union, with a 49th for the District of Columbia. Once arriving in KS, this car and its contents were on display in Topeka then toured 120 Kansas towns over a 140 day period. It is now in front of the Veterans Park in Hays.<br><br>It was appropriate that these small boxcars were used in the Gratitude Train. The boxcars were built between 1852-1885 and were used to transport America’s Infantry and Cavalry to the fighting front during both world wars. Originally, each car was marked with a 40/8, a symbol well recognized by the troops, as each box car would hold 40 men or 8 horses. Known to be a pretty miserable mode of transportation, the boxcars were usually dirty, provided no seats or heat and were cramped. <br><br>At the conclusion of the war a service organization of United States war veterans was formed named after these boxcars, the organization called La Societie des Quarante Hommes et Huit Chevaux, (The Society of Forty Men and Eight Horses). Also known as "40&8" the organization took responsibility for the boxcars when they were received in the US and are still caretakers for most of the cars that remain 52 years later. Many still exist and can be found in each state.<br><br>The Kansas Merci Boxcar has a memorial case on one end of the boxcar, which is used to honor the passing of local veterans for a 30-day period.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/tqlac209nfqdfaig1muvvkk9ds/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqzRu6DAP-d9TmQs-fPMSr9ssfpxDzfnOIvyY9qw8K-mWjHxVYNW7YD0uRSG0QC6s8ss9C3Ifjay4mWUHl3Vy6W9fUjgJFD8rsw0LLGc0gf9Ch5qI23rVVykVJmGlT3VTVjwA3vqvjshfKsHZgv0EN_fS7qXalAnNnsbXiCxpMTvEtiUqj6rqwPzgr3hTL_Bs6QIBk4eHaDb4Mq4IQ3irsDRMC5RJ3f14YTvB6b5ByVSLFtiHwk-NObFQbNezHRhIKylXh1tNDWe-XEfep_CBcaO4PGzA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.30033,38.87199,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KS3 - Liberal</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/a7kotu0ce53oh323naddlifnj0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrhUTHkQZGtEHZPY3HrG_BEYUeEwwk-OJe7BQhnlSdr_Y7_b736KiUGd12Xfn9rOgrvbn4EfqUgKrIrfPsa6SiRlKJvT0k1B6qIQh2zN18FPbEF0N9B-ihiZgEKMGf0Cw4GoRHxZXfdsM6wpD8VJ0QkOOAJ87qOK8msmMuLFyVhLwpO65VGU2Ud0PG8cg5xHF_Ao9Pfwhf3OdLuhvEd0SkEukYMVpiQ90Cj_Yc85sKRKJkdX6ep8qQrYPgBaOyu2YdDjdA9smKrVkOWsJtadD9KXWDt7Q?session=0&fife" height="200" width="auto" /><br><br>F-105G Thunderchief<br>Mid-America Air Museum \n 2000 W 2nd St.<br>Liberal, Kansas<br>GPS: 37.038771, -100.952848 <br>Access: If qualifying for a Trophy ride, you must enter the museum to obtain the photo above. Otherwise, 24/7, through the fence, is permitted. <br><br>This advanced fighter/bomber, the largest single-seat aircraft in history, was used extensively in Southeast Asia from 1967 to 1973 and served some of the most dangerous roles of the Vietnam War. “Thuds,” as they were often called because of the sound they made upon landing, flew low-level iron bomb missions over jungle terrain and were used as Wild Weasels, clearing out surface-to-air missiles to make way for other attack aircraft. As a result, the “Thud” suffered one of the highest loss rates of the war.<br><br>Father of TOH Texas state sponsor, Glenn Copeland, flew 58-1/2 missions in a Thunderchief before getting hit while taking it “Downtown” (Hanoi). LTC Copeland remained a POW at the “Hanoi Hilton” for nearly six years before being released to his family at Lackland AFB, Texas.<br><br>Museum hours: Mon-Fri 0800-1700, Sat 1000-1700, Sun 1300-1700, Closed 4 July and Memorial Day. Nominal $7 entry fee, $5 for seniors 62+. A special log sheet is available for Tour of Honor riders. <br><br>Made in America: If in the mood, you can practice your motorcycle skills in the parking lot next to the plane above. A peek at Google satellite view will explain.<br><br>Visiting the museum is highly recommended, it’s only $6, where there’s a special log sheet for Tour of Honor riders. It’s the largest aviation museum in Kansas and fifth largest in the nation, with more than 105 aircraft displayed.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/a7kotu0ce53oh323naddlifnj0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrhUTHkQZGtEHZPY3HrG_BEYUeEwwk-OJe7BQhnlSdr_Y7_b736KiUGd12Xfn9rOgrvbn4EfqUgKrIrfPsa6SiRlKJvT0k1B6qIQh2zN18FPbEF0N9B-ihiZgEKMGf0Cw4GoRHxZXfdsM6wpD8VJ0QkOOAJ87qOK8msmMuLFyVhLwpO65VGU2Ud0PG8cg5xHF_Ao9Pfwhf3OdLuhvEd0SkEukYMVpiQ90Cj_Yc85sKRKJkdX6ep8qQrYPgBaOyu2YdDjdA9smKrVkOWsJtadD9KXWDt7Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -100.952848,37.038771,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KS4 - Marysville</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pbq2gartdfs9k08suulee7m790/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqQ0OV27P-Mt0HnLhb65Yvnvau5RqWuNTxNJst4V66UUh0wUi0BPsa8RI3I5yhUrNhHXRABUgyZklAjUtWYhfQY7VeHHL-i6mltUVZzHNn4_5SzSkncS_9L8t7cUi9mXRj9pEqa-Y4z8ACUU02IePAknsUwJihyb8fEdjrKZ6r3EyJMgFa6vdcsG1D7y4Lq7kk_Mp1DWRyCv97dkGxUTxurK4UdmmsF51OCS6IUkI-51X_K2dfXMNInRcBzqf2Nu18ilHc8DGpkzJLtZiMtcSwssn0CrQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Veterans Memorial Dr. & Carolina St.<br>Marysville, Kansas<br>GPS: 39.843366, -96.635311<br>Access: 24/7<br><br>The Marshall County Veterans Memorial is an octagon-shaped wall with the names and service information of Marshall County veterans lining the inside of the wall. There is a smaller octagon-shaped wall in the middle honoring those Marshall County veterans killed or missing in action. The memorial is a lasting tribute to those Marshall County veterans who answered their country's call when needed and served honorably, with some giving the ultimate sacrifice.<br><br>Today there are over 2,100 names on the wall, and it continues to grow daily. <br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pbq2gartdfs9k08suulee7m790/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqQ0OV27P-Mt0HnLhb65Yvnvau5RqWuNTxNJst4V66UUh0wUi0BPsa8RI3I5yhUrNhHXRABUgyZklAjUtWYhfQY7VeHHL-i6mltUVZzHNn4_5SzSkncS_9L8t7cUi9mXRj9pEqa-Y4z8ACUU02IePAknsUwJihyb8fEdjrKZ6r3EyJMgFa6vdcsG1D7y4Lq7kk_Mp1DWRyCv97dkGxUTxurK4UdmmsF51OCS6IUkI-51X_K2dfXMNInRcBzqf2Nu18ilHc8DGpkzJLtZiMtcSwssn0CrQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -96.635311,39.843366,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KS5 - Overland Park</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7v1jofsng28ms8044k24i9d7n4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqngHZ60SKR2-eIDc1VfRC-r-D82dET7P0VJ4qfND1xU0zQVi5C18iOAG0HcvNkDRtpLdlhzzb0daDhpZUaD0GQxS4zYVQ8_bhxZQVXDyplKew_Tw_2cCActe3jxqenGHF4GOcvBfhqTeU9i1r3D8s5cnaa0W2gAGdhQ4MCL0TXZAu7IcP4oyxRak2fdmoFmQr_-t9N_d3YEGIr4mGlHFmjs4X_TW632GWgkL_TFQBqwkf65xMSppBUYUUUjDbgZAgD5j3lWFNSDzvbKOWQyIZ3PJ73-Q?session=0&fife" height="200" width="auto" /><br><br>9/11 Memorial<br>Administration and Fire Training Center \n 12401 Hemlock St.<br>Overland Park, Kansas<br>GPS: 38.90271, -94.68306<br>Access: 24/7<br><br>The heart of the 9/11 Memorial is a 2.5 ton artifact from Ground Zero. It also has granite from the World Trade Center flooring that you cross to enter the memorial. Four panels have the details and timeline of each of the airplanes and other events of the day. The memorial also lists the names of all victims, including the more than 400 first responders who perished trying to save others.<br><br>There is an audio presentation on site that explains the design elements and helps visitors understand the significance of the memorial elements. September 10th and 11th are the best dates to visit the memorial because you can see the artifact shadow on the educational panels in the mornings.<br><br>ET1 Petty Officer Ronald J. Hemenway was one of the victims at the Pentagon. His parents were here at the dedication ceremony, and when they saw his name, there wasn't a dry eye in the house.<br><br>Ronald Hemenway was a dedicated father of two, and assigned to the Pentagon after a stint with the USS LaSalle. He was in his office that fateful morning, when American Airlines Flight 77 plowed into the Pentagon and exploded. The impact killed all 64 on board and 125 more in the Pentagon, and Hemenway was one of the few whose remains were never found.<br><br>Made in America: First hand food recommendations: (1) Joe’s Kansas City Bar-B-Que, the best barbecue in Kansas City, the “Barbecue Capital of the World.” Located in it’s original gas station location. www.joeskc.com (2) Jack Stack Barbecue in Overland Park, a Kansas City Tradition since 1957. www.jackstackbbq.com.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7v1jofsng28ms8044k24i9d7n4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqngHZ60SKR2-eIDc1VfRC-r-D82dET7P0VJ4qfND1xU0zQVi5C18iOAG0HcvNkDRtpLdlhzzb0daDhpZUaD0GQxS4zYVQ8_bhxZQVXDyplKew_Tw_2cCActe3jxqenGHF4GOcvBfhqTeU9i1r3D8s5cnaa0W2gAGdhQ4MCL0TXZAu7IcP4oyxRak2fdmoFmQr_-t9N_d3YEGIr4mGlHFmjs4X_TW632GWgkL_TFQBqwkf65xMSppBUYUUUjDbgZAgD5j3lWFNSDzvbKOWQyIZ3PJ73-Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -94.68306,38.90271,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KS6 - Pratt</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/m0d7oi2vu2419m2anpc381d0t4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrp_NfEuJ4Zxl5L9t7eDQLC7Vw9xyB7zyLb3wg6khsJERfpxKriTWZ7FPOeolgm8LA6EjXBqwgvypPFjLqoPEj-XGTZimyBsKdSEHBfpi2nS8xWDhXthI6jBr1yciy1xII1mmpfDBAg9CPTp5ZYkOlGqwbALzAMnpuilvZN3BGSOPz4OQzNI52hS0rk2cbtbJ_cm3fz4Nn5Pj85nfEHCgb7IeoqMOPqEOuMLLrt5hQeJaFBFgsTd697YeII07roSrD5d2BvZ-j39D2xGUKeRMBA4aOtHw?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Pratt Industrial Airport \n Flint Rd. & Baker Ave.<br>Pratt, Kansas<br>GPS: 37.704514, -98.740607<br>Access: 24/7<br><br>The B-29 All Veterans Memorial honors ALL veterans, prisoners of war, and the missing in action from ALL conflicts. The memorial is located at the Pratt Airport Industrial Airport, formerly the Pratt Army Air Field which began in 1942 during WWII and closed on March 6, 1946.<br><br>WWII heroes who trained at the base included General Paul Tibetts, and Colonel Bob Morgan. A rich history of that era is being preserved. Pratt Army Airfield (AAF) is significantly historic as it was the first United States Army Air Forces B-29 Superfortress station, receiving the prototype YB-29 bomber in the summer of 1943. <br><br>The 58th Bomb Wing was the first B-29 combat wing of World War II and engaged in the first long-range strategic bombardment of the Japanese Home Islands beginning in March 1944 from bases in India.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/m0d7oi2vu2419m2anpc381d0t4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrp_NfEuJ4Zxl5L9t7eDQLC7Vw9xyB7zyLb3wg6khsJERfpxKriTWZ7FPOeolgm8LA6EjXBqwgvypPFjLqoPEj-XGTZimyBsKdSEHBfpi2nS8xWDhXthI6jBr1yciy1xII1mmpfDBAg9CPTp5ZYkOlGqwbALzAMnpuilvZN3BGSOPz4OQzNI52hS0rk2cbtbJ_cm3fz4Nn5Pj85nfEHCgb7IeoqMOPqEOuMLLrt5hQeJaFBFgsTd697YeII07roSrD5d2BvZ-j39D2xGUKeRMBA4aOtHw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -98.740607,37.704514,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KS7 - Syracuse</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gkflsojep8r9ameltdv0joaflk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqK0LGgwAtjkXYbI1tGOswIfqmBSrJvN_U1yLxXa0Xh_Scqm5amh-vWjAeLSMgazqwmzRaI-Lp5bMveTBZOWnx6Y9ho6k8HF71smciv4xhQNwWoF7ZqWiG8M4BBQqk5zV_zA_3mqaJkdpmBKJJYAOaLE8HhZB8LZjziWUmGU25EZgiKKxVgUnbfRH8WxT1DVZEDZQfmQi6p_GxncBjBKfWbv9Hkc9Fyv1unuvk5Nif7copRi0SmSybqRKH5WJe6HajihIe_5IOdNeniTp_ShVPGxKC5wA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Syracuse Cemetery \n KS27, 1 mi north of W Warner St.<br>Syracuse, Kansas<br>GPS: 37.99198, -101.76878<br>Access: 24/7<br><br>American patriotism runs strong in Hamilton County. The Western Kansas Veterans Memorial is a moving tribute to veterans living and deceased from all branches of the military. The area around the flag at the Syracuse Cemetery is dedicated to a Veteran's Memorial Wall.<br><br>In 2012, to celebrate the United States Marine Corps’ 100 years of aviation, the Marine Corps Association and Foundation commissioned a painting featuring the images of three men who were famous aviators in the Marines. One of the men has ties to Syracuse. The May 2012 cover of the Leatherneck Magazine depicts Frank E. Petersen, Jr. on the right.<br><br>Petersen’s mother, Edythe Southard was raised on a farm near Syracuse. Not much is known about her other than she moved here with her widowed mother and her two sisters, then she attended Friends University in Wichita becoming the first African American woman to graduate from there.<br><br>When Southard married Frank E. Petersen, the family moved to Topeka where he worked washing cars and repairing radios. This is where Frank E. Petersen, Jr., was born on March 2, 1932.<br><br>Petersen, Jr., learned about radios and electronics repair from his father. He enlisted in the United States Navy in 1950. When he took the entry test, he scored so high they made him take the test again. He explained it as his first experience with discrimination in the armed forces, but not his last.<br><br>As the years passed, Petersen, Jr., proved himself many times. He was selected as a Second Lieutenant in the United States Marine Corps after completing flight training in 1952 and became the first African American selected to be a pilot in the USMC. Petersen went on to fly missions in the Korean War and the Vietnam War. He served in the Marines for 38 years before retiring in 1988. His career had many firsts, including the first African American General in the Marine Corps in 1979, as well as the first black commander of the Quantico Marine Base in Virginia. At the time of his retirement he was the senior ranking aviator in both the U.S. Marine Corps and Navy.<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gkflsojep8r9ameltdv0joaflk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqK0LGgwAtjkXYbI1tGOswIfqmBSrJvN_U1yLxXa0Xh_Scqm5amh-vWjAeLSMgazqwmzRaI-Lp5bMveTBZOWnx6Y9ho6k8HF71smciv4xhQNwWoF7ZqWiG8M4BBQqk5zV_zA_3mqaJkdpmBKJJYAOaLE8HhZB8LZjziWUmGU25EZgiKKxVgUnbfRH8WxT1DVZEDZQfmQi6p_GxncBjBKfWbv9Hkc9Fyv1unuvk5Nif7copRi0SmSybqRKH5WJe6HajihIe_5IOdNeniTp_ShVPGxKC5wA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -101.76878,37.99198,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

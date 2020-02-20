@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Tennessee sponsored by Lyle Monroe</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>TN1 - Alamo</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/5kvkraj5r74m9aqi5grhgrq8lc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoWIoqmkjdgMj2uZHsZllGhMXqdoHn1tt4gYTHM_Fn50H2TyUuS66cm45vQlfbmeoEHlkQDnFi1HW81r_MKinwPcw7Cjk_qr44s590EUOX61h6vR8nQAl6xorK7_q2C5vSxriXsO6Df-t-da57MvQofAJqUU4oPqOJubAf20FPxYaqq8c5zcTsbeXlwfuC9g7oMWw2PKvbTjXxR0Tol3yrPjPRbwDQZuYPeyoyHL6YnDWmZ4rFZ5bXHxpWZn_qnS8aDBfv2DuKMVodf9zurL38EatTeIA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>S Bells and S Court Sts.<br>Alamo, Tennessee<br>GPS: 35.784988, -89.116997<br>Access: 24/7<br><br>The Memorial consists of one black center stone tablet, one bench dedicated to the memory of Jeanne Mathis (the driving force behind the memorial, who passed before seeing her vision become a reality), and 15(!) additional tablets that reflect the names of all local service men and women who have served from World War I to present day.<br><br>Made in America: Crockett County is named in honor of David Crockett (1786–1836), frontier humorist, soldier, Tennessee state legislator, U.S. congressman, and defender of the Alamo.<br><br>30 miles to the SE is Pinson Mounds Archaeological Park, a popular and historical destination to study the native indians in the area. http://bit.ly/36ewOve<br><br>40 miles to the west is Fort Pillow State Historic Park, a significant Confederate fort captured and utilized by Union soldiers. Set atop the Chickasaw Bluffs, the park looks out over the Mississippi River about 50 miles north of Memphis. http://bit.ly/2sKc2WE<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/5kvkraj5r74m9aqi5grhgrq8lc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoWIoqmkjdgMj2uZHsZllGhMXqdoHn1tt4gYTHM_Fn50H2TyUuS66cm45vQlfbmeoEHlkQDnFi1HW81r_MKinwPcw7Cjk_qr44s590EUOX61h6vR8nQAl6xorK7_q2C5vSxriXsO6Df-t-da57MvQofAJqUU4oPqOJubAf20FPxYaqq8c5zcTsbeXlwfuC9g7oMWw2PKvbTjXxR0Tol3yrPjPRbwDQZuYPeyoyHL6YnDWmZ4rFZ5bXHxpWZn_qnS8aDBfv2DuKMVodf9zurL38EatTeIA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.116997,35.784988,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TN2 - Dover</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ufkecmpl6g2lie28cn1a5u5a3s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrczaix4yP-X9xaFnxNTCOJyz_GhrcygPXKoyEquNEquuMH8wmFmTjiXzyPUyQpk6XhTVXQLOKSgBAn6Ika5QzmcL1b9KHYPXJQ5oYxpz2N3wJ-lF2zoKC7RAZdI9siHQAw9vazkMnoPVkJYmBWRwzCKfJcLOqGJvL_diw1TWMMP-oXN1rMKc4kkpxI-mGbp6pYznuP6_FJpiqF606V98ZCGDgnRI0GtAmANa9ncGUU2o1TK0bUbhxT9O3FyI2Kx5sgZGUeqCgGwDXHgZ-Y_9Cwuz0sVA?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>225 Donelson Pkwy.<br>Dover, Tennessee<br>GPS: 36.487980, -87.840020<br>Access: 24/7<br><br>The Stewart County War Memorial consists of five parts: the center part has an eagle and American Flag with the inscription, “In honor of those who served” From left to right Korea, WWI, WWII, and combined is Vietnam and Iraq War.<br><br>Made in America: Dover is a historical Civil War city. Fort Donelson, site of a major Union victory in the Civil War, is located west of downtown Dover and located inside Fort Donelson National Battlefield Park. The Dover Hotel was the site of the unconditional surrender of General Buckner to General Grant in 1862.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ufkecmpl6g2lie28cn1a5u5a3s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrczaix4yP-X9xaFnxNTCOJyz_GhrcygPXKoyEquNEquuMH8wmFmTjiXzyPUyQpk6XhTVXQLOKSgBAn6Ika5QzmcL1b9KHYPXJQ5oYxpz2N3wJ-lF2zoKC7RAZdI9siHQAw9vazkMnoPVkJYmBWRwzCKfJcLOqGJvL_diw1TWMMP-oXN1rMKc4kkpxI-mGbp6pYznuP6_FJpiqF606V98ZCGDgnRI0GtAmANa9ncGUU2o1TK0bUbhxT9O3FyI2Kx5sgZGUeqCgGwDXHgZ-Y_9Cwuz0sVA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -87.84002,36.48798,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TN3 - Erwin</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/76bqea8jer50u43onkkm8p20ds/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpAJMELhZ_zjEgB2AOnumoOIxUMAnnKr1EtLCd3vEHNhfV5TwT-i9-bBd2tYrUpemU1t96VTYcSWdmsIigcEL5_7BlobHZtT4y368eJhHWu0MdJ4EM0JGM_ays-DOmsquBoJDCnqViMHg_SOHim6nFXMAiZ0CdSbma4gmEU8Jqc88zOjU974ju5qL3ZblcEUW9zhMHnMTAFxGnGfEF4pAXETt4mX-FtZcz2y2KJzS1qI1CJMII51FRfx4_3HZ48d4s93WmjTcsBsDRoN0gbLrjTntH34g?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Park<br>524 S Elm Ave.<br>Erwin, Tennessee<br>GPS: 36.140413, -82.419180<br>Access: 24/7<br><br>The Unicoi County Veterans Memorial Park was long a dream of locals for years. Acquisition of the present park property by the American Legion and the Centennial Lodge #491 Free Excepted Masons of Erwin set the wheels in motion for the dream to become a reality. <br><br>Trees removed from the property during site preparation were transported to a local sawmill and used to construct the park pavilion. Walls of the pavilion now are adorned with the World War One era county veteran plaques placed in memory in the original park.<br><br>Any veteran who lived or once lived in Unicoi County was eligible to be honored, and now over 5,000 names are etched into the marble slabs.<br><br>Made in America: More fine BBQ can be had at Hawg-N-Dawg. Try the unforgettable Hawg-N-Dawg. http://bit.ly/3auPzxS<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/76bqea8jer50u43onkkm8p20ds/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpAJMELhZ_zjEgB2AOnumoOIxUMAnnKr1EtLCd3vEHNhfV5TwT-i9-bBd2tYrUpemU1t96VTYcSWdmsIigcEL5_7BlobHZtT4y368eJhHWu0MdJ4EM0JGM_ays-DOmsquBoJDCnqViMHg_SOHim6nFXMAiZ0CdSbma4gmEU8Jqc88zOjU974ju5qL3ZblcEUW9zhMHnMTAFxGnGfEF4pAXETt4mX-FtZcz2y2KJzS1qI1CJMII51FRfx4_3HZ48d4s93WmjTcsBsDRoN0gbLrjTntH34g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -82.41918,36.140413,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TN4 - Halls</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pck3v50u1g7bkb5cpl34g9vkpc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpBr0zMglre4DPD81QBW5Z0m-g6Wdcy01dWZJRBrD8aEHSGc4doz9JwbbMzt9CeRpNGWOMzjynEnacYrVmX3Si4XO9jyyBF-BCLYVLoqdLrrPWrR_HQ8wn6LbhCynfsJjpGIIbJWUdZZLVF2ipK0-VFny-IyOG4SMaEADKv5_ccKW0a3s7U_VOAn_Wi4RR4vyJPPuQnWJKC5OBNxEP3nqahDtYAfPp4gm17GXcL-qJXIPE3ws2ejgm-h0rPnQVH1m5NBhBuazOUFHff1LGmrNFBi41ujA?session=0&fife" height="200" width="auto" /><br><br>Veterans Museum<br>100 Veterans Dr.<br>Halls, Tennessee<br>GPS: 35.894596, -89.403426<br>Access: 24/7 for scoring photo. Museum open M-F 9AM-4:30PM, Sat-Sun 2PM-5PM. Nominal entrance fee.<br><br>The Veterans’ Museum was founded on the site of The Dyersburg Army Air Base in 1997. The base had been a training facility during World War II for B-17 pilots. <br><br>While the Museum honors our veterans from that era with displays, photographs, and history of the base, they also honor all veterans with displays from the different wars and conflicts in which the U.S. has been involved. <br><br>Made in America: If you’re here around lunchtime, try the Just Divine Tea Room, located at 2257 Highway 88 W. Open for lunch Tuesday through Saturday, 11AM-2PM. Dessert is served until 3PM. Desserts like “...chocolate cobbler, hot-fudge cake, apple dumplings, or the decadent four-layer dessert, built on a base of pecan shortbread covered in chocolate pudding and cream-cheese whipped topping, drizzled with chocolate syrup and sprinkled with toasted pecans.” You get the idea.<br><br>And if you’re in the mood for BBQ, give Pig-N-Out at 225 N Front St, a try.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/pck3v50u1g7bkb5cpl34g9vkpc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpBr0zMglre4DPD81QBW5Z0m-g6Wdcy01dWZJRBrD8aEHSGc4doz9JwbbMzt9CeRpNGWOMzjynEnacYrVmX3Si4XO9jyyBF-BCLYVLoqdLrrPWrR_HQ8wn6LbhCynfsJjpGIIbJWUdZZLVF2ipK0-VFny-IyOG4SMaEADKv5_ccKW0a3s7U_VOAn_Wi4RR4vyJPPuQnWJKC5OBNxEP3nqahDtYAfPp4gm17GXcL-qJXIPE3ws2ejgm-h0rPnQVH1m5NBhBuazOUFHff1LGmrNFBi41ujA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.403426,35.894596,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TN5 - Memphis</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/6ehv4alb9nrsksgbvd5cnusd1g/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo1GvvwrvoF15yt9wjJY4lZDq6Ni-x8PpTPtBOGMVmqX1zgcsQhdcpgkngcKJEBw4ezg93r-iw8CaGa1Pu73O4y7nKvHL-c83oA2svviTIV-RMPpwveN0SByv4gKeWW3EXnKowpZx04z9eeG2N4-OtNktzK7Mb951V9p1tVIE_DY7sjwe7a0e3EfN_lGNia-suItgr5dmrlZGA1Nb3sfflUXbBDwpNzGmnxfDS33oTGkDgkAPqajKwnJHpa-i0iw2O5b1YF8QXYsziNK8ZAXTIagB6VRQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>1928 Veterans Plaza Dr.<br>Memphis, Tennessee<br>GPS: 35.146996, -89.993978<br>Access: 24/7<br><br>The Veterans Plaza contains memorials to the veterans of Memphis and Shelby County who were killed defending the freedom of the United States. The 2-acre site is home to a collection of memorials: World War I (established 1926 and 1932), World War II (2001), Korean War (2003), Vietnam War (2003), and Desert Storm (2003). <br><br>A plaque providing the history of Veterans Plaza states that “... through these memorials we pay honor to 1,525 Shelby County veterans who were killed in the 20th and 21st century wars.” An adjoining plaque provides commendation for Pete Dugan, a WWII veteran, “...honoring his steadfast commitment to the cause of Veterans Plaza in Overton Park.”<br><br>The Doughboy statue, which is the hallmark of the area, is one of the World War I memorials; made in 1926 of copper from pennies collected by local school children. A statue of Margaret Polk, the namesake of the “Memphis Belle,” honors the infamous B-17 bomber and its crew; the memorial was unveiled in October 2011 and sponsored by The Memphis Belle Memorial Association. www.memphisbelle.com<br><br>Made in America: There’s a reason the World Championship Barbecue Contest (Tom Lee Park, May 13-16) is held here, and why many consider Memphis to be the “reigning king of barbecue cities.” It’s because they’ve been doing it a LONG time, possibly back to the 1500s, when Spanish explorer Hernando de Soto came through with a herd of pigs and Native Americans showed him how to slow cook them over a smoky fire! Over 80 TONS of pork will be served! http://bit.ly/38xC92t<br><br>BBQ can be found in EVERY neighborhood, but just south of the memorial site, you’ll find the “World Famous” Bar-B-Q-Shop, known for its sauces. Vegetarians can try the Bar-B-Q Spaghetti, hold the pork butt. http://bit.ly/36ev5Gp<br><br>A few blocks further south, you’ll find the popular Central BBQ, a “smoked meat emporium offering Memphis-style eats, from dry-rub ribs to hot chicken wings.” Vegetarians can have a tasty portabella sandwich with smoked gouda cheese. Yum. https://eatcbq.com<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/6ehv4alb9nrsksgbvd5cnusd1g/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALo1GvvwrvoF15yt9wjJY4lZDq6Ni-x8PpTPtBOGMVmqX1zgcsQhdcpgkngcKJEBw4ezg93r-iw8CaGa1Pu73O4y7nKvHL-c83oA2svviTIV-RMPpwveN0SByv4gKeWW3EXnKowpZx04z9eeG2N4-OtNktzK7Mb951V9p1tVIE_DY7sjwe7a0e3EfN_lGNia-suItgr5dmrlZGA1Nb3sfflUXbBDwpNzGmnxfDS33oTGkDgkAPqajKwnJHpa-i0iw2O5b1YF8QXYsziNK8ZAXTIagB6VRQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -89.993978,35.146996,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TN6 - Mountain City</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/qvqkapvkt4l8mhmc1ln4u51n8s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrPuMamHvHxo2UJyHVNwsKibcy4aXVVm7vXrXoMZL1s-x0mteSq2tFvceZm9vGXurpunx4FYWEMbonZEa6vrrlm36pLcf1vSbMBmCRzMhFwuCbicR0laPXE5vO9JtZTQou1W_p3LKev2SAgQHh9mlBeEBa08wIw9YeDDME2dtEelubPnFwXQSdUocwFbrUjSDto3QzFpb3eYKy7kFE2DcpvDMBW9G1Q5hYUxSNJTo12l5UDlk4L9WPisY9SLlJL-MCMxvBjQrcs5o8FfFKnpJEUUZIgkQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Wall<br>Ralph Stout Park \n 353 N Shady St.<br>Mountain City, Tennessee<br>GPS: 36.479818, -81.808046<br>Access: 24/7<br><br>The Johnson County Veterans Memorial Wall is dedicated to all the men and woman who served in the armed forces from Johnson County. The wall lists those lost from the county during WWI, WWII, Korea, Vietnam and the Gulf Wars.<br><br>Made in America: When the first Euro-American explorers arrived in what is now the Mountain City area in the late 17th century, well-worn Native American trails passed through the area. In 1949, workers at the Maymead quarry (just south of Mountain City) discovered a cave with several early Mississippian-era (ca. 1000 A.D.) burials inside. <br><br>The Needham and Arthur expedition of 1673 is believed to have passed through the area, making use of the gap to the south. Explorer Daniel Boone made use of the same gap on an expedition to what is now Kentucky in 1769, and today part of the Daniel Boone Heritage Trail -- which follows Boone’s route -- passes through Mountain City.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/qvqkapvkt4l8mhmc1ln4u51n8s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrPuMamHvHxo2UJyHVNwsKibcy4aXVVm7vXrXoMZL1s-x0mteSq2tFvceZm9vGXurpunx4FYWEMbonZEa6vrrlm36pLcf1vSbMBmCRzMhFwuCbicR0laPXE5vO9JtZTQou1W_p3LKev2SAgQHh9mlBeEBa08wIw9YeDDME2dtEelubPnFwXQSdUocwFbrUjSDto3QzFpb3eYKy7kFE2DcpvDMBW9G1Q5hYUxSNJTo12l5UDlk4L9WPisY9SLlJL-MCMxvBjQrcs5o8FfFKnpJEUUZIgkQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.808046,36.479818,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TN7 - Ooltewah
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/cnjsl5dt89lidkfmvmutdup2ig/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr58BE4OWNf1i0JcCqk9OhMU8AUGVTJxOp0_0TFhMEEbdwSN8hkBC5KwwjmGYdOoo_qo4gfaXX-Ru_sdvYo5aM9achJp5plEUBd4_UHBZgOv8qZwZSLlnuiSNqptv2oDWcw2Fp24l-HAnUy36Jwta9dRhbYFajOZ3UEchtEpllOthVx8Vn3Jub5QLXWpkAfhUMS9oW1ZYUF5CbSWLPKX1P_-a2VS7BKB5nmi9qXltpAQhP2mVxDc_NA_QLuyw7aQpFxYaN5X5PH0VMqx3bHOJZr9NUvew?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Park<br>9325 Apison Pike<br>Ooltewah, Tennessee<br>GPS: 35.062552, -85.069177<br>Access: 24/7. Park behind the strip mall for photo of bike and memorial. Daytime photos preferred, may not be illuminated at night, and it’s a distance from parking.<br><br>The Veterans Memorial Park was designed to honor and thank those that served in the armed services, while incorporating educational components to be shared with students of all ages. Tour the park and view plaques, monuments, flags, sculptures, and military installations as you reflect on those that have made sacrifices on our nation’s behalf. <br><br>Walking to the display is well worth the time.<br><br>Made in America: Ooltewah is a suburb of Chattanooga with great motorcycle riding in the area. Mountains to the north, or follow the river roads. Time permitting visit Rock City, at the top of Lookout Mountain, Georgia. See seven States or eat at Cafe 7 located inside Rock City Gardens. https://www.seerockcity.com<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/cnjsl5dt89lidkfmvmutdup2ig/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr58BE4OWNf1i0JcCqk9OhMU8AUGVTJxOp0_0TFhMEEbdwSN8hkBC5KwwjmGYdOoo_qo4gfaXX-Ru_sdvYo5aM9achJp5plEUBd4_UHBZgOv8qZwZSLlnuiSNqptv2oDWcw2Fp24l-HAnUy36Jwta9dRhbYFajOZ3UEchtEpllOthVx8Vn3Jub5QLXWpkAfhUMS9oW1ZYUF5CbSWLPKX1P_-a2VS7BKB5nmi9qXltpAQhP2mVxDc_NA_QLuyw7aQpFxYaN5X5PH0VMqx3bHOJZr9NUvew?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -85.069177,35.062552,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

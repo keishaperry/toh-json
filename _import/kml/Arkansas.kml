@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Arkansas</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>AR1 - Bella Vista</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/dgfo3v8434uienrrsfkpsbud5k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpTL48m3hXRcOqO85KjCWcwd01fv_LV_0Zr8u6J2-qP1djjVCTdJUa2_WI-Te_otlcfinpRBxumAfnytajs74B2AbKy18P7o-FQGQR6g1h1CPJS574tVrDeVPLr_4DGAWo1C4SrOLrknWn31FS9rPrFJo8pxR2Pz0XAUhyn1SZWH2Rm8MVSTQUHgMOY3gk_2TRGO6dqiAphhbjLWg-gDTiMIfpmfBgWeMpNV6gn5uNfdDsj6vx6ECbJyMKc5Be9lqznEfcbwJP9ieX1Jus1srDHdrjrrA?session=0&fife" height="200" width="auto" /><br><br>Veterans Wall of Honor<br>143 Veterans Pkwy.<br>Bella Vista, Arkansas<br>GPS: 36.433496, -94.229866<br>Access: 7AM-10PM<br><br>Dedicated in November, 2006, this memorial is an impressive and beautiful circular patterned structure that features 25 walls containing more than 4,100 granite tribute tablets inscribed with the name of service people from 23 states who served in the military from 1776 to 2006.<br><br>After passing under the massive arch, you will note the 36-foot time line, displaying major military events from 1776 to 2006. On the walls to the right and left rear, one finds 63 bronze historical plaques summarizing events displayed on the time line. The monument is circled by 18 historical flags.<br><br>Proceeding inside, you will see a fountain and the 4,100-plus incised veterans’ tablets mounted on 24 walls. The fountain at the center of the gathering area allows visitors to reflect on the service and sacrifices made throughout our military history.<br><br>Cool treat location: Dairy Queen, approx. 1.5 miles from memorial at 1 Riordan Rd.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/dgfo3v8434uienrrsfkpsbud5k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpTL48m3hXRcOqO85KjCWcwd01fv_LV_0Zr8u6J2-qP1djjVCTdJUa2_WI-Te_otlcfinpRBxumAfnytajs74B2AbKy18P7o-FQGQR6g1h1CPJS574tVrDeVPLr_4DGAWo1C4SrOLrknWn31FS9rPrFJo8pxR2Pz0XAUhyn1SZWH2Rm8MVSTQUHgMOY3gk_2TRGO6dqiAphhbjLWg-gDTiMIfpmfBgWeMpNV6gn5uNfdDsj6vx6ECbJyMKc5Be9lqznEfcbwJP9ieX1Jus1srDHdrjrrA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -94.229866,36.433496,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AR2 - Hot Springs</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jml5pessq451o7phgq6nnmbtjk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrVByG5i1biMYEyoryUqCS3AO-kM-8Trn1ut5MDSpIHOG2wenjRncv_rru2d-DW95c0GN_Rj88uM_wxlGSBIKOrhyxHTy4rdO5a7tw6e23EnaPwh0B89L1ytq9T-KWc-f3a7PAWrWb51Wm5a1XFgd58P2MSXh82CTWYYrpcLReV4_O9wQWUtPtzJEVlYoErnNrCTwxPMraSkkVTOIEtAyv2Uqq7PFUMlGoUymnuD4Ck30Xe2yhgPf0xBJ6rhsyWuI_tyJOnu_MtZ2KSR-0PyrXNxRv_kg?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial <br>118 Orange St.<br>Hot Springs, Arkansas<br>GPS: 34.505799, -93.051179<br>Access: 24/7 <br><br>Dedicated July 4th, 2009, this memorial honors all branches of the United States military.<br><br>It's said that during the twenties the gangsters from Chicago considered Hot Springs a neutral town to meet in. Hot Springs is the only city in the United States that is actually a National Park as well. Many buildings including Bathhouse Row are on the National Register. The Arlington Hotel is an old hotel from back in the day and has rooms named after gangsters that used to stay there.<br><br>Cool treat location: Mamoo's ParadICE Cream Homemade Ice Cream, approx. 1 mile from memorial at 236 Central Ave.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/jml5pessq451o7phgq6nnmbtjk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrVByG5i1biMYEyoryUqCS3AO-kM-8Trn1ut5MDSpIHOG2wenjRncv_rru2d-DW95c0GN_Rj88uM_wxlGSBIKOrhyxHTy4rdO5a7tw6e23EnaPwh0B89L1ytq9T-KWc-f3a7PAWrWb51Wm5a1XFgd58P2MSXh82CTWYYrpcLReV4_O9wQWUtPtzJEVlYoErnNrCTwxPMraSkkVTOIEtAyv2Uqq7PFUMlGoUymnuD4Ck30Xe2yhgPf0xBJ6rhsyWuI_tyJOnu_MtZ2KSR-0PyrXNxRv_kg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -93.051179,34.505799,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AR3 - Magnolia</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/kq4mt3nnb55ih4mu4h0nr9q1fg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrRl__t7mrnV14JmXQmPjnsLWeYf3jfZW5Fsqe3VviCvNCSKOuKSpi4z-O_llKkiQKQZpbzwFWSkB0GOFdkvhVA6tdrRZJnkFGFoswpYW7lmlHSJYqm4LXjdACDjkbgXjHQHT22OEH5RoRZgg3eYkmdPnjprEQ_BhsDotSTK94jo09B-O0tKIlULnGewMTQE8c8EpV4FPVCuKi2RzjqALFVheixEfvFmMdmFygKBaPsi7d_CNIgd5NxghKsZgWnvhCr2hJP0adfKmX8HhxH6pusoxHW2Q?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>N Court Sq. & Washington St.<br>Magnolia, Arkansas<br>GPS: 33.267299, -93.240619<br>Access: 24/7. Handicap access is located on the south side of the building.<br><br>This memorial lists the names of service members from Columbia County who died during WWI, WWII, Korea, and Vietnam. On July 4, 1906 a new Court House, the third on the square, was dedicated and this memorial is the centerpiece, elevated several feet above the streets. <br><br>Made in America: The original survey of Magnolia was one mile square and the court house square is a copy of the one in Oxford, Mississippi. In 1852 it was the only county in the state without a navigable river. The first railroad was operational in 1882 but passed north through McNeil and Waldo. Magnolia citizens quickly raised the funds to construct a branch railroad line from Magnolia to McNeil.<br><br>Cotton was "king" in Magnolia. With the completion of the spur, markets were drawn to Magnolia and its future was assured. You can still see the cotton traders on the square in the East Main mural. Lumber interest sprang up and brought the railroad from the South, and Magnolia continued to grow.<br><br>Cool treat location: Dairy Queen, approx. .5 miles from memorial at 501 E. Main St.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/kq4mt3nnb55ih4mu4h0nr9q1fg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrRl__t7mrnV14JmXQmPjnsLWeYf3jfZW5Fsqe3VviCvNCSKOuKSpi4z-O_llKkiQKQZpbzwFWSkB0GOFdkvhVA6tdrRZJnkFGFoswpYW7lmlHSJYqm4LXjdACDjkbgXjHQHT22OEH5RoRZgg3eYkmdPnjprEQ_BhsDotSTK94jo09B-O0tKIlULnGewMTQE8c8EpV4FPVCuKi2RzjqALFVheixEfvFmMdmFygKBaPsi7d_CNIgd5NxghKsZgWnvhCr2hJP0adfKmX8HhxH6pusoxHW2Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -93.240619,33.267299,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AR4 - McGehee</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0kf4rraelqm2jjtbivre34ss8o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq-fzYhag77D_-_4Z-PZa1bnEJI4ckjONyd4dZxYYbc4aOBq_yYUl8ReidkdvQK2Q98rCBt8QZN6Z-fldrn79n4JUORsP8ZjjTTwrJA0Y8hHI2vyHwjdIseSL9IE73O5paO1lGE6tnqry-3Cy2RSR2Iq0okzpUwNctmt3_A_sNAR3QNZWEYxLrsrEs8em5_yGc5rqrdSvnyNZDVH_L-WHUGfhXEbzpfIhALlrI36EXqlLx7yOLfktnmUBnOuc_vnxlVu-BT21GM8jNuJ3awFurOOGk73A?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>173 South 1st St.<br>McGehee, Arkansas<br>GPS: 33.627315, -91.395977<br>Access: 24/7. Paved parking across the street at post office<br><br>Nicely done memorial covering all the veterans. Dedicated on July 4th, 2011. These granite panels list Desha County Veterans names, branch of service and the war in which they participated with each name listed. <br><br>Directly across the street is the Japanese Internment WWII museum.<br><br>Cool treat location: Sonic Drive-in, approx. 2 miles south of memorial at 1203 Hwy 65 S.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/0kf4rraelqm2jjtbivre34ss8o/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq-fzYhag77D_-_4Z-PZa1bnEJI4ckjONyd4dZxYYbc4aOBq_yYUl8ReidkdvQK2Q98rCBt8QZN6Z-fldrn79n4JUORsP8ZjjTTwrJA0Y8hHI2vyHwjdIseSL9IE73O5paO1lGE6tnqry-3Cy2RSR2Iq0okzpUwNctmt3_A_sNAR3QNZWEYxLrsrEs8em5_yGc5rqrdSvnyNZDVH_L-WHUGfhXEbzpfIhALlrI36EXqlLx7yOLfktnmUBnOuc_vnxlVu-BT21GM8jNuJ3awFurOOGk73A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -91.395977,33.627315,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AR5 - Mountain Home</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9oi18704nct9al0v59but9aem8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoJJy2pHcCf2TK8YPyGdrR1KznsI92sem1ID4h3JPPAo6w17j9kxQRk5qALoqzuNdYKVBLbOnj7FgYca4NAlxtJdkqwBGbwBihSfK_IQm0GwVeuZb0pWWj65bVkVJweTv8SF_9ERNTPjnV4JnNzwKuz8qAYMjswYEgWPxWLZh-Gxfgh3-yn2lcPzNZ4-TSoQWlmDhrAglegwY94xtfboe9mXENzkdqpKdHPkZ4nmdfN2HJhtwq6SxV5R8X_1v6Lj4apUan6g7UNQ86jZAs9DsmEwtIa-A?session=0&fife" height="200" width="auto" /><br><br>Veterans Monument and <br>Congressional Medal of Honor Memorial \n 16 W 6th St.<br>Mountain Home, Arkansas<br>GPS: 36.335075, -92.385522<br>Access: 24/7<br><br>Dedicated to all who have served and sacrificed. In Memory of those who gave their lives for our freedom. This is one of two copies of this statue that was created by artist Ron Moore. Located across the street from the Baxter County Courthouse, it stands in front of the Congressional Medal of Honor Memorial<br><br>Cool treat location: ParadICE Cream Homemade Ice Cream, approx. 2 miles from memorial at <br>1127 W Hwy 62 East.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9oi18704nct9al0v59but9aem8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoJJy2pHcCf2TK8YPyGdrR1KznsI92sem1ID4h3JPPAo6w17j9kxQRk5qALoqzuNdYKVBLbOnj7FgYca4NAlxtJdkqwBGbwBihSfK_IQm0GwVeuZb0pWWj65bVkVJweTv8SF_9ERNTPjnV4JnNzwKuz8qAYMjswYEgWPxWLZh-Gxfgh3-yn2lcPzNZ4-TSoQWlmDhrAglegwY94xtfboe9mXENzkdqpKdHPkZ4nmdfN2HJhtwq6SxV5R8X_1v6Lj4apUan6g7UNQ86jZAs9DsmEwtIa-A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -92.385522,36.335075,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AR6 - Pangburn</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9930qtbs8jacsns8ie9gf5uivc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrdII9n7jyl6AN5Q1q_AgZV9uyTFPDx9PD3wPtfNmi0WEhk5-MSXgpux3aCX7eoRSMC4YdurhmUKPTNOVIt5Iku50wBhifN0sbujdeT8wj0lo3R3yLP9ktsvP1kvqoSLXPh-ZaHXHVwF9LlZsLQqyLnrsSB5yXJcW5d1gs5_wHqwGCtlEFzkGB0v4bG6VliWI7nKoWASaLr03TJDHRbCH_mPMRXcZPqhoLHYU_to00bjxTevkWoQGrDgw-0llk9RkuMGAWwwilLKM4ytSnLHhiNcPpLZA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>914 Main St.<br>Pangburn, Arkansas<br>GPS: 35.426181, -91.837299<br>Access: 24/7<br><br>This memorial honors the men and women from Pangburn who served in all branches of the United States military. It lists the names of those that served, those that were prisoners of war and those that gave the ultimate sacrifice for our country.<br><br>Special note: This memorial is also where Tour of Honor riders Kenneth Andrews and Ken Cowart first met in 2015 Brothers-in-arms ever since!<br><br>Cool treat location: Suzies Ice Cream Shoppe, right next to the memorial.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9930qtbs8jacsns8ie9gf5uivc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrdII9n7jyl6AN5Q1q_AgZV9uyTFPDx9PD3wPtfNmi0WEhk5-MSXgpux3aCX7eoRSMC4YdurhmUKPTNOVIt5Iku50wBhifN0sbujdeT8wj0lo3R3yLP9ktsvP1kvqoSLXPh-ZaHXHVwF9LlZsLQqyLnrsSB5yXJcW5d1gs5_wHqwGCtlEFzkGB0v4bG6VliWI7nKoWASaLr03TJDHRbCH_mPMRXcZPqhoLHYU_to00bjxTevkWoQGrDgw-0llk9RkuMGAWwwilLKM4ytSnLHhiNcPpLZA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -91.837299,35.426181,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AR7 - Pocahontas</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/kdfl8c8s3efscl7v677fcusirg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqXO1lqa4qKK5qVoxUNFMCXNgjHCQ1TVqxemRJUh2FPZUgAvDSKB41zy3gY2IOWDSDOeOmQRLyhYyYtJBnf_F6KkgnxDeH6CIR9Elt2GX3XMhxtWwzFRIOshDz-QJNCaq68Oay9W4T1rShMd4SPHjDplPTvTHNN0_Nq11EOKFbFGQPiynZc_Fq5XENnI1i8XhLNuymCdaR-5IjiOTo74fvPWYT52-nJUeB3iniEOGjESGm6XOJHKev9vYvn4Iv4o0o-pEsEmLMSpenfW3YgkYAawLK9hg?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>W. Broadway St. & S Van Bibber St.<br>Pocahontas, Arkansas<br>GPS: 36.26134, -90.97123<br>Access: 24/7<br><br>Dedicated in October 2006, this memorial includes life-sized bronze statues of servicemen from World War I, World War II, and the Vietnam War, plus plaques naming the dead from Randolph County in those wars plus Korea and the Middle East.<br><br>The bricks in the sidewalk are Randolph County service members from all our wars from the Civil War forward, and benches honoring Randolph Countians who served in operations Desert Storm and Iraqi Freedom.<br><br>Cool treat location: Baskin-Robbins, approx. ½ mile from memorial at 647 Hwy 67.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/kdfl8c8s3efscl7v677fcusirg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqXO1lqa4qKK5qVoxUNFMCXNgjHCQ1TVqxemRJUh2FPZUgAvDSKB41zy3gY2IOWDSDOeOmQRLyhYyYtJBnf_F6KkgnxDeH6CIR9Elt2GX3XMhxtWwzFRIOshDz-QJNCaq68Oay9W4T1rShMd4SPHjDplPTvTHNN0_Nq11EOKFbFGQPiynZc_Fq5XENnI1i8XhLNuymCdaR-5IjiOTo74fvPWYT52-nJUeB3iniEOGjESGm6XOJHKev9vYvn4Iv4o0o-pEsEmLMSpenfW3YgkYAawLK9hg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -90.97123,36.26134,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

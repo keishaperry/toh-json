@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Texas sponsored by Glenn Copeland</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>TX1 - Amarillo</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/hsa1t6j7a316sj0b0gbe1uabdg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrdUNywON3ERKYdgar9BZsrrn_TRLqsyklQ0-TZ5Lr7hW00CwhDRiCUPRo6Lk8dqW_PZBnvIYAvIcOaoHCsCEE-7bjCBNXJQwW1oGs4DwvaFm-UdwDxAnBeucpKwboo4c5fEWv29aW8XRSJTRd8PhPj73tSOXLxvDvwZ2B_Er_Z5EkcUqn03_-wRX405mD1QlJZScTib97_ug5y4k9Cnj8N7wWm3wyHOYtzOtl6lZ4BXRF65WcKph-AYSvRhR6wVAGcKxWKmIl3JOawjQTvvXAnNDdOQA?session=0&fife" height="200" width="auto" /><br><br>War Memorial<br>4101 S. Georgia St.<br>Amarillo, Texas<br>GPS: 35.17237, -101.86553<br>Access: 24/7<br><br>The Texas Panhandle War Memorial was originally featured the first year of the Tour of Honor (2011). Over the years the memorial has continued to improve with the addition of a UH1D Huey helicopter, an artifact from the USS Arizona, and a new War Memorial Center building which houses a chapel, education area, reception area, gift shop and offices. <br><br>This impressive project pays tribute to soldiers who either lost their lives or went missing in action in all wars since the Spanish American War. Several large red granite stones, each dedicated to a different war, lists the names of veterans who came from the 26 counties of the Texas Panhandle. Learn more at http://bit.ly/2RDAMZe<br><br>Made in America: Cadillac Ranch, west of Amarillo on I-40. Also the Big Texan Steak Ranch east on I-40, home of the “Free 72 oz. Steak.” http://bit.ly/2TM6gPh<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/hsa1t6j7a316sj0b0gbe1uabdg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrdUNywON3ERKYdgar9BZsrrn_TRLqsyklQ0-TZ5Lr7hW00CwhDRiCUPRo6Lk8dqW_PZBnvIYAvIcOaoHCsCEE-7bjCBNXJQwW1oGs4DwvaFm-UdwDxAnBeucpKwboo4c5fEWv29aW8XRSJTRd8PhPj73tSOXLxvDvwZ2B_Er_Z5EkcUqn03_-wRX405mD1QlJZScTib97_ug5y4k9Cnj8N7wWm3wyHOYtzOtl6lZ4BXRF65WcKph-AYSvRhR6wVAGcKxWKmIl3JOawjQTvvXAnNDdOQA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -101.86553,35.17237,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TX2 - Big Spring
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/98d79ldjgreq43aghjsvokcsd0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALok-fvhfgh_g0Ww3NCiNiF-KRSxbtGMw-jCMebFigZGQixgurDJaOVX5BNFSscDSdVtZVFHz-1kibOS2Ipa_6sXUwmPPYEaP7If88jc0qSFya4aJc9xVnTd1cOJQxmf041rJI-xBgXpyz_PZf8GPlzfF3yFjiOMfYtKNpBhCFHY0i7SkoI6rauCmpVDQI18O1UdKlTl5dH2j7v4eIWFJ5-e2QVOLyiFFKO9TPJk0NechYEBvvWg9Oyanh0gWjAoTjYC-gg67G9CEkYV3QNtWl8MM3wiWw?session=0&fife" height="200" width="auto" /><br><br>Vietnam Memorial<br>8th St. & Ave. D<br>Big Spring, Texas<br>GPS: 32.229276, -101.498403<br>Access: 24/7 <br><br>In 1987, the Big Spring Chamber of Commerce hosted the Moving Vietnam Wall. The community response to having the wall in Big Spring was huge and thus impacted the lives of thousands who visited the memorial. It was said at the time the wall was in Big Spring, day or night, the wall was never alone.<br><br>Recognizing the importance to the community, a committee was formed the following year to build a permanent memorial. The location of choice was none other than the same location where the Moving Vietnam Wall had been set up. <br><br>In 1988, the Vietnam Memorial Committee obtained a lease from the Howard County Junior College District for the two and a half acres land on which the Moving Wall had stood. The committee sponsored air shows for the next 3 years to raise money for the building of the memorial. This location overlooks what was Webb Army Air Field in 1942 and later became Webb AFB in 1951. <br><br>The Current memorial was dedicated in 1991 to Honor all American Servicemen, POW’s & MIA’s, there is also a small memorial chapel which has pictures and stories of Howard County service members.<br><br>Made in America: The Hangar 25 Air Museum is just a few miles from here and features many of the training aircraft used during the years Webb AFB was in operation. Tues-Sat 10AM-4PM. http://bit.ly/2v5szoR<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/98d79ldjgreq43aghjsvokcsd0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALok-fvhfgh_g0Ww3NCiNiF-KRSxbtGMw-jCMebFigZGQixgurDJaOVX5BNFSscDSdVtZVFHz-1kibOS2Ipa_6sXUwmPPYEaP7If88jc0qSFya4aJc9xVnTd1cOJQxmf041rJI-xBgXpyz_PZf8GPlzfF3yFjiOMfYtKNpBhCFHY0i7SkoI6rauCmpVDQI18O1UdKlTl5dH2j7v4eIWFJ5-e2QVOLyiFFKO9TPJk0NechYEBvvWg9Oyanh0gWjAoTjYC-gg67G9CEkYV3QNtWl8MM3wiWw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -101.498403,32.229276,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TX3 - Canton</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/caq0gnblnh0k2b7c3tdmaop8us/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoHHeWD5DGEe4NpgB8YphHqPvkjHIZuu1nbwotrS5yBae9SRJGypps0_OYyr7xwCmNCULStnZfnPUslg0yLm58oJVZQdi6qma_ftANUuAObFSbOZptakAOMBXoeCIeZGChrKnpg9umDR50rsHuvyo8loFojvzraKgDivTmOc2fbL66QBpmGEn0wZUJHH5lnVaejM3n5xV5nuNqb47wJP2t3oinQXcUk6OneHfmuWM1N3gaoxTZrmaxJvVDYyhquBJN3gyoy-RoxBjPtbFC-S3gDRSmaaQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>1200 S. Trade Days Blvd.<br>Canton, Texas<br>GPS: 32.543902, -95.862414<br>Access: 24/7<br><br>Originally featured in 2014, the Van Zandt County Veterans Memorial has been continuously improved over the years, continuing to honor the region’s cherished military sons and daughters. Be sure to visit the new museum and gift store.<br><br>Plans to build the memorial formed in early 2006 when Ronald “Red” Montgomery, a retired Army National Guard member, approached Van Zandt County Judge Rhita Koches with the idea for a memorial. For months, Montgomery and Koches, along with Jim Stephens, shared the idea with veterans groups and anyone who would listen in hopes of finding a section of land to build the memorial. <br><br>Eventually, they approached the Texas Department of Transportation (TxDOT), which agreed to loan 1.5 acres of land to the cause. In addition to loaning the property, TxDOT is making the Memorial a beautification project, and pledged to pay for half the cost of construction.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/caq0gnblnh0k2b7c3tdmaop8us/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoHHeWD5DGEe4NpgB8YphHqPvkjHIZuu1nbwotrS5yBae9SRJGypps0_OYyr7xwCmNCULStnZfnPUslg0yLm58oJVZQdi6qma_ftANUuAObFSbOZptakAOMBXoeCIeZGChrKnpg9umDR50rsHuvyo8loFojvzraKgDivTmOc2fbL66QBpmGEn0wZUJHH5lnVaejM3n5xV5nuNqb47wJP2t3oinQXcUk6OneHfmuWM1N3gaoxTZrmaxJvVDYyhquBJN3gyoy-RoxBjPtbFC-S3gDRSmaaQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -95.862414,32.543902,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TX4 - Cedar Park </name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/fn42i0ec5ehoufsqofklktdvfg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpXmCIYvHyRch2SKUn1552xjPmWU4sVzhS1C3S6Z-2D_Swq9Qx4NwSiECYR3WRG0qTNBrMzA1gy0Z0L6tnvc83Jyur-B7gKXTaXJUw0nUHDxSINytTLif9joqab1AHuCeUGK1lsMyQ1hbwWnDvJG24gstjq3VnwxmlBR_JqQGr_8QaTiPLyGSdaakBfqCF5AYybkUT4Kfzxy9UzfKz0rOAzpN_Evf_46zaAW9pjiZ7D_CS_0hQhjg3NjUtKxEi7_NYtL47DhjxmT1bHTGZoxUnqm2QVEA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial <br>2525 West New Hope Dr.<br>Cedar Park, Texas<br>GPS: 30.520250, -97.871129 <br>Access: 24/7<br><br>The memorial is on top of a hill with steps, and is handicap accessible via a spiral walkway that wraps around the memorial three times. <br><br>The monument was unveiled on November 12, 2011 and has specific references to Texas. The base panel honoring the Navy depicts the George H.W. Bush Aircraft Carrier, and the panel for the Air Force shows a B-1 Bomber stationed at Dyes Air Force Base in Abilene. Each base panel features laser art that honors a different branch of the U.S. Military: the Army, Navy, Air Force, Marines, Merchant Marines, and Coast Guard.<br><br>Customized brick pavers and bronze leaves engraved with soldiers’ names and dates of service, along with life-sized bronze sculptures of a World War I Doughboy(!) and a World War II U.S. Naval Officer, line the pathway leading up to Memorial Hill, where a two-story tall, black granite obelisk sits.<br><br>A towering, seven-foot tall bronze soldier, clothed in Army dress blues and holding an M-16 rifle stands guard. The soldier is the likeness of U.S. Army Specialist First Class Matthew Morris of Cedar Park, who was killed on April 6, 2008 by an improvised explosive device in Balad, Iraq while serving in Operation Iraqi Freedom.  SPC Morris was awarded posthumously the rank of Sergeant along with the Bronze Star and Purple Heart.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/fn42i0ec5ehoufsqofklktdvfg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpXmCIYvHyRch2SKUn1552xjPmWU4sVzhS1C3S6Z-2D_Swq9Qx4NwSiECYR3WRG0qTNBrMzA1gy0Z0L6tnvc83Jyur-B7gKXTaXJUw0nUHDxSINytTLif9joqab1AHuCeUGK1lsMyQ1hbwWnDvJG24gstjq3VnwxmlBR_JqQGr_8QaTiPLyGSdaakBfqCF5AYybkUT4Kfzxy9UzfKz0rOAzpN_Evf_46zaAW9pjiZ7D_CS_0hQhjg3NjUtKxEi7_NYtL47DhjxmT1bHTGZoxUnqm2QVEA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -97.871129,30.52025,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TX5 - Lubbock</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/f6qarcfrmjd503ditkatmu6nic/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpTalr-xGeFbH16PTZqiLYYMxQN71rmiVCZbPBth6r3Fc9K43dpQSOGTY11AwfkajwWAqcRTDWJkrP9s201nTtISD_M8HG00f9GD9PIi7Q26jVmRYv18dEXhuQNQ5DcHYc1Xp45_1XZn0otaPPmB-2xPLpO-0jPeBsSteDQJP_zjFPBckNSnwBQ_PCT1p61FdlnaSJXdtL_GJ7jvkFaYoC_dl9iJGs14BWLWCC8YyXC9Tt0dQcOsnZqXZtShhx41e4yREGpWXr9rKSALQIc45nSg8elqw?session=0&fife" height="200" width="auto" /><br><br>Veterans War Memorial<br>4001 82nd St.<br>Lubbock, Texas<br>GPS: 33.518642,-101.89815<br>Access: 24/7 <br><br>The Lubbock Area Veterans War Memorial features fountains erupting from a retention pond and the red brick and marble war monument dedicated to the soldiers of the region, men and women who have served in the military in times of peace and war. The Memorial is among the largest memorials in the United States outside of Washington D.C.<br><br>Made in America: The Blue Sky Texas restaurant is located just 1.5 miles away. Voted Best Burgers and Best Onion Rings. Better than Whataburger? You be the judge! Open every day but Sunday. http://bit.ly/38ur41Q<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/f6qarcfrmjd503ditkatmu6nic/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpTalr-xGeFbH16PTZqiLYYMxQN71rmiVCZbPBth6r3Fc9K43dpQSOGTY11AwfkajwWAqcRTDWJkrP9s201nTtISD_M8HG00f9GD9PIi7Q26jVmRYv18dEXhuQNQ5DcHYc1Xp45_1XZn0otaPPmB-2xPLpO-0jPeBsSteDQJP_zjFPBckNSnwBQ_PCT1p61FdlnaSJXdtL_GJ7jvkFaYoC_dl9iJGs14BWLWCC8YyXC9Tt0dQcOsnZqXZtShhx41e4yREGpWXr9rKSALQIc45nSg8elqw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -101.89815,33.518642,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TX6 - Paris</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/srt3b7gbcbj332e58snido5tj0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrAnp6xapD8U4gMGAvKwwFQOMLq8A2uYvXhLh5zubeS_tzAESE47PFwX0NSZ1K44w-XI1uqS_SZtDpIfAc6bxz52fQKdsUM5YF_5R-ZBwH0-1nkEOHRFEaEKIt9g7CMGkfqzbpQV_2VWZhFlveKWKLl2U9RqRUahKemDwv28R8Yd9MkaorS_vvnKmkFeBm0faIT8MwfoOs2W9IWUAIwigJfyQy6eR2gJjohy80s1OGwmA3-pMXjJW3KO4jgSZb5MwO7TsECyahxhelbvMb8dkMn965pgA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>2025 S. Collegiate Dr<br>Paris, Texas<br>GPS: 33.639588, -95.523926<br>Access: 24/7<br><br>Originally featured in 2016, this impressive memorial has been a continuous work in progress and still being built to honor all veterans who have served our country in the past and are currently serving in our military. Located next to the Eiffel Tower at the Love Civic Center. The Memorial’s centerpiece is the Ring of Honor, an elevated ring of granite walls containing the names of all men and women from the five county Red River Valley area who made the ultimate sacrifice in a combat zone while in service to our country. <br><br>Surrounding the Ring of Honor will be double-sided granite walls etched with information and graphic depictions of each war or conflict beginning with the Texas Revolution up to the present war in Afghanistan, with room for depictions of future conflicts. Leading up to the Ring of Honor will be walkways with granite pavers engraved with the names of the men and women who served and were fortunate to return home, or those who are currently serving our country.<br><br>The memorial has a business office less than a mile away with a small gift shop and t-shirts for sale, located at 1025 South Collegiate Drive in the Village Shopping Center.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/srt3b7gbcbj332e58snido5tj0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrAnp6xapD8U4gMGAvKwwFQOMLq8A2uYvXhLh5zubeS_tzAESE47PFwX0NSZ1K44w-XI1uqS_SZtDpIfAc6bxz52fQKdsUM5YF_5R-ZBwH0-1nkEOHRFEaEKIt9g7CMGkfqzbpQV_2VWZhFlveKWKLl2U9RqRUahKemDwv28R8Yd9MkaorS_vvnKmkFeBm0faIT8MwfoOs2W9IWUAIwigJfyQy6eR2gJjohy80s1OGwmA3-pMXjJW3KO4jgSZb5MwO7TsECyahxhelbvMb8dkMn965pgA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -95.523926,33.639588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TX7 - San Antonio</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/95qgt2sm5mjpe19ioeg8ikdrmo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqeS6Xt_pzhlr1VLgU2WAUJsbpdleeZnTVU21sWsm1pKqR36HCfAbKGvw-AlLguOYKS5-bIW4ZV0EzzwPPNg-WDiKdBPPx4SHHGc3iAN19VnlqtbzBMey2xd61pqFNiWpQ0zVnDhgOvI9Cyha3obEPWq-7etDxcclGDwhxl0hLER89xorgPgxMzmNej4E2Vdv-SBwN70rnMMyk8_9CxXtXvcmcJFiNBPlxHddUdTq_B-mZC8evO1r3WUnsWd7iFTH2QOn1AMJmwezn7RR_Lfqj2cERlcg?session=0&fife" height="200" width="auto" /><br><br>9/11 Memorial <br>6702 New Life Cir,<br>San Antonio, Texas<br>GPS: 29.40444, -98.61491<br>Access: 24/7<br><br>The San Antonio 9/11 Memorial honors the victims and first responders of the September 11, 2001 terrorist attacks in NYC, and will educate future generations about the effects of terrorism. This heartfelt memorial is visibly located on the access road of Highway 90W between Lackland Air Force Base and Kelly USA, on 10,000 square feet of land.<br><br>The memorial has four structures, each carrying symbolic meaning and significance, including the Wall of Freedom representing the Pentagon; an ascending and descending wall representing the Twin Towers in New York; and a 35 ft. stainless steel pillar standing for Flight 93 that crashed in a field in Pennsylvania. Surrounding the memorial are fountains, pools of water, and trees to enhance the beauty of this solemn place.<br><br>The Wall of Freedom symbolizes the freedom that our forefathers achieved after much sacrifice to build our great nation. The slit at the top of the Wall of Freedom symbolizes that although terrorists infiltrated our nation on 9/11, they could not destroy the American spirit. And the 35 ft. stainless steel pillar features an eternal flame that burns in memory of all those who perished.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/95qgt2sm5mjpe19ioeg8ikdrmo/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqeS6Xt_pzhlr1VLgU2WAUJsbpdleeZnTVU21sWsm1pKqR36HCfAbKGvw-AlLguOYKS5-bIW4ZV0EzzwPPNg-WDiKdBPPx4SHHGc3iAN19VnlqtbzBMey2xd61pqFNiWpQ0zVnDhgOvI9Cyha3obEPWq-7etDxcclGDwhxl0hLER89xorgPgxMzmNej4E2Vdv-SBwN70rnMMyk8_9CxXtXvcmcJFiNBPlxHddUdTq_B-mZC8evO1r3WUnsWd7iFTH2QOn1AMJmwezn7RR_Lfqj2cERlcg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -98.61491,29.40444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

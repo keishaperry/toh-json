@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>New Mexico sponsored by Mark Kratz</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>NM1 - Angel Fire</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ca60v74n24brcn0pd2rbfl7qg4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpCOQ-gZxWaZnLtdIZBLOsxcNyxxhwZ3dW14GeFDGa2IyxbW_z4x4LJ86Kzw8UJR2-JGtePUuO_2qoPIGR7HwxFk2MhPtVqYVsD6CI9LmpstQGfHGCKK7joQAKP9FkZXZBwExiLECHhnZ8w38uK0sgdlsdxhnoOGQbfokzB6yFeLLFBrYB_z-qBBQLbnnhdoNuZzcsYIA6hGUnn0N4otp3uwLGtnUSvTm2EWbOqWUG-TQ9PLcJs71ei9eDGMpQYhRRrNRqQCtCuB3_TSLXD5P-RdUmkyQ?session=0&fife" height="200" width="auto" /><br><br>Vietnam Veterans Memorial State Park<br>34 Country Club Rd.<br>Angel Fire, New Mexico<br>GPS: 36.441525, -105.294576<br>Access: Daylight hours only. <br><br>Arguably one of the most beautiful veterans memorials in the U.S. and a permanent stop for the Tour of Honor, the memorial is located in the beautiful Sangre de Cristo mountain range in Northern New Mexico. It was constructed by the family of Dr. Victor Westphall, whose son, David, was killed in a 1968 enemy ambush in Vietnam, near Con Thien. The memorial is not only a tribute to the 16 Marines who died in that battle, but to all members of America’s armed forces.<br><br>The Vietnam Veterans National Memorial has become a State Park that provides along with the memorial, a Visitors Center that serves as a place for reunion, reflection, healing, and sharing of experiences. https://bit.ly/2t0vZJ5<br><br>There are many stories behind the building of this veterans memorial during a time when it was unpopular to do so, but Doc Westphall persevered and it was dedicated in 1971, on the third anniversary of the death of his son. <br><br>One story is about how the Peace and Brotherhood Chapel came to remain open 24 hours a day. When Doc Westphall was building the chapel, he was locking the doors at night. One morning he found a note scrawled on a piece of scrap plywood that read, “Why did you lock the doors when I needed to come in?” Since then the doors have never been locked.<br><br>The Run for the Wall motorcycle riders make Angel Fire and Vietnam Veterans Memorial State Park one of their first stops on their trip to the Vietnam Veterans Memorial in Washington, DC. Up to 500 motorcycles visit the Memorial on Friday, the weekend before Memorial Day. http://www.rftw.org/<br><br>There is also a (biker-type) motorcycle rally in the nearby town of Red River, every Memorial Day weekend. Most of the riders visit the Memorial during the rally which up to 20,000 motorcyclists attend. https://bit.ly/38KQFUF<br><br>Made in America: For a good pizza, try Angel Fired Pizza https://www.angelfiredpizza.com/ Closed Mondays.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ca60v74n24brcn0pd2rbfl7qg4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpCOQ-gZxWaZnLtdIZBLOsxcNyxxhwZ3dW14GeFDGa2IyxbW_z4x4LJ86Kzw8UJR2-JGtePUuO_2qoPIGR7HwxFk2MhPtVqYVsD6CI9LmpstQGfHGCKK7joQAKP9FkZXZBwExiLECHhnZ8w38uK0sgdlsdxhnoOGQbfokzB6yFeLLFBrYB_z-qBBQLbnnhdoNuZzcsYIA6hGUnn0N4otp3uwLGtnUSvTm2EWbOqWUG-TQ9PLcJs71ei9eDGMpQYhRRrNRqQCtCuB3_TSLXD5P-RdUmkyQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -105.294576,36.441525,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NM2 - Alamogordo</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/kqq156bdvkk9uk10gt6ku6oc04/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrNUKV78ZEyvdNTlZ2I5Val96yvmfr2k5IcMc4KAoEoWkocaz1G-E5j0TvSQUwTtXImJNKU6jn-yGBS-YXZ54LwaQjVcS3_KSYeE9hv5AW74x1P3TLBjlwD3sopneE1I62F0E-yzLxHgAxmv7QCPI9oX3001UsYt1PBQrdKlVdWmiJaLgEyuN4yDX0XZ_3OPG_CdLsomwv9kuq5uX8OB06GGm-G1NY9rxC-8JB5d1KMNS6SMoxBcc9rkOCtKXmnkGGE_xNZy_bWepLZMsksYgOeUsT_UA?session=0&fife" height="200" width="auto" /><br><br>Army Airborne Memorial<br>NW corner of E Tenth St. & N White Sands Blvd.<br>Alamogordo, New Mexico<br>GPS: 32.900196, -105.960841<br>Access: 24/7. Two photos may be required.<br><br>A dignified memorial in honor of New Mexicans who were part of the U.S. Army Airborne. All units are represented.<br><br>Made in America: While in the area, visit the Worlds Largest Pistachio Nut at Pistachioland (https://bit.ly/2Gn0XOw), or even better, check out the New Mexico Museum of Space History (https://bit.ly/36rYixB ), “The Cradle of America’s Space Program.”<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/kqq156bdvkk9uk10gt6ku6oc04/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrNUKV78ZEyvdNTlZ2I5Val96yvmfr2k5IcMc4KAoEoWkocaz1G-E5j0TvSQUwTtXImJNKU6jn-yGBS-YXZ54LwaQjVcS3_KSYeE9hv5AW74x1P3TLBjlwD3sopneE1I62F0E-yzLxHgAxmv7QCPI9oX3001UsYt1PBQrdKlVdWmiJaLgEyuN4yDX0XZ_3OPG_CdLsomwv9kuq5uX8OB06GGm-G1NY9rxC-8JB5d1KMNS6SMoxBcc9rkOCtKXmnkGGE_xNZy_bWepLZMsksYgOeUsT_UA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -105.960841,32.900196,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NM3 - Albuquerque
+</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ee60n302a1m7eahkv94ei0gs98/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr-oeiFOmWlEcWiLiIKljLA3MBnYhQVLS0HJ5w2dGeff0o2d4320tb7hUDVrAL2JPSAjAb_wt80pYai1xeuU0vgBUt6NI1ZNnVjL7fmOEH5NaEYYOAbQbIA0MB8uRayk-xfcoNaU_5Rnp7zEkOWSYy8dmxJfp6GxDWZXg0CfhXObx7QtTeHeKXenqLWNA0x4CDnwywv0k32P4aU4KBC8GTj630gSPgqi4gxAy2MtFo5VpOQD57af02lbK9FGwyGl5T6wt1cMcIcVAfO0iZJnxMzBoRwRg?session=0&fife" height="200" width="auto" /><br><br>Museum of Nuclear Science<br>601 Eubank Blvd. SE<br>Albuquerque, New Mexico<br>GPS: 35.06636,-106.53353<br>Access: Parking lot closes at 5PM, but after-hours photo can be taken from turnout lane at 35.066948, -106.533464<br><br>The National Museum of Nuclear Science & History pays tribute the nuclear weapons development program from the first test in Alamogordo, in 1945. The museum houses excellent exhibits of military nuclear weapons and the personnel who put American in the forefront of world power, bringing a swift and decisive end to World War II. Other exhibits include the role of U.S. nuclear power in the Cold War, and the role of nuclear technology in industry.<br><br>The five-acre outdoor Heritage Park is one of the most popular attractions, complete with planes, rockets, missiles, cannons and nuclear sub sail, this exhibit will attract plane buffs and historians alike. The museum collection is the largest aircraft collection for public viewing in the state of New Mexico.<br><br>Made in America: Go where the locals go for steak at the Monte Carlo Liquors and Steakhouse at 39116 Central Ave. SW. Featured on 3D and other Food Network shows. In the back of the liquor store. No kidding.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ee60n302a1m7eahkv94ei0gs98/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALr-oeiFOmWlEcWiLiIKljLA3MBnYhQVLS0HJ5w2dGeff0o2d4320tb7hUDVrAL2JPSAjAb_wt80pYai1xeuU0vgBUt6NI1ZNnVjL7fmOEH5NaEYYOAbQbIA0MB8uRayk-xfcoNaU_5Rnp7zEkOWSYy8dmxJfp6GxDWZXg0CfhXObx7QtTeHeKXenqLWNA0x4CDnwywv0k32P4aU4KBC8GTj630gSPgqi4gxAy2MtFo5VpOQD57af02lbK9FGwyGl5T6wt1cMcIcVAfO0iZJnxMzBoRwRg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -106.53353,35.06636,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NM4 - Artesia</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/uu93lffbpkkkmo4pf10hjt89rg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoebJimB-f2JfC22KLe2IbrfB2Vu2Jr40jhxIgJ1mh0NG_IW2hyG13vaRirbMHVfB1C9wQ-V0qEqSWIWbvOW9m8COHdur7Emh8PUKDRUJidEB1cmEp_Iq3Op2nve2YBoCJbFmGv-vYh1evjVfbneL_s1qbh8vLH8GBM8Vpsr44LpK3uum1crw88rKkZglKWtF6Buh7g9XKeIbQa1YLnAk7gSHOaz-rAW1XsH1Y9-PYDyDEqN9eD_ItVq9tUBzkmg0FgBug_qajHBj7RI0paxgIIdYqwUw?session=0&fife" height="200" width="auto" /><br><br>Wall of Honor<br>Baish Veterans Park \n 511 W Texas Ave.<br>Artesia, New Mexico<br>GPS: 32.843010, -104.402473<br>Access: 24/7<br><br>An attractive memorial in the small community of Artesia. The centerpiece is the “Freedom’s Fire” sculpture with a bald Eagle, symbolizing our great nation always meeting the call to protect freedom, whether at home or abroad.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/uu93lffbpkkkmo4pf10hjt89rg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoebJimB-f2JfC22KLe2IbrfB2Vu2Jr40jhxIgJ1mh0NG_IW2hyG13vaRirbMHVfB1C9wQ-V0qEqSWIWbvOW9m8COHdur7Emh8PUKDRUJidEB1cmEp_Iq3Op2nve2YBoCJbFmGv-vYh1evjVfbneL_s1qbh8vLH8GBM8Vpsr44LpK3uum1crw88rKkZglKWtF6Buh7g9XKeIbQa1YLnAk7gSHOaz-rAW1XsH1Y9-PYDyDEqN9eD_ItVq9tUBzkmg0FgBug_qajHBj7RI0paxgIIdYqwUw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -104.402473,32.84301,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NM5 - Roswell</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/kklj2d1fhvl55f6k0hco1fc8mk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp092DSQWbDvLBDC1rrZFwdJ9Dji7fh3Mpg4fJVD0YiGC2ilsuf7e0qETQs3AB0Q4yiGLVNClvwnusEjCOwtSEMgKoB20YmZyvhVneRgrgJoFHqoIeGWYmdAQiwGrjWglmZ2eq-KDQIyqM8s1aOkJWcCg5ATkHYl27gfp2k3oPyt518oBK9P8WTTqXwSXPZmf8MO3Wm6lxoETpi6QO6J_PmZi8d9W0uYvNfeFtU--a1SR6nZ2g-6OcZLAm4jshoQvEQGe6rmt7-TMIqr7_S_eAulVhXGw?session=0&fife" height="200" width="auto" /><br><br>“Counting the Stragglers”<br>New Mexico Military Institute \n Near North Main and College<br>Roswell, New Mexico <br>GPS: 33.410698,-104.525472<br>Access: 6AM-10PM. Two photos required.<br><br>New Mexico Military Institute (NMMI) often brags about its famous alumni such as Conrad Hilton, founder of the Hilton Hotel chain; Sam Donaldson, ABC newsman; Samuel Marmaduke, founder of Hastings; Peter Hurd, American artist; Tony Lama, Jr., founder of Tony Lama Boots; Roger Staubach, former Dallas Cowboys quarterback; Owen Wilson, popular young actor; and Paul Horgan, two-time Pulitzer Prize-winning author. It denies the popular rumor that Jessica Jaymes, Hustler magazine’s 2004 “Honey of the Year,” is an alumna.<br><br>Founded in 1891 as Goss Military Institute, this is the only state-supported, co-educational, college-preparatory high school and junior college in the United States. The first class consisted of thirty-eight students, more than half were female students. The school provided the only high school education in Southeastern New Mexico, focusing on military training as well as academic subjects. The female students were not subject to the same military discipline as the boys but did drill daily with wands instead of rifles.<br><br>Alumni Memorial Plaza, whose outline is in the shape of the New Mexico flag’s Zia sun sign, is dedicated to 1st Lt. William D. DeSanders, a B-17 pilot and member of the class of 1940. His larger-than-life statue sculpted by Roswell oilman and artist Rogers Aston stands in the middle of the plaza. Bronze statues also sculpted by Aston of soldiers from the First and Second World Wars, Korean War, and Vietnam War at each of the four corners of the plaza commemorate the alumni who served in those conflicts. Aston’s close attention to detail reflects careful research.<br><br>DeSanders graduated with the class of 1940 and became a B-17 Flying Fortress pilot that participated in bombing runs over Germany. Before his 23rd mission he became ill and a substitute pilot took his plane that was subsequently shot down over Hamburg. Here he is, “counting the stragglers,” awaiting his crew that never made it home.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/kklj2d1fhvl55f6k0hco1fc8mk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALp092DSQWbDvLBDC1rrZFwdJ9Dji7fh3Mpg4fJVD0YiGC2ilsuf7e0qETQs3AB0Q4yiGLVNClvwnusEjCOwtSEMgKoB20YmZyvhVneRgrgJoFHqoIeGWYmdAQiwGrjWglmZ2eq-KDQIyqM8s1aOkJWcCg5ATkHYl27gfp2k3oPyt518oBK9P8WTTqXwSXPZmf8MO3Wm6lxoETpi6QO6J_PmZi8d9W0uYvNfeFtU--a1SR6nZ2g-6OcZLAm4jshoQvEQGe6rmt7-TMIqr7_S_eAulVhXGw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -104.525472,33.410698,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NM6 - Santa Fe</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/h41pcd9m02kkaup36i3u8c6bsk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrFELc5HPE-R4o2QHaWXSV69U6QY1jFnLlyAgAsaXWgK5N_qsPtHPH4mGfq21MjNRkLXudEW03_qgV9MYeTkbpPzF6fm2qC8t2uE35-6O_iZgKF1eKNXQQkKlYwKZk-PqfDEs1SV4AE1KxUQrbXfbNrZEp__1aPsAn537zToN1-JYGmaFBYugCMzRmhP2T5Nl9H8Qkt79EkejkekPcwj_bYk8KdmSbGHcbNv7t-pAB7__IottDl21j-ehCDnjupDuTpXRpFr5LiAk6UyFMjQvlXgx9b5Q?session=0&fife" height="200" width="auto" /><br><br>Bataan Memorial Museum<br>1050 Old Pecos Trail<br>Santa Fe, New Mexico<br>GPS: 35.673635, -105.937096<br>Access: 24/7<br><br>The museum began as a tribute to the veterans of the infamous Bataan Death March, and has grown into a world class display that chronicles the struggle and desperate experiences of the 200th and 515th Coast Artillery regiments.<br><br>You can follow the story of the 1800 brave New Mexico Soldiers through their odyssey from New Mexico, Fort Bliss, Bataan, Japan and finally of the 900 soldiers who survived confinement and returned home.<br><br>The museum has some great displays and is an important link to New Mexico’s contribution and sacrifice during WWII. Check the weblink for hours of operation. Free admission. https://bit.ly/2RtVCLO<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/h41pcd9m02kkaup36i3u8c6bsk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrFELc5HPE-R4o2QHaWXSV69U6QY1jFnLlyAgAsaXWgK5N_qsPtHPH4mGfq21MjNRkLXudEW03_qgV9MYeTkbpPzF6fm2qC8t2uE35-6O_iZgKF1eKNXQQkKlYwKZk-PqfDEs1SV4AE1KxUQrbXfbNrZEp__1aPsAn537zToN1-JYGmaFBYugCMzRmhP2T5Nl9H8Qkt79EkejkekPcwj_bYk8KdmSbGHcbNv7t-pAB7__IottDl21j-ehCDnjupDuTpXRpFr5LiAk6UyFMjQvlXgx9b5Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -105.937096,35.673635,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NM7 - Silver City</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/hjlo4ejvbiummguto5nmeq1u3c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALobUVZFyUCMouNGxtELLtubkLPBEd5Jc4P2dTIXxv2iTgPzboY5Ssx5PHnmAMYxarXa8aTYg8U9kdGSSYOWd4ke3Q53ETpWnx084iJvXtEGdjAQhJo7VIcOjsG07QvLNdH9IGps2HB_JKKweF7S3rhjvuyu5pSGpmLU1ZLCmEkZGVEO-ZT3Xx-HmA6aAckdByYsffBB5XNDRaV6Oe0ZPVkX8sJ4P3uc2UWPazLKEFcwHgJfIQ_rzSLD1qfNVLaaTp424oFTv5PfVmrD6fJSjVyz2CZnLg?session=0&fife" height="200" width="auto" /><br><br>Buffalo Soldier Monument<br>Fort Bayard \n 100 Calle El Centro<br>Silver City, New Mexico <br>GPS: 32.797272, -108.149800<br>Access 24/7<br><br>Fort Bayard was originally installed in 1866 to protect miners and other settlers along the Apache Trail, and was one of many installations in the Southwest garrisoned by the Buffalo Soldiers, Company B of the 25th U.S. Colored Infantry Regiment. This is where the only known female Buffalo Soldier, Cathay Williams (a.k.a. William Cathey), served. <br><br>After the capture of Geronimo in 1886, the Apache threat was removed and deactivating the fort was discussed. The excellent health record of the post was brought up and it was transferred to the Surgeon General’s Department in 1900. It became a leading institution for pulmonary tuberculosis research, and is presently a long term care nursing facility and chemical dependency treatment center.<br><br>Made in America: For a great ride, take Hwy. 15 to Hwy. 152 to Lorenzo via Hwy 35, or the reverse.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/hjlo4ejvbiummguto5nmeq1u3c/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALobUVZFyUCMouNGxtELLtubkLPBEd5Jc4P2dTIXxv2iTgPzboY5Ssx5PHnmAMYxarXa8aTYg8U9kdGSSYOWd4ke3Q53ETpWnx084iJvXtEGdjAQhJo7VIcOjsG07QvLNdH9IGps2HB_JKKweF7S3rhjvuyu5pSGpmLU1ZLCmEkZGVEO-ZT3Xx-HmA6aAckdByYsffBB5XNDRaV6Oe0ZPVkX8sJ4P3uc2UWPazLKEFcwHgJfIQ_rzSLD1qfNVLaaTp424oFTv5PfVmrD6fJSjVyz2CZnLg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -108.1498,32.797272,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

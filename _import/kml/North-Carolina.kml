@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>North Carolina</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>NC1 - Cary
+</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/i62kmb126e1gqu2bb22hkitlsc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpqQr5tbn_W6VlN68cqa2xWhXykM75rh3ZadGui4I-lNupMoeeLHg-Eg4xZ9jApijWjSudCTNRVe3Miuv2p3Ja6HTh6KPB2HvgSQltm-p5sJr3paYgVtx06flC_to3tCaJgv_Rg4TWy-hYJRFf30lC9RsOVi82fEu8P4ZtWkBZL6xtVbdDVQbRlMSTaUlKEv9urzrj8-DdApj_FejyY4KEmDg6vZslO1jDGfawDyK_zVWdASK3BLM89NVRv0axxE9a6tuEVYV-dz6FG4oLdlFjR_Buz9Q?session=0&fife" height="200" width="auto" /><br><br>Veterans Freedom Monument<br>1513 N Harrison Ave.<br>Cary, North Carolina<br>GPS: 35.820856, -78.772029<br>Access: 24/7<br><br>This stunning, 12-acre park was just recently dedicated, and consists of the following:<br><br>• Freedom Tower<br>• Seating for reflection around the Tower<br>• Seals from each branch of the military<br>• Memorial Service Flags Court<br><br>The highlight of the park is the Freedom Tower – a 90-foot, white granite spire, surrounded by a plaza with five entryways representing the branches of the military. A seal of one of the branches guards each entryway. If you really want to see something spectacular, visit this memorial after dark when the lights are on.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/i62kmb126e1gqu2bb22hkitlsc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpqQr5tbn_W6VlN68cqa2xWhXykM75rh3ZadGui4I-lNupMoeeLHg-Eg4xZ9jApijWjSudCTNRVe3Miuv2p3Ja6HTh6KPB2HvgSQltm-p5sJr3paYgVtx06flC_to3tCaJgv_Rg4TWy-hYJRFf30lC9RsOVi82fEu8P4ZtWkBZL6xtVbdDVQbRlMSTaUlKEv9urzrj8-DdApj_FejyY4KEmDg6vZslO1jDGfawDyK_zVWdASK3BLM89NVRv0axxE9a6tuEVYV-dz6FG4oLdlFjR_Buz9Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -78.772029,35.820856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NC2 - Ellenboro
+</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/vtdcg4rc99tjuk5npq2gc643s8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqB9upDPGBDSLQlEQceI6_2e69Y3SrbiJ6b439n3ztYsvSCv5YlHfv6WQpaQMxjklFaL3RZWAwkBFsSHk-aV1uvYfd4VEYGZgWpaFzg1q6O-dMByR2BdZ83WJGB7-M8AbPY2P7JVoL9P5MWgjans3HmX16SPcnss0Zqk-yUCQ3Sn1BOPFULPE7zhKzv-C-6O-5U7jknpv4_6trLIABz0ASz-CO2ij8czZRy3fzTc9AA7uee_d_gJWkPUgAZtcxxHcW8Au5VqQtNPIl_tW1mKwtTlJ9S0g?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>1504 Tiney Rd.<br>Ellenboro, North Carolina<br>GPS: 35.360103, -81.786228<br>Access: 24/7. You can park across the street in Mr. Byers’ driveway.<br><br>The Bud Byers’ Roadside Veterans’ Memorial is on the private property of Air Force veteran Bud Byers, in an open field formerly used as his garden. Over the past few years, Mr. Byers has been designing, building, and maintaining the memorial, and now has given Tour of Honor permission to use it again during 2020.<br><br>Mr. Byers really enjoys having people visit the memorial and is excited to have it serve as a 2020 Tour of Honor site. Don’t miss the opportunity to have a conversation with Mr. Byers, should he be out at the memorial during your visit. It will be time well spent. And if you have a personalized TOH poker chip, be sure to leave one there.<br><br>Read more about this countryside memorial at https://bit.ly/2FRLSWg<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/vtdcg4rc99tjuk5npq2gc643s8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqB9upDPGBDSLQlEQceI6_2e69Y3SrbiJ6b439n3ztYsvSCv5YlHfv6WQpaQMxjklFaL3RZWAwkBFsSHk-aV1uvYfd4VEYGZgWpaFzg1q6O-dMByR2BdZ83WJGB7-M8AbPY2P7JVoL9P5MWgjans3HmX16SPcnss0Zqk-yUCQ3Sn1BOPFULPE7zhKzv-C-6O-5U7jknpv4_6trLIABz0ASz-CO2ij8czZRy3fzTc9AA7uee_d_gJWkPUgAZtcxxHcW8Au5VqQtNPIl_tW1mKwtTlJ9S0g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.786228,35.360103,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NC3 - Fayetteville
+</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/n2sq83jron837jm1utma8npq3s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoLsB9hhMd0RjG6VGvnLLLL7VtrYmlslMGU7mVqkFJUbzLy2pBsICEkMOdOhF5wjNb_EIRJ1tMesk57EF_hDy0OjtVjfdiplZSEfaUu7wOkJvDIIQkTdeYfrtq3fHSaz82ZuGHyH5H5Fvxjz1GAP2xH8rUPWmpNjr7B5269FfGkz2D7b72SYfU3-slNEjBnddZRSKfA1pVfreLTva_QFYL5-x-hpgOMvX6I7FhbRVKNKIWzMostIpyY3oIk-dIso7kKje3f5m3U-UZS5oaLt1XnsgyTbQ?session=0&fife" height="200" width="auto" /><br><br>Airborne & Special Operations Museum<br>100 Bragg Boulevard<br>Fayetteville, North Carolina<br>GPS: 35.056231, -78.885615<br>Access: 24/7. Free admission.<br><br>Nearly 20 years from dream to reality, the museum has become a place to honor and preserve the legendary feats of the airborne and special operations troops who have contributed so much to defending our nation’s interests. <br><br>The doors opened in 2000, the 60th anniversary of the original Test Platoon’s first parachute jump. The museum offers a main exhibit gallery, temporary gallery, four-story tall theater, and a motion simulator ride.<br><br>The main gallery is designed as a self-guided tour, in chronological order, through the history of airborne and special operations soldiers from 1940 to the present. The temporary gallery changes periodically and displays a myriad of exhibits pertaining to the United States Army airborne and special operations units through their history and conflicts from World War II to the present.<br><br>From the early days of the Parachute Test Platoon to the ongoing War on Terrorism, the Museum recounts the actions of many heroic soldiers, such as one of our own: Fuquay-Varina resident, TOH #19 and Master Parachutist, SFC Jerry Read, 82nd Airborne-Ret.<br><br>A War Dog is also honored, outside the museum.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/n2sq83jron837jm1utma8npq3s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoLsB9hhMd0RjG6VGvnLLLL7VtrYmlslMGU7mVqkFJUbzLy2pBsICEkMOdOhF5wjNb_EIRJ1tMesk57EF_hDy0OjtVjfdiplZSEfaUu7wOkJvDIIQkTdeYfrtq3fHSaz82ZuGHyH5H5Fvxjz1GAP2xH8rUPWmpNjr7B5269FfGkz2D7b72SYfU3-slNEjBnddZRSKfA1pVfreLTva_QFYL5-x-hpgOMvX6I7FhbRVKNKIWzMostIpyY3oIk-dIso7kKje3f5m3U-UZS5oaLt1XnsgyTbQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -78.885615,35.056231,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NC4 - Jacksonville
+</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2j6jlukhpf5jn16qei77tfttd0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpui2ZYaMamtMxPiBBeb-Ng3wxeKSmSYiv1MUscvnf4NhmBJxz_8gGX6zziCKBHvhKfZKmQh-aTGeNKN7ir_f7SayR9YT0dgsd21oieqbTTCddJ-9bj-3WWBGJAK_6rjB0urysWYasXghVRQYb4EfKvO1k3p_HmKOdnYoh10U4Vho4o-uUkhpOuRWd9UAQAJwdxHFFDSlMje79VZSFbac7FXMEwAgyQBhnSac3PgO9xLoIl8qn-_3UcOnkV9rPjkChwjipQEdOAez54o8tg4W38t-4oug?session=0&fife" height="200" width="auto" /><br><br>Public Safety Memorial<br>112 NW Corridor Blvd.<br>Jacksonville, North Carolina<br>GPS: 34.778425, -77.492215<br>Access: 24/7<br><br>The Onslow County Public Safety Memorial was dedicated in 2016, in front of the families and loved ones of thirteen fallen Onslow County first responders. The memorial – entitled “Reflected in Our Eyes” – provides local residents a place to remember the great sacrifices these men and women have made for their community. It displays three silhouettes – a firefighter, an EMS worker, and a law enforcement officer, all carved out of one-inch steel, leaving spaces behind to represent the men and women of Onslow County gave their lives in the line of duty. <br><br>Made in America: Made in America: North Carolina is known for its BBQ, so while in the area, why not travel four miles up the road to pay a visit to highly-rated Thig’s BBQ House at 1722 Catherine Lake Rd.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2j6jlukhpf5jn16qei77tfttd0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpui2ZYaMamtMxPiBBeb-Ng3wxeKSmSYiv1MUscvnf4NhmBJxz_8gGX6zziCKBHvhKfZKmQh-aTGeNKN7ir_f7SayR9YT0dgsd21oieqbTTCddJ-9bj-3WWBGJAK_6rjB0urysWYasXghVRQYb4EfKvO1k3p_HmKOdnYoh10U4Vho4o-uUkhpOuRWd9UAQAJwdxHFFDSlMje79VZSFbac7FXMEwAgyQBhnSac3PgO9xLoIl8qn-_3UcOnkV9rPjkChwjipQEdOAez54o8tg4W38t-4oug?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -77.492215,34.778425,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NC5 - Jefferson
+</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/budi1v920mi6luof2ausuenhv0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqtxt-KTczcmvfET6NWdmYJydSVQ79M-QJD9NX98jOiVVMkyoywm7XnOUZHbjAGUy4CvhG80DQswo01nwImYZnmzEKmOmNfKiXPbFUV2WdRtKtFhmX38PFF2PRVzA2RRjdExJPWm_DPxptnU-8z_cIwJyg6CSU2UIcXQdMMb8R49ULH2vBKSFghIKdLZri5cnbGB8YafkQDUrY27k8jDvsv2w9zbptoxjvYlByFyWXsBXwQdzbRmo9x-4HvhoIvpQY1xvjG5vU_-B7syYb6r7jDHq8UFg?session=0&fife" height="200" width="auto" /><br><br>World War Memorial<br>301 E Main St.<br>Jefferson, North Carolina<br>GPS: 36.420986, -81.470495<br>Access: 24/7<br><br>The monument is in honor of those from Ashe County who died in World War One, World War Two and other wars prior to the World Wars. The monument has a two tiered base with an obelisk on top. and a light is affixed to the point of the obelisk. There are three bronze plaques attached to the base section below the obelisk. Two of them list dead from World War I and World War II, and the third and smaller plaque honors those who died in previous wars.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/budi1v920mi6luof2ausuenhv0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqtxt-KTczcmvfET6NWdmYJydSVQ79M-QJD9NX98jOiVVMkyoywm7XnOUZHbjAGUy4CvhG80DQswo01nwImYZnmzEKmOmNfKiXPbFUV2WdRtKtFhmX38PFF2PRVzA2RRjdExJPWm_DPxptnU-8z_cIwJyg6CSU2UIcXQdMMb8R49ULH2vBKSFghIKdLZri5cnbGB8YafkQDUrY27k8jDvsv2w9zbptoxjvYlByFyWXsBXwQdzbRmo9x-4HvhoIvpQY1xvjG5vU_-B7syYb6r7jDHq8UFg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.470567,36.420997,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NC6 - New Bern
+</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/32r7pmjtrd9sv8hueib99ers1s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALom6BjTK4eR9PJccMOLxi8NKtl-D_FKqc3Xc7MkXQpv_d7uvAqAXSuLsgpcavwBn9nEMdUuEdDitB7E5IAW4RUkrwEB1RvBWXH17t5CMai-dM_RmubXt-1qzf6WnzRbSkQT4SsGZtw2Jkmi5g_4VCaomShWI7HmgNmvuW6kNtqGUOlmr1prkVTMaER2JiVi6yK_2Zic4NJCKDEsS0plPkOq7vpCO_KafXau_1FxR12kBl1ulFFnjQohmLLkmIjgV_DsVYMBtSmjGvniYpfbb225f08jqg?session=0&fife" height="200" width="auto" /><br><br>Firemen’s Museum<br>420 Broad St.<br>New Bern, North Carolina<br>GPS: 35.108536, -77.040744<br>Access: 24/7. Museum hours are Monday-Saturday, 10AM-4PM. Don’t park in front of driveways for obvious reasons.<br><br>Established in 1955, the New Bern Firemen’s Museum is a unique experience. The mission is to preserve the history of firefighting in New Bern, which boasts the first chartered fire company in the state of North Carolina. It contains the history of the Atlantic Hook & Ladder Company and the New Bern Steam Fire Engine Company No. 1 (which later became the Button Company). Here, you can experience the Great Fire of 1922 which destroyed over 1,000 buildings and left much of the city in ruin.<br><br>Relive Tour of Honor history! This was the last Memorial stop for Dave Friedrich’s incredible 2018 Tour of Honor, being the first rider to ever complete the lower 48 states with all 307 memorials! There were several Tour of Honor riders there to share that moment with him! It was a fantastic day!<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/32r7pmjtrd9sv8hueib99ers1s/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALom6BjTK4eR9PJccMOLxi8NKtl-D_FKqc3Xc7MkXQpv_d7uvAqAXSuLsgpcavwBn9nEMdUuEdDitB7E5IAW4RUkrwEB1RvBWXH17t5CMai-dM_RmubXt-1qzf6WnzRbSkQT4SsGZtw2Jkmi5g_4VCaomShWI7HmgNmvuW6kNtqGUOlmr1prkVTMaER2JiVi6yK_2Zic4NJCKDEsS0plPkOq7vpCO_KafXau_1FxR12kBl1ulFFnjQohmLLkmIjgV_DsVYMBtSmjGvniYpfbb225f08jqg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -77.040744,35.108536,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NC7 - Sunset Beach
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/e2d9mdshf1s2ubemtr8bgs4mog/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqG0rClcui1XJGVKaRbV5qKVA7M-Fm6n-jNg6TtqTRAYPYoyxBjUjB682Io9ERcHTrwWFoNLqHh6gg0PZ1ZP8miuvvRiN25n8tspQddBFY2vZKIFkYUGyzn8o67GDDz7QyLvzRvTn09IW67vlZlrVaq2gsk0pcrYAFKEgtt2pexw7MGNtAyxofIQhZVgx6ktb8b0dn4gbTeAOB6qqw2BVa15y025YdrE71qztrnXdB0w9yZm4Ir1KwocDxoovFW4DxrotzZLaW-7lh0Y03fzbanKZdDPg?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>206 Sunset Blvd.<br>Sunset Beach, North Carolina<br>GPS: 33.884291, -78.510630<br>Access: 24/7. You can park so your bike can be seen in the background.<br><br>The Sunset Beach Veterans Memorial was recently dedicated on November 11, 2015. In the center, a 4-foot diameter granite top with a map of the world representing the presence of US military across the globe. <br><br>The bronze statue of two children is inscribed, “Thanks for our freedom.” The exterior wall of the Memorial has places for visitors to sit while they rest and contemplate the significance of the sacrifices and contributions our veterans have made.<br><br>Made in America: This is near the Calabash area to the west of here, famous for being the “Seafood Capital of the World!” and helped by Jimmy Durante when he’d sign off each radio show with, “Good night Mrs. Calabash, whererever you are.” Try one of the local restaurants like Ella’s, Beck’s, Seafood Shack, or Captain Nance’s, and enjoy some North Carolina seafood!<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to RULES 6-8 (http://www.tourofhonor.com/pages/rules.html#rules57) for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/e2d9mdshf1s2ubemtr8bgs4mog/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqG0rClcui1XJGVKaRbV5qKVA7M-Fm6n-jNg6TtqTRAYPYoyxBjUjB682Io9ERcHTrwWFoNLqHh6gg0PZ1ZP8miuvvRiN25n8tspQddBFY2vZKIFkYUGyzn8o67GDDz7QyLvzRvTn09IW67vlZlrVaq2gsk0pcrYAFKEgtt2pexw7MGNtAyxofIQhZVgx6ktb8b0dn4gbTeAOB6qqw2BVa15y025YdrE71qztrnXdB0w9yZm4Ir1KwocDxoovFW4DxrotzZLaW-7lh0Y03fzbanKZdDPg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -78.51063,33.884291,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

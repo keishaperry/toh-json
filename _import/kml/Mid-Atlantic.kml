@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mid-Atlantic region, 3 states and District of Columbia sponsored by Jim Hatch</name>
+    <Style id="icon-1502-009D57-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-009D57-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-009D57">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-009D57-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-009D57-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-4186F0-normal">
+      <IconStyle>
+        <color>fff08641</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-4186F0-highlight">
+      <IconStyle>
+        <color>fff08641</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-4186F0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-4186F0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-4186F0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-F8971B-normal">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-F8971B-highlight">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-F8971B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-F8971B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-F8971B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>DE1 - Dover, DE
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/fg5hc9mg6pl9ebl3t72vrn5tu4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpnHQZF5kScmtmCrDteaCGhVXRgN7HGS-7_n2tS8AEMiJbiyEGEruWvZEwm_AGGiaJxPdlRpKMIBldMUsC5xNptXhL2czgzsSGG7tVdG1VtjBkNtSoQd8fYfJAcWfyJ-obsr4QOu0Cac5rOZ_FFaB58fiThsFdCOEOGBMFAscosSLv3VWg2apHK8xHSKAJ74SqZd8yffq1H-C2sTwnxQglW3CV12O9UxtedDNbwd9jqXBYhwPsYEgBZpBxjonKMNwbl6c_i777MgSPAV8yyg4b3AGSDYg?session=0&fife" height="200" width="auto" /><br><br>Law Enforcement Memorial<br>410 Legislative Ave.<br>Dover, Delaware<br>GPS: 39.156502, -75.521168<br>Access: 24/7<br><br>In May 2010, Delaware became the last state in the country to erect a monument to honor its fallen police officers. Paying tribute to all law enforcement officers in the state of Delaware who have made the ultimate sacrifice while serving their fellow citizens, the memorial lists 40 officers who have lost their lives since 1893.<br><br>Standing on the grounds of the Legislative Mall in front of the state capitol, the memorial stands as a constant reminder of the danger faced by police officers daily as well as the devotion, valor and honor they bring to their work. When it was originally erected there were 36 names on the wall. Since then four others have joined their brothers in sacrifice.<br><br>In the words of Vivian Eney Cross, the widow of a police officer killed in the line of duty, the memorial wall is inscribed:<br><br>“It is not how these officers died that made them heroes, it is how they lived.”<br><br>Made in America: Nearby Dover AFB is home to the Air Mobility Museum which highlights military aviation through exhibits and a collection of aircraft on display. https://amcmuseum.org<br><br>Of course, the Monster Mile is a must stop for NASCAR fans! https://www.doverspeedway.com<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/fg5hc9mg6pl9ebl3t72vrn5tu4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpnHQZF5kScmtmCrDteaCGhVXRgN7HGS-7_n2tS8AEMiJbiyEGEruWvZEwm_AGGiaJxPdlRpKMIBldMUsC5xNptXhL2czgzsSGG7tVdG1VtjBkNtSoQd8fYfJAcWfyJ-obsr4QOu0Cac5rOZ_FFaB58fiThsFdCOEOGBMFAscosSLv3VWg2apHK8xHSKAJ74SqZd8yffq1H-C2sTwnxQglW3CV12O9UxtedDNbwd9jqXBYhwPsYEgBZpBxjonKMNwbl6c_i777MgSPAV8yyg4b3AGSDYg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.521168,39.156502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DE2 - Lewes, DE</name>
+      <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/o76go0h9jmupjt88cok6nk9omg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoePViIy1Kv0IRCSNq6m19jRXoYrDfFvD64ygaHJMFC8y65mvjZTAgFAV3uf95A0o9goERpR5j_VpRfgo_5hwpg-kq31QMO6ZVAOaQvO1zXEiDQaSFLEhCXqlgrF90PKjRbS8jkfiH_iqoKSnAbj0llb-RbGB4IWIP3njQ0ikJdvb1HXzzWc4ILeV0qrNZlOoaNF82OmwEKBSlfPAIyCn63hqbtRBCrcyVrAx53SII-Hq4aKwunc3wYxhlK1nM1KFLAMPukm2YNsh8AHCHo6PzCKhDeHg?session=0&fife" height="200" width="auto" /><br><br>War of 1812 Memorial<br>1812 Memorial Park \n 117 Front St.<br>Lewes, Delaware<br>GPS: 38.775879, -75.138821<br>Access: 24/7<br><br>After the Battle of Yorktown, Ben Franklin said “the War of Revolution has been won but the War for Independence is yet to be fought”. Less than 30 years later Britain was engaged in war with France and distrustful of American expansion. Needing to supplement its naval forces, Britain began to stop American merchant ships on the open seas and impress (force into service) sailors into the Royal Navy believing that anyone born in Britain was still British and subject to the Crown. The United States finally declared war on Britain following blatant seizures of ships and sailors within sight of American shores.<br><br>British vessels blockaded the Delaware and Chesapeake Bays in an effort to disrupt shipping patterns and supply lines. But when crews attempted to land at Lewes for supplies they were repelled by militia.<br><br>The British retaliated with heavy cannon fire from the British ships and rockets. With a large fortification stretching along the canal, local volunteers prevented the British from advancing here with these cannons. The fort in Lewes closed in 1815, immediately after the war.<br><br>Also in the area: Next door is Cannonball House, a maritime museum that still has a cannonball from the blockade lodged in its foundation. https://bit.ly/2OdO11Q The US Lightship Overfalls (http://www.overfalls.org), is one of seven surviving lightships in the United States is moored in Lewes.<br><br>Dogfish Head Brewery (http://www.dogfish.com)’ is an original brewpub located on Rehoboth Ave. in nearby Rehoboth Beach. The Avenue is also home to two Khor Brother’s Frozen Custard shops still serving the uniquely East Coast frozen treat since 1919. You can find them at kohrbros.com<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/o76go0h9jmupjt88cok6nk9omg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoePViIy1Kv0IRCSNq6m19jRXoYrDfFvD64ygaHJMFC8y65mvjZTAgFAV3uf95A0o9goERpR5j_VpRfgo_5hwpg-kq31QMO6ZVAOaQvO1zXEiDQaSFLEhCXqlgrF90PKjRbS8jkfiH_iqoKSnAbj0llb-RbGB4IWIP3njQ0ikJdvb1HXzzWc4ILeV0qrNZlOoaNF82OmwEKBSlfPAIyCn63hqbtRBCrcyVrAx53SII-Hq4aKwunc3wYxhlK1nM1KFLAMPukm2YNsh8AHCHo6PzCKhDeHg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.138821,38.775879,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DE3 - New Castle, DE
+</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/fgc1oeemijsln91aa0e101sfak/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALolkEYkhpISIwWfs2AS5MidmfFF17TgGGwMRts3uzqEK7jFZ1TU6bCpemBEmHdSov_nFysTE49vkZZ5KSJ6rWE12cpDnQ2wko0tNnDbCTxty7YdkW9GDMO4S4ObzOcl7MG_i1XODOxgOPg70iyu2JIMbFCC1iy8_UPR1uu027MESfGMHIxAPQf5T2jbyvXVasDiV0v7vv7OhQH0V9tam0TS6WPm7s2fXjbZiPyfJ93YBK4jt0tTuUMm37eo0TkK4a5TgmYhqk3Sg6b3GKZZzPAFBFHN3A?session=0&fife" height="200" width="auto" /><br><br>War Memorial Plaza<br>163 Cherry Ln.<br>New Castle, Delaware<br>GPS: 39.694856, -75.550653<br>Access: 24/7<br><br>The 50-acre park also pays tribute to veterans from the Korean and Vietnam wars and the first Persian Gulf war, recipients of the Military Order of the Purple Heart, the Submariners of WW II and the five service branches.<br><br>Also in the area: The nearby bridge between Delaware and New Jersey honors veterans from both states who died fighting during World War II. <br><br>The Big Fish Grill serves great seafood and appetizers, on the riverfront in nearby Wilmington. https://bit.ly/2uISraa<br><br>The Midnight Oil Brewing Company, Liquid Alchemy Beverages, and Constitution Yards are all great stops for a brew or quick bite if you’re staying over visiting museums or farmers markets.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/fgc1oeemijsln91aa0e101sfak/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALolkEYkhpISIwWfs2AS5MidmfFF17TgGGwMRts3uzqEK7jFZ1TU6bCpemBEmHdSov_nFysTE49vkZZ5KSJ6rWE12cpDnQ2wko0tNnDbCTxty7YdkW9GDMO4S4ObzOcl7MG_i1XODOxgOPg70iyu2JIMbFCC1iy8_UPR1uu027MESfGMHIxAPQf5T2jbyvXVasDiV0v7vv7OhQH0V9tam0TS6WPm7s2fXjbZiPyfJ93YBK4jt0tTuUMm37eo0TkK4a5TgmYhqk3Sg6b3GKZZzPAFBFHN3A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.550653,39.694856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DE4 - Wilmington, DE</name>
+      <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/atv5gknv49j15tqh5pnit55bek/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrAZeo3oLRWO-YTw4sZtCodrAXIrRQbjzI-JrsdKO1cbZ7vYWRa7oS5iqKEUr9RhGeNrT69QixPf5G75b5vZ4A_sHGmqw0iZFVxdJK8QFXlPaTmKQi0-Iim877E7vFRWMSu-oEC-euwQsNdg7eRTpuLQpL3ZHRFPCRoWcusuG-ZfmKGfxxyMb_hXLlQXN11w_c0KklWLen-1WrMh5nWEqHRsNNsZUsdy6ZFfpFMll9d16H3nG6EN9ewvbT_ccq0646ycArluDy3e3Iewf2VzxYLR_wHJA?session=0&fife" height="200" width="auto" /><br><br>Vietnam War Memorial<br>Brandywine Park, nr. Baynard Blvd.<br>Wilmington, Delaware<br>GPS: 39.754435, -75.547503<br>Access: 24/7. Two photos required.<br><br>Located in Brandywine Park, surrounded by trees giving an almost jungle feel to the setting is Wilmington’s Vietnam War memorial. A soldier stands atop a cobblestone hill carrying the body of one of his brothers killed in action.<br><br>Hauntingly striking in its portrayal of the anguish felt by the soldier who lives while his friend does not, the statue dedicated to all Delawareans who served in Vietnam reminds us that no one is untouched in a war in which “All gave some, some gave all.”<br><br>Made in America: Also in the park is the African American Medal of Honor Recipients Memorial paying tribute to African American warriors from all wars.<br><br>The Air Mobility Command Museum in nearby Dover (http://amcmuseum.org), or the American Helicopter Museum (https://bit.ly/2u3eckV) just over the state line in West Chester, Pennsylvania feature exhibits and aircraft displays for the aviation enthusiasts riding the Tour.<br><br>Two towns over, the Twin Lakes Brewing Company in Newport features local handcrafted beer with tours and tastings every Saturday from 12Noon-4PM. https://bit.ly/2S1oiut<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/atv5gknv49j15tqh5pnit55bek/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrAZeo3oLRWO-YTw4sZtCodrAXIrRQbjzI-JrsdKO1cbZ7vYWRa7oS5iqKEUr9RhGeNrT69QixPf5G75b5vZ4A_sHGmqw0iZFVxdJK8QFXlPaTmKQi0-Iim877E7vFRWMSu-oEC-euwQsNdg7eRTpuLQpL3ZHRFPCRoWcusuG-ZfmKGfxxyMb_hXLlQXN11w_c0KklWLen-1WrMh5nWEqHRsNNsZUsdy6ZFfpFMll9d16H3nG6EN9ewvbT_ccq0646ycArluDy3e3Iewf2VzxYLR_wHJA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.547503,39.754435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MD1 - Burkittsville, MD</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/h7uq8tomc0ul4ojm193i57o6t8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqBFeYd5CguG7QkfiFkSONs-1JaVWWNVJBUzDnvmYAA7d803kSQqWI9n2YygFYfzRgNl0am_QbAuoWKJQDUKUN7JC4_12TFKL1YEsJTLtGUAJzeVWy028XMiArfNPHd5f8vZ3Z6aaYxxJrNFg7C6qxWd25i8CSfiuhgwIzHMU8JdH1zdBQ5M4H3-io89x1MJRMBEoiDNUZ7n6ydJNjneznu8WNxxvCVUALQqwVFAHQKXCwa65kQLCN0riGAnOFgzf6ulmgJPUmnrGNiQdQJH_KWcFkE5g?session=0&fife" height="200" width="auto" /><br><br>Crampton’s Gap in Gathland State Park<br>Nr. 900 Arnoldtown Rd.<br>Burkittsville, Maryland<br>GPS: 39.40576, -77.63935<br>Access: Daytime hours suggested for illumination reasons.<br><br>Originally erected in 1896 by renowned Civil War correspondent George Alfred Townsend to honor his fellow correspondents and artists killed in conflict, it became the National War Correspondents Memorial in 1904. The names of 157 correspondents and artists from both the North and South who reported in words and pictures on the Civil War were originally inscribed in tablets on the monument.<br><br>More recently, the names of four correspondents killed while on assignment covering the War on Terror were added, Daniel Pearl killed in Pakistan; and Elizabeth Neuffer, Michael Kelly and David Bloom killed in Iraq. They are<br><br>… but history’s courier<br>To bind the conquering years<br>A battle’s ray, through ages gray<br>To light to deeds sublime<br>And flash the lustre of my day<br>Down all the aisles of time<br><br>Also in the area: Burkittsville is famous as the setting for the Blair Witch Project movie, and features attractions related to the movie’s theme.<br><br>The town was also in the middle of two battles of the Civil War – Crampton’s Gap and Antietam with many houses remaining just as they were 150 years ago; a walking tour is recommended for the history buff.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/h7uq8tomc0ul4ojm193i57o6t8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqBFeYd5CguG7QkfiFkSONs-1JaVWWNVJBUzDnvmYAA7d803kSQqWI9n2YygFYfzRgNl0am_QbAuoWKJQDUKUN7JC4_12TFKL1YEsJTLtGUAJzeVWy028XMiArfNPHd5f8vZ3Z6aaYxxJrNFg7C6qxWd25i8CSfiuhgwIzHMU8JdH1zdBQ5M4H3-io89x1MJRMBEoiDNUZ7n6ydJNjneznu8WNxxvCVUALQqwVFAHQKXCwa65kQLCN0riGAnOFgzf6ulmgJPUmnrGNiQdQJH_KWcFkE5g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -77.63935,39.40576,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MD2 - Emmitsburg, MD</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2nedbbo0chbopap99g04mlqevk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq3bpJX71HoG7i7ldM0MZTI6SyvHfruvtwXYl_TDN5Wh8_hOiUubn0ypPg29BJeDzZnUBMVmM3NgX2JEox9XMDGUEaEiRn-0pT6H_CF5tpaWMQfZ5v05KyJKU0RcgR0qlvpqcAldmkC8uC6cz9ZfwEVpSECzB5zlWlq7hl9mp5TvW9VMKXddV0qeIWtWcoY1uCXJhOpyNPCJF8cFehCPhGn5VEiqI-NghvkU-hpkdYA4qtnyJoTCAB32vtHZrKIdQxIDOwhNUn2Fqq3iGqps9r4Yg9Tjw?session=0&fife" height="200" width="auto" /><br><br>National Fallen Firefighters 9/11 Memorial<br>16825 S Seton Ave.<br>Emmitsburg, Maryland<br>GPS: 39.694270, -77.326547<br>Access: Sunrise to Sunset daily<br><br>This 40-foot-tall bronze monument, named “To Lift a Nation,” was created by sculptor Stan Watts to honor the heroes of September 11, 2001. The three-times life-size statue, recreates the now-famous photo taken by Thomas E. Franklin, a photographer for the Bergen Record, who captured the image of three firefighters raising the American flag at Ground Zero. “The monument and its flag are symbols of hope and courage for a nation deeply impacted by this tragedy,” Watts said. “It honors a moment in the history of our country and reminds us of the bravery and sacrifice made by our firefighters and by thousands of citizens, from all walks of life, who selflessly serve humankind in times of need.”<br><br>Each of the three statues weigh more than 5,000 pounds and were formed from approximately 160 bronze sections weighing between 60-80 pounds each.<br><br>The National Memorial Park is located on federal property so changes in security levels may affect visiting hours. Call 301-447-1000 for current information. Visitors will have to present a driver’s license or photo ID at the entrance to the campus. Security guards will issue a pass and direct visitors to available parking.<br><br>Made in America: On weekends, the Frederick Fire Museum (300B S Seton Ave.) is open from 12Noon-4PM and features displays and artifacts from Frederick County’s fire rescue history. <br><br>The Ott House Pub (5 W Main St.) has the area’s best wings.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/2nedbbo0chbopap99g04mlqevk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq3bpJX71HoG7i7ldM0MZTI6SyvHfruvtwXYl_TDN5Wh8_hOiUubn0ypPg29BJeDzZnUBMVmM3NgX2JEox9XMDGUEaEiRn-0pT6H_CF5tpaWMQfZ5v05KyJKU0RcgR0qlvpqcAldmkC8uC6cz9ZfwEVpSECzB5zlWlq7hl9mp5TvW9VMKXddV0qeIWtWcoY1uCXJhOpyNPCJF8cFehCPhGn5VEiqI-NghvkU-hpkdYA4qtnyJoTCAB32vtHZrKIdQxIDOwhNUn2Fqq3iGqps9r4Yg9Tjw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -77.326547,39.69427,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MD3 - Glen Burnie, MD</name>
+      <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lulthm8q0b4nh27hm60dftkkh0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrLfHaXQlT95A0t_5YE9ZVaHFe3-Y6zEFNf_qgC4Z_SWgDluBfNJPGU2oVr0MaNCxQgN9uGqnQfeEFa1C2lOrGcq-8cL1UFmzPmL8rvayQFbofAMFfveBnNAW2GEf056NiXBop-eRop9oeRogvgwcZiAE_ZkUg5Qck58TzfVBxy5YBWM22HInTOvlL28AvjeUUkAwRUJsTUZidP9JI3QtYa3_uqrpUmlQd1cHPSjXRncg0Stwl6L26_CZE1sPMZzIUBd9jdb8Lpnljy1C2_rNr7Ho4EvA?session=0&fife" height="200" width="auto" /><br><br>Desert Storm Memorial<br>Nr. 7497 Baltimore Annapolis Blvd.<br>Glen Burnie, Maryland<br>GPS: 39.163151, -76.622673<br>Access: 24/7<br><br>Located behind the “Welcome to Glen Burnie” town arch, the Desert Storm Memorial is dedicated to Sgt Ronald Randazzo and the men and women of Desert Storm 1991.<br><br>The first of seven Marylanders who died in Desert Storm, Sgt Randazzo and two others were killed in the first ground battle of the invasion resulting in the liberation of Kuwait from Iraqi forces. The Battle of Wadi Al-Batin was a feint designed to make the Iraqi Republican Guard believe the coalition forces would attack from the Wadi while in reality they were approaching from the Iraqi west flank to the northwest. While the battle was a victory for the Iraqis, the casualties suffered at the Wadi and the defense of the position allowed the 1st Cavalry and the coalition forces to conduct the famous “Hail Mary” 100-hour ground campaign that freed Kuwait from the Iraqi forces.<br><br>Made in America: Stop for a picture with the Giant Crash Test Dummy (6601 Ritchie Hwy NE) before grabbing something to eat at Willy’s Kitchen https://bit.ly/37KLZOg, or the 24-hour Honey Bee Diner https://bit.ly/37Ism9A<br><br>Mission BBQ is a top-rated choice for a bite to eat while here. Plus, they’re strong supporters of veterans and first responders. Grab a copy of the Maryland Travel Guide while you’re enjoying your BBQ to find all of the must-do attractions in the area, like Baltimore, Washington DC, Fort Meade and Annapolis. https://bit.ly/2OaRBtm<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lulthm8q0b4nh27hm60dftkkh0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrLfHaXQlT95A0t_5YE9ZVaHFe3-Y6zEFNf_qgC4Z_SWgDluBfNJPGU2oVr0MaNCxQgN9uGqnQfeEFa1C2lOrGcq-8cL1UFmzPmL8rvayQFbofAMFfveBnNAW2GEf056NiXBop-eRop9oeRogvgwcZiAE_ZkUg5Qck58TzfVBxy5YBWM22HInTOvlL28AvjeUUkAwRUJsTUZidP9JI3QtYa3_uqrpUmlQd1cHPSjXRncg0Stwl6L26_CZE1sPMZzIUBd9jdb8Lpnljy1C2_rNr7Ho4EvA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -76.622673,39.163151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MD4 - Hebron, MD
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/g685tid9dr3nadgv75m4cdj8kk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrRXPiAgo1oXHMiSzu3tjgEkYESENqK6tavk3j18aL2fz_cngahTHpRoho080HEFervBaYU99eDuPOVzm89JnuhFsPxwsM9rOqpThN4viBpwIoEgmA_c-Kk3cak1MtkiRZsh7Nb1nSBCAyIWci3VfihStgJV-HJ6wh2VavIKi6KSX2pyH8izFgiiefwcHseuF7pnfayqOET2JlpKwgHLFFcRAebTw8wgqIQqbriksiQ4slwscwrOOXC7Dv9o8s9kHIvM3TS11CCKe0L6hagQfeQtdUUlg?session=0&fife" height="200" width="auto" /><br><br>Four Chaplains Memorial<br>Old Spring Hill Church \n Memory Gardens Ln. & Quantico Rd.<br>Hebron, Maryland<br>GPS: 38.429995, -75.673399<br>Access: 24/7<br><br>Although military chaplains are generally not stationed on the front lines, they do often come in harm’s way. Four army chaplains made the supreme sacrifice on 3 February 1943 when the transport they were aboard was attacked by a German U-boat. The transport ship Dorchester was hit amidships by a torpedo that disabled the ship. Taking on water, the captain gave the order to abandon ship and the four chaplains helped hand out life vests to servicemen about to jump into the sea to await rescue. When they ran out of life vests, the chaplains gave up their own so that four other men could be saved.<br><br>As the Dorchester slipped under the icy waters, the four men, locked arm in arm, went under as well. Despite being men of peace, George Fox a Methodist Minister, Clark Poling a Dutch Reform Minister, Alexander Goode a Jewish Rabbi and John Washington a Roman Catholic Priest, together gave their lives in war so that others could live. True heroes.<br><br>Made in America: In nearby Salisbury, the Evolution Craft Brewing Company serves up fresh local brewed craft beers and excellent pub food, including crabcakes. https://bit.ly/38W5ljY<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/g685tid9dr3nadgv75m4cdj8kk/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrRXPiAgo1oXHMiSzu3tjgEkYESENqK6tavk3j18aL2fz_cngahTHpRoho080HEFervBaYU99eDuPOVzm89JnuhFsPxwsM9rOqpThN4viBpwIoEgmA_c-Kk3cak1MtkiRZsh7Nb1nSBCAyIWci3VfihStgJV-HJ6wh2VavIKi6KSX2pyH8izFgiiefwcHseuF7pnfayqOET2JlpKwgHLFFcRAebTw8wgqIQqbriksiQ4slwscwrOOXC7Dv9o8s9kHIvM3TS11CCKe0L6hagQfeQtdUUlg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.673399,38.429995,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NJ1 - Atlantic City, NJ</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7k2v4cbfc22a2otgjp7519nb64/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoXeVV7cEFqSE5fPKQZExHPHyExAEe2cabVPoBY7Mx3fBYcHQ4IYUo3JrB_My1Ze9JQp0MF8s1zpq7kC2-Fg6Uo9_7hkVgKuuGfV4r6LQJkS-_ZNBNgciR9fvRU0ueINAbNhW6ulXXcDpTnvw3LaHKO5eiI5DipMu8C3u3-Ge-xyRVBJ2EFdEGGl-g8RtVRkTywoWN88e9oRlU8Mg8fQF3wstuhqTKLLUN4bPf6iqC9wok5GmYdAosEAkyzeEkf0-LjxNjmK-_eDEGjhcPk8yrAAv5O-A?session=0&fife" height="200" width="auto" /><br><br>The Mourning Soldier (Korean Conflict)<br>On the Boardwalk at Park Place<br>Atlantic City, New Jersey<br>GPS: 39.355949, -74.431038<br>Access: 24/7. Two photos reqiured. Make sure you get the correct photo.<br><br>Adjacent to the frenetic activity of Bally’s Casino, lies the somber New Jersey Korean War Memorial, including the soldier pondering a fist-full of dog tags. It is located in Brighton Park on the Atlantic City Boardwalk.<br><br>From the NJ Korean War Memorial website:<br><br>“The New Jersey Korean War Veterans Memorial was created to ensure that future generations remember and honor the pride and dedication of those who served, the legacy they continued, and the freedom they preserved.<br><br>”However painful, frustrating and unsatisfactory the Korean War may have been for Americans, it secured an important victory for democracy in South Korea.”<br><br>Made in America: The Absecon Lighthouse, one of the oldest in America and the tallest in New Jersey, at 31 S Rhode Island Ave. lets you climb its 228 steps, tour a state-of-the-art modern lighthouse renovation and the old lightkeeper’s cottage (11AM-4PM daily). A moving memorial to fallen police and firefighters, the In the Line of Duty Sculpture is at St James Place on the Boardwalk and open 24/7.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-4186F0</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7k2v4cbfc22a2otgjp7519nb64/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoXeVV7cEFqSE5fPKQZExHPHyExAEe2cabVPoBY7Mx3fBYcHQ4IYUo3JrB_My1Ze9JQp0MF8s1zpq7kC2-Fg6Uo9_7hkVgKuuGfV4r6LQJkS-_ZNBNgciR9fvRU0ueINAbNhW6ulXXcDpTnvw3LaHKO5eiI5DipMu8C3u3-Ge-xyRVBJ2EFdEGGl-g8RtVRkTywoWN88e9oRlU8Mg8fQF3wstuhqTKLLUN4bPf6iqC9wok5GmYdAosEAkyzeEkf0-LjxNjmK-_eDEGjhcPk8yrAAv5O-A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.431139,39.356067,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NJ2 - Bayonne, NJ</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lnk1hilsrs8msh3oilvbc36sg8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpf1DI0sTWww9-WL3ORRjc-zwgQcl6LOLt8mEbu5GnWVIiuntMK1qscDCneYx_R3jYF7bcciQEyEvtsfcFWRz1HG7x4TmoiD2SoXNlUE8eKlsTem-aLeDpD_KlI7Kl9SbwmFPioNN4MeJd0bAKFy9M6R6GvxmUj_rve4qeLCjhSClUd4Bv6H012TaX_r4HnA2AkREo5-qShws8A4hPesW447qoY_2xsDwLiO4j0bsixkZKSZeuWFB9pOMUcj-MMthltAB7gwLkg-kbq7EoPxMW84cIDAA?session=0&fife" height="200" width="auto" /><br><br>Tear of Grief (9/11) Memorial<br>51 Port Terminal Blvd.<br>Bayonne, New Jersey<br>GPS: 40.663690, -74.069226<br>Access: 24/7<br><br>Also known as the Monument to the Struggle Against World Terrorism, this 100-foot steel sculpture was donated by the people of Russia to the United States as a memorial to the victims of terrorist attacks.<br><br>The tower features a 40-foot stainless steel teardrop hanging in a fissure in the tower’s center and is made of metal recovered from a Russian military aircraft factory. The 11-sided granite base is inscribed with the names of the victims of the 9-11 attacks and the 1993 World Trade Center Bombing. A nearby marker features a photo of the Tear of Grief Monument with New York City in the background. The site where the World Trade Center once stood is outlined in the picture.<br><br>Also in the area: The Bayonne Bridge, connecting Bayonne with Staten Island, is one of the longest arched steel bridges in the world and is alone a sight worth seeing.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-4186F0</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/lnk1hilsrs8msh3oilvbc36sg8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpf1DI0sTWww9-WL3ORRjc-zwgQcl6LOLt8mEbu5GnWVIiuntMK1qscDCneYx_R3jYF7bcciQEyEvtsfcFWRz1HG7x4TmoiD2SoXNlUE8eKlsTem-aLeDpD_KlI7Kl9SbwmFPioNN4MeJd0bAKFy9M6R6GvxmUj_rve4qeLCjhSClUd4Bv6H012TaX_r4HnA2AkREo5-qShws8A4hPesW447qoY_2xsDwLiO4j0bsixkZKSZeuWFB9pOMUcj-MMthltAB7gwLkg-kbq7EoPxMW84cIDAA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.069226,40.66369,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NJ3 - Cape May, NJ</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/j8mcp4905hjvq8nlm2vkgq7os4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpba-suocJXF75rQxPWvUDUvwvyjgc4bQJd-JnZ1KxAs9C6T5MEJoZvHcBvok_ixoAz7fbzzbLTrPhNAEeC-xodrl4UBbpdqn4dx7O5fWQAMIxn7cONhe3m2XrkW_FsZytGCbFdT13TMDPfQDVVi3ZqCRdftveCdM85YEdCY3tH80KCagmIc6fSAfD5DYiYCf6Y463ou7949LvpcCfGkAIz-43Gpx7yE87io1n9PhH5rDnj8Rbf4bBax3iQuiyD1dbbDvBvAyv6fp3M0Qjq3ijhJDlyGQ?session=0&fife" height="200" width="auto" /><br><br>Fisherman’s Memorial<br>1021 Baltimore Ave.<br>Cape May, New Jersey<br>GPS: 38.945099, -74.903529<br>Access: 24/7<br><br>This is an especially moving tribute to the fishermen lost at sea along the East Coast, with the mother patiently waiting with children, praying that her husband has once-again survived the perils of the sea.<br><br>Made in America: Cape May is one of the country’s oldest vacation resort destinations and is still hugely popular during the summertime. Tourism is by far the dominant industry, with its Victorian houses, boardwalk, restaurants, and dedication to the arts.<br><br>The town is also home to Khor Brother’s Frozen Custard for the uniquely East Coast frozen treat since 1919. You’ll find one across town to the south, in the Washington Street Mall, 512 Washington Mall.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-4186F0</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/j8mcp4905hjvq8nlm2vkgq7os4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpba-suocJXF75rQxPWvUDUvwvyjgc4bQJd-JnZ1KxAs9C6T5MEJoZvHcBvok_ixoAz7fbzzbLTrPhNAEeC-xodrl4UBbpdqn4dx7O5fWQAMIxn7cONhe3m2XrkW_FsZytGCbFdT13TMDPfQDVVi3ZqCRdftveCdM85YEdCY3tH80KCagmIc6fSAfD5DYiYCf6Y463ou7949LvpcCfGkAIz-43Gpx7yE87io1n9PhH5rDnj8Rbf4bBax3iQuiyD1dbbDvBvAyv6fp3M0Qjq3ijhJDlyGQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.903529,38.945099,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NJ4 - Holmdel, NJ
+</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7bp4g96psaueg5tqsss9g8crvc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoc4zILHSrZroxcdCSqNoFKfxr3AxyHKrgRHrHIZyq8bqAhO4XB0wcZ5T-GS4qXAdjYrgEDRaZy9GBb1DEswYf3IMDYHeWFV-li2dVDnS8VGrqgLCOAoE8TEkFyEe6TIVJFfaVAwqjUw72h3cr6VYVgZrYptM6XNwPd1oC79IetbDv1ItCyvAthX1rM49ZGbuB4Qz_Op4Eos1liTmlGaVvXheiI09W2cmw58v9lj3_zOAHC1lAuO3Ftlf67fZbo06nO1LCMjvirA0GCSvSoQ_BzJK4QAg?session=0&fife" height="200" width="auto" /><br><br>Vietnam Veterans Memorial<br>1 Memorial Ln.<br>Holmdel, New Jersey<br>GPS: 40.388580, -74.176171<br>Access: 24/7. Two photos required. Parking may be limited if the adjacent PNC Arts Center has an event, Vietnam Era Museum open Tues-Sat 10AM-4PM.<br><br>Completed on the 20th anniversary of the end of the war and designed by a Vietnamese refugee who fled in its last days, the New Jersey Vietnam Veterans’ Memorial honors all those who served our country and the state during the Vietnam War, especially the 1,563 New Jerseyans who did not return home.<br><br>The memorial is a 200 foot diameter raised bowl ringed by 366 polished black granite panels – one for each day of the year. Engraved on the panels is the name, date of birth and date of death of each soldier who died on that day during the war. The May 7th panel, the day the war ended, faces Vietnam. In the center is the state’s official tree, the Red Oak and a statuary group in bronze - one symbolizing all who served and came home, one symbolizing the women who served, and one honoring those who did not return.<br><br>Adjacent to the memorial is the Vietnam Era Museum & Educational Center, something the designer of the Vietnam Memorial in Washington told the New Jersey officials was the one thing she would include if she could change her design for the Wall. http://www.njvvmf.org<br><br>Made in America: Also on the grounds are the US War Dogs Memorial and Purple Heart Recipients Memorial.<br><br>With friendly service and old-school cooking, a super breakfast, brunch, or lunch, look no further than the Turning Point https://bit.ly/2GEPIRy, or Cheeburger Cheeburger, both on Rt 35 South. https://bit.ly/3aSxABI, or even Duck Donuts (also on Rt 35) where you’ll be able to watch your donuts made to order https://bit.ly/3aSxhqt<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-4186F0</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/7bp4g96psaueg5tqsss9g8crvc/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoc4zILHSrZroxcdCSqNoFKfxr3AxyHKrgRHrHIZyq8bqAhO4XB0wcZ5T-GS4qXAdjYrgEDRaZy9GBb1DEswYf3IMDYHeWFV-li2dVDnS8VGrqgLCOAoE8TEkFyEe6TIVJFfaVAwqjUw72h3cr6VYVgZrYptM6XNwPd1oC79IetbDv1ItCyvAthX1rM49ZGbuB4Qz_Op4Eos1liTmlGaVvXheiI09W2cmw58v9lj3_zOAHC1lAuO3Ftlf67fZbo06nO1LCMjvirA0GCSvSoQ_BzJK4QAg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.176171,40.38858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DC1 - Washington, DC
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gjc9vjs39unqgv1td2qgqd4id0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpyeca51dqducR5g8HvhYf8a-VtmtQBfwLBYfyydhJ8ye0OqoRNii0BfAJE-3-qHzRinn09LPvyMdSF1faplkBW0embev9iKhCJVYZ7ufEhbKryBIlzggRlzc3n8MH7BibHh9-BE8CAv0Eyq1tTRv45deG-xOyJjYxt4adtnTaPdbLzpTtvvPpOFPGVdS595H7LZHdmn3gSXK49qkVZfsEl4mbM2ej5aZyCG3POqCkiRtKbZVZGZx5WN_oFFVl5t2hAWs8FxLvW94CQCvFdNFB192fTfw?session=0&fife" height="200" width="auto" /><br><br>Disabled Veterans Memorial<br>150 Washington Ave. SW<br>Washington, DC<br>GPS: 38.886200, -77.013100<br>Access: 24/7. NOTE: This is on TOP of tunnel. Two photos required. Advise parking near 2nd St. SW & C St. SW<br><br>Located just east of the Capitol and United States Botanical Gardens, this memorial is dedicated to the courage and sacrifice of those American veterans who were injured and disabled in the line of duty.<br><br>Featuring a star shaped fountain and triangular reflecting pool with an eternal flame at its center, it is surrounded by 48 glass panels and 4 bronze sculptures. The etched panels have photographs of veterans who gave a part of themselves and their future in the defense of our way of life. The quotations etched alongside give a sense of the pain, sacrifice and sense of duty they felt. This particular panel is titled “In war, there are no unwounded soldiers.” <br><br>Although you can see it from the street, you’ll want to park the bike (Washington Ave northbound has street parking) and find this panel and truly experience this memorial. It’s not one for a point and shoot. If you have a chance, see it at night, the panels are lit from below. You’ll be hard pressed not to be moved by this monument to those who came back home with lifetime reminders of the war that took a part of them away. <br><br>Made in America: In addition to the Capitol, the Library of Congress and Botanical Gardens, this end of the National Mall is also home to the Museums of the Smithsonian. www.si.edu/Visit<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-F9A825</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/gjc9vjs39unqgv1td2qgqd4id0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpyeca51dqducR5g8HvhYf8a-VtmtQBfwLBYfyydhJ8ye0OqoRNii0BfAJE-3-qHzRinn09LPvyMdSF1faplkBW0embev9iKhCJVYZ7ufEhbKryBIlzggRlzc3n8MH7BibHh9-BE8CAv0Eyq1tTRv45deG-xOyJjYxt4adtnTaPdbLzpTtvvPpOFPGVdS595H7LZHdmn3gSXK49qkVZfsEl4mbM2ej5aZyCG3POqCkiRtKbZVZGZx5WN_oFFVl5t2hAWs8FxLvW94CQCvFdNFB192fTfw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -77.0131,38.8862,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DC2 - Washington, DC</name>
+      <description><![CDATA[<img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/i704mrchi0sha85ntbfliosajs/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq7bUMqgHKQiRUmxn97f5F1WQsAmD4Mp18lIa0c28LXGGln4fS9xW484o0QLZ0FCOpKDkZQkqYXzZomZSebH-2gCBhrUJ8Gdp-xqYNTBZq4N0ONReHa2rO8Wo8D0_iX5trAfFD48wdKqm4ba1_FM7z5rT15VIc1lyfBPrPaA5u8QlZOPi-ShSIkcBiX8M7FVkrP8LZQAGSFq-ahhdnW3dfBhaiGyi0VhsNLV7GCOpvnE4TMA4IGNcOim4TTblfh1goPYKagv8JFuBNhLqz-n_3OUmZDag?session=0&fife" height="200" width="auto" /><br><br>Law Enforcement Officer’s Memorial<br>Judiciary Square \n 450 F Street, NW<br>Washington, DC<br>GPS: 38.897093, -77.017876<br>Access: 24/7<br><br>The National Law Enforcement Officers Memorial honors federal, state and local law enforcers for their dedication and sacrifice. The memorial features bronze sculptures depicting a series of adult lions protecting their cubs, symbolizing the protective role of law enforcement officers.<br><br>Blue-gray marble walls are inscribed with the names of more than 17,500 officers who have been killed in the line of duty (dating back to 1792). Each May, during National Police Week new names of fallen officers are added to the National Law Enforcement Officers Memorial.<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-F8971B</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/i704mrchi0sha85ntbfliosajs/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq7bUMqgHKQiRUmxn97f5F1WQsAmD4Mp18lIa0c28LXGGln4fS9xW484o0QLZ0FCOpKDkZQkqYXzZomZSebH-2gCBhrUJ8Gdp-xqYNTBZq4N0ONReHa2rO8Wo8D0_iX5trAfFD48wdKqm4ba1_FM7z5rT15VIc1lyfBPrPaA5u8QlZOPi-ShSIkcBiX8M7FVkrP8LZQAGSFq-ahhdnW3dfBhaiGyi0VhsNLV7GCOpvnE4TMA4IGNcOim4TTblfh1goPYKagv8JFuBNhLqz-n_3OUmZDag?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -77.017876,38.897093,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DC3 - Washington, DC</name>
+      <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ou9mtmvr45ka2vcq9mk7997ar4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqToRSHiQ05ESR-wp2K-KZOmq0ZxE4i-0DHenndCZFiKctfDEg8B385YgwPrPUTw6cBk2FF-wLE0q6Z7dZieTVWyZRfIWi58BzS9Dm6QvCkQJN7GW9R1k7x5gEihj9F3iUPQBM6ALctK9k0U2FL8eXY1FdRnpSzaaoF1p2L2BxpLLAdBeVwjWmS3UFTD_DvGAnXHmJzrawNwTVySLcJ6e3_e2BgNCHEs0iVva-GNjYvGon8y6kHJgXj9fR5mK8OfhIslPjoTobOOLXoJKb4xN-t6yxLsg?session=0&fife" height="200" width="auto" /><br><br>Vietnam Veterans Memorial Wall<br>Constitution Gardens \n 5 Henry Bacon Dr.<br>Washington, DC<br>GPS: 38.891225, -77.047704<br>Access: 8AM-12Midnight. Two photos required.<br><br>The Vietnam Veterans Memorial was founded by Jan Scruggs, who served in Vietnam (199th Light Infantry Brigade) from 1969-1970 as an infantry corporal. He wanted the memorial to acknowledge and recognize the service and sacrifice of all who served in Vietnam.<br><br>Mr. Scruggs lobbied Congress for a two acre plot of land in the Constitution Gardens, and on July 1, 1980, in the Rose Garden, President Jimmy Carter signed legislation to provide a site near the Lincoln Memorial.<br><br>It was a three and half year task to build the memorial and to orchestrate a celebration to salute those who served in Vietnam. With the addition of six names added in 2010, the total is now 58,272 names listed on the Memorial. Approximately 1200 of these are listed as missing (MIAs, POWs, and others).<br><br>Every year, the Run for the Wall motorcycle ride sets out from West Coast and ends with a massive parade on Memorial Day weekend. The 10-day Run for the Wall proceeds along 4 routes across the U.S., visiting Veterans Hospitals and memorial sites along the way. On the Sunday evening before Memorial Day, Rolling Thunder starts from the Pentagon parking lots and more than 350,000 bikes will ride through downtown Washington, DC ending at The Wall. Find out more at https://rftw.us<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-F8971B</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ou9mtmvr45ka2vcq9mk7997ar4/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqToRSHiQ05ESR-wp2K-KZOmq0ZxE4i-0DHenndCZFiKctfDEg8B385YgwPrPUTw6cBk2FF-wLE0q6Z7dZieTVWyZRfIWi58BzS9Dm6QvCkQJN7GW9R1k7x5gEihj9F3iUPQBM6ALctK9k0U2FL8eXY1FdRnpSzaaoF1p2L2BxpLLAdBeVwjWmS3UFTD_DvGAnXHmJzrawNwTVySLcJ6e3_e2BgNCHEs0iVva-GNjYvGon8y6kHJgXj9fR5mK8OfhIslPjoTobOOLXoJKb4xN-t6yxLsg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -77.047704,38.891225,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DC4 - Washington, DC</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/8r8p4217eq9f2p2olcp4gjlf3k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrduH90pg0TqLOji7nLCWVZ567jcTXgP0AzfsBjLkhfeNf53qKrsShAR8ApqMtmtNjmHsaaIsQftERWjyYpv7fhpdeYXOolYmEsqvGziq37cqEPvv3dskNQRslsrmtI0ZzfSlYA9cdiuHw1nLoHt8MLK26SwtV4c5151q8RZC4759JonGvYC1YNm4_SA9B_4GxXnDqjqN8zPW6Nu16uf66dxK7eOKjxOvgVWx_BpNDigxjIWqDZNKlOh12tqiRwQRL-9H4uqMu4CKDi7Wl0MvQ1LEhaRw?session=0&fife" height="200" width="auto" /><br><br>Vietnam Women’s Memorial<br>5 Henry Bacon Dr.<br>Washington, DC<br>GPS: 38.890568, -77.047002<br>Access: 8AM-12Midnight. Two photos required.<br><br>Flanked by the Vietnam Memorial Wall and the Three Soldiers Monument, the Women’s Memorial is a tribute to all women who served in the Vietnam War. Most were nurses in various branches of the armed services and this memorial features three caring for a wounded soldier. Serving as a reminder both of the importance of the role they played during the war and the hope they provided for the wounded; the three nurses, Hope, Faith and Charity are emblematic of the 265,000 who served during the war, 11,000 of them in Vietnam itself. All volunteers.<br><br>Because of the guerilla tactics of the North Vietnamese, many women were in the middle of combat zones. There was no front, no such thing as being stationed safely behind the lines. The names of eight are inscribed in the Wall nearby, having died in Vietnam.<br><br>An unknown number of civilian women also served in Vietnam as working for the Red Cross, the USO, Catholic Relief Services and other humanitarian organizations. Like their military counterparts, many of these women were wounded in the crossfire. More than 50 civilian American women died in Vietnam. This memorial is for them as well.<br><br>Made in America: Take a stroll east towards the WWII Memorial and around the north side of Constitution Gardens Pond, cross the bridge to the island and picnic near the memorial to the Signers of the Declaration of Independence (GPS 38.89108,-77.04286).<br><br>Instructions: Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-F8971B</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/8r8p4217eq9f2p2olcp4gjlf3k/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrduH90pg0TqLOji7nLCWVZ567jcTXgP0AzfsBjLkhfeNf53qKrsShAR8ApqMtmtNjmHsaaIsQftERWjyYpv7fhpdeYXOolYmEsqvGziq37cqEPvv3dskNQRslsrmtI0ZzfSlYA9cdiuHw1nLoHt8MLK26SwtV4c5151q8RZC4759JonGvYC1YNm4_SA9B_4GxXnDqjqN8zPW6Nu16uf66dxK7eOKjxOvgVWx_BpNDigxjIWqDZNKlOh12tqiRwQRL-9H4uqMu4CKDi7Wl0MvQ1LEhaRw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -77.047002,38.890568,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

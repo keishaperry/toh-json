@@ -24,14 +24,14 @@
 <div class="uk-container-expand">
 
 
-    <div class="js-upload uk-placeholder uk-text-center uk-padding-large uk-margin-large">
+<!--     <div class="js-upload uk-placeholder uk-text-center uk-padding-large uk-margin-large">
         <span uk-icon="icon: cloud-upload"></span>
         <span class="uk-text-middle">Import KML & JSON data into temp store by dropping a file here or</span>
         <div uk-form-custom>
             <input id="TOHfiles" type="file" name="files[]" multiple>
             <span class="uk-link">selecting one</span>
         </div>
-    </div>
+    </div> 
     <div id="genJsonKML" class=" uk-margin-large-bottom uk-width-1-1 ">
                 <form class="uk-width-1-1 uk-flex" >
                     <input name="test" val="test value" type="hidden" />
@@ -77,6 +77,8 @@
                 </table>
             </div>
 </div>
+    -->
+
 <div class="uk-container uk-padding-large">
 <form id="scrapeBuilderForm" class="uk-width-1-1 uk-grid uk-grid-large" uk-grid uk-height-match action="<?php echo admin_url( 'admin-post.php' ); ?>">
     <div class="uk-margin">
@@ -156,6 +158,12 @@
         <input type="hidden" name="action" value="trigger_scrape_db">
         <input type="hidden" name="db_tablename" value="parks">
         <button type="submit" class="uk-button uk-button-default uk-button-large">Import Parks DB</button>
+    </form>
+</p>
+<p uk-margin>
+    <form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
+        <input type="hidden" name="action" value="trigger_purge_db">
+        <button type="submit" class="uk-button uk-button-default uk-button-large">Purge SQL DB Bonuses</button>
     </form>
 </p>
 </div>

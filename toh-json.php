@@ -77,27 +77,13 @@ function run_toh_json() {
 
 	$plugin = new Toh_Json();
 	$plugin->run();
+	
 
 }
+
+
 run_toh_json();
 
-/* $updaters = get_posts( array(
-	'numberposts' => -1,
-	'post_type'   => 'toh_bonus',
-	'post_status' => array('publish','pending'),
-	'order' => 'ASC',
-	'orderby' => 'meta_field',
-	'meta_key' => '_toh_category',
-	'meta_value' => 'Gold Star Families'
-) );
-echo count($updaters);
-foreach ($updaters as $bonus) {
-	$meta = get_post_meta($bonus->ID,'_toh_category',true);
-
-		update_post_meta($bonus->ID,'_toh_category', "Gold Star Family" ,$meta);
-		echo $bonus->ID;
-
-} */
 /* $updaters = get_posts( array(
 	'numberposts' => -1,
 	'post_type'   => 'toh_bonus',
@@ -127,3 +113,4 @@ if (!is_null($result)){
 		echo $state->meta_value;
 	}
 }	 */
+

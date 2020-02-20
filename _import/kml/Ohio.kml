@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ohio</name>
+    <Style id="icon-1502-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>OH1 - Amherst
+</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/g5b3e5fa8kmhoeo5sfutnakeps/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqp5bjyRfM-yFcPCT8vdVp4gRZzN1R6O64KkhmA1-OSEP08RWRHIKZWpIJig-3UuqRjm9qlB4zjRpatQ4xiwy7l8WrItSLdJGmmvyHQkyReMpiT0wzQWaULXOwqv4z5QCQ4Lx6Lz2eQOXjcS2cf8H-DOkaizKsppsShGo8CuBDRQntskbR43lQWPD5VPE3W8ezovndi02uLN608TDZyvWF_l52tpDA774tWC48PSudBJG3JJsy-FPaP4utTKq9dmMvFYBf6-j6VQyxv8lb6b23fEv2L1w?session=0&fife" height="200" width="auto" /><br><br> <br>911 N. Lake St.<br>Amherst, Ohio<br>GPS: 41.406081, -82.238703<br>Access: 24/7<br><br>Made of black granite shaped in the outline of Lorain County, the monument is topped with a bronze eagle and draped flag. It exists to remember and honor the 98 men from the local area who died in the service of their country in the Vietnam War. It is a solemn place of reflection for, and to welcome home, all Vietnam vets.<br><br>Made In America: Are you up for a bakery item or something to satisfy your sweet tooth? Visit Kiedrowski’s Simply Delicious Bakery to try one of their patented “Snoogles.” They’re located a short six minutes away at 2267 Cooper Foster Park Rd. http://www.kiedrowskibakery.com<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/g5b3e5fa8kmhoeo5sfutnakeps/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALqp5bjyRfM-yFcPCT8vdVp4gRZzN1R6O64KkhmA1-OSEP08RWRHIKZWpIJig-3UuqRjm9qlB4zjRpatQ4xiwy7l8WrItSLdJGmmvyHQkyReMpiT0wzQWaULXOwqv4z5QCQ4Lx6Lz2eQOXjcS2cf8H-DOkaizKsppsShGo8CuBDRQntskbR43lQWPD5VPE3W8ezovndi02uLN608TDZyvWF_l52tpDA774tWC48PSudBJG3JJsy-FPaP4utTKq9dmMvFYBf6-j6VQyxv8lb6b23fEv2L1w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -82.238703,41.406081,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OH2 - Clinton</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/huspb0o4ednr0uq8fcpr6q3tso/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrJFKqjDfZ8WZE7GprFDlLLpEKZ_rbPam1HTe3du4-TtbnM8GLU2cIxsDQEwViJD5JLGaWEfa0ahrSO1fU8RWnHlX7JREeJZDSxSBrc3uef7Zqqvsni1VTeOcrl54l1t8wajVP8az6JTi5H3Bqs8fzRqX9mpy2QDbaay53lH7nrt3JB1HtZpacpRy6HmXtHzj8yU--5ppxHNjHROsSqcof9xpvaqr5lygNbPaVhDU78AEJs9l3Q4w21sIbkOwc9N7PVDwgk0vw7dZfHD4fPuEV3X4fSxQ?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Park<br>8005 S. Cleveland-Massillon Rd.<br>Clinton, Ohio<br>GPS: 40.924384, -81.625795<br>Access: 24/7. Nighttime visits are encouraged.<br><br>The park is a series of memorials. Wander through the park and see the unique Purple Heart Memorial, along the walkway past The Wall and just in front of the POW/MIA Reflection Pond.<br><br>From the Park staff: “The park is dedicated to honoring Ohio’s heroes from all branches of service during all wars and in peace. We salute all of those who have taken an oath to protect The Constitution of the United States of America, the cause of liberty and the safety of the citizens of our nation.<br><br>“The goal here is to HONOR all of our Heroes and their families, REMEMBER the sacrifices made to ensure the liberties of our nation and to CELEBRATE the lives of our heroes and our own lives that we are afforded due to their sacrifices. The small country setting provides a serene and quiet backdrop. The Ohio Veterans’ Memorial Park never closes. It is open 24 hours a day, 7 days a week and 365 days per year. The park is lit at night and we encourage you to visit the park after the sun has set. There is something surreal about the park at night. You would need to experience it to understand. http://www.ovmp.org”<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met. ]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/huspb0o4ednr0uq8fcpr6q3tso/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrJFKqjDfZ8WZE7GprFDlLLpEKZ_rbPam1HTe3du4-TtbnM8GLU2cIxsDQEwViJD5JLGaWEfa0ahrSO1fU8RWnHlX7JREeJZDSxSBrc3uef7Zqqvsni1VTeOcrl54l1t8wajVP8az6JTi5H3Bqs8fzRqX9mpy2QDbaay53lH7nrt3JB1HtZpacpRy6HmXtHzj8yU--5ppxHNjHROsSqcof9xpvaqr5lygNbPaVhDU78AEJs9l3Q4w21sIbkOwc9N7PVDwgk0vw7dZfHD4fPuEV3X4fSxQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -81.625795,40.924384,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OH3 - Gibsonburg
+</name>
+      <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ql3kgkmabd97msn7c3hm7nnceg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrRVLBaZzbZoFN6L3Ouyvwm1ejzdBNgq8E6UR8PP2wop_5TVNMdZclm2h51XnWfVQSp-yNl4oQtkWx49s_tCFFuN8MQqi1Top4ctaNXx-pXvgoJeWG5H3IsXFs6qrr4INPtW7lIOaK9iQXh98WmZTPCqgbaVDaITEOhec2ZPFwXRJuBrcgrlIsysiy2fwrz4syk6N-6sTjXdQigk4RI48G9-A7vU3ghV1d5w4QAzWMvOcEN_T8OHERH7t9EidsN3wOlnWVCUaYqw08oUMc0t-UXmdC6EA?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Park<br>N Main & Stone Sts.<br>Gibsonburg, Ohio<br>GPS: 41.386917, -83.319535<br>Access: 24/7. This is a quiet small town and the memorial is located on a residential street. Be respectful when visiting and be aware of children playing in the street. <br><br>Gibsonburg is a small town with an outstanding memorial park honoring local area veterans. Williams Park, once an old limestone quarry, was first organized and curated by James Havens, a Marine and retired iron worker and sculptor. <br><br>The park is the site of a Veterans Memorial and Museum with many small memorials including an Army tank, a U.S. Air Force Trainer Jet sitting atop a concrete pedestal and a Memorial Wall with a Havens-cast  bronze statue of a kneeling Army chaplain. And there's a 9/11 memorial featuring a 7000 lb antenna that was part of the world trade center, leaning on a Havens-designed 18-foot scale model of the new Freedom Tower. <br><br>The park is also home to a sculpture village that features close to 30 different art sculptures changed out every spring.<br><br>Made in the USA: If you’re hungry, a few blocks from the memorial in the heart of this small town is a place called Kate & Al’s Bar & Grill, where you’ll find good burgers, friendly people and cater to a hometown experience. http://bit.ly/2QUk9cp<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/ql3kgkmabd97msn7c3hm7nnceg/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrRVLBaZzbZoFN6L3Ouyvwm1ejzdBNgq8E6UR8PP2wop_5TVNMdZclm2h51XnWfVQSp-yNl4oQtkWx49s_tCFFuN8MQqi1Top4ctaNXx-pXvgoJeWG5H3IsXFs6qrr4INPtW7lIOaK9iQXh98WmZTPCqgbaVDaITEOhec2ZPFwXRJuBrcgrlIsysiy2fwrz4syk6N-6sTjXdQigk4RI48G9-A7vU3ghV1d5w4QAzWMvOcEN_T8OHERH7t9EidsN3wOlnWVCUaYqw08oUMc0t-UXmdC6EA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.319535,41.386917,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OH4 - Harrod
+</name>
+      <description><![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/u8kl21nflrp8haeco1rhk3iia8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq1gnthBqdYyKEJnNWc7Vskv_i1MVo01WxiFMd5H4p2fXaAF8vg-lj_YJdER6oTpIbun4YGj0fk5E8O9WRYahACu3tDFdjzpE4VlCRKzV0kHwzKJpabP8D_3pcx14-9jvWpwrz7Exn46eKcXWDbCpKnMY1lyddlP5NkgUU5KcXd5b81Z4MZ97bcswZA377_3AmXzZqOGt2EYPcf0TOtwNtHg0Q8lZYzJ4jPN7T0VTq66e4B-n692DSXVXpt-ttYdmyNlLV7ftZV5ySUTbVbY8qLcGQH9Q?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial Park<br>N Main and E 3rd Sts.<br>Harrod, Ohio<br>GPS: 40.709416, -83.920754<br>Access: 24/7. Some township records indicate the hours are 8AM-8PM but there are no restrictions to access. Please be respectful of the small town should your visit be during other hours.<br><br>For such a small town to have such a large memorial park is a testament to their patriotism. Among the park’s highlights is the UH-1 helicopter, tail number 65-09587. It is easy to overlook the fact that most static display pieces have a history of their own.<br><br>The Army purchased 65-09587 in December 1965. Originally a D model, it was sent to Vietnam and assigned to the 173rd Assault Helicopter Company. Records show the aircraft as being in service with the 173rd AHC unit until August 25, 1967. On that date the aircraft was involved in a major accident. The information available is as follows:<br><br>Aircraft Commander: Warrant Officer D.F. Jordan<br>Pilot: J.D. Colquitt<br>Crew Chief: A. M. Scheer<br>Door Gunner: G. J. Glappa<br>Total Flight Hours at this point: 1509<br><br>Accident Summary: The engine failed as a loud noise was heard. Suspect that foreign damage caused the N-1 turbine failure. The aircraft was set down in a pineapple field in five-foot scrub brush. There were 0 injuries.<br><br>Close examination reveals that the aircraft has several bullet holes that have been patched along with other major repairs. Records further indicate that the aircraft was shipped back to the United States and it appears to have been in maintenance until May of 1968 when it was assigned to the 355th Aviation Co., 4th Army, Fort Sill, Oklahoma. It shows up briefly in maintenance again at Corpus Christi, TX in 1975, and that is where it was probably converted to an H model. The records available end in December 1975. At that time 587 had 4756 total hours logged. The Auglaize Township Historical Society took possession of the aircraft from the National Guard at North Canton, Ohio in April of 1996 for static display.<br><br>Today, 587 proudly displays the markings and colors of the 176th Assault Helicopter Company, 14th Combat Aviation Battalion, Americal Division, Chu Lai, Republic of South Vietnam.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/u8kl21nflrp8haeco1rhk3iia8/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALq1gnthBqdYyKEJnNWc7Vskv_i1MVo01WxiFMd5H4p2fXaAF8vg-lj_YJdER6oTpIbun4YGj0fk5E8O9WRYahACu3tDFdjzpE4VlCRKzV0kHwzKJpabP8D_3pcx14-9jvWpwrz7Exn46eKcXWDbCpKnMY1lyddlP5NkgUU5KcXd5b81Z4MZ97bcswZA377_3AmXzZqOGt2EYPcf0TOtwNtHg0Q8lZYzJ4jPN7T0VTq66e4B-n692DSXVXpt-ttYdmyNlLV7ftZV5ySUTbVbY8qLcGQH9Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.920754,40.709416,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OH5 - Middletown
+</name>
+      <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/259vbgpvska6nf07d54a5uqgi0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoIrNLC86dSmAxrSlbcZ0LQOQy9b2Qs6u8CzFEz6KHt7Mau-1CrihWYLMuDAkQWzS28C4Ogk3Kep6eCf23B_5ZDAtrm5fkDWSdWooylVtt-q7kywK3qLZHSFPh5uTcS9h36eU2Q08st15VLEsXI8naJ9oQiVqMg9qIO52HRHQZ8OcfBfWd5ujD-mWvaxej1vDrJaLiglu9DA4F2eRySBSe08s0qHFxCb_ixyOVC1M67ulwgarYzlVMYDhCTDp5NE4wLZnT32t0WuPz7cBbMMsfxxU6VOw?session=0&fife" height="200" width="auto" /><br><br>Veterans Memorial<br>Woodside Cemetery \n Verity Pkwy. & 14th Ave.<br>Middletown, Ohio<br>GPS: 39.500924,-84.409428<br>Access: 8:00AM-dusk. Trophy and IBA run photos must be taken in daylight.<br><br>The Veterans Memorial project was initiated in 2001 to honor all area veterans who have served during times of peace and war since the founding of our country. Special recognition was given to those who gave the supreme sacrifice for their country. Their names are inscribed on the face of the monument. <br><br>The Memorial is within the Woodside Cemetery and Arboretum which has served the area since 1895. Also on the grounds and worth a visit is the Soldiers & Sailors Monument which was dedicated in 1902. There are numerous other memorials and markers on the grounds.<br><br>Take a photo similar to the one above, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/259vbgpvska6nf07d54a5uqgi0/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALoIrNLC86dSmAxrSlbcZ0LQOQy9b2Qs6u8CzFEz6KHt7Mau-1CrihWYLMuDAkQWzS28C4Ogk3Kep6eCf23B_5ZDAtrm5fkDWSdWooylVtt-q7kywK3qLZHSFPh5uTcS9h36eU2Q08st15VLEsXI8naJ9oQiVqMg9qIO52HRHQZ8OcfBfWd5ujD-mWvaxej1vDrJaLiglu9DA4F2eRySBSe08s0qHFxCb_ixyOVC1M67ulwgarYzlVMYDhCTDp5NE4wLZnT32t0WuPz7cBbMMsfxxU6VOw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.409428,39.500924,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OH6 - Riverside
+</name>
+      <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9nq8m0oue44afelte06k2ln4no/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpfVqZwkZkqdnnSZ9e_Ez2IcdyJ1b98mhyroplje0o3rTwpw_w50ZMqHyUqZL-4gLvfwQPiE6XpsnmfQjDd_Rg7Gcux-hLcgk5NSzJZ_CH_CB9razth-lZHQBvnSZeZppbPizeK4J6SQZZ6kKFAXL3Oj9yElZebzUfxYRhRWDk8FiEHH8mixVrLzRhzHBJXSKbP9AwHGxOY8P6vMekT23cc8uvi6VcqJu5qagjH2dETiGspplz_OvCneAp6qU7xQyMB01lTM5VBIRox4yc2Qzo-_znfdg?session=0&fife" height="200" width="auto" /><br><br>Air Force Museum Memorial Park<br>Wright-Patterson AFB \n 1100 Spaatz St.<br>Riverside, Ohio<br>GPS: 39.780584, -84.112044<br>Access: 9AM-5PM<br><br>The museum’s Memorial Park honors Air Force-associated units and people for their courageous service and sacrifice in the cause of freedom. In October 1972, the museum dedicated the first memorial with a commemorative tree and plaque recognizing Americans held as Prisoners of War by the North Vietnamese and those missing in action during the Southeast Asia Conflict. Memorial Park has grown significantly since that first dedication, with more than 500(!) memorials, including statuary memorials, plaques, trees and benches including the new Gold Star Family Memorial.<br><br>The required photo is of the park entrance but take it all in and keep an eye out for the Ohio sponsor’s favorite, the Memorial to Doolittle’s Raiders.<br><br>Entry to the Museum complex is through the gate onto Bong St. off Springfield St. The gate opens early, typically at 8:30AM and you would be allowed access to the Memorial Park at that time. Follow Bong St to the end. Security measures in place and there is a motorcycle-only parking area directly adjacent to the Park.<br><br>Made In America: It doesn’t get any more Made In America than the National Museum of the Air Force, the “world’s largest military aviation museum.” Admission is free and you could easily spend an entire day here, if not longer. Visit https://www.nationalmuseum.af.mil for details.<br><br>If you’re hungry, the RIP Rap Roadhouse is a short ride away and always has great food, shakes, and good times. “Always biker, family, and biker family friendly!” Try visiting on Wednesday Night Bike Night where you might see 1,000+ motorcycles show up when the weather is good! http://www.ripraproadhouse.com<br><br>Instructions: Take a photo similar to the one attached, along with rider flag and motorcycle. A second photo may be required for location and/or safety reasons. Refer to http://bit.ly/Rules_5-7 for photo verification. Scorers have final say whether standards are met.]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/9nq8m0oue44afelte06k2ln4no/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALpfVqZwkZkqdnnSZ9e_Ez2IcdyJ1b98mhyroplje0o3rTwpw_w50ZMqHyUqZL-4gLvfwQPiE6XpsnmfQjDd_Rg7Gcux-hLcgk5NSzJZ_CH_CB9razth-lZHQBvnSZeZppbPizeK4J6SQZZ6kKFAXL3Oj9yElZebzUfxYRhRWDk8FiEHH8mixVrLzRhzHBJXSKbP9AwHGxOY8P6vMekT23cc8uvi6VcqJu5qagjH2dETiGspplz_OvCneAp6qU7xQyMB01lTM5VBIRox4yc2Qzo-_znfdg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.112044,39.780584,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OH7 - Sylvania 
+</name>
+      <description><![CDATA[<img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/fesum0sffog9h7q264v2ugn4ko/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrQUfDEWgP6lklQCYF9v27DJZRVYmgcXWNbnwou4f7OSJxBy5PjoixkCG8qs0ogUCl9LA_HWSvIYa7NmMXUMyfnVTX1yQlqLfMU1286EGTu6mEIuzCRxrJemq57_RlmiOJ8lOeiHp09c-6JnKG20yrj_FkVi446ps1Uvmg3Ywsc_gP-xTUy7cJrDVGqVoo8HJhriPN8clUO5vL3f3QjsE2HDthxAS-9Z3ntkJ__ftPR69wDPM1h-P6FjFxZRhELyoLLOHVDub8r6W5hgXAOMvcK58UqkA?session=0&fife" height="200" width="auto" /><br><br>9/11 First Responders Last Call Memorial<br>Toledo Memorial Park \n 6382 Monroe St. <br>Sylvania, Ohio<br>GPS: 41.723083, -83.692083<br>Access 8:30AM-4:30PM<br><br>The memorial was dedicated on September 10th, 2016. The cornerstone of the section is a surviving beam from the wreckage of the World Trade Center that serves as a symbol and reminder of a first responders commitment and sacrifice that day and every day. The 13,000 pound section of beam and structural steel is welded onto the end of the beam is a jib off of a 1940’s era Bucyrus Erie Crane which signifies a fire truck ladder.  At the end of the jib, a weighted cable holds an American Flag that was flown over the United States Capitol. <br><br>It is fastened to an octagonal 70 yard reinforced concrete base which stands 9 1/2 feet tall, designed in the shape of a bolt, symbolizing the American sprit which rebuilt Ground Zero.  The beam points 1 degree south from due east directly at the World Trade Center.  The monument’s name itself is taken from the “Last Call” ritual, which is observed during the service of a fallen police officer or firefighter.<br><br>In 2017, the final piece of the memorial was poured, molded, polished and rang signifying the most touching tribute done at firefighter funerals. This one of a kind bell was made on site by The Verdin Bell Company with the world’s only bell foundry on wheels. 500 pounds of metal consisting of 12 bronze ingots weighing 40 pounds each were melted into molten liquid in just three hours. The bell cooled and hardened overnight. The bell was then released from the mold and then polished for more than four hours. Each bell weighs 250 lbs, stands about two feet tall and rings in the musical note of “E”. This whole process was accomplished in just two days.<br><br>The Sylvania Fire Dept held the inaugural ringing of the bell on September 11th, 2017. <br><br>Made in America: Nearby, you’ll find Tony Packos, famous for their Hungarian hot dogs and pickles. They also have other locations in and around Toledo. https://www.tonypacko.com]]></description>
+      <styleUrl>#icon-1502-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/cm3iv6s5tv3a1km3eugdufoosc/fesum0sffog9h7q264v2ugn4ko/1581616800000/poUSkSheuzVuIq92a7oITjrkHTCcGvi8/00554180563606985204/1AF2TALrQUfDEWgP6lklQCYF9v27DJZRVYmgcXWNbnwou4f7OSJxBy5PjoixkCG8qs0ogUCl9LA_HWSvIYa7NmMXUMyfnVTX1yQlqLfMU1286EGTu6mEIuzCRxrJemq57_RlmiOJ8lOeiHp09c-6JnKG20yrj_FkVi446ps1Uvmg3Ywsc_gP-xTUy7cJrDVGqVoo8HJhriPN8clUO5vL3f3QjsE2HDthxAS-9Z3ntkJ__ftPR69wDPM1h-P6FjFxZRhELyoLLOHVDub8r6W5hgXAOMvcK58UqkA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -83.692083,41.723083,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
