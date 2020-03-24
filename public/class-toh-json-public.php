@@ -103,7 +103,11 @@ class Toh_Json_Public {
 	public function get_bonus_json_version($version){
 		global $wpdb;
 		$table = $wpdb->prefix . "toh_json_database";
-		$result = $wpdb->get_row(  "SELECT * FROM $table WHERE `version` = '$version' LIMIT 1" ) ;
+		if ($version){
+			$result = $wpdb->get_row(  "SELECT * FROM $table WHERE `version` = '$version' LIMIT 1" ) ;
+		} else {
+			$result = $wpdb->get_row(  "SELECT * FROM $table ORDER BY ID DESC LIMIT 1" ) ;
+		}
 		return (array)$result;
 		
 	}
@@ -119,8 +123,16 @@ class Toh_Json_Public {
 
 	}
 	public function get_bonus_data($data) {
+		$opt =  "_tohlastchanged";
+		$last_changed = get_option($opt, false );
 		$filter["version"] = $data->get_param("v");
-		$data = $this->get_bonus_json_version($filter["version"]);
+		if (isset($filter["version"])){
+			$data = $this->get_bonus_json_version($filter["version"]);
+		} else {
+			$data = $this->get_bonus_json_version(false);
+
+		}
+
 		$file = json_decode($data["json_file"]);
 		return $file;
 	}
