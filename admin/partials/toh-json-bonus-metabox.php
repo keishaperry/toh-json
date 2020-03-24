@@ -16,6 +16,9 @@
             <input class="uk-input" type="text" name="category" id="category" placeholder="Category" value="<?php echo isset($meta["_toh_category"][0]) ? $meta["_toh_category"][0] : "" ; ?>">
         </div>
         <div>
+            <input class="uk-input" type="text" name="region" id="region" placeholder="region" value="<?php echo isset($meta["_toh_region"][0]) ? $meta["_toh_region"][0] : "" ; ?>">
+        </div>
+        <div>
             <input class="uk-input" type="text" name="value" id="value" placeholder="0" value="<?php echo isset($meta["_toh_value"][0]) ? $meta["_toh_value"][0] : "" ; ?>">
         </div>
         <div class="uk-width-1-1">

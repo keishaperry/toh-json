@@ -84,13 +84,8 @@
     <div class="uk-margin">
     <?php if (current_user_can('administrator')) :?>
     <?php $next_version = $this->get_next_version(); ?>
-
-            <p class="uk-text-small">Next version is: <b><?php echo $next_version; ?></b></p>
         <div class="uk-margin">
-            <label><input type="checkbox" />Override version?</label>
-        </div>
-        <div class="uk-margin">
-            <input type="text" value="<?php echo $next_version; ?>"/>
+            <input type="text" disabled readonly value="<?php echo $next_version; ?>"/>
         </div>
     <?php endif; ?>
     </div>

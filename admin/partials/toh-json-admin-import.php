@@ -30,5 +30,9 @@
 <input type="hidden" name="action" value="import_kml">
 <input type="submit" value="Import KML Sources">
 </form>
+<form action="<?php echo admin_url( 'admin-post.php' ); ?>" method="post">
+<input type="hidden" name="action" value="purge_imported_kml">
+<input type="submit" value="Delete Imported KML Sources">
+</form>
 </div>
 </div>

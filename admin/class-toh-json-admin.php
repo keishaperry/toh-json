@@ -174,6 +174,19 @@ class Toh_Json_Admin {
 	public function import_data_page_callback(){
 		include plugin_dir_path( __FILE__ ) . 'partials/toh-json-admin-import.php';
 	}
+
+
+	public function update_datastore_meta(){
+		$opt =  "_tohlastchanged";
+		$last_changed = get_option($opt, false );
+		if ($last_changed){
+			update_option( $opt, time());
+
+		} else {
+			add_option( $opt, time());
+		}
+	}
+
 	public function trigger_scrape(){
 		$json = json_decode($this->curl_prod_json());
 		$i = 0;
@@ -241,7 +254,30 @@ class Toh_Json_Admin {
 				$gps = str_ireplace("GPS:","",$datapoints[3]);
 				$access = !empty($datapoints[4]) ? str_ireplace("Access:","",$datapoints[4]) : "";
 				$description = $datasets[2];
-			
+				switch(trim($location[1])){
+					case "North Dakota":
+					case "South Dakota":
+						$region = "Dakotas";
+						break;
+					case "Delaware":
+					case "Maryland":
+					case "New Jersey":
+					case "Washington DC":
+						$region = "Mid-Atlantic";
+						break;
+					case "Connecticut":
+					case "Maine":
+					case "Massachusetts":
+					case "New Hampshire":
+					case "Rhode Island":
+					case "Vermont":
+						$region = "New England";
+						break;
+					default:
+						$region = $this->format_state(trim($location[1]),"abbr");	
+				}
+
+
 				$data = array(
 					'post_title'    => trim($name[1]),
 					'post_content'  => "",
@@ -251,10 +287,11 @@ class Toh_Json_Admin {
 					'meta_input'   => array(
 						'_toh_bonusCode' => trim($name[0]),
 						'_toh_category' => "TOH",
+						'_toh_region' => trim($region),
 						'_toh_value' => 1,
 						'_toh_address' => sanitize_text_field(trim($address)),
 						'_toh_city' => sanitize_text_field(trim($location[0])),
-						'_toh_state' => !empty($location[1]) ? sanitize_text_field($location[1]) : "",
+						'_toh_state' => !empty($location[1]) ? $this->format_state(trim($location[1]),"abbr") : "",
 						'_toh_GPS' => sanitize_text_field(trim($gps)),
 						'_toh_Access' => trim($access),
 						'_toh_imageName' => "2020".strtolower(trim($name[0])).".jpg",
@@ -283,7 +320,7 @@ class Toh_Json_Admin {
 				}
 			}
 		}
-
+		wp_redirect(admin_url("edit.php?post_type=toh_bonus"));
 	}
 	public function trigger_scrape_db(){
 		$db_tablename = $_REQUEST["db_tablename"];
@@ -584,6 +621,7 @@ class Toh_Json_Admin {
 		$meta_fields = array(
 			'bonusCode' => '_toh_bonusCode',
 			'category' => '_toh_category',
+			'region' => '_toh_region',
 			'value' => '_toh_value',
 			'address' => '_toh_address',
 			'city' => '_toh_city',
@@ -601,10 +639,14 @@ class Toh_Json_Admin {
 
 	}
 	public function get_next_version(){
-		$current_version = $this->get_current_version();
-		$versions = explode(".",$current_version);
-		$versions[2] = $versions[2] + 1;
-		return implode(".",$versions);
+		$opt =  "_tohlastchanged";
+		$last_changed = get_option($opt, false );
+		if ($last_changed){
+			add_option( $opt, time());
+			return time();
+		} else {
+			return $last_changed;
+		}
 	}
 
 	public function get_current_version(){
@@ -650,13 +692,7 @@ class Toh_Json_Admin {
 			}
 		}	
 
-		$insert =  array(
-			"meta" => array(
-				"fileName" => "Tour of Honor Bonus Listing",
-				"version" => $next_version,
-			),
-			"bonuses" => $bonuses,
-		);
+		$insert =  $bonuses;
 		$this->store_json_record($insert);
 		return wp_redirect( admin_url( 'admin.php?page=toh' ) );
 
@@ -689,16 +725,13 @@ class Toh_Json_Admin {
 			$meta = get_post_meta($bonus->ID);
 			$bonus = array(
 				"bonusCode" => $meta["_toh_bonusCode"][0],
-				"category" => $meta["_toh_category"][0],
-				"name" => $bonus->post_title,
-				"value" => (int)$meta["_toh_value"][0],
+				"bonusCategory" => $meta["_toh_category"][0],
+				"bonusName" => $bonus->post_title,
 				"address" => $meta["_toh_address"][0],
 				"city" => $meta["_toh_city"][0],
 				"state" => $meta["_toh_state"][0],
+				"region" => $meta["_toh_region"][0],
 				"GPS" => $meta["_toh_GPS"][0],
-				"Access" => $meta["_toh_Access"][0],
-				"flavor" => $meta["_toh_flavor"][0],
-				"madeinamerica" => $meta["_toh_madeinamerica"][0],
 				"imageName"=> !is_null($meta["_toh_imageName"][0]) ? $meta["_toh_imageName"][0] : '',
 			);
 			array_push($bonuses,$bonus);
@@ -738,7 +771,7 @@ class Toh_Json_Admin {
 	function custom_toh_bonus_cols($columns) {
 		$columns['bonusCode'] = 'Bonus Code';
 		$columns['toh_city'] = 'City';
-		$columns['toh_state'] = 'State';
+		$columns['toh_region'] = 'Region';
 		return $columns;
 	}
 	function custom_toh_bonus_col_content( $column_name ) {
@@ -752,17 +785,17 @@ class Toh_Json_Admin {
 			
 			$meta = get_post_meta($post->ID, '_toh_city', true);
 			echo $meta;
-		} else if ('toh_state' === $column_name){
+		} else if ('toh_region' === $column_name){
 			global $post;
 			
-			$meta = get_post_meta($post->ID, '_toh_state', true);
+			$meta = get_post_meta($post->ID, '_toh_region', true);
 			echo $meta;
 		}
 		
 	}
 	function sortable_toh_bonus_col( $columns ) {
 		//$columns['bonusCode'] = 'toh_bonusCode'; 
-		$columns['toh_state'] = 'toh_state'; 
+		$columns['toh_region'] = 'toh_region'; 
 		return $columns;
 	}
 	function manage_toh_bonus_pre_get_posts( $query ) {
@@ -770,14 +803,11 @@ class Toh_Json_Admin {
 	   if ( $query->is_main_query() && ( $orderby = $query->get( 'orderby' ) ) ) {
 		  switch( $orderby ) {
 			
-			 case 'toh_state':
-/* 				$query->set( 'meta_key', '_toh_state' ); 
-				$query->set( 'orderby', 'meta_value' );
-				$query->set( 'order', 'ASC' ); */
-				$query->set('meta_key', '_toh_state');
+			 case 'toh_region':
+				$query->set('meta_key', 'toh_region');
 				$query->set('orderby', array(
 					'meta_value' => 'ASC',
-					'post_date'      => 'ASC',
+					'post_date'  => 'ASC',
 				));
 
 				break;
@@ -831,7 +861,68 @@ function kpupdaters(){
 	
 	} */
 }
+function format_state( $input, $format = '' ) {
+	if( ! $input || empty( $input ) )
+		return;
 
+		$states = array(
+			'Alabama'=>'AL',
+			'Alaska'=>'AK',
+			'Arizona'=>'AZ',
+			'Arkansas'=>'AR',
+			'California'=>'CA',
+			'Colorado'=>'CO',
+			'Connecticut'=>'CT',
+			'Delaware'=>'DE',
+			'Florida'=>'FL',
+			'Georgia'=>'GA',
+			'Hawaii'=>'HI',
+			'Idaho'=>'ID',
+			'Illinois'=>'IL',
+			'Indiana'=>'IN',
+			'Iowa'=>'IA',
+			'Kansas'=>'KS',
+			'Kentucky'=>'KY',
+			'Louisiana'=>'LA',
+			'Maine'=>'ME',
+			'Maryland'=>'MD',
+			'Massachusetts'=>'MA',
+			'Michigan'=>'MI',
+			'Minnesota'=>'MN',
+			'Mississippi'=>'MS',
+			'Missouri'=>'MO',
+			'Montana'=>'MT',
+			'Nebraska'=>'NE',
+			'Nevada'=>'NV',
+			'New Hampshire'=>'NH',
+			'New Jersey'=>'NJ',
+			'New Mexico'=>'NM',
+			'New York'=>'NY',
+			'North Carolina'=>'NC',
+			'North Dakota'=>'ND',
+			'Ohio'=>'OH',
+			'Oklahoma'=>'OK',
+			'Oregon'=>'OR',
+			'Pennsylvania'=>'PA',
+			'Rhode Island'=>'RI',
+			'South Carolina'=>'SC',
+			'South Dakota'=>'SD',
+			'Tennessee'=>'TN',
+			'Texas'=>'TX',
+			'Utah'=>'UT',
+			'Vermont'=>'VT',
+			'Virginia'=>'VA',
+			'Washington'=>'WA',
+			'West Virginia'=>'WV',
+			'Wisconsin'=>'WI',
+			'Wyoming'=>'WY'
+			);
+
+	if (!empty($states[$input])){
+		return $states[$input];
+	}
+	return $input;
+}
 
 
 
