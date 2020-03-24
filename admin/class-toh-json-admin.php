@@ -274,7 +274,7 @@ class Toh_Json_Admin {
 						$region = "New England";
 						break;
 					default:
-						$region = $this->format_state(trim($location[1]),"abbr");	
+						$region = trim($location[1]);	
 				}
 
 
@@ -286,7 +286,7 @@ class Toh_Json_Admin {
 					'post_type'   => 'toh_bonus',
 					'meta_input'   => array(
 						'_toh_bonusCode' => trim($name[0]),
-						'_toh_category' => "TOH",
+						'_toh_category' => "Tour of Honor",
 						'_toh_region' => trim($region),
 						'_toh_value' => 1,
 						'_toh_address' => sanitize_text_field(trim($address)),
