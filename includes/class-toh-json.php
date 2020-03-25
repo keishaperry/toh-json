@@ -78,6 +78,7 @@ class Toh_Json {
 		$this->set_locale();
 		$this->define_admin_hooks();
 		$this->define_public_hooks();
+		//date_default_timezone_set('EDT');
 
 	}
 

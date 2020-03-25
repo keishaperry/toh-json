@@ -124,41 +124,9 @@
 
 
 
-<form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
+<!--<form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
     <input type="hidden" name="action" value="trigger_scrape">
     <?php submit_button( 'Scrape live data' ); ?>
-</form>
-<p uk-margin>
-    <form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
-        <input type="hidden" name="action" value="trigger_scrape_db">
-        <input type="hidden" name="db_tablename" value="dogs">
-        <button type="submit" class="uk-button uk-button-default uk-button-large">Import War Dogs DB</button>
-    </form>
-    <form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
-        <input type="hidden" name="action" value="trigger_scrape_db">
-        <input type="hidden" name="db_tablename" value="doughboys">
-        <button type="submit" class="uk-button uk-button-default uk-button-large">Import Doughboys DB</button>
-    </form>
-    <form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
-        <input type="hidden" name="action" value="trigger_scrape_db">
-        <input type="hidden" name="db_tablename" value="goldstars">
-        <button type="submit" class="uk-button uk-button-default uk-button-large">Import Gold Stars DB</button>
-    </form>
-    <form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
-        <input type="hidden" name="action" value="trigger_scrape_db">
-        <input type="hidden" name="db_tablename" value="hueys">
-        <button type="submit" class="uk-button uk-button-default uk-button-large">Import Hueys DB</button>
-    </form>
-    <form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
-        <input type="hidden" name="action" value="trigger_scrape_db">
-        <input type="hidden" name="db_tablename" value="parks">
-        <button type="submit" class="uk-button uk-button-default uk-button-large">Import Parks DB</button>
-    </form>
-</p>
-<p uk-margin>
-    <form class="uk-width-1-1 uk-margin" action="<?php echo admin_url( 'admin-post.php' ); ?>">
-        <input type="hidden" name="action" value="trigger_purge_db">
-        <button type="submit" class="uk-button uk-button-default uk-button-large">Purge SQL DB Bonuses</button>
-    </form>
-</p>
+</form>-->
+
 </div>

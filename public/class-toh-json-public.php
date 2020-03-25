@@ -120,6 +120,10 @@ class Toh_Json_Public {
             'methods' => 'GET',
             'callback' => [$this, 'get_bonus_data'],
         ) );
+        register_rest_route( 'toh/v1', '/updates/', array(
+            'methods' => 'GET',
+            'callback' => [$this, 'get_updated_data'],
+        ) );
 
 	}
 	public function get_bonus_data($data) {
@@ -135,6 +139,40 @@ class Toh_Json_Public {
 
 		$file = json_decode($data["json_file"]);
 		return $file;
+	}
+	
+	public function get_updated_data(){
+		$bonuses = [];
+		$now = time();
+		$then =  "1585104026";
+		//echo date( 'c' ,$then);exit;
+		$args = array(
+			'post_type' => "toh_bonus",
+			'date_query' => array(
+				array(
+					'column' => 'post_modified',
+					'after'  =>  date( 'c' ,$then),
+				),
+			),
+			'posts_per_page' => -1,
+		);
+		$changes = get_posts($args);
+		foreach ($changes as $bonus) {
+			$meta = get_post_meta($bonus->ID);
+			$bonus = array(
+				"bonusCode" => $meta["_toh_bonusCode"][0],
+				"bonusCategory" => $meta["_toh_category"][0],
+				"bonusName" => $bonus->post_title,
+				"address" => $meta["_toh_address"][0],
+				"city" => $meta["_toh_city"][0],
+				"state" => $meta["_toh_state"][0],
+				"region" => $meta["_toh_region"][0],
+				"GPS" => $meta["_toh_GPS"][0],
+				"sampleImage"=> !is_null($meta["_toh_imageName"][0]) ? $meta["_toh_imageName"][0] : '',
+			);
+			array_push($bonuses,$bonus);
+		} 
+		return $bonuses;
 	}
 
 
