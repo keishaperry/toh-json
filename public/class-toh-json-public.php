@@ -174,7 +174,7 @@ class Toh_Json_Public {
 	public function get_updated_data(){
 		$bonuses = [];
 		$now = time();
-		$then =  "1585104026";
+		$then =  "1585256157";
 		//$then =  "1585717260";
 		$args = array(
 			'post_type' => "toh_bonus",
