@@ -106,7 +106,7 @@ class Toh_Json_Public {
 		if ($version){
 			$result = $wpdb->get_row(  "SELECT * FROM $table WHERE `version` = '$version' LIMIT 1" ) ;
 		} else {
-			$result = $wpdb->get_row(  "SELECT * FROM $table ORDER BY ID DESC LIMIT 1" ) ;
+			//$result = $wpdb->get_row(  "SELECT * FROM $table ORDER BY ID DESC LIMIT 1" ) ;
 		}
 		return (array)$result;
 		
@@ -133,7 +133,37 @@ class Toh_Json_Public {
 		if (isset($filter["version"])){
 			$data = $this->get_bonus_json_version($filter["version"]);
 		} else {
-			$data = $this->get_bonus_json_version(false);
+			$now = time();
+			$then =  "1585717260";
+			$bonuses = [];
+			$now = time();
+			$args = array(
+				'post_type' => "toh_bonus",
+				'posts_per_page' => -1,
+			);
+			if ($now < $then){
+				$args['meta_key'] = '_toh_category';
+				$args['meta_value'] = 'Tour of Honor';
+				$args['meta_compare'] = '!=';
+			}
+			$changes = get_posts($args);
+			foreach ($changes as $bonus) {
+				$meta = get_post_meta($bonus->ID);
+				$bonus = array(
+					"bonusCode" => $meta["_toh_bonusCode"][0],
+					"bonusCategory" => $meta["_toh_category"][0],
+					"bonusName" => $bonus->post_title,
+					"address" => $meta["_toh_address"][0],
+					"city" => $meta["_toh_city"][0],
+					"state" => $meta["_toh_state"][0],
+					"region" => $meta["_toh_region"][0],
+					"GPS" => $meta["_toh_GPS"][0],
+					"sampleImage"=> !is_null($meta["_toh_imageName"][0]) ? $meta["_toh_imageName"][0] : '',
+					"sampleImageURL"=> !is_null($meta["_toh_imageURL"][0]) ? $meta["_toh_imageURL"][0] : '',
+				);
+				array_push($bonuses,$bonus);
+			} 
+			return $bonuses;
 
 		}
 
@@ -145,7 +175,7 @@ class Toh_Json_Public {
 		$bonuses = [];
 		$now = time();
 		$then =  "1585104026";
-		//echo date( 'c' ,$then);exit;
+		//$then =  "1585717260";
 		$args = array(
 			'post_type' => "toh_bonus",
 			'date_query' => array(
@@ -169,6 +199,7 @@ class Toh_Json_Public {
 				"region" => $meta["_toh_region"][0],
 				"GPS" => $meta["_toh_GPS"][0],
 				"sampleImage"=> !is_null($meta["_toh_imageName"][0]) ? $meta["_toh_imageName"][0] : '',
+				"sampleImageURL"=> !is_null($meta["_toh_imageURL"][0]) ? $meta["_toh_imageURL"][0] : '',
 			);
 			array_push($bonuses,$bonus);
 		} 

@@ -188,54 +188,6 @@ class Toh_Json_Admin {
 	}
 
 
-	public function trigger_scrape(){
-		$json = json_decode($this->curl_prod_json());
-		$i = 0;
-		$scraped_count = 0;
-		foreach ($json->bonuses as $bonus){
-			$ids = get_posts( array(
-				'numberposts' => 1,
-				'post_type'   => array('toh_bonus'),
-				'post_status'   => array( 'publish','pending','draft','auto-draft','future','private','inherit'),
-				'fields'      => 'ids',
-				'meta_key' => '_toh_bonusCode',
-				'meta_value' => sanitize_text_field($bonus->bonusCode),
-				'meta_compare' => '==', 
-			) );
-			if (is_array($ids) && count($ids) > 0){
-				//POST w/ this bonusCode exists
-				//todo : update metadata?
-			} else {
-					$the_post = array(
-						'post_title'    => wp_strip_all_tags( $bonus->name ),
-						'post_content'  => "",
-						'post_status'   => 'pending',
-						'post_author'   => 1,
-						'post_type'   => 'toh_bonus',
-						'meta_input'   => array(
-							'_toh_bonusCode' => sanitize_text_field($bonus->bonusCode),
-							'_toh_category' => sanitize_text_field($bonus->category),
-							'_toh_value' => 1,
-							'_toh_address' => sanitize_text_field($bonus->address),
-							'_toh_city' => sanitize_text_field($bonus->city),
-							'_toh_state' => sanitize_text_field($bonus->state),
-							'_toh_GPS' => sanitize_text_field($bonus->GPS),
-							'_toh_Access' => sanitize_text_field($bonus->Access),
-							'_toh_imageName' => sanitize_text_field($bonus->imageName),
-							'_toh_flavor' => sanitize_text_field($bonus->flavor),
-							'_toh_madeinamerica' => sanitize_text_field($bonus->madeinamerica),
-						),
-					);
-					// Insert the post into the database
-					wp_insert_post( $the_post );
-					$scraped_count++; 			
-			}
-			$i++;
-
-		}
-		wp_redirect( admin_url( 'admin.php?page=toh' ) );
-		return true;
-	}
 	public function import_kml(){
 		// get import files by extension
 		foreach ( glob( plugin_dir_path( __DIR__ ) .'_import/kml/*.kml' ) as $kml ) {
@@ -296,6 +248,7 @@ class Toh_Json_Admin {
 						'_toh_GPS' => sanitize_text_field(trim($gps)),
 						'_toh_Access' => trim($access),
 						'_toh_imageName' => "2020".$code.".jpg",
+						'_toh_imageURL' => "https://www.tourofhonor.com/2020appimages/2020".$code.".jpg",
 						'_toh_flavor' => sanitize_text_field($description),
 					),
 				);
@@ -424,6 +377,7 @@ class Toh_Json_Admin {
 		switch($db_tablename){
 			case 'dogs':
 				foreach ($result as $bonus){
+					$code = "K9".str_pad($bonus->dog_id,3,"0",STR_PAD_LEFT);
 					$bonus = array(
 						'post_title'    => wp_strip_all_tags( $bonus->dog_name ),
 						'post_content'  => "",
@@ -431,7 +385,7 @@ class Toh_Json_Admin {
 						'post_author'   => 1,
 						'post_type'   => 'toh_bonus',
 						'meta_input'   => array(
-							'_toh_bonusCode' => "K9-".str_pad($bonus->dog_id,3,"0",STR_PAD_LEFT),
+							'_toh_bonusCode' => $code,
 							'_toh_category' => "War Dogs",
 							'_toh_value' => 1,
 							'_toh_address' => sanitize_text_field($bonus->dog_addr),
@@ -440,7 +394,8 @@ class Toh_Json_Admin {
 							'_toh_region' => "unneeded",
 							'_toh_GPS' => sanitize_text_field($bonus->dog_gps),
 							'_toh_Access' => '',
-							'_toh_imageName' => "2020dogs".str_pad($bonus->dog_id,3,"0",STR_PAD_LEFT).".jpg",
+							'_toh_imageName' => $code.".jpg",
+							'_toh_imageURL' => "https://www.tourofhonor.com/2020appimages/".$code.".jpg",
 							'_toh_flavor' => sanitize_text_field($bonus->dog_desc)."\n".sanitize_text_field($bonus->dog_link),
 							'_toh_madeinamerica' => '',
 						),
@@ -450,6 +405,7 @@ class Toh_Json_Admin {
 				break;
 			case 'doughboys':
 				foreach ($result as $bonus){
+					$code = "DB".str_pad($bonus->doughboy_id,3,"0",STR_PAD_LEFT);
 					$bonus = array(
 						'post_title'    => wp_strip_all_tags( $bonus->doughboy_name ),
 						'post_content'  => "",
@@ -457,7 +413,7 @@ class Toh_Json_Admin {
 						'post_author'   => 1,
 						'post_type'   => 'toh_bonus',
 						'meta_input'   => array(
-							'_toh_bonusCode' => "DB".str_pad($bonus->doughboy_id,3,"0",STR_PAD_LEFT),
+							'_toh_bonusCode' => $code,
 							'_toh_category' => "Doughboys",
 							'_toh_value' => 1,
 							'_toh_address' => sanitize_text_field($bonus->doughboy_location),
@@ -466,7 +422,8 @@ class Toh_Json_Admin {
 							'_toh_region' => "unneeded",
 							'_toh_GPS' => sanitize_text_field($bonus->doughboy_gps),
 							'_toh_Access' => '',
-							'_toh_imageName' => "2020doughboys".str_pad($bonus->doughboy_id,3,"0",STR_PAD_LEFT).".jpg",
+							'_toh_imageName' => $code.".jpg",
+							'_toh_imageURL' => "https://www.tourofhonor.com/2020appimages/".$code.".jpg",
 							'_toh_flavor' => sanitize_text_field($bonus->doughboy_desc),
 							'_toh_madeinamerica' => '',
 						),
@@ -476,6 +433,7 @@ class Toh_Json_Admin {
 				break;
 			case 'goldstars':
 				foreach ($result as $bonus){
+					$code = "GS".str_pad($bonus->gs_id,3,"0",STR_PAD_LEFT);
 					$bonus = array(
 						'post_title'    => wp_strip_all_tags( $bonus->gs_desc ),
 						'post_content'  => "",
@@ -483,7 +441,7 @@ class Toh_Json_Admin {
 						'post_author'   => 1,
 						'post_type'   => 'toh_bonus',
 						'meta_input'   => array(
-							'_toh_bonusCode' => "GS".str_pad($bonus->gs_id,3,"0",STR_PAD_LEFT),
+							'_toh_bonusCode' => $code,
 							'_toh_category' => "Gold Star Family",
 							'_toh_value' => 1,
 							'_toh_address' => sanitize_text_field($bonus->gs_addr),
@@ -492,7 +450,8 @@ class Toh_Json_Admin {
 							'_toh_region' => "unneeded",
 							'_toh_GPS' => sanitize_text_field($bonus->gs_gps),
 							'_toh_Access' => '',
-							'_toh_imageName' => "2020goldstars".str_pad($bonus->gs_id,3,"0",STR_PAD_LEFT).".jpg",
+							'_toh_imageName' => $code.".jpg",
+							'_toh_imageURL' => "https://www.tourofhonor.com/2020appimages/". $code.".jpg",
 							'_toh_flavor' => sanitize_text_field($bonus->gs_link),
 							'_toh_madeinamerica' => '',
 						),
@@ -502,6 +461,7 @@ class Toh_Json_Admin {
 				break;
 			case 'hueys':
 				foreach ($result as $bonus){
+					$code = "H".str_pad($bonus->huey_id,3,"0",STR_PAD_LEFT);
 					$bonus = array(
 						'post_title'    => wp_strip_all_tags( $bonus->huey_name ),
 						'post_content'  => "",
@@ -509,7 +469,7 @@ class Toh_Json_Admin {
 						'post_author'   => 1,
 						'post_type'   => 'toh_bonus',
 						'meta_input'   => array(
-							'_toh_bonusCode' => "H".str_pad($bonus->huey_id,3,"0",STR_PAD_LEFT),
+							'_toh_bonusCode' => $code,
 							'_toh_category' => "Hueys",
 							'_toh_value' => 1,
 							'_toh_address' => sanitize_text_field($bonus->huey_addr),
@@ -518,7 +478,8 @@ class Toh_Json_Admin {
 							'_toh_region' => "unneeded",
 							'_toh_GPS' => sanitize_text_field($bonus->huey_gps),
 							'_toh_Access' => '',
-							'_toh_imageName' => "2020hueys".str_pad($bonus->huey_id,3,"0",STR_PAD_LEFT).".jpg",
+							'_toh_imageName' => $code.".jpg",
+							'_toh_imageURL' => "https://www.tourofhonor.com/2020appimages/".$code.".jpg",
 							'_toh_flavor' => sanitize_text_field($bonus->huey_desc)."\n".sanitize_text_field($bonus->huey_link),
 							'_toh_madeinamerica' => '',
 						),
@@ -528,6 +489,7 @@ class Toh_Json_Admin {
 				break;
 			case 'parks':
 				foreach ($result as $bonus){
+					$code = "NP".str_pad($bonus->park_id,3,"0",STR_PAD_LEFT);
 					$bonus = array(
 						'post_title'    => wp_strip_all_tags( $bonus->park_name ),
 						'post_content'  => "",
@@ -535,7 +497,7 @@ class Toh_Json_Admin {
 						'post_author'   => 1,
 						'post_type'   => 'toh_bonus',
 						'meta_input'   => array(
-							'_toh_bonusCode' => "NP".str_pad($bonus->park_id,3,"0",STR_PAD_LEFT),
+							'_toh_bonusCode' => $code,
 							'_toh_category' => "National Parks",
 							'_toh_value' => 1,
 							'_toh_address' => '',
@@ -544,7 +506,8 @@ class Toh_Json_Admin {
 							'_toh_region' => "unneeded",
 							'_toh_GPS' => sanitize_text_field($bonus->park_gps),
 							'_toh_Access' => '',
-							'_toh_imageName' => "2020parks".str_pad($bonus->park_id,3,"0",STR_PAD_LEFT).".jpg",
+							'_toh_imageName' => $code.".jpg",
+							'_toh_imageURL' => "https://www.tourofhonor.com/2020appimages/".$code.".jpg",
 							'_toh_flavor' => sanitize_text_field($bonus->park_type)."\n".sanitize_text_field($bonus->park_link),
 							'_toh_madeinamerica' => '',
 						),
@@ -570,7 +533,8 @@ class Toh_Json_Admin {
 							'_toh_state' => sanitize_text_field($bonus->madonna_state),
 							'_toh_region' => "unneeded",
 							'_toh_GPS' => sanitize_text_field($bonus->madonna_gps),
-							'_toh_imageName' => "2020parks".$code.".jpg",
+							'_toh_imageName' => $code.".jpg",
+							'_toh_imageURL' => "https://www.tourofhonor.com/2020appimages/". $code.".jpg",
 						),
 					);
 					array_push($data,$bonus);
@@ -696,14 +660,7 @@ class Toh_Json_Admin {
 		$next_version =$this->get_next_version();
 
 		$now = time();
-		//1585717260 = 4-1-2020 1am EDT
 		$then =  "1585717260";
-		/* 
-		if ($now >= $then){
-			echo "we're open for biz, boys";
-		} else {
-			echo "not quite there yet";
-		} */
 		$bonuses = array();
 		$table = $wpdb->prefix . "postmeta";
 		//loop each state alphabetically -- grab all meta values from db query?
@@ -711,9 +668,6 @@ class Toh_Json_Admin {
 		$cats = $wpdb->get_results(  "SELECT DISTINCT `meta_value` FROM $table WHERE `meta_key`= '_toh_category' ORDER BY $table.`meta_value` ASC" ) ;
 		if (!is_null($result)){
 			foreach ($result as $state){
-				//grab TOH cat for state, add
-				//echo "<h1>".$state->meta_value."</h1>";
-				//echo "<li>TOH</li>";
 				if ($now >= $then){
 					foreach ( $this->get_certain_bonues("Tour of Honor",$state->meta_value) as $bonus){
 						array_push($bonuses, $bonus);
@@ -726,7 +680,6 @@ class Toh_Json_Admin {
 						foreach ( $this->get_certain_bonues($cat->meta_value,$state->meta_value) as $bonus){
 							array_push($bonuses, $bonus);
 						}
-						//echo "<li>".$cat->meta_value."</li>";
 					}
 
 				}
@@ -775,6 +728,7 @@ class Toh_Json_Admin {
 				"region" => $meta["_toh_region"][0],
 				"GPS" => $meta["_toh_GPS"][0],
 				"sampleImage"=> !is_null($meta["_toh_imageName"][0]) ? $meta["_toh_imageName"][0] : '',
+				"sampleImageURL"=> !is_null($meta["_toh_imageURL"][0]) ? $meta["_toh_imageURL"][0] : '',
 			);
 			array_push($bonuses,$bonus);
 		} 
