@@ -176,6 +176,7 @@ class Toh_Json {
 		$this->loader->add_filter( 'manage_toh_bonus_posts_custom_column', $plugin_admin, 'custom_toh_bonus_col_content' );
 		$this->loader->add_filter( 'manage_edit-toh_bonus_sortable_columns', $plugin_admin, 'sortable_toh_bonus_col' );
 		$this->loader->add_filter( 'pre_get_posts-toh_bonus_sortable_columns', $plugin_admin, 'manage_toh_bonus_pre_get_posts', 1 );
+		$this->loader->add_filter( 'pre_get_posts', $plugin_admin, 'custom_search_query', 1 );
 
 	}
 

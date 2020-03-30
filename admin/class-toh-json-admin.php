@@ -660,7 +660,7 @@ class Toh_Json_Admin {
 		$next_version =$this->get_next_version();
 
 		$now = time();
-		$then =  "1585717260";
+		$then =  "1585713660";
 		$bonuses = array();
 		$table = $wpdb->prefix . "postmeta";
 		//loop each state alphabetically -- grab all meta values from db query?
@@ -766,7 +766,7 @@ class Toh_Json_Admin {
 
 	function custom_toh_bonus_cols($columns) {
 		$columns['bonusCode'] = 'Bonus Code';
-		$columns['toh_city'] = 'City';
+		$columns['toh_category'] = 'Category';
 		$columns['toh_region'] = 'Region';
 		return $columns;
 	}
@@ -776,10 +776,10 @@ class Toh_Json_Admin {
 			
 			$meta = get_post_meta($post->ID, '_toh_bonusCode', true);
 			echo $meta;
-		} else if ('toh_city' === $column_name){
+		} else if ('toh_category' === $column_name){
 			global $post;
 			
-			$meta = get_post_meta($post->ID, '_toh_city', true);
+			$meta = get_post_meta($post->ID, '_toh_category', true);
 			echo $meta;
 		} else if ('toh_region' === $column_name){
 			global $post;
@@ -920,7 +920,29 @@ function format_state( $input, $format = '' ) {
 	return $input;
 }
 
+function custom_search_query( $query ) {
+    $custom_fields = array(
+        // put all the meta fields you want to search for here
+        "_toh_bonusCode",
+        "_toh_category"
+    );
+    $searchterm = $query->query_vars['s'];
 
+    // we have to remove the "s" parameter from the query, because it will prevent the posts from being found
+    $query->query_vars['s'] = "";
+
+    if ($searchterm != "") {
+        $meta_query = array('relation' => 'OR');
+        foreach($custom_fields as $cf) {
+            array_push($meta_query, array(
+                'key' => $cf,
+                'value' => $searchterm,
+                'compare' => 'LIKE'
+            ));
+        }
+        $query->set("meta_query", $meta_query);
+    };
+}
 
 
 }
