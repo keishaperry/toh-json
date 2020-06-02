@@ -10,9 +10,12 @@
     <div class="uk-margin-small uk-grid-small uk-child-width-1-3 uk-grid" uk-grid="">
 
         <div class="">
+            <label>Bonus Code</label>
             <input class="uk-input" type="text" name="bonusCode" id="bonusCode" placeholder="Bonus Code" value="<?php echo isset($meta["_toh_bonusCode"][0]) ? $meta["_toh_bonusCode"][0] : "" ; ?>">
         </div>
         <div>
+            <label>Bonus Category</label>
+
             <input class="uk-input" type="text" name="category" id="category" placeholder="Category" value="<?php echo isset($meta["_toh_category"][0]) ? $meta["_toh_category"][0] : "" ; ?>">
         </div>
         <div>
@@ -39,10 +42,10 @@
         <div class="uk-width-1-2">
             <input class="uk-input" type="text" name="imageName" id="imageName" placeholder="Image filename" value="<?php echo isset($meta["_toh_imageName"][0]) ? $meta["_toh_imageName"][0] : "" ; ?>">
         </div>
-        <div class="uk-width-1-1">
+        <!--<div class="uk-width-1-1">
             <textarea class="uk-textarea" name="flavor" id="flavor" rows="6" placeholder="Flavor"><?php echo isset($meta["_toh_flavor"][0]) ? $meta["_toh_flavor"][0] : "" ; ?></textarea>
         </div>
         <div class="uk-width-1-1"><textarea class="uk-textarea" name="madeinamerica" id="madeinamerica" rows="3" placeholder="madeinamerica"><?php echo isset($meta["_toh_madeinamerica"][0]) ? $meta["_toh_madeinamerica"][0] : "" ; ?></textarea>
-        </div>
+        </div>-->
     </div>
 </form>

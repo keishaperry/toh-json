@@ -111,7 +111,7 @@ class Toh_Json_Admin {
 		$callback = array($this, 'settings_content');
 		$icon = 'dashicons-clipboard';
 		$position = 2;
-		add_menu_page($page_title, $menu_title, $capability, $slug, $callback, $icon, $position);
+		//add_menu_page($page_title, $menu_title, $capability, $slug, $callback, $icon, $position);
 	}
 
 	public function settings_content() {
