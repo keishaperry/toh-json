@@ -15,32 +15,39 @@
         </div>
         <div>
             <label>Bonus Category</label>
-
             <input class="uk-input" type="text" name="category" id="category" placeholder="Category" value="<?php echo isset($meta["_toh_category"][0]) ? $meta["_toh_category"][0] : "" ; ?>">
         </div>
         <div>
+            <label>Bonus Region</label>
             <input class="uk-input" type="text" name="region" id="region" placeholder="region" value="<?php echo isset($meta["_toh_region"][0]) ? $meta["_toh_region"][0] : "" ; ?>">
         </div>
-        <div>
+        <!--<div>
             <input class="uk-input" type="text" name="value" id="value" placeholder="0" value="<?php echo isset($meta["_toh_value"][0]) ? $meta["_toh_value"][0] : "" ; ?>">
-        </div>
+        </div>-->
         <div class="uk-width-1-1">
+            <label>Bonus Address</label>
             <input class="uk-input" type="text" name="address" id="address" placeholder="Address" value="<?php echo isset($meta["_toh_address"][0]) ? $meta["_toh_address"][0] : "" ; ?>" >
         </div>
         <div >
+            <label>City</label>
             <input class="uk-input" type="text" name="city" id="city" placeholder="City" value="<?php echo isset($meta["_toh_city"][0]) ? $meta["_toh_city"][0] : "" ; ?>">
         </div>
-        <div >
+        <div>
+            <label>State</label>
             <input class="uk-input" type="text" name="state" id="state" placeholder="State" value="<?php echo isset($meta["_toh_state"][0]) ? $meta["_toh_state"][0] : "" ; ?>">
         </div>
         <div>
+            <label>GPS</label>
             <input class="uk-input" type="text" name="GPS" id="GPS" placeholder="GPS" value="<?php echo isset($meta["_toh_GPS"][0]) ? $meta["_toh_GPS"][0] : "" ; ?>">
         </div>
         <div class="uk-width-1-2">
+            <label>Access</label>
             <input class="uk-input" type="text" name="Access" id="Access" placeholder="Access" value="<?php echo isset($meta["_toh_Access"][0]) ? $meta["_toh_Access"][0] : "" ; ?>">
         </div>
         <div class="uk-width-1-2">
+            <label>Filename</label>
             <input class="uk-input" type="text" name="imageName" id="imageName" placeholder="Image filename" value="<?php echo isset($meta["_toh_imageName"][0]) ? $meta["_toh_imageName"][0] : "" ; ?>">
+            <small>Name of image file located on FTP server at [XXXXXXX]</small>
         </div>
         <!--<div class="uk-width-1-1">
             <textarea class="uk-textarea" name="flavor" id="flavor" rows="6" placeholder="Flavor"><?php echo isset($meta["_toh_flavor"][0]) ? $meta["_toh_flavor"][0] : "" ; ?></textarea>
