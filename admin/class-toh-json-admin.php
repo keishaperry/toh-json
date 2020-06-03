@@ -955,6 +955,11 @@ function custom_search_query( $query ) {
 
 			// Update the post into the database
 			wp_update_post( $update );
+			update_post_meta( $post->ID, '_toh_state', 'XX' );
+			update_post_meta( $post->ID, '_toh_category', 'XXX' );
+			update_post_meta( $post->ID, '_toh_region', 'XXXX' );
+
+
 		}
 		return;
    	}

@@ -7,6 +7,7 @@
 
 <form class="uk-form-stacked uk-width-1-3@s">
 <div class="uk-margin">
+<p>For a guide <a href="www.tourofhonor.com/memorialformat.html" target="_blank">click here</a>.<p>
     <div class="uk-margin-small uk-grid-small uk-child-width-1-3 uk-grid" uk-grid="">
 
         <div class="">
@@ -41,7 +42,7 @@
         <div>
             <label>GPS</label>
             <input class="uk-input" type="text" name="GPS" id="GPS" placeholder="GPS" value="<?php echo isset($meta["_toh_GPS"][0]) ? $meta["_toh_GPS"][0] : "" ; ?>">
-            <small>In the form of XX.XXXXXX,-YY.YYYYYY</small>
+            <small>In the form of XX.XXXXXX, -YY.YYYYYY</small>
         </div>
         <div class="uk-width-1-2">
             <label>Access</label>
