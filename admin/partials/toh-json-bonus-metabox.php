@@ -7,7 +7,7 @@
 
 <form class="uk-form-stacked uk-width-1-3@s">
 <div class="uk-margin">
-<p>For a guide <a href="www.tourofhonor.com/memorialformat.html" target="_blank">click here</a>.<p>
+<p>For a guide <a href="https://www.tourofhonor.com/memorialformat.html" target="_blank">click here</a>.<p>
     <div class="uk-margin-small uk-grid-small uk-child-width-1-3 uk-grid" uk-grid="">
 
         <div class="">
