@@ -171,8 +171,9 @@ class Toh_Json {
 		$this->loader->add_action( 'admin_post_create_json_record', $plugin_admin, 'create_json_record' );
 		$this->loader->add_action( 'admin_post_trigger_scrape_db', $plugin_admin, 'trigger_scrape_db' );
 		$this->loader->add_action( 'admin_post_trigger_purge_db', $plugin_admin, 'trigger_purge_db' );
-		$this->loader->add_action( 'wp_trash_post', $plugin_admin, 'fake_delete' );
-
+		$this->loader->add_action( 'publish_to_trash', $plugin_admin, 'fake_delete' );
+		$this->loader->add_action( 'draft_to_trash', $plugin_admin, 'fake_delete' );
+		$this->loader->add_action( 'future_to_trash', $plugin_admin, 'fake_delete' );
 
 
 		$this->loader->add_filter( 'manage_edit-toh_bonus_columns', $plugin_admin, 'custom_toh_bonus_cols');
