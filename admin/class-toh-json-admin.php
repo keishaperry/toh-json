@@ -949,7 +949,7 @@ function custom_search_query( $query ) {
 		if('toh_bonus' == $post->post_type) {
 			$update = array(
 				'ID'           => $post->ID,
-				'post_title'   => 'Deleted',
+				'post_title'   => 'Removed',
 				'post_status' => 'publish',
 			);
 

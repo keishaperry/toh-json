@@ -47,7 +47,7 @@
         <div class="uk-width-1-2">
             <label>Filename</label>
             <input class="uk-input" type="text" name="imageName" id="imageName" placeholder="Image filename" value="<?php echo isset($meta["_toh_imageName"][0]) ? $meta["_toh_imageName"][0] : "" ; ?>">
-            <small>Name of image file located on FTP server at [XXXXXXX]</small>
+            <small>Name of image file located on FTP server at <a href="https://www.tourofhonor.com/2020appimages/">https://www.tourofhonor.com/2020appimages/</a></small>
         </div>
         <!--<div class="uk-width-1-1">
             <textarea class="uk-textarea" name="flavor" id="flavor" rows="6" placeholder="Flavor"><?php echo isset($meta["_toh_flavor"][0]) ? $meta["_toh_flavor"][0] : "" ; ?></textarea>
