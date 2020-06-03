@@ -946,7 +946,8 @@ function custom_search_query( $query ) {
 
 	function fake_delete($post_id) { 
 		echo $post_id;
-		exit;
+		return false;
+		die();
 
    	}
 
