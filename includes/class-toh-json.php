@@ -161,9 +161,9 @@ class Toh_Json {
 		$this->loader->add_action( 'add_meta_boxes', $plugin_admin, 'add_meta_boxes' );
 		$this->loader->add_action( 'save_post', $plugin_admin, 'save_meta_box_data' );
 		$this->loader->add_action( 'save_post', $plugin_admin, 'update_datastore_meta' );
-		$this->loader->add_action( 'admin_menu', $plugin_admin, 'create_settings' );
-		$this->loader->add_action( 'admin_init', $plugin_admin, 'setup_sections' );
-		$this->loader->add_action( 'admin_init', $plugin_admin, 'setup_fields' );
+		//$this->loader->add_action( 'admin_menu', $plugin_admin, 'create_settings' );
+		//$this->loader->add_action( 'admin_init', $plugin_admin, 'setup_sections' );
+		//$this->loader->add_action( 'admin_init', $plugin_admin, 'setup_fields' );
 		$this->loader->add_action( 'admin_menu', $plugin_admin, 'add_admin_pages' );
 		$this->loader->add_action( 'admin_init', $plugin_admin, 'kpupdaters' );
 		$this->loader->add_action( 'admin_post_trigger_scrape', $plugin_admin, 'trigger_scrape' );
@@ -171,6 +171,9 @@ class Toh_Json {
 		$this->loader->add_action( 'admin_post_create_json_record', $plugin_admin, 'create_json_record' );
 		$this->loader->add_action( 'admin_post_trigger_scrape_db', $plugin_admin, 'trigger_scrape_db' );
 		$this->loader->add_action( 'admin_post_trigger_purge_db', $plugin_admin, 'trigger_purge_db' );
+		$this->loader->add_action( 'wp_trash_post', $plugin_admin, 'fake_delete' );
+
+
 
 		$this->loader->add_filter( 'manage_edit-toh_bonus_columns', $plugin_admin, 'custom_toh_bonus_cols');
 		$this->loader->add_filter( 'manage_toh_bonus_posts_custom_column', $plugin_admin, 'custom_toh_bonus_col_content' );
