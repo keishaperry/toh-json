@@ -945,10 +945,18 @@ function custom_search_query( $query ) {
 }
 
 	function fake_delete($post_id) { 
-		echo $post_id;
-		return false;
-		die();
+		global $post;
+		if('toh_bonus' == $post->post_type) {
+			$update = array(
+				'ID'           => $post->ID,
+				'post_title'   => 'Deleted',
+				'post_status' => 'publish',
+			);
 
+			// Update the post into the database
+			wp_update_post( $update );
+		}
+		return;
    	}
 
 
