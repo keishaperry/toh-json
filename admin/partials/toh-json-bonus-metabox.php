@@ -36,7 +36,7 @@
         </div>
         <div>
             <label>State</label>
-            <input class="uk-input" type="text" name="state" id="state" placeholder="State" value="<?php echo isset($meta["_toh_state"][0]) ? $meta["_toh_state"][0] : "" ; ?> " maxlength='2'>
+            <input class="uk-input" type="text" name="state" id="state" placeholder="State" value="<?php echo isset($meta["_toh_state"][0]) ? $meta["_toh_state"][0] : "" ; ?>" maxlength='2'>
             <small>Two letter postal code</small>
         </div>
         <div>
