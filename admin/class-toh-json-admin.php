@@ -835,7 +835,97 @@ function kpupdaters(){
 		
 		}
 	}
+	if (isset($_REQUEST["import-csv"])){
+		$target = $_REQUEST["import-csv"];
 
+		$csv = array_map('str_getcsv', file(plugin_dir_path( __DIR__ ) .'_import/csv/'.$target));
+		echo "Importing ".(count($csv) - 1) ." rows<br><hr>";
+		foreach ($csv as $row){
+			if (isset($row[0]) && $row[0] !== "TITLE" && $row[0] !== ""){
+				$data = array(
+					'post_title'    => trim($row[0]),
+					'post_content'  => "",
+					'post_status'   => 'publish',
+					'post_author'   => 1,
+					'post_type'   => 'toh_bonus',
+					'meta_input'   => array(
+						'_toh_bonusCode' => trim($row[1]),
+						'_toh_category' => $row[2],
+						'_toh_region' => trim($row[3]),
+						'_toh_value' => 1,
+						'_toh_address' => sanitize_text_field(trim($row[4])),
+						'_toh_city' => sanitize_text_field(trim($row[5])),
+						'_toh_state' =>  trim($row[6]),
+						'_toh_GPS' => sanitize_text_field(trim($row[7])),
+						'_toh_imageName' => sanitize_text_field(trim($row[8])),
+						'_toh_imageURL' => "https://www.tourofhonor.com/2020appimages/2020".sanitize_text_field(trim($row[8])),
+					),
+				);
+				//var_dump($bonus);
+				$bonus = (object) $data;
+				// wp_insert_post($bonus);
+				$ids = get_posts( array(
+					'numberposts' => 1,
+					'post_type'   => array('toh_bonus'),
+					'post_status'   => array( 'publish','pending','draft','auto-draft','future','private','inherit'),
+					'fields'      => 'ids',
+					'meta_key' => '_toh_bonusCode',
+					'meta_value' => trim($row[1]),
+					'meta_compare' => '==', 
+				) );
+				if (is_array($ids) && count($ids) > 0){
+					//POST w/ this bonusCode exists
+					//todo : update metadata?
+					echo "Bonus ".trim($row[0])." (".trim($row[1]).") already exists. <br>";
+				} else {
+					echo "Bonus ".trim($row[0])." (".trim($row[1]).") added. <br>";
+
+						// Insert the post into the database
+						wp_insert_post( $bonus );
+				}
+			}
+		}
+
+		//if (($handle = fopen(, "r")) !== FALSE) {
+			//$data = fgetcsv($handle, 1000, ",");
+			//while (() !== FALSE) {
+				//var_dump($data);
+
+				//$num = count($data);
+				//echo "<p> $num fields in line $row: <br /></p>\n";
+				// $row++;
+				// var_dump($data[$row]);
+				// for ($c=0; $c < $num; $c++) {
+				// 	echo $data[$c] . "<br />\n";
+				// }
+				// $data = array(
+				// 	'post_title'    => trim($data[0]),
+				// 	'post_content'  => "",
+				// 	'post_status'   => 'publish',
+				// 	'post_author'   => 1,
+				// 	'post_type'   => 'toh_bonus',
+				// 	'meta_input'   => array(
+				// 		'_toh_bonusCode' => $data[1],
+				// 		'_toh_category' => $data[2],
+				// 		'_toh_region' => trim($data[3]),
+				// 		'_toh_value' => 1,
+				// 		'_toh_address' => sanitize_text_field(trim($data[4])),
+				// 		'_toh_city' => sanitize_text_field(trim($data[5])),
+				// 		'_toh_state' =>  trim($data[6]),
+				// 		'_toh_GPS' => sanitize_text_field(trim($data[7])),
+				// 		'_toh_imageName' => sanitize_text_field(trim($data[8])),
+				// 		'_toh_imageURL' => "https://www.tourofhonor.com/2020appimages/2020".sanitize_text_field(trim($data[8])),
+				// 	),
+				// );
+				// //var_dump($bonus);
+				// $bonus = (object) $data;
+				// wp_insert_post($bonus);
+			//}
+			//fclose($handle);
+		//}
+		//var_dump($contents);
+		exit;
+	}
 	/* $updaters = get_posts( array(
 		'numberposts' => -1,
 		'post_type'   => 'toh_bonus',
