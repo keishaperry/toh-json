@@ -134,7 +134,7 @@ class Toh_Json_Public {
 			$data = $this->get_bonus_json_version($filter["version"]);
 		} else {
 			$now = time();
-			$then =  "1585713660";
+			$then =  "1617249601";
 			$bonuses = [];
 			$now = time();
 			$args = array(
