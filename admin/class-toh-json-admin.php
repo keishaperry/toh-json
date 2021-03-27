@@ -837,7 +837,6 @@ function kpupdaters(){
 	}
 	if (isset($_REQUEST["import-csv"])){
 		$target = $_REQUEST["import-csv"];
-
 		$csv = array_map('str_getcsv', file(plugin_dir_path( __DIR__ ) .'_import/csv/'.$target));
 		echo "Importing ".(count($csv) - 1) ." rows<br><hr>";
 		foreach ($csv as $row){
@@ -886,66 +885,27 @@ function kpupdaters(){
 			}
 		}
 
-		//if (($handle = fopen(, "r")) !== FALSE) {
-			//$data = fgetcsv($handle, 1000, ",");
-			//while (() !== FALSE) {
-				//var_dump($data);
-
-				//$num = count($data);
-				//echo "<p> $num fields in line $row: <br /></p>\n";
-				// $row++;
-				// var_dump($data[$row]);
-				// for ($c=0; $c < $num; $c++) {
-				// 	echo $data[$c] . "<br />\n";
-				// }
-				// $data = array(
-				// 	'post_title'    => trim($data[0]),
-				// 	'post_content'  => "",
-				// 	'post_status'   => 'publish',
-				// 	'post_author'   => 1,
-				// 	'post_type'   => 'toh_bonus',
-				// 	'meta_input'   => array(
-				// 		'_toh_bonusCode' => $data[1],
-				// 		'_toh_category' => $data[2],
-				// 		'_toh_region' => trim($data[3]),
-				// 		'_toh_value' => 1,
-				// 		'_toh_address' => sanitize_text_field(trim($data[4])),
-				// 		'_toh_city' => sanitize_text_field(trim($data[5])),
-				// 		'_toh_state' =>  trim($data[6]),
-				// 		'_toh_GPS' => sanitize_text_field(trim($data[7])),
-				// 		'_toh_imageName' => sanitize_text_field(trim($data[8])),
-				// 		'_toh_imageURL' => "https://www.tourofhonor.com/2020appimages/2020".sanitize_text_field(trim($data[8])),
-				// 	),
-				// );
-				// //var_dump($bonus);
-				// $bonus = (object) $data;
-				// wp_insert_post($bonus);
-			//}
-			//fclose($handle);
-		//}
-		//var_dump($contents);
+		
 		exit;
 	}
-	/* $updaters = get_posts( array(
-		'numberposts' => -1,
-		'post_type'   => 'toh_bonus',
-		'post_status' => array('publish','pending'),
-		'order' => 'ASC',
-		'orderby' => 'meta_field',
-		'meta_key' => '_toh_category',
-		'meta_value' => 'Madonna Trail'
-	) ); */
-	//echo count($updaters);exit;
-	/* foreach ($updaters as $bonus) {
-		//$this->change_post_status($bonus->ID,'draft');
-		//$meta = get_post_meta($bonus->ID,'_toh_bonusCode', true);
-		//$code = str_ireplace('MTr','',$meta);
-		//$new_code = "MTr".str_pad($code,3,"0",STR_PAD_LEFT);
-		//echo $new_code."<br>";
-		//update_post_meta($bonus->ID,'_toh_bonusCode',$new_code);
-		//wp_update_post($post);
-	
-	} */
+	if (isset($_REQUEST["911-fix"])){
+		$updaters = get_posts( array(
+			'numberposts' => -1,
+			'post_type'   => 'toh_bonus',
+			'post_status' => array('publish','pending'),
+			'order' => 'ASC',
+			'orderby' => 'meta_field',
+			'meta_key' => '_toh_category',
+			'meta_value' => '911'
+		) );
+		//echo count($updaters);exit;
+		$new_code = "9/11";
+		foreach ($updaters as $bonus) {
+			update_post_meta($bonus->ID,'_toh_bonusCode',$new_code);
+			//wp_update_post($post);
+		
+		}
+	}
 }
 function format_state( $input, $format = '' ) {
 	if( ! $input || empty( $input ) )
