@@ -849,7 +849,7 @@ function kpupdaters(){
 					'post_type'   => 'toh_bonus',
 					'meta_input'   => array(
 						'_toh_bonusCode' => trim($row[1]),
-						'_toh_category' => $row[2],
+						'_toh_category' => "9/11",
 						'_toh_region' => trim($row[3]),
 						'_toh_value' => 1,
 						'_toh_address' => sanitize_text_field(trim($row[4])),
@@ -901,7 +901,7 @@ function kpupdaters(){
 		//echo count($updaters);exit;
 		$new_code = "9/11";
 		foreach ($updaters as $bonus) {
-			update_post_meta($bonus->ID,'_toh_bonusCode',$new_code);
+			update_post_meta($bonus->ID,'_toh_category',$new_code);
 			//wp_update_post($post);
 		
 		}
