@@ -844,7 +844,7 @@ function kpupdaters(){
 				$data = array(
 					'post_title'    => trim($row[0]),
 					'post_content'  => "",
-					'post_status'   => 'publish',
+					'post_status'   => 'draft',
 					'post_author'   => 1,
 					'post_type'   => 'toh_bonus',
 					'meta_input'   => array(
