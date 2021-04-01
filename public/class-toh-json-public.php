@@ -141,11 +141,11 @@ class Toh_Json_Public {
 				'post_type' => "toh_bonus",
 				'posts_per_page' => -1,
 			);
-			if ($now < $then){
-				$args['meta_key'] = '_toh_category';
-				$args['meta_value'] = 'Tour of Honor';
-				$args['meta_compare'] = '!=';
-			}
+			// if ($now < $then){
+			// 	$args['meta_key'] = '_toh_category';
+			// 	$args['meta_value'] = 'Tour of Honor';
+			// 	$args['meta_compare'] = '!=';
+			// }
 			$changes = get_posts($args);
 			foreach ($changes as $bonus) {
 				$meta = get_post_meta($bonus->ID);
@@ -174,7 +174,7 @@ class Toh_Json_Public {
 	public function get_updated_data(){
 		$bonuses = [];
 		$now = time();
-		$then =  "1585713660";
+		$then =  "1617249601";
 		$args = array(
 			'post_type' => "toh_bonus",
 			'date_query' => array(
