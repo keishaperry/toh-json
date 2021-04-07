@@ -840,7 +840,7 @@ function kpupdaters(){
 		$csv = array_map('str_getcsv', file(plugin_dir_path( __DIR__ ) .'_import/csv/'.$target));
 		echo "Importing ".(count($csv) - 1) ." rows<br><hr>";
 		foreach ($csv as $row){
-			if (isset($row[0]) && $row[0] !== "TITLE" && $row[0] !== ""){
+			if (isset($row[0]) && $row[0] !== "Title" && $row[0] !== ""){
 				$data = array(
 					'post_title'    => trim($row[0]),
 					'post_content'  => "",
@@ -849,7 +849,7 @@ function kpupdaters(){
 					'post_type'   => 'toh_bonus',
 					'meta_input'   => array(
 						'_toh_bonusCode' => trim($row[1]),
-						'_toh_category' => "9/11",
+						'_toh_category' => trim($row[2]),
 						'_toh_region' => trim($row[3]),
 						'_toh_value' => 1,
 						'_toh_address' => sanitize_text_field(trim($row[4])),
@@ -857,7 +857,6 @@ function kpupdaters(){
 						'_toh_state' =>  trim($row[6]),
 						'_toh_GPS' => sanitize_text_field(trim($row[7])),
 						'_toh_imageName' => sanitize_text_field(trim($row[8])),
-						'_toh_imageURL' => "https://www.tourofhonor.com/2020appimages/2020".sanitize_text_field(trim($row[8])),
 					),
 				);
 				//var_dump($bonus);
